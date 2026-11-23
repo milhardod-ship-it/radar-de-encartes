@@ -9,6 +9,7 @@ Carro-chefe: **lista de compras** (total por mercado, melhor mercado, quando val
 - Tudo em **português do Brasil** (interface, commits, explicações).
 - Ele gosta de entender o **porquê** e de ver cada etapa funcionando; trabalhe em etapas e pare para ele testar.
 - Testa pelo **celular** (layout em 390px). Aprovações de rede/ambiente só funcionam pelo **computador**.
+- Publicado na **Vercel** a cada push no `main`: https://radar-de-encartes-vhve.vercel.app
 - Antes de push: `npm run build` (precisa passar — é o que a Vercel roda) e `npm test`.
 
 ## Decisões tomadas

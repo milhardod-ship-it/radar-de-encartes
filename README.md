@@ -1,5 +1,7 @@
 # Radar de Encartes (nome provisório)
 
+No ar: https://radar-de-encartes-vhve.vercel.app
+
 App (PWA) que reúne os encartes dos supermercados do Rio de Janeiro e mostra **onde a sua lista de compras sai mais barata**.
 
 
