@@ -29,6 +29,11 @@ if (quer('guanabara')) {
   try {
     console.log('Guanabara…');
     const r = coletarGuanabara(baixar);
+    if ('listaVazia' in r) {
+      const e = r.encarteDoSite;
+      console.log(`  a lista de produtos do site está vazia${e ? ` (o encarte ${e.inicio} a ${e.fim} já foi anunciado)` : ''}; tento de novo na próxima passada`);
+      throw null;
+    }
     if ('vencidaAte' in r) {
       console.log(`  a lista do site ainda é a antiga (válida até ${r.vencidaAte}); nada novo por enquanto`);
       throw null;

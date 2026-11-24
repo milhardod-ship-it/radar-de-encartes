@@ -90,7 +90,10 @@ export function lerValidadeGuanabara(html: string): { inicio: string; fim: strin
  * válida até 23/11). Por isso o fim vem da LISTA; o início vem do encarte só se o fim bater,
  * senão usamos a data da coleta (sabemos apenas que a lista vale de hoje até o fim dela).
  */
-export function coletarGuanabara(baixar: Baixar, agora = new Date()): ColetaGuanabara | { vencidaAte: string } {
+export function coletarGuanabara(
+  baixar: Baixar,
+  agora = new Date(),
+): ColetaGuanabara | { vencidaAte: string } | { listaVazia: true; encarteDoSite: { inicio: string; fim: string } | null } {
   const encarteDoSite = lerValidadeGuanabara(baixar(`${SITE_GUANABARA}/encarte`));
   const itens: ItemGuanabara[] = [];
   const fins = new Map<string, number>();
@@ -101,7 +104,8 @@ export function coletarGuanabara(baixar: Baixar, agora = new Date()): ColetaGuan
     if (fim && lidos.length) fins.set(fim, (fins.get(fim) ?? 0) + lidos.length);
     itens.push(...lidos);
   }
-  if (itens.length === 0) throw new Error('Guanabara: nenhuma oferta encontrada (o site mudou?)');
+  // Na troca de encarte o site fica um tempo com a lista vazia ("Validade: 31/12/1969"): não é erro.
+  if (itens.length === 0) return { listaVazia: true, encarteDoSite };
   if (fins.size === 0) throw new Error('Guanabara: não achei a validade ("Validade: dd/mm/aaaa") na lista de produtos');
   const fim = [...fins].sort((a, b) => b[1] - a[1])[0][0];
   const hojeRio = new Date(agora.getTime() - 3 * 3600 * 1000).toISOString().slice(0, 10);
