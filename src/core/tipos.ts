@@ -41,6 +41,20 @@ export interface Preco {
   condicao?: string;
 }
 
+/** Loja física de uma rede. */
+export interface Loja {
+  id: string;
+  mercado: MercadoId;
+  nome: string;
+  endereco: string;
+  bairro: string;
+  cidade: string;
+  lat: number;
+  lon: number;
+  /** Coordenada aproximada (centro do bairro), quando a rede não publica a exata. */
+  aproximada?: boolean;
+}
+
 export interface Encarte {
   id: string;
   mercado: MercadoId;
@@ -48,8 +62,10 @@ export interface Encarte {
   /** Datas no formato AAAA-MM-DD, inclusivas. */
   inicio: string;
   fim: string;
-  /** Lojas onde vale. Vazio = todas as lojas da rede no estado. */
+  /** Lojas onde vale (nomes, para mostrar). Vazio = todas as lojas da rede no estado. */
   lojas: string[];
+  /** Ids das lojas (data/lojas.json) onde vale, quando dá para identificar. */
+  lojasIds?: string[];
   fonte: string;
 }
 

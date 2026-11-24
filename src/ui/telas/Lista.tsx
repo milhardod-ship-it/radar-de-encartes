@@ -5,13 +5,15 @@ import { formatarReais } from '../../core/texto';
 import type { MercadoId, Perfil, ProgramaId } from '../../core/tipos';
 import { PROGRAMAS, nomeMercado } from '../../dados';
 import { useApp } from '../contexto';
+import { formatarKm } from '../../core/locais';
 import { Topo } from '../componentes';
+import { lojaDaRedeMaisPerto } from '../Regiao';
 import { Icone } from '../Icone';
 
 const TODOS_PROGRAMAS: Perfil = { programas: Object.keys(PROGRAMAS) as ProgramaId[] };
 
 export function Lista() {
-  const { lista, ofertas, perfil, produtos, mudarQuantidade, remover, limparLista, irPara, abrirProduto, adicionar } = useApp();
+  const { lista, ofertas, perfil, produtos, mudarQuantidade, remover, limparLista, irPara, abrirProduto, adicionar, regiao } = useApp();
 
   const [confirmarLimpar, setConfirmarLimpar] = useState(false);
   const r = useMemo(() => calcularLista(lista, ofertas, perfil), [lista, ofertas, perfil]);
@@ -128,6 +130,15 @@ export function Lista() {
                     ? ` · faltam ${m.faltando.length}`
                     : ''}
               </span>
+              {regiao &&
+                (() => {
+                  const perto = lojaDaRedeMaisPerto(m.mercado, regiao.ponto);
+                  return perto ? (
+                    <span className="linha" style={{ gap: 6, color: 'var(--marinho)', fontSize: 13, fontWeight: 600 }}>
+                      <Icone nome="local" tamanho={16} /> Loja {perto.nome} · {formatarKm(perto.km, perto.aprox)}
+                    </span>
+                  ) : null;
+                })()}
             </div>
           ))}
         </section>

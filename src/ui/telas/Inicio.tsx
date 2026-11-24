@@ -6,6 +6,7 @@ import { MAPA_ENCARTES } from '../../dados';
 import { CartaoOferta, LinhaProduto, Topo, dataCurta } from '../componentes';
 import { useApp } from '../contexto';
 import { Icone, IconeCategoria } from '../Icone';
+import { ChipRegiao } from '../Regiao';
 
 const DIAS = ['domingo', 'segunda', 'terça', 'quarta', 'quinta', 'sexta', 'sábado'];
 
@@ -39,6 +40,8 @@ export function Inicio() {
           <span>Quanto tá o… arroz, café, frango</span>
         </button>
       </Topo>
+
+      <ChipRegiao />
 
       {soHoje.length > 0 && (
         <section className="secao">

@@ -36,7 +36,33 @@
    "Nova Iguaçu (Comendador Soares)",
    "Nova Iguaçu (Maria da Luz)"
   ],
-  "fonte": "PDF do Ofertão (dados embutidos)"
+  "fonte": "PDF do Ofertão (dados embutidos)",
+  "lojasIds": [
+   "atacadao-699",
+   "atacadao-294",
+   "atacadao-249",
+   "atacadao-275",
+   "atacadao-65",
+   "atacadao-210",
+   "atacadao-691",
+   "atacadao-247",
+   "atacadao-136",
+   "atacadao-336",
+   "atacadao-193",
+   "atacadao-319",
+   "atacadao-202",
+   "atacadao-202",
+   "atacadao-130",
+   "atacadao-259",
+   "atacadao-207",
+   "atacadao-270",
+   "atacadao-815",
+   "atacadao-289",
+   "atacadao-679",
+   "atacadao-174",
+   "atacadao-291",
+   "atacadao-67"
+  ]
  },
  {
   "id": "atacadao-boa-do-dia-2026-11-23",
@@ -75,7 +101,33 @@
    "Nova Iguaçu (Comendador Soares)",
    "Nova Iguaçu (Maria da Luz)"
   ],
-  "fonte": "App Meu Atacadão (print enviado pelo dono)"
+  "fonte": "App Meu Atacadão (print enviado pelo dono)",
+  "lojasIds": [
+   "atacadao-699",
+   "atacadao-294",
+   "atacadao-249",
+   "atacadao-275",
+   "atacadao-65",
+   "atacadao-210",
+   "atacadao-691",
+   "atacadao-247",
+   "atacadao-136",
+   "atacadao-336",
+   "atacadao-193",
+   "atacadao-319",
+   "atacadao-202",
+   "atacadao-202",
+   "atacadao-130",
+   "atacadao-259",
+   "atacadao-207",
+   "atacadao-270",
+   "atacadao-815",
+   "atacadao-289",
+   "atacadao-679",
+   "atacadao-174",
+   "atacadao-291",
+   "atacadao-67"
+  ]
  },
  {
   "id": "atacadao-folheto-1Kv5N49qCj5LBM84Vb-kd3DwF8Pb72w-W",
@@ -113,6 +165,37 @@
    "São Pedro da Aldeia (Cabo Frio 24hrs)",
    "Volta Redonda (Volta Redonda São Geraldo)",
    "Volta Redonda (Volta Redonda Vila Rica)"
+  ],
+  "lojasIds": [
+   "atacadao-679",
+   "atacadao-336",
+   "atacadao-102",
+   "atacadao-292",
+   "atacadao-174",
+   "atacadao-193",
+   "atacadao-130",
+   "atacadao-319",
+   "atacadao-259",
+   "atacadao-67",
+   "atacadao-291",
+   "atacadao-207",
+   "atacadao-270",
+   "atacadao-247",
+   "atacadao-249",
+   "atacadao-275",
+   "atacadao-699",
+   "atacadao-294",
+   "atacadao-210",
+   "atacadao-136",
+   "atacadao-278",
+   "atacadao-63",
+   "atacadao-65",
+   "atacadao-691",
+   "atacadao-202",
+   "atacadao-681",
+   "atacadao-157",
+   "atacadao-815",
+   "atacadao-289"
   ],
   "fonte": "folhetos do site do Atacadão (robô, 2026-11-24)"
  },
@@ -152,6 +235,37 @@
    "São Pedro da Aldeia (Cabo Frio 24hrs)",
    "Volta Redonda (Volta Redonda São Geraldo)",
    "Volta Redonda (Volta Redonda Vila Rica)"
+  ],
+  "lojasIds": [
+   "atacadao-679",
+   "atacadao-336",
+   "atacadao-102",
+   "atacadao-292",
+   "atacadao-174",
+   "atacadao-193",
+   "atacadao-130",
+   "atacadao-319",
+   "atacadao-259",
+   "atacadao-67",
+   "atacadao-291",
+   "atacadao-207",
+   "atacadao-270",
+   "atacadao-247",
+   "atacadao-249",
+   "atacadao-275",
+   "atacadao-699",
+   "atacadao-294",
+   "atacadao-210",
+   "atacadao-136",
+   "atacadao-278",
+   "atacadao-63",
+   "atacadao-65",
+   "atacadao-691",
+   "atacadao-202",
+   "atacadao-681",
+   "atacadao-157",
+   "atacadao-815",
+   "atacadao-289"
   ],
   "fonte": "folhetos do site do Atacadão (robô, 2026-11-24)"
  },
@@ -197,6 +311,22 @@
    "Ilha do Governador",
    "Voluntários da Pátria"
   ],
+  "lojasIds": [
+   "prezunic-pechincha",
+   "prezunic-recreio",
+   "prezunic-B734",
+   "prezunic-B748",
+   "prezunic-meier",
+   "prezunic-icarai",
+   "prezunic-B731",
+   "prezunic-freguesia",
+   "prezunic-tijuca",
+   "prezunic-vila-isabel",
+   "prezunic-jardim-oceanico",
+   "prezunic-laranjeiras",
+   "prezunic-B728",
+   "prezunic-voluntarios"
+  ],
   "fonte": "encartes do site do Prezunic (robô, 2026-11-24)"
  },
  {
@@ -222,6 +352,22 @@
    "Voluntários",
    "Laranjeiras",
    "Marapendi"
+  ],
+  "lojasIds": [
+   "prezunic-recreio",
+   "prezunic-B734",
+   "prezunic-freguesia",
+   "prezunic-pechincha",
+   "prezunic-B728",
+   "prezunic-meier",
+   "prezunic-icarai",
+   "prezunic-B731",
+   "prezunic-tijuca",
+   "prezunic-vila-isabel",
+   "prezunic-jardim-oceanico",
+   "prezunic-voluntarios",
+   "prezunic-laranjeiras",
+   "prezunic-B748"
   ],
   "fonte": "encartes do site do Prezunic (robô, 2026-11-24)"
  },
@@ -256,6 +402,29 @@
    "Maricá",
    "Tingui"
   ],
+  "lojasIds": [
+   "prezunic-catumbi",
+   "prezunic-senador-camara",
+   "prezunic-benfica",
+   "prezunic-B708",
+   "prezunic-B710",
+   "prezunic-realengo",
+   "prezunic-B713",
+   "prezunic-olaria",
+   "prezunic-vista-alegre",
+   "prezunic-B716",
+   "prezunic-caxias-centro",
+   "prezunic-B718",
+   "prezunic-taquara",
+   "prezunic-nilopolis",
+   "prezunic-B722",
+   "prezunic-penha",
+   "prezunic-cachambi",
+   "prezunic-vilar-dos-teles",
+   "prezunic-padre-miguel",
+   "prezunic-santa-cruz",
+   "prezunic-B745"
+  ],
   "fonte": "encartes do site do Prezunic (robô, 2026-11-24)"
  },
  {
@@ -281,6 +450,22 @@
    "Voluntários",
    "Laranjeiras",
    "Marapendi"
+  ],
+  "lojasIds": [
+   "prezunic-recreio",
+   "prezunic-B734",
+   "prezunic-freguesia",
+   "prezunic-pechincha",
+   "prezunic-B728",
+   "prezunic-meier",
+   "prezunic-icarai",
+   "prezunic-B731",
+   "prezunic-tijuca",
+   "prezunic-vila-isabel",
+   "prezunic-jardim-oceanico",
+   "prezunic-voluntarios",
+   "prezunic-laranjeiras",
+   "prezunic-B748"
   ],
   "fonte": "encartes do site do Prezunic (robô, 2026-11-24)"
  },
@@ -315,6 +500,29 @@
    "Maricá",
    "Tingui"
   ],
+  "lojasIds": [
+   "prezunic-catumbi",
+   "prezunic-senador-camara",
+   "prezunic-benfica",
+   "prezunic-B708",
+   "prezunic-B710",
+   "prezunic-realengo",
+   "prezunic-B713",
+   "prezunic-olaria",
+   "prezunic-vista-alegre",
+   "prezunic-B716",
+   "prezunic-caxias-centro",
+   "prezunic-B718",
+   "prezunic-taquara",
+   "prezunic-nilopolis",
+   "prezunic-B722",
+   "prezunic-penha",
+   "prezunic-cachambi",
+   "prezunic-vilar-dos-teles",
+   "prezunic-padre-miguel",
+   "prezunic-santa-cruz",
+   "prezunic-B745"
+  ],
   "fonte": "encartes do site do Prezunic (robô, 2026-11-24)"
  },
  {
@@ -324,6 +532,7 @@
   "inicio": "2026-11-23",
   "fim": "2026-11-23",
   "lojas": [],
+  "lojasIds": [],
   "fonte": "encartes do site do Prezunic (robô, 2026-11-24)"
  },
  {
@@ -333,6 +542,7 @@
   "inicio": "2026-11-24",
   "fim": "2026-11-25",
   "lojas": [],
+  "lojasIds": [],
   "fonte": "encartes do site do Prezunic (robô, 2026-11-24)"
  }
 ]

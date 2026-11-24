@@ -15,16 +15,19 @@ import type { ColetaPrezunic } from '../src/coleta/prezunic';
 import type { ColetaMundial } from '../src/coleta/mundial';
 import { idProduto, unificarProdutos } from '../src/core/canonico';
 import { categorizar } from '../src/core/categorias';
+import { idsDasLojas } from '../src/core/locais';
 import { MARCAS_CONHECIDAS, limparNome, separarMarca, separarMarcas } from '../src/core/marcas';
 import { extrairTamanho } from '../src/core/texto';
-import type { Encarte, MercadoId, Oferta, Preco, ProgramaId } from '../src/core/tipos';
+import type { Encarte, Loja, MercadoId, Oferta, Preco, ProgramaId } from '../src/core/tipos';
 
 const RAIZ = join(dirname(fileURLToPath(import.meta.url)), '..');
 const ler = (rel: string) => JSON.parse(readFileSync(join(RAIZ, rel), 'utf8'));
 const brutos = readdirSync(join(RAIZ, 'data/brutos')).sort();
 
 let ofertas: Oferta[] = [];
+const lojas: Loja[] = ler('data/lojas.json');
 const encartes: Encarte[] = ler('data/encartes-manuais.json');
+for (const e of encartes) if (e.lojas.length) e.lojasIds = idsDasLojas(e.lojas, lojas, e.mercado);
 let seq = 0;
 
 /** Cria uma oferta por marca (ofertas "Marca A, B ou C" valem para cada uma). */
@@ -232,6 +235,7 @@ for (const arquivo of brutos.filter((f) => f.startsWith('atacadao-folheto-'))) {
     inicio: c.folheto.inicio,
     fim: c.folheto.fim,
     lojas: c.folheto.lojas.map((l) => (l.cidade && l.cidade !== 'Rio de Janeiro' ? `${l.cidade} (${l.nome})` : l.nome)).sort(),
+    lojasIds: c.folheto.lojas.map((l) => `atacadao-${l.id}`),
     fonte: `folhetos do site do Atacadão (robô, ${c.coletadoEm.slice(0, 10)})`,
   });
   importarTabloideAtacadao(c.paginas, idEncarte);
@@ -294,6 +298,7 @@ for (const arquivo of brutos.filter((f) => f.startsWith('atacadao-folheto-'))) {
       inicio: c.encarte.inicio,
       fim: c.encarte.fim,
       lojas: c.encarte.lojas,
+      lojasIds: idsDasLojas(c.encarte.lojas, lojas, 'prezunic'),
       fonte: `encartes do site do Prezunic (robô, ${c.coletadoEm.slice(0, 10)})`,
     });
     for (const it of c.itens) {
@@ -379,6 +384,6 @@ for (const o of ofertas) {
 }
 const emVarios = [...produtos].filter(([, m]) => m.size > 1);
 console.log(`Ofertas: ${ofertas.length} (${[...porMercado].map(([m, n]) => `${m} ${n}`).join(', ')})`);
-console.log(`Encartes: ${encartes.map((e) => `${e.id} [${e.inicio}..${e.fim}]`).join(', ')}`);
+console.log(`Encartes: ${encartes.map((e) => `${e.id} [${e.inicio}..${e.fim}]${e.lojas.length ? ` lojas ${e.lojasIds?.length ?? 0}/${e.lojas.length}` : ''}`).join(', ')}`);
 console.log(`Produtos: ${depois} (unificados ${antes - depois}); em 2+ mercados: ${emVarios.length}`);
 if (process.argv.includes('--comparaveis')) for (const [id, m] of emVarios) console.log(`  ${id}  [${[...m].join(', ')}]`);

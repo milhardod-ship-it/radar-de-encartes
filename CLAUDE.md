@@ -46,6 +46,14 @@ Carro-chefe: **lista de compras** (total por mercado, melhor mercado, quando val
   até o robots.txt). Mesma decisão do Assaí: NÃO contornar. Caminho: dono manda o encarte + leitor por IA,
   ou parceria.
 
+## Lojas e localização
+- `data/lojas.json` (112 lojas): Guanabara (página /lojas, coordenada do link do Google Maps), Mundial (JSON de
+  /nossas-lojas), Prezunic (11 exatas via `/api/checkout/pub/pickup-points`; demais pelo centro do bairro, marcadas
+  `aproximada`), Atacadão (API de folhetos). Assaí: lista de 41 lojas existe no site, mas atrás do escudo.
+- Encarte com `lojasIds` vale só nessas lojas; sem lista = todas da rede; rede sem lojas conhecidas = não filtra.
+- Região do usuário (GPS ou bairro da tabela `BAIRROS` em `src/core/locais.ts`) + raio fica só no aparelho
+  (`radar:regiao:v1`).
+
 ## Etapas
 | # | Etapa | Status |
 |---|-------|--------|
@@ -54,7 +62,7 @@ Carro-chefe: **lista de compras** (total por mercado, melhor mercado, quando val
 | 3 | App base: Início, Busca, Produto, Lista, Encartes, Perfil | ✅ |
 | 4 | Robô de coleta Guanabara + Mundial, agendado no GitHub Actions | ✅ |
 | 5 | Atacadão ✅ e Prezunic ✅ automáticos; Assaí e Supermarket bloqueados por anti-robô (ver acima) | ⏳ |
-| 6 | Localização (bairro → lojas próximas, distância) | ⏳ |
+| 6 | Localização (GPS ou bairro → só encartes de lojas no raio; loja mais perto e distância) | ✅ |
 | 7 | Painel de revisão das ofertas e da junção de produtos | ⏳ |
 | 8 | Alertas de preço, histórico, favoritos | ⏳ |
 
@@ -64,6 +72,7 @@ npm install
 npm run dev        # http://localhost:5173  (data de teste: ?data=2026-11-23)
 npm run coletar    # robô: Guanabara, Mundial, Atacadão e Prezunic → data/brutos/ (precisa de poppler-utils)
 npm run importar   # data/brutos + curadoria → data/ofertas.json e data/encartes.json
+npm run lojas      # refaz data/lojas.json (lojas com coordenadas; rodar de vez em quando)
 npm test
 npm run build
 ```

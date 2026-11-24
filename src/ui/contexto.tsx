@@ -1,18 +1,33 @@
 import { createContext, useCallback, useContext, useEffect, useMemo, useRef, useState, type ReactNode } from 'react';
+import { lojaMaisPerto, ofertasPerto, type LojaPerto, type Ponto } from '../core/locais';
 import { estaValida } from '../core/precos';
 import { agruparProdutos, type Produto } from '../core/produtos';
 import type { Categoria, ItemLista, Oferta, Perfil, ProgramaId } from '../core/tipos';
-import { MAPA_ENCARTES, TODAS_OFERTAS } from '../dados';
+import { LOJAS, MAPA_ENCARTES, TODAS_OFERTAS } from '../dados';
 
 export type Aba = 'inicio' | 'buscar' | 'lista' | 'encartes' | 'perfil';
 
 /** Item salvo na lista: guarda o nome para mostrar mesmo quando a oferta vencer. */
+/** Onde o usuário faz compras. Fica só no aparelho. */
+export interface Regiao {
+  ponto: Ponto;
+  /** "Minha localização" ou o nome do bairro escolhido. */
+  rotulo: string;
+  raioKm: number;
+}
+
 export interface ItemSalvo extends ItemLista {
   rotulo: string;
 }
 
 interface Contexto {
   hoje: string;
+  regiao: Regiao | null;
+  definirRegiao: (r: Regiao | null) => void;
+  /** Loja mais perto (onde o encarte vale), se a região estiver definida. */
+  lojaPerto: (encarteId: string) => LojaPerto | null;
+  /** Quantas ofertas válidas ficaram de fora por serem de lojas longe. */
+  ofertasForaDaRegiao: number;
   perfil: Perfil;
   alternarPrograma: (p: ProgramaId) => void;
   ofertas: Oferta[];
@@ -83,6 +98,7 @@ function dataDeHoje(): string {
 export function ProvedorApp({ children }: { children: ReactNode }) {
   const [hoje] = useState(dataDeHoje);
   const [perfil, setPerfil] = useState<Perfil>(() => lerLocal('radar:perfil:v1', { programas: [] }));
+  const [regiao, setRegiao] = useState<Regiao | null>(() => lerLocal<Regiao | null>('radar:regiao:v1', null));
   const [lista, setLista] = useState<ItemSalvo[]>(() => lerLocal('radar:lista:v1', []));
   const [aba, setAba] = useState<Aba>('inicio');
   const [categoriaBusca, setCategoriaBusca] = useState<Categoria | null>(null);
@@ -93,8 +109,18 @@ export function ProvedorApp({ children }: { children: ReactNode }) {
 
   useEffect(() => salvarLocal('radar:perfil:v1', perfil), [perfil]);
   useEffect(() => salvarLocal('radar:lista:v1', lista), [lista]);
+  useEffect(() => salvarLocal('radar:regiao:v1', regiao), [regiao]);
 
-  const ofertas = useMemo(() => TODAS_OFERTAS.filter((o) => estaValida(o, MAPA_ENCARTES, hoje)), [hoje]);
+  const validas = useMemo(() => TODAS_OFERTAS.filter((o) => estaValida(o, MAPA_ENCARTES, hoje)), [hoje]);
+  const ofertas = useMemo(
+    () => (regiao ? ofertasPerto(validas, MAPA_ENCARTES, LOJAS, regiao.ponto, regiao.raioKm) : validas),
+    [validas, regiao],
+  );
+  const lojasPerto = useMemo(() => {
+    const m = new Map<string, LojaPerto | null>();
+    if (regiao) for (const e of MAPA_ENCARTES.values()) m.set(e.id, lojaMaisPerto(e, LOJAS, regiao.ponto));
+    return m;
+  }, [regiao]);
   const produtos = useMemo(() => agruparProdutos(ofertas), [ofertas]);
 
   // Botão "voltar" do celular fecha a tela de produto.
@@ -111,6 +137,10 @@ export function ProvedorApp({ children }: { children: ReactNode }) {
 
   const valor: Contexto = {
     hoje,
+    regiao,
+    definirRegiao: setRegiao,
+    lojaPerto: (id) => lojasPerto.get(id) ?? null,
+    ofertasForaDaRegiao: validas.length - ofertas.length,
     perfil,
     alternarPrograma: (p) =>
       setPerfil((atual) => ({

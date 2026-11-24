@@ -2,7 +2,7 @@ import { MERCADOS, TODAS_OFERTAS } from '../../dados';
 import type { MercadoId } from '../../core/tipos';
 import { Topo } from '../componentes';
 import { DATA_DE_TESTE, definirDataDeTeste, useApp } from '../contexto';
-import { Icone } from '../Icone';
+import { EditorRegiao } from '../Regiao';
 
 const COM_PROGRAMAS: MercadoId[] = ['guanabara', 'mundial', 'atacadao'];
 
@@ -36,10 +36,7 @@ export function Perfil() {
 
       <section className="secao">
         <h2>Sua região</h2>
-        <div className="cartao linha">
-          <Icone nome="local" />
-          <span className="cresce apoio">Em breve: informe seu bairro para ver só as lojas perto de você e a distância de cada uma.</span>
-        </div>
+        <EditorRegiao />
       </section>
 
       <section className="secao">

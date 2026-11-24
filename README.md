@@ -37,6 +37,8 @@ npm run importar            # transforma tudo em data/ofertas.json (o build já 
 - `data/curadoria/` — ofertas lidas de imagem (ex.: Boa do Dia do Atacadão).
 - `data/encartes-manuais.json` — encartes cadastrados à mão (Atacadão); `data/encartes.json` é gerado.
 - `data/ofertas.json` — gerado por `npm run importar` (não editar à mão).
+- `data/lojas.json` — lojas com coordenadas, gerado por `npm run lojas` (rodar de vez em quando).
+- `src/core/locais.ts` — distâncias, bairros e o filtro "encartes que valem perto de você".
 
 ## Regras importantes
 - Mesmo produto em mercados diferentes = mesmo `produto` (id canônico). Quando a regra automática erra, a curadoria define o id.

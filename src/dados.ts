@@ -1,6 +1,7 @@
 import encartesJson from '../data/encartes.json';
+import lojasJson from '../data/lojas.json';
 import ofertasJson from '../data/ofertas.json';
-import type { Encarte, Mercado, MercadoId, Oferta, Programa, ProgramaId } from './core/tipos';
+import type { Encarte, Loja, Mercado, MercadoId, Oferta, Programa, ProgramaId } from './core/tipos';
 
 export const PROGRAMAS: Record<ProgramaId, Programa> = {
   'guana-clube': { id: 'guana-clube', nome: 'Guana Clube', descricao: 'Clube de vantagens do Guanabara' },
@@ -25,6 +26,7 @@ export const MERCADOS: Record<MercadoId, Mercado> = {
 export const ENCARTES: Encarte[] = encartesJson as Encarte[];
 export const MAPA_ENCARTES = new Map(ENCARTES.map((e) => [e.id, e]));
 export const TODAS_OFERTAS: Oferta[] = ofertasJson as Oferta[];
+export const LOJAS: Loja[] = lojasJson as Loja[];
 
 export function nomeMercado(id: MercadoId): string {
   return MERCADOS[id]?.nome ?? id;

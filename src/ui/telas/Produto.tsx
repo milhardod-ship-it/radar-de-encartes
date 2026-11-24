@@ -1,6 +1,7 @@
 import { useMemo, useState } from 'react';
 import { PERFIL_VAZIO, fimDaOferta, melhorPreco } from '../../core/precos';
 import { similaresMaisBaratos } from '../../core/produtos';
+import { formatarKm } from '../../core/locais';
 import { formatarPorMedida, formatarReais, formatarTamanho } from '../../core/texto';
 import type { MercadoId, Oferta, Preco } from '../../core/tipos';
 import { MAPA_ENCARTES, PROGRAMAS, nomeMercado } from '../../dados';
@@ -9,7 +10,7 @@ import { useApp } from '../contexto';
 import { Icone } from '../Icone';
 
 export function Produto({ id }: { id: string }) {
-  const { produtos, perfil, ofertas, lista, adicionar, mudarQuantidade, irPara } = useApp();
+  const { produtos, perfil, ofertas, lista, adicionar, mudarQuantidade, irPara, lojaPerto } = useApp();
   const produto = produtos.get(id);
   const temApps = perfil.programas.length > 0;
   const [modo, setModo] = useState<'todos' | 'meus'>(temApps ? 'meus' : 'todos');
@@ -117,6 +118,14 @@ export function Produto({ id }: { id: string }) {
                 {enc?.titulo} · até {dataCurta(fimDaOferta(oferta, MAPA_ENCARTES))}
                 {enc && enc.lojas.length > 0 ? ` · ${enc.lojas.length} lojas` : ''}
               </span>
+              {(() => {
+                const perto = lojaPerto(oferta.encarte);
+                return perto ? (
+                  <span className="linha" style={{ gap: 6, color: 'var(--marinho)', fontSize: 13, fontWeight: 600 }}>
+                    <Icone nome="local" tamanho={16} /> Loja {perto.loja.nome} · {formatarKm(perto.km, perto.loja.aproximada)}
+                  </span>
+                ) : null;
+              })()}
               {oferta.limite && <span className="apoio">{oferta.limite}</span>}
               <span className="apoio" style={{ fontSize: 12 }}>No encarte: “{oferta.original}”</span>
             </article>
