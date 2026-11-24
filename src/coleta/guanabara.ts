@@ -34,8 +34,11 @@ export interface ItemGuanabara {
 export interface ColetaGuanabara {
   fonte: 'guanabara-site';
   coletadoEm: string;
+  /** Validade da LISTA de produtos (não da página do encarte, que pode já estar na semana seguinte). */
   inicio: string;
   fim: string;
+  /** Validade anunciada na página /encarte no momento da coleta (só para conferência). */
+  encarteDoSite: { inicio: string; fim: string } | null;
   itens: ItemGuanabara[];
 }
 
@@ -68,6 +71,12 @@ export function lerCategoriaGuanabara(html: string, categoria: string): ItemGuan
   return itens;
 }
 
+/** "Validade: 23/11/2026" que aparece em cada página de categoria. */
+export function lerValidadeCategoria(html: string): string | null {
+  const m = texto(html).match(/Validade:\s*(\d{2})\/(\d{2})\/(\d{4})/i);
+  return m ? `${m[3]}-${m[2]}-${m[1]}` : null;
+}
+
 /** Validade do encarte: "Promoção válida de 18/11/2026 até 23/11/2026". */
 export function lerValidadeGuanabara(html: string): { inicio: string; fim: string } | null {
   const m = texto(html).match(/v[áa]lida de (\d{2})\/(\d{2})\/(\d{4}) at[ée] (\d{2})\/(\d{2})\/(\d{4})/i);
@@ -75,13 +84,28 @@ export function lerValidadeGuanabara(html: string): { inicio: string; fim: strin
   return { inicio: `${m[3]}-${m[2]}-${m[1]}`, fim: `${m[6]}-${m[5]}-${m[4]}` };
 }
 
-export function coletarGuanabara(baixar: Baixar, agora = new Date()): ColetaGuanabara {
-  const validade = lerValidadeGuanabara(baixar(`${SITE_GUANABARA}/encarte`));
-  if (!validade) throw new Error('Guanabara: não achei a validade do encarte na página /encarte');
+/**
+ * Coleta a lista do site. Atenção: a página /encarte e a lista /produtos não mudam juntas
+ * (em 23/11 à noite o encarte já dizia 24–25/11 e a lista ainda era a da semana anterior,
+ * válida até 23/11). Por isso o fim vem da LISTA; o início vem do encarte só se o fim bater,
+ * senão usamos a data da coleta (sabemos apenas que a lista vale de hoje até o fim dela).
+ */
+export function coletarGuanabara(baixar: Baixar, agora = new Date()): ColetaGuanabara | { vencidaAte: string } {
+  const encarteDoSite = lerValidadeGuanabara(baixar(`${SITE_GUANABARA}/encarte`));
   const itens: ItemGuanabara[] = [];
+  const fins = new Map<string, number>();
   for (const [id, nome] of Object.entries(CATEGORIAS_GUANABARA)) {
-    itens.push(...lerCategoriaGuanabara(baixar(`${SITE_GUANABARA}/produtos/${id}`), nome));
+    const html = baixar(`${SITE_GUANABARA}/produtos/${id}`);
+    const lidos = lerCategoriaGuanabara(html, nome);
+    const fim = lerValidadeCategoria(html);
+    if (fim && lidos.length) fins.set(fim, (fins.get(fim) ?? 0) + lidos.length);
+    itens.push(...lidos);
   }
   if (itens.length === 0) throw new Error('Guanabara: nenhuma oferta encontrada (o site mudou?)');
-  return { fonte: 'guanabara-site', coletadoEm: agora.toISOString(), ...validade, itens };
+  if (fins.size === 0) throw new Error('Guanabara: não achei a validade ("Validade: dd/mm/aaaa") na lista de produtos');
+  const fim = [...fins].sort((a, b) => b[1] - a[1])[0][0];
+  const hojeRio = new Date(agora.getTime() - 3 * 3600 * 1000).toISOString().slice(0, 10);
+  if (fim < hojeRio) return { vencidaAte: fim }; // o site ainda não trocou a lista: nada novo
+  const inicio = encarteDoSite && encarteDoSite.fim === fim ? encarteDoSite.inicio : hojeRio;
+  return { fonte: 'guanabara-site', coletadoEm: agora.toISOString(), inicio, fim, encarteDoSite, itens };
 }

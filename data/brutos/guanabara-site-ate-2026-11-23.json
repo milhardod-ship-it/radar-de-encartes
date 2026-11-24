@@ -1,8 +1,12 @@
 {
  "fonte": "guanabara-site",
- "coletadoEm": "2026-11-24T00:32:47.386Z",
- "inicio": "2026-11-24",
- "fim": "2026-11-25",
+ "coletadoEm": "2026-11-24T00:35:56.678Z",
+ "inicio": "2026-11-18",
+ "fim": "2026-11-23",
+ "encarteDoSite": {
+  "inicio": "2026-11-24",
+  "fim": "2026-11-25"
+ },
  "itens": [
   {
    "categoria": "Cereais e farináceos",

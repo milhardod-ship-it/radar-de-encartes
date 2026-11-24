@@ -106,3 +106,24 @@ describe('unificarProdutos', () => {
     expect(r[2].produto).not.toBe(r[3].produto);
   });
 });
+
+describe('validade da lista do Guanabara', () => {
+  it('usa a validade da LISTA, não a da página do encarte', async () => {
+    const { coletarGuanabara } = await import('../src/coleta/guanabara');
+    const paginas: Record<string, string> = {
+      '/encarte': '<p>Promoção válida de 24/11/2026 até 25/11/2026</p>',
+    };
+    const lista = `<p>Validade: 23/11/2026</p>${HTML_GUANABARA}`;
+    const baixar = (url: string) => paginas[new URL(url).pathname] ?? lista;
+    // 23/11 às 21h30 no Rio = 24/11 00:30 UTC
+    const r = coletarGuanabara(baixar, new Date('2026-11-24T00:30:00Z'));
+    expect('vencidaAte' in r).toBe(false);
+    if (!('vencidaAte' in r)) {
+      expect(r.fim).toBe('2026-11-23');
+      expect(r.inicio).toBe('2026-11-23'); // o encarte anunciado (24–25) não é o desta lista
+      expect(r.encarteDoSite).toEqual({ inicio: '2026-11-24', fim: '2026-11-25' });
+    }
+    // no dia seguinte, a mesma lista antiga não é importada
+    expect(coletarGuanabara(baixar, new Date('2026-11-24T12:00:00Z'))).toEqual({ vencidaAte: '2026-11-23' });
+  });
+});

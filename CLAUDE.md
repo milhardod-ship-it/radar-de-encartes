@@ -22,7 +22,9 @@ Carro-chefe: **lista de compras** (total por mercado, melhor mercado, quando val
 - Sem logos/cores das redes na interface (marcas registradas). Dados `revisado: false` até o painel de revisão.
 
 ## Fontes de dados (situação em 23/11/2026)
-- **Guanabara**: robô lê `/produtos/<id>` (14 categorias) + validade em `/encarte`. Encarte novo às 2as até 10h.
+- **Guanabara**: robô lê `/produtos/<id>` (14 categorias). A validade vem da LISTA ("Validade: dd/mm/aaaa"),
+  não da página `/encarte`: as duas não mudam juntas (em 23/11 à noite o encarte já dizia 24–25/11 e a
+  lista ainda era a antiga). Lista vencida = nada novo (não é erro). Datas sempre no horário do Rio.
 - **Mundial**: robô lê o JSON `__NEXT_DATA__` de `/departamentos/categoria/ofertas?page=N` + `/encarte`.
   No site, `price` = preço no app Mundial Total e `oldPrice` = preço sem app.
 - **Atacadão**: PDF do Ofertão traz dados embutidos (metadado "TABLOIDI-DADOS"): P = todos, PSEG = app,

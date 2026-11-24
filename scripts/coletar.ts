@@ -2,7 +2,7 @@
 // Uso:  npm run coletar               (todos)
 //       npm run coletar -- guanabara  (só um)
 // Depois rode `npm run importar` (o build já faz isso) para atualizar data/ofertas.json.
-import { readdirSync, unlinkSync, writeFileSync } from 'node:fs';
+import { existsSync, readFileSync, readdirSync, unlinkSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { coletarGuanabara } from '../src/coleta/guanabara';
@@ -13,7 +13,8 @@ const BRUTOS = join(dirname(fileURLToPath(import.meta.url)), '..', 'data', 'brut
 const pedidos = process.argv.slice(2).filter((a) => !a.startsWith('-'));
 const quer = (m: string) => pedidos.length === 0 || pedidos.includes(m);
 const baixar = criarBaixar();
-const hoje = new Date().toISOString().slice(0, 10);
+// Data no Rio (UTC−3): às 21h30 de 23/11 no Rio já é 24/11 em UTC.
+const hoje = new Date(Date.now() - 3 * 3600 * 1000).toISOString().slice(0, 10);
 let falhas = 0;
 
 function salvar(nome: string, dados: unknown) {
@@ -24,13 +25,28 @@ function salvar(nome: string, dados: unknown) {
 if (quer('guanabara')) {
   try {
     console.log('Guanabara…');
-    const c = coletarGuanabara(baixar);
+    const r = coletarGuanabara(baixar);
+    if ('vencidaAte' in r) {
+      console.log(`  a lista do site ainda é a antiga (válida até ${r.vencidaAte}); nada novo por enquanto`);
+      throw null;
+    }
+    const c = r;
     console.log(`  ${c.itens.length} ofertas, válidas de ${c.inicio} a ${c.fim}`);
-    // Um arquivo por encarte: coletar de novo o mesmo encarte só atualiza o arquivo.
-    salvar(`guanabara-site-${c.inicio}.json`, c);
+    if (c.encarteDoSite && c.encarteDoSite.fim !== c.fim)
+      console.log(`  (a página do encarte já anuncia ${c.encarteDoSite.inicio} a ${c.encarteDoSite.fim}; a lista ainda não foi trocada)`);
+    // Um arquivo por lista (pela data final): coletar de novo a mesma lista só atualiza o arquivo.
+    const nome = `guanabara-site-ate-${c.fim}.json`;
+    if (existsSync(join(BRUTOS, nome))) {
+      // Mesma lista coletada antes: mantém o início mais antigo que já conhecíamos.
+      const antes = JSON.parse(readFileSync(join(BRUTOS, nome), 'utf8')) as { inicio?: string };
+      if (antes.inicio && antes.inicio < c.inicio) c.inicio = antes.inicio;
+    }
+    salvar(nome, c);
   } catch (e) {
-    falhas++;
-    console.error(`  ERRO: ${(e as Error).message}`);
+    if (e !== null) {
+      falhas++;
+      console.error(`  ERRO: ${(e as Error).message}`);
+    }
   }
 }
 
