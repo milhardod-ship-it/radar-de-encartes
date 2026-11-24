@@ -130,7 +130,7 @@ interface Preco {
 }
 
 /** Junta reais (número grande) e centavos (",99" grande ao lado) em preços. */
-function acharPrecos(palavras: Palavra[], usadas: Set<Palavra>): Preco[] {
+export function acharPrecos(palavras: Palavra[], usadas: Set<Palavra>): Preco[] {
   // O tamanho da fonte muda de um encarte para outro: o preço é o maior número da página.
   // Referência = a altura mais comum entre os números "grandes" da página (empate: a maior).
   const contagem = new Map<number, Map<number, number>>();
@@ -198,7 +198,7 @@ function acharLinhas(palavras: Palavra[], usadas: Set<Palavra>): Linha[] {
     .filter((p) => !usadas.has(p) && p.t !== 'R$' && !(/^[\d,]+$/.test(p.t) && altura(p) >= 0.4 * (maior.get(p.pagina) ?? 999))).sort((a, b) => a.pagina - b.pagina || a.y0 - b.y0 || a.x0 - b.x0);
   const linhas: Linha[] = [];
   for (const p of pequenas) {
-    const l = linhas.find((l) => l.pagina === p.pagina && Math.abs(l.y0 - p.y0) < 3 && p.x0 - l.x1 < 14 && p.x0 >= l.x0 - 2);
+    const l = linhas.find((l) => l.pagina === p.pagina && Math.abs(l.y0 - p.y0) < 3 && p.x0 - l.x1 < Math.max(4, 0.45 * altura(p)) && p.x0 >= l.x0 - 2);
     if (l) {
       l.t += ` ${p.t}`;
       l.x1 = Math.max(l.x1, p.x1);
@@ -255,11 +255,14 @@ export function lerProdutosPrezunic(bbox: string): ItemPrezunic[] {
     // linhas do bloco: do topo do nome até o preço, na mesma coluna
     const yPreco = Math.min(...prs.map((p) => p.y0));
     const doBloco = linhas
-      .filter((l) => l.pagina === topo.pagina && l.y0 >= topo.y0 - 1 && l.y1 <= yPreco + 2 && Math.abs(centro(l) - centro(topo)) < 110)
+      .filter((l) => l.pagina === topo.pagina && l.y0 >= topo.y0 - 1 && l.y1 <= yPreco + 2 && Math.abs(centro(l) - centro(topo)) < 110 && l.x1 > topo.x0 - 40 && l.x0 < topo.x1 + 40)
       .sort((a, b) => a.y0 - b.y0);
     const nome = doBloco.filter((l) => l.maiuscula).map((l) => l.t).join(' ').replace(/\s+/g, ' ').trim();
     const detalhe = doBloco.filter((l) => !l.maiuscula).map((l) => l.t).join(' ').replace(/\s+/g, ' ').trim();
-    const ordenados = [...prs].sort((a, b) => a.x0 - b.x0).slice(0, 2);
+    // Pack: "de/por" do pack numa linha e, abaixo, "cada unidade sai por" (só referência, não é preço).
+    const yTopo = Math.min(...prs.map((p) => p.y0));
+    const daLinhaDeCima = prs.filter((p) => p.y0 - yTopo < 15);
+    const ordenados = [...daLinhaDeCima].sort((a, b) => a.x0 - b.x0).slice(0, 2);
     const valores = ordenados.map((p) => p.valor);
     const preco = Math.min(...valores);
     const precoDe = valores.length === 2 && Math.max(...valores) > preco ? Math.max(...valores) : null;

@@ -115,6 +115,12 @@ export function LinhaProduto({ produto }: { produto: Produto }) {
         <span className="apoio">{descricaoCurta(produto)}</span>
         {n > 1 && <span className="chip comparar" style={{ alignSelf: 'flex-start' }}>compare em {n} mercados</span>}
       </span>
+      {!melhor && Number.isFinite(menorComApp) && (
+        <span style={{ display: 'flex', flexDirection: 'column', alignItems: 'flex-end', gap: 3 }}>
+          <span className="numero" style={{ fontSize: 17 }}>{formatarReais(menorComApp)}</span>
+          <span className="chip com-app">só com clube/app</span>
+        </span>
+      )}
       {melhor && (
         <span style={{ display: 'flex', flexDirection: 'column', alignItems: 'flex-end', gap: 3 }}>
           <span className="numero" style={{ fontSize: 17 }}>{formatarReais(melhor.valor)}</span>

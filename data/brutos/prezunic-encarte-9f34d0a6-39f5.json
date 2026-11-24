@@ -1,6 +1,6 @@
 {
  "fonte": "prezunic-site",
- "coletadoEm": "2026-11-24T01:16:15.223Z",
+ "coletadoEm": "2026-11-24T12:06:56.376Z",
  "encarte": {
   "titulo": "Ofertas exclusivas para as lojas: Recreio, Barra, Freguesia, Pechincha, Jauru, Ilha do Governador, Méier, Icaraí, Botafogo, Park Shopping, Tijuca, Vila Isabel, Jardim Oceânico, Voluntários, Laranjeiras e Marapendi.",
   "textoValidade": "Válidas de 13 a 26/11/2026",
@@ -152,8 +152,8 @@
    "pagina": 1,
    "nome": "MANTEIGA PRÉSIDENT",
    "detalhe": "pote/tablete com sal/sem sal 200g",
-   "preco": 16.99,
-   "precoDe": 24.98,
+   "preco": 14.99,
+   "precoDe": 16.99,
    "limite": null
   },
   {
@@ -750,7 +750,7 @@
   },
   {
    "pagina": 4,
-   "nome": "VILA ISABEL, JARDIM OCEÂNICO, VOLUNTÁRIOS, LARANJEIRAS, MARAPENDI, NO SITE, APP E WHATSAPP, NO PERÍODO DE 13/11 A 26/11/2026, OU ENQUANTO DURAREM NOSSOS ESTOQUES. CAFÉ SOLÚVEL CORAÇÕES",
+   "nome": "VILA ISABEL, JARDIM OCEÂNICO, VOLUNTÁRIOS, LARANJEIRAS, MARAPENDI, NO SITE, APP E WHATSAPP, NO PERÍODO DE 13/11 A 26/11/2026, OU ENQUANTO DURAREM NOSSOS ESTOQUES. CAFÉ SOLÚVEL CORAÇÕES CAFÉ EM PÓ",
    "detalhe": "(tipos) 40g",
    "preco": 6.99,
    "precoDe": 8.99,
@@ -766,10 +766,10 @@
   },
   {
    "pagina": 4,
-   "nome": "CAFÉ EM PÓ CORAÇÕES PREMIUM",
+   "nome": "CORAÇÕES CAFÉ EM PÓ CORAÇÕES PREMIUM",
    "detalhe": "estrada real 500g",
-   "preco": 31.98,
-   "precoDe": 35.98,
+   "preco": 35.98,
+   "precoDe": null,
    "limite": null
   },
   {
@@ -830,7 +830,15 @@
   },
   {
    "pagina": 4,
-   "nome": "BEBIDA VEGETAL A TAL DA CASTANHA",
+   "nome": "BEBIDA VEGETAL A CAFÉ EM PÓ CORAÇÕES PREMIUM",
+   "detalhe": "estrada real 500g",
+   "preco": 31.98,
+   "precoDe": null,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "BEBIDA VEGETAL A CORAÇÕES TAL DA CASTANHA",
    "detalhe": "1l",
    "preco": 19.99,
    "precoDe": 23.99,
@@ -1174,10 +1182,18 @@
   },
   {
    "pagina": 7,
-   "nome": "SABONETE EM BARRA DOVE SABONETE EM BARRA PROTEX",
-   "detalhe": "(fragrâncias) 90g c/6 unids. (fragrâncias) 85g c/6 unids.",
-   "preco": 3.78,
-   "precoDe": 22.69,
+   "nome": "SABONETE EM BARRA DOVE",
+   "detalhe": "(fragrâncias) 90g c/6 unids.",
+   "preco": 22.69,
+   "precoDe": 26.99,
+   "limite": null
+  },
+  {
+   "pagina": 7,
+   "nome": "SABONETE EM BARRA PROTEX",
+   "detalhe": "(fragrâncias) 85g c/6 unids.",
+   "preco": 17.95,
+   "precoDe": 22.99,
    "limite": null
   },
   {

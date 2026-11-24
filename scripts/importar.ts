@@ -334,6 +334,8 @@ interface ItemCuradoria {
   limite?: string;
   produto?: string;
   duvida?: string;
+  /** Só existe preço para quem é do clube (o encarte não mostra o preço normal). */
+  soClube?: boolean;
 }
 interface ArquivoCuradoria {
   encarte: string;
@@ -355,7 +357,10 @@ for (const arq of readdirSync(join(RAIZ, 'data/curadoria')).filter((f) => f.ends
     continue;
   }
   for (const it of c.itens) {
-    const precos: Preco[] = [{ valor: it.preco, exige: [], ...(it.condicao ? { condicao: it.condicao } : {}) }];
+    const precos: Preco[] =
+      it.soClube && c.programaClube
+        ? [{ valor: it.preco, exige: [c.programaClube], condicao: it.condicao ?? `no ${c.nomeClube ?? 'clube'}` }]
+        : [{ valor: it.preco, exige: [], ...(it.condicao ? { condicao: it.condicao } : {}) }];
     if (it.clube && c.programaClube)
       precos.push({ valor: it.clube, exige: [c.programaClube], condicao: `no ${c.nomeClube ?? 'clube'}` });
     if (it.app && c.programaApp)

@@ -33,11 +33,19 @@ export function Produto({ id }: { id: string }) {
     [produto, produtos, perfilUsado],
   );
 
+  // Ofertas que só valem com clube/app que o perfil (ou o modo "para todos") não tem.
+  const soComPrograma = useMemo(() => {
+    if (!produto) return [];
+    const comPreco = new Set(linhas.map((l) => l.oferta.mercado));
+    return produto.ofertas.filter((o) => !comPreco.has(o.mercado) && !melhorPreco(o, perfilUsado));
+  }, [produto, linhas, perfilUsado]);
+
   const mercadosSemOferta = useMemo(() => {
     const ativos = new Set(ofertas.map((o) => o.mercado));
     for (const l of linhas) ativos.delete(l.oferta.mercado);
+    for (const o of soComPrograma) ativos.delete(o.mercado);
     return [...ativos].map(nomeMercado);
-  }, [ofertas, linhas]);
+  }, [ofertas, linhas, soComPrograma]);
 
   if (!produto) {
     return (
@@ -133,6 +141,20 @@ export function Produto({ id }: { id: string }) {
               })()}
               {oferta.limite && <span className="apoio">{oferta.limite}</span>}
               <span className="apoio" style={{ fontSize: 12 }}>No encarte: “{oferta.original}”</span>
+            </article>
+          );
+        })}
+        {soComPrograma.map((o) => {
+          const p = o.precos[0];
+          return (
+            <article key={o.id} className="cartao" style={{ display: 'flex', flexDirection: 'column', gap: 6, opacity: 0.85 }}>
+              <span style={{ fontSize: 16, fontWeight: 700 }}>{nomeMercado(o.mercado)}</span>
+              <span className="numero" style={{ fontSize: 24 }}>{formatarReais(p.valor)}</span>
+              <span className="chip com-app" style={{ alignSelf: 'flex-start' }}>
+                só para quem tem {p.exige.map((x) => PROGRAMAS[x].nome).join(' + ')}
+              </span>
+              {p.condicao && <span className="apoio">{p.condicao}</span>}
+              <span className="apoio" style={{ fontSize: 12 }}>O encarte não mostra o preço para quem não tem.</span>
             </article>
           );
         })}

@@ -3285,6 +3285,49 @@
    "tamanho": "150g",
    "preco": 7.88,
    "duvida": "o encarte mostra um preço só para Friboi 180g e Perdigão 150g"
+  },
+  {
+   "pagina": 7,
+   "nome": "Refrigerante",
+   "marcas": [
+    "Pepsi"
+   ],
+   "tamanho": "200ml",
+   "preco": 1.66,
+   "soClube": true,
+   "condicao": "no Guana Clube, levando 12 (leve 12, pague 10)"
+  },
+  {
+   "pagina": 7,
+   "nome": "Refrigerante Guaraná",
+   "marcas": [
+    "Antarctica"
+   ],
+   "tamanho": "200ml",
+   "preco": 1.66,
+   "soClube": true,
+   "condicao": "no Guana Clube, levando 12 (leve 12, pague 10); Tradicional ou Zero"
+  },
+  {
+   "pagina": 7,
+   "nome": "Isotônico",
+   "marcas": [
+    "Gatorade"
+   ],
+   "tamanho": "500ml",
+   "preco": 4.58,
+   "soClube": true,
+   "condicao": "no Guana Clube, levando 6 (leve 6, pague 5)"
+  },
+  {
+   "pagina": 8,
+   "nome": "Limpador 2 Cloro Ativo + Multiuso Grátis",
+   "marcas": [
+    "Uau"
+   ],
+   "tamanho": "500ml",
+   "preco": 9.98,
+   "condicao": "leve mais e pague menos: na compra ganhe 1 multiuso Uau 500ml"
   }
  ]
 }
