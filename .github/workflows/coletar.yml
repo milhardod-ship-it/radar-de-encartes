@@ -1,5 +1,6 @@
 # Robô de coleta: busca os encartes nos sites dos mercados, atualiza os dados e publica.
 # Também dá para rodar à mão na aba "Actions" do GitHub.
+# Horários em UTC (Rio = UTC−3). O GitHub pode atrasar execuções agendadas em horários de pico.
 name: Coletar encartes
 
 on:
