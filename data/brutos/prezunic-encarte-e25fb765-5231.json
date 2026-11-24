@@ -1,0 +1,127 @@
+{
+ "fonte": "prezunic-site",
+ "coletadoEm": "2026-11-24T20:11:39.518Z",
+ "encarte": {
+  "titulo": "4ª e 5ª da carne",
+  "textoValidade": "Válidas de 25 a 26/11/2026",
+  "estado": "RJ",
+  "pdf": "https://prezunic.vtexassets.com/assets/vtex.file-manager-graphql/images/e25fb765-5231-4adb-aca4-327af64805c6___3eb920cab76c08771872a2b40c4a2ba1.pdf",
+  "inicio": "2026-11-25",
+  "fim": "2026-11-26",
+  "lojas": []
+ },
+ "itens": [
+  {
+   "pagina": 1,
+   "nome": "ACÉM OU PALETA BOVINA",
+   "detalhe": "(pedaço ou moído) kg",
+   "preco": 36.98,
+   "precoDe": 42.99,
+   "limite": "Limite por cliente de 10 Kg"
+  },
+  {
+   "pagina": 1,
+   "nome": "CORAÇÃO DA ALCATRA MATURATTA",
+   "detalhe": "(peça) kg",
+   "preco": 59.98,
+   "precoDe": 69.99,
+   "limite": "Limite por cliente de 10 Kg"
+  },
+  {
+   "pagina": 1,
+   "nome": "PICANHA BOVINA MATURATTA",
+   "detalhe": "(peça) kg",
+   "preco": 89.98,
+   "precoDe": 99.99,
+   "limite": "Limite por cliente de 10 Kg"
+  },
+  {
+   "pagina": 1,
+   "nome": "CONTRAFILÉ TRADICIONAL OU FILÉ DE COSTELA MATURATTA",
+   "detalhe": "(peça) kg",
+   "preco": 52.98,
+   "precoDe": 62.99,
+   "limite": "Limite por cliente de 10 Kg"
+  },
+  {
+   "pagina": 1,
+   "nome": "SOBRECOXA DE FRANGO SEARA OU SADIA",
+   "detalhe": "bdj./iqf./zip. cong. 1kg",
+   "preco": 12.98,
+   "precoDe": 15.99,
+   "limite": "Limite por cliente de 10 UN."
+  },
+  {
+   "pagina": 1,
+   "nome": "HAMBÚRGUER PERDIGÃO",
+   "detalhe": "cong. 672g",
+   "preco": 13.99,
+   "precoDe": 17.99,
+   "limite": "Limite por cliente de 10 UN."
+  },
+  {
+   "pagina": 1,
+   "nome": "LINGUIÇA DE PERNIL PERDIGÃO",
+   "detalhe": "kg",
+   "preco": 14.99,
+   "precoDe": 19.99,
+   "limite": "Limite por cliente de 10 Kg"
+  },
+  {
+   "pagina": 1,
+   "nome": "AZEITE DE OLIVA GALLO",
+   "detalhe": "(extravirgem) 500ml",
+   "preco": 28.9,
+   "precoDe": 33.99,
+   "limite": "Limite por cliente de 10 UN."
+  },
+  {
+   "pagina": 1,
+   "nome": "ÓLEO DE SOJA LIZA OU SOYA",
+   "detalhe": "PET 900ml",
+   "preco": 7.99,
+   "precoDe": 8.79,
+   "limite": "Limite por cliente de 10 UN."
+  },
+  {
+   "pagina": 1,
+   "nome": "LAVA-ROUPAS EM PÓ OMO",
+   "detalhe": "(fragrâncias) 1,4kg",
+   "preco": 16.99,
+   "precoDe": 19.99,
+   "limite": "Limite por cliente de 10 UN."
+  },
+  {
+   "pagina": 1,
+   "nome": "CERVEJA SPATEN",
+   "detalhe": "latão 473ml",
+   "preco": 5.49,
+   "precoDe": 5.89,
+   "limite": "Limite por cliente de 48 UN."
+  },
+  {
+   "pagina": 1,
+   "nome": "CERVEJA ANTARCTICA SUBZERO",
+   "detalhe": "latão 473ml",
+   "preco": 3.89,
+   "precoDe": 4.49,
+   "limite": "Limite por cliente de 48 UN."
+  },
+  {
+   "pagina": 1,
+   "nome": "SABÃO LÍQUIDO OMO",
+   "detalhe": "(tipos) 3l",
+   "preco": 29.99,
+   "precoDe": 39.99,
+   "limite": "Limite por cliente de 10 UN."
+  },
+  {
+   "pagina": 1,
+   "nome": "PAPEL HIGIÊNICO NEVE",
+   "detalhe": "folha dupla leve 16 pague 15 rolos 30m cada",
+   "preco": 25.99,
+   "precoDe": 29.99,
+   "limite": "Limite por cliente de 10 UN."
+  }
+ ]
+}
