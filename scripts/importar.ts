@@ -6,7 +6,7 @@
 //  - mundial-site-<data>.json      coletado pelo robô do site do Mundial (só o mais recente vale)
 //  - atacadao-ofertao-*.json       dados embutidos no PDF do Atacadão (manual, por enquanto)
 // E em data/curadoria/: ofertas lidas de imagem (ex.: Boa do Dia do Atacadão).
-import { readFileSync, readdirSync, writeFileSync } from 'node:fs';
+import { existsSync, readFileSync, readdirSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import type { ColetaAtacadao } from '../src/coleta/atacadao';
@@ -334,6 +334,8 @@ interface ItemCuradoria {
 }
 interface ArquivoCuradoria {
   encarte: string;
+  /** Se este arquivo de data/brutos existir, a curadoria é ignorada (a fonte automática chegou). */
+  pularSeExistir?: string;
   mercado: MercadoId;
   programaClube?: ProgramaId;
   nomeClube?: string;
@@ -343,6 +345,12 @@ interface ArquivoCuradoria {
 
 for (const arq of readdirSync(join(RAIZ, 'data/curadoria')).filter((f) => f.endsWith('.json')).sort()) {
   const c = ler(`data/curadoria/${arq}`) as ArquivoCuradoria;
+  if (c.pularSeExistir && existsSync(join(RAIZ, c.pularSeExistir))) {
+    const i = encartes.findIndex((e) => e.id === c.encarte);
+    if (i >= 0) encartes.splice(i, 1);
+    console.log(`Curadoria ${arq} ignorada: a fonte automática (${c.pularSeExistir}) já existe.`);
+    continue;
+  }
   for (const it of c.itens) {
     const precos: Preco[] = [{ valor: it.preco, exige: [], ...(it.condicao ? { condicao: it.condicao } : {}) }];
     if (it.clube && c.programaClube)

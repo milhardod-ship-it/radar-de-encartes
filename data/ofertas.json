@@ -150,7 +150,7 @@
   "id": "atacadao-folheto-1Kv5N49qCj5LBM84Vb-kd3DwF8Pb72w-W#545",
   "mercado": "atacadao",
   "encarte": "atacadao-folheto-1Kv5N49qCj5LBM84Vb-kd3DwF8Pb72w-W",
-  "produto": "acucar__guarani__1000g",
+  "produto": "acucar-refinado__guarani__1000g",
   "nome": "Açúcar Refinado",
   "marca": "Guarani",
   "original": "Açúcar Refinado Guarani · Pacote com 1kg",
@@ -2693,7 +2693,7 @@
   "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#612",
   "mercado": "atacadao",
   "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
-  "produto": "creme-tratamento-cabelo__skala__1000g",
+  "produto": "creme-tratamento__skala__1000g",
   "nome": "Creme de Tratamento para Cabelo",
   "marca": "Skala",
   "original": "Creme de Tratamento para Cabelo Skala · Vários tipos · Pote com 1kg",
@@ -4019,7 +4019,7 @@
   "id": "atacadao-ofertao-2026-11-17#492",
   "mercado": "atacadao",
   "encarte": "atacadao-ofertao-2026-11-17",
-  "produto": "acucar__guarani__1000g",
+  "produto": "acucar-refinado__guarani__1000g",
   "nome": "Açúcar Refinado",
   "marca": "Guarani",
   "original": "Açúcar Refinado Guarani · Pacote com 1kg",
@@ -5943,6 +5943,8228 @@
    }
   ],
   "precoDe": 4.79,
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1458",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "arroz__tio-joao__5000g",
+  "nome": "Arroz Tipo 1",
+  "marca": "Tio João",
+  "original": "Arroz Tipo 1 Tio João 5kg",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 5000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 27.95,
+    "exige": [],
+    "condicao": "parboilizado ou branco"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1459",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "arroz__ouro-nobre__5000g",
+  "nome": "Arroz",
+  "marca": "Ouro Nobre",
+  "original": "Arroz Ouro Nobre 5kg",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 5000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 17.95,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1460",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "alcatra__friboi__1000g",
+  "nome": "Alcatra Bovina a Vácuo (peça)",
+  "marca": "Friboi",
+  "original": "Alcatra Bovina a Vácuo (peça) Friboi kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 39.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1461",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "contra-file__friboi__1000g",
+  "nome": "Contra Filé Bovino a Vácuo (peça)",
+  "marca": "Friboi",
+  "original": "Contra Filé Bovino a Vácuo (peça) Friboi kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 47.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1462",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "oleo-soja__coamo__900ml",
+  "nome": "Óleo de Soja",
+  "marca": "Coamo",
+  "original": "Óleo de Soja Coamo 900ml",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 900,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 6.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1463",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "file-peito-frango__rivelli__1000g",
+  "nome": "Filé de Peito de Frango",
+  "marca": "Rivelli",
+  "original": "Filé de Peito de Frango Rivelli kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 15.97,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1464",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "azeite-extra-virgem__iliada__500ml",
+  "nome": "Azeite Extravirgem",
+  "marca": "Iliada",
+  "original": "Azeite Extravirgem Iliada 500ml",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 29.98,
+    "exige": []
+   }
+  ],
+  "precoDe": 59.98,
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1465",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "azeite-extra-virgem__andorinha__500ml",
+  "nome": "Azeite Extravirgem",
+  "marca": "Andorinha",
+  "original": "Azeite Extravirgem Andorinha 500ml",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 26.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1466",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "leite-condensado-semidesnatado__italac__395g",
+  "nome": "Leite Condensado Semidesnatado",
+  "marca": "Italac",
+  "original": "Leite Condensado Semidesnatado Italac 395g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 395,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.77,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1467",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "maionese__hellmanns__500g",
+  "nome": "Maionese",
+  "marca": "Hellmann's",
+  "original": "Maionese Hellmann's 500g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 9.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1468",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "chocolate__cachet__100g",
+  "nome": "Chocolate",
+  "marca": "Cachet",
+  "original": "Chocolate Cachet 100g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 100,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 14.97,
+    "exige": [],
+    "condicao": "exceto Amargo 70%, 85% e 90%"
+   }
+  ],
+  "precoDe": 19.98,
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1469",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "bombons-favoritos__lacta__250.6g",
+  "nome": "Bombons Favoritos",
+  "marca": "Lacta",
+  "original": "Bombons Favoritos Lacta 250,6g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 250.6,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 10.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1470",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "biscoito-recheado__trakinas__126g",
+  "nome": "Biscoito Recheado",
+  "marca": "Trakinas",
+  "original": "Biscoito Recheado Trakinas 126g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 126,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.49,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1471",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "biscoito-cream-cracker__richester__170g",
+  "nome": "Biscoito Cream Cracker",
+  "marca": "Richester",
+  "original": "Biscoito Cream Cracker Richester 170g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 170,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.97,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1472",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "espaguete-semola__dona-benta__1000g",
+  "nome": "Espaguete de Sêmola",
+  "marca": "Dona Benta",
+  "original": "Espaguete de Sêmola Dona Benta 1kg",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1473",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "amaciante-concentrado__downy__500ml",
+  "nome": "Amaciante Concentrado",
+  "marca": "Downy",
+  "original": "Amaciante Concentrado Downy 500ml",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 9.98,
+    "exige": [],
+    "condicao": "450ml ou 500ml"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1474",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "limpador-multiuso__veja__750ml",
+  "nome": "Limpador Multiuso",
+  "marca": "Veja",
+  "original": "Limpador Multiuso Veja 750ml",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 750,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1475",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "kit-shampoo-condicionador__vult__200ml",
+  "nome": "Kit Shampoo + Condicionador",
+  "marca": "Vult",
+  "original": "Kit Shampoo + Condicionador Vult 200ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 200,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 15.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1476",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "desodorante-aerossol__dryon__250ml",
+  "nome": "Desodorante Aerossol",
+  "marca": "Dryon",
+  "original": "Desodorante Aerossol Dryon 250ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 250,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 13.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1477",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "desodorante-aerossol__monange__150ml",
+  "nome": "Desodorante Aerossol",
+  "marca": "Monange",
+  "original": "Desodorante Aerossol Monange, Giovanna Baby 150ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 150,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 7.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1478",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "desodorante-aerossol__giovanna-baby__150ml",
+  "nome": "Desodorante Aerossol",
+  "marca": "Giovanna Baby",
+  "original": "Desodorante Aerossol Monange, Giovanna Baby 150ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 150,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 7.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1479",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "lava-roupas-liquido__odd__3000ml",
+  "nome": "Lava-Roupas Líquido",
+  "marca": "Odd",
+  "original": "Lava-Roupas Líquido Odd 3L",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 3000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 19.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1480",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "lava-roupas-po__surf__1600g",
+  "nome": "Lava-Roupas em Pó",
+  "marca": "Surf",
+  "original": "Lava-Roupas em Pó Surf 1,6kg",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 1600,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 12.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1481",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "lava-roupas-po__omo__1400g",
+  "nome": "Lava-Roupas em Pó",
+  "marca": "Omo",
+  "original": "Lava-Roupas em Pó Omo 1,4kg",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 1400,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 16.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1482",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "lava-roupas-po__tixan-ype__2400g",
+  "nome": "Lava-Roupas em Pó",
+  "marca": "Tixan Ypê",
+  "original": "Lava-Roupas em Pó Tixan Ypê 2,4kg",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 2400,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 20.97,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1483",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "acucar-refinado__guarani__1000g",
+  "nome": "Açúcar Refinado",
+  "marca": "Guarani",
+  "original": "Açúcar Refinado Guarani 1kg",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1484",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "leite-uht-integral__piracanjuba__1000ml",
+  "nome": "Leite UHT Integral",
+  "marca": "Piracanjuba",
+  "original": "Leite UHT Integral Piracanjuba, Italac, Elegê 1L",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.47,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1485",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "leite-uht-integral__italac__1000ml",
+  "nome": "Leite UHT Integral",
+  "marca": "Italac",
+  "original": "Leite UHT Integral Piracanjuba, Italac, Elegê 1L",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.47,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1486",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "leite-uht-integral__elege__1000ml",
+  "nome": "Leite UHT Integral",
+  "marca": "Elegê",
+  "original": "Leite UHT Integral Piracanjuba, Italac, Elegê 1L",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.47,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1487",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "leite-uht-desnatado__piracanjuba__1000ml",
+  "nome": "Leite UHT Desnatado ou Semidesnatado",
+  "marca": "Piracanjuba",
+  "original": "Leite UHT Desnatado ou Semidesnatado Piracanjuba, Italac, Elegê 1L",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1488",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "leite-uht-desnatado__italac__1000ml",
+  "nome": "Leite UHT Desnatado ou Semidesnatado",
+  "marca": "Italac",
+  "original": "Leite UHT Desnatado ou Semidesnatado Piracanjuba, Italac, Elegê 1L",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1489",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "leite-uht-desnatado__elege__1000ml",
+  "nome": "Leite UHT Desnatado ou Semidesnatado",
+  "marca": "Elegê",
+  "original": "Leite UHT Desnatado ou Semidesnatado Piracanjuba, Italac, Elegê 1L",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1490",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "leite-po-integral__gloria__360g",
+  "nome": "Leite em Pó Integral",
+  "marca": "Glória",
+  "original": "Leite em Pó Integral Glória, Italac sachê 360g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 360,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 11.75,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1491",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "leite-po-integral__italac__360g",
+  "nome": "Leite em Pó Integral",
+  "marca": "Italac",
+  "original": "Leite em Pó Integral Glória, Italac sachê 360g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 360,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 11.75,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1492",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "leite-po__ninho__380g",
+  "nome": "Leite em Pó",
+  "marca": "Ninho",
+  "original": "Leite em Pó Ninho 380g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 380,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 14.98,
+    "exige": [],
+    "condicao": "10% grátis"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1493",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "leite-po-desnatado__molico__280g",
+  "nome": "Leite em Pó Desnatado",
+  "marca": "Molico",
+  "original": "Leite em Pó Desnatado Molico 280g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 280,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 14.98,
+    "exige": [],
+    "condicao": "leve 280g, pague 252g"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1494",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "arroz-selecoes__camil__5000g",
+  "nome": "Arroz Seleções",
+  "marca": "Camil",
+  "original": "Arroz Seleções Camil 5kg",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 5000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 27.95,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1495",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "arroz-integral__tio-joao__1000g",
+  "nome": "Arroz Integral",
+  "marca": "Tio João",
+  "original": "Arroz Integral Tio João, Prato Fino 1kg",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 5.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1496",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "arroz-integral__prato-fino__1000g",
+  "nome": "Arroz Integral",
+  "marca": "Prato Fino",
+  "original": "Arroz Integral Tio João, Prato Fino 1kg",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 5.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1497",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "feijao-preto__panela-de-barro__1000g",
+  "nome": "Feijão Preto",
+  "marca": "Panela de Barro",
+  "original": "Feijão Preto Panela de Barro 1kg",
+  "categoria": "Outros",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 5.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1498",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "feijao-preto__carreteiro__1000g",
+  "nome": "Feijão Preto",
+  "marca": "Carreteiro",
+  "original": "Feijão Preto Carreteiro 1kg",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 6.7,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1499",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "feijao-preto__kicaldo__1000g",
+  "nome": "Feijão Preto",
+  "marca": "Kicaldo",
+  "original": "Feijão Preto Kicaldo 1kg",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 7.59,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1500",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "feijao-carioca__patusco__1000g",
+  "nome": "Feijão Carioca",
+  "marca": "Patusco",
+  "original": "Feijão Carioca Patusco 1kg",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 5.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1501",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "capsulas-cafe-dolce__nescafe__10un",
+  "nome": "Cápsulas de Café Dolce Gusto",
+  "marca": "Nescafé",
+  "original": "Cápsulas de Café Dolce Gusto Nescafé c/10 unidades",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 10,
+   "unidade": "un"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 16.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1502",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "cafe__pilao__500g",
+  "nome": "Café Tradicional",
+  "marca": "Pilão",
+  "original": "Café Tradicional Pilão 500g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 23.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1503",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "cafe__uniao__500g",
+  "nome": "Café Tradicional",
+  "marca": "União",
+  "original": "Café Tradicional União 500g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 18.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1504",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "cafe__bom-dia__500g",
+  "nome": "Café Tradicional",
+  "marca": "Bom Dia",
+  "original": "Café Tradicional Bom Dia 500g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 15.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1505",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "leite-uht__ninho__1000ml",
+  "nome": "Leite UHT",
+  "marca": "Ninho",
+  "original": "Leite UHT Ninho, Molico 1L",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 5.47,
+    "exige": [],
+    "condicao": "Ninho integral ou Molico desnatado"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1506",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "leite-uht__molico__1000ml",
+  "nome": "Leite UHT",
+  "marca": "Molico",
+  "original": "Leite UHT Ninho, Molico 1L",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 5.47,
+    "exige": [],
+    "condicao": "Ninho integral ou Molico desnatado"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1507",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "achocolatado-po__nescau__900g",
+  "nome": "Achocolatado em Pó",
+  "marca": "Nescau",
+  "original": "Achocolatado em Pó Nescau sachê 900g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 900,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 18.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1508",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "achocolatado-po__nescau__350g",
+  "nome": "Achocolatado em Pó",
+  "marca": "Nescau",
+  "original": "Achocolatado em Pó Nescau 350g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 350,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 9.99,
+    "exige": [],
+    "condicao": "leve 350g, pague 330g"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1509",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "cereal-matinal__nescau__210g",
+  "nome": "Cereal Matinal",
+  "marca": "Nescau",
+  "original": "Cereal Matinal Nescau 210g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 210,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 8.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1510",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "cereal-snow-flakes__nestle__230g",
+  "nome": "Cereal Snow Flakes",
+  "marca": "Nestlé",
+  "original": "Cereal Snow Flakes Nestlé 230g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 230,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 6.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1511",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "cereal-sucrilhos-original__kelloggs__240g",
+  "nome": "Cereal Sucrilhos Original",
+  "marca": "Kellogg's",
+  "original": "Cereal Sucrilhos Original Kellogg's 240g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 240,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 7.99,
+    "exige": [],
+    "condicao": "leve 240g, pague 200g"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1512",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "farofa-pronta-temperada__yoki__400g",
+  "nome": "Farofa Pronta Temperada",
+  "marca": "Yoki",
+  "original": "Farofa Pronta Temperada Yoki 400g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 400,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 7.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1513",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "farofa__bom-gosto__900g",
+  "nome": "Farofa Tradicional",
+  "marca": "Bom Gosto",
+  "original": "Farofa Tradicional Bom Gosto 900g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 900,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 19.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1514",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "milho-pipoca-micro__yoki__100g",
+  "nome": "Milho de Pipoca para Micro-ondas",
+  "marca": "Yoki",
+  "original": "Milho de Pipoca para Micro-ondas Yoki 100g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 100,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.89,
+    "exige": [],
+    "condicao": "90g ou 100g"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1515",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "milho-pipoca-premium__yoki__400g",
+  "nome": "Milho de Pipoca Premium",
+  "marca": "Yoki",
+  "original": "Milho de Pipoca Premium Yoki 400g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 400,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.88,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1516",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "aveia-flocos__yoki__170g",
+  "nome": "Aveia em Flocos",
+  "marca": "Yoki",
+  "original": "Aveia em Flocos Yoki 170g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 170,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1517",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "aveia-flocos__quaker__165g",
+  "nome": "Aveia em Flocos",
+  "marca": "Quaker",
+  "original": "Aveia em Flocos Quaker 165g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 165,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.69,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1518",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "azeite-extra-virgem__gallo__400ml",
+  "nome": "Azeite Extravirgem",
+  "marca": "Gallo",
+  "original": "Azeite Extravirgem Gallo, O-Live 400ml",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 400,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 22.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1519",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "azeite-extra-virgem__o-live__400ml",
+  "nome": "Azeite Extravirgem",
+  "marca": "O-Live",
+  "original": "Azeite Extravirgem Gallo, O-Live 400ml",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 400,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 22.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1520",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "azeite-extra-virgem__andorinha-selecao__500ml",
+  "nome": "Azeite Extravirgem",
+  "marca": "Andorinha Seleção",
+  "original": "Azeite Extravirgem Andorinha Seleção 500ml",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 28.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1521",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "passata__tutto__680g",
+  "nome": "Passata",
+  "marca": "Tutto",
+  "original": "Passata Tutto, Suprema, Ottima 680g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 680,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 9.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1522",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "passata__suprema__680g",
+  "nome": "Passata",
+  "marca": "Suprema",
+  "original": "Passata Tutto, Suprema, Ottima 680g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 680,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 9.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1523",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "passata__ottima__680g",
+  "nome": "Passata",
+  "marca": "Ottima",
+  "original": "Passata Tutto, Suprema, Ottima 680g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 680,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 9.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1524",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "maionese__pramesa__500g",
+  "nome": "Maionese",
+  "marca": "Pramesa",
+  "original": "Maionese Pramesa 500g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1525",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "maionese-light__hellmanns__500g",
+  "nome": "Maionese Light",
+  "marca": "Hellmann's",
+  "original": "Maionese Light Hellmann's 500g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 9.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1526",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "maionese__hemmer__930g",
+  "nome": "Maionese",
+  "marca": "Hemmer",
+  "original": "Maionese Hemmer 930g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 930,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 14.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1527",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "ketchup__hemmer__1000g",
+  "nome": "Ketchup",
+  "marca": "Hemmer",
+  "original": "Ketchup Hemmer 1kg",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 14.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1528",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "mostarda-amarela__hemmer__700g",
+  "nome": "Mostarda Amarela",
+  "marca": "Hemmer",
+  "original": "Mostarda Amarela Hemmer 700g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 700,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 14.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1529",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "maionese__pramesa__200g",
+  "nome": "Maionese Sachê",
+  "marca": "Pramesa",
+  "original": "Maionese Sachê Pramesa 200g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 200,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 1.97,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1530",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "molho-tomate__hemmer__300g",
+  "nome": "Molho de Tomate Tradicional",
+  "marca": "Hemmer",
+  "original": "Molho de Tomate Tradicional Hemmer 300g",
+  "categoria": "Hortifrúti",
+  "tamanho": {
+   "valor": 300,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.89,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1531",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "molho-tomate__predilecta__300g",
+  "nome": "Molho de Tomate Tradicional",
+  "marca": "Predilecta",
+  "original": "Molho de Tomate Tradicional Predilecta 300g",
+  "categoria": "Hortifrúti",
+  "tamanho": {
+   "valor": 300,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 1.59,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1532",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "molho-tomate-saborizado__pramesa__300g",
+  "nome": "Molho de Tomate Saborizado Sachê",
+  "marca": "Pramesa",
+  "original": "Molho de Tomate Saborizado Sachê Pramesa 300g",
+  "categoria": "Hortifrúti",
+  "tamanho": {
+   "valor": 300,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 1.74,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1533",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "molho-tomate__heinz__240g",
+  "nome": "Molho de Tomate Tradicional Sachê",
+  "marca": "Heinz",
+  "original": "Molho de Tomate Tradicional Sachê Heinz 240g",
+  "categoria": "Hortifrúti",
+  "tamanho": {
+   "valor": 240,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.49,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1534",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "doce-leite__san-ignacio__450g",
+  "nome": "Doce de Leite",
+  "marca": "San Ignacio",
+  "original": "Doce de Leite San Ignacio 450g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 450,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 24.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1535",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "ketchup__hellmanns__380g",
+  "nome": "Ketchup",
+  "marca": "Hellmann's",
+  "original": "Ketchup Hellmann's 380g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 380,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 9.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1536",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "mostarda__hellmanns__170g",
+  "nome": "Mostarda",
+  "marca": "Hellmann's",
+  "original": "Mostarda Hellmann's 170g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 170,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 8.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1537",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "caldo__maggi__57g",
+  "nome": "Caldo",
+  "marca": "Maggi",
+  "original": "Caldo Maggi 57g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 57,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 1.89,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1538",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "tempero-meu-segredo__maggi__49g",
+  "nome": "Tempero Meu Segredo",
+  "marca": "Maggi",
+  "original": "Tempero Meu Segredo Maggi 49g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 49,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.89,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1539",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "tempero-mais-sabor__kitano__60g",
+  "nome": "Tempero Mais Sabor",
+  "marca": "Kitano",
+  "original": "Tempero Mais Sabor Kitano 60g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 60,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1540",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "creme-cebola__maggi__68g",
+  "nome": "Creme de Cebola",
+  "marca": "Maggi",
+  "original": "Creme de Cebola Maggi 68g",
+  "categoria": "Hortifrúti",
+  "tamanho": {
+   "valor": 68,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.99,
+    "exige": [],
+    "condicao": "61g ou 68g"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1541",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "azeitona-gordal__pramesa__400g",
+  "nome": "Azeitona Gordal",
+  "marca": "Pramesa",
+  "original": "Azeitona Gordal Pramesa 400g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 400,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 17.6,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1542",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "azeitona-verde-inteira__pramesa__150g",
+  "nome": "Azeitona Verde Inteira Doypack",
+  "marca": "Pramesa",
+  "original": "Azeitona Verde Inteira Doypack Pramesa 150g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 150,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.98,
+    "exige": [],
+    "condicao": "exceto recheada e preta"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1543",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "azeitona-verde-fatiada__pramesa__120g",
+  "nome": "Azeitona Verde Fatiada ou sem Caroço",
+  "marca": "Pramesa",
+  "original": "Azeitona Verde Fatiada ou sem Caroço Pramesa 120g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 120,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 5.49,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1544",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "salsicha__bordon__180g",
+  "nome": "Salsicha em Lata",
+  "marca": "Bordon",
+  "original": "Salsicha em Lata Bordon 180g",
+  "categoria": "Frios e Laticínios",
+  "tamanho": {
+   "valor": 180,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.69,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1545",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "milho-verde-ervilha__pramesa__170g",
+  "nome": "Milho Verde ou Ervilha",
+  "marca": "Pramesa",
+  "original": "Milho Verde ou Ervilha Pramesa 170g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 170,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1546",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "pate-atum__gomes-da-costa__170g",
+  "nome": "Patê de Atum",
+  "marca": "Gomes da Costa",
+  "original": "Patê de Atum Gomes da Costa 170g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 170,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 9.48,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1547",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "atum-ralado-natural__88__140g",
+  "nome": "Atum Ralado Natural",
+  "marca": "88",
+  "original": "Atum Ralado Natural 88 140g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 140,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 7.49,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1548",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "atum-ralado__gomes-da-costa__170g",
+  "nome": "Atum Ralado",
+  "marca": "Gomes da Costa",
+  "original": "Atum Ralado Gomes da Costa 170g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 170,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 8.59,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1549",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "mortadela-ouro__perdigao__1000g",
+  "nome": "Mortadela Ouro",
+  "marca": "Perdigão",
+  "original": "Mortadela Ouro Perdigão kg",
+  "categoria": "Frios e Laticínios",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 19.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1550",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "presunto-cozido__perdigao__1000g",
+  "nome": "Presunto Cozido",
+  "marca": "Perdigão",
+  "original": "Presunto Cozido Perdigão kg",
+  "categoria": "Frios e Laticínios",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 25.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1551",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "mortadela-defumada__sadia__1000g",
+  "nome": "Mortadela Defumada",
+  "marca": "Sadia",
+  "original": "Mortadela Defumada Sadia kg",
+  "categoria": "Frios e Laticínios",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 15.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1552",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "peito-frango-defumado__sadia__1000g",
+  "nome": "Peito de Frango Defumado",
+  "marca": "Sadia",
+  "original": "Peito de Frango Defumado Sadia kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 35.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1553",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "salsicha-hot-dog__sadia__1000g",
+  "nome": "Salsicha Hot Dog",
+  "marca": "Sadia",
+  "original": "Salsicha Hot Dog Sadia kg",
+  "categoria": "Frios e Laticínios",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 8.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1554",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "salsicha-hot-dog__perdigao__1000g",
+  "nome": "Salsicha Hot Dog",
+  "marca": "Perdigão",
+  "original": "Salsicha Hot Dog Perdigão kg",
+  "categoria": "Frios e Laticínios",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 9.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1555",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "queijo-prato-bola__basel__1000g",
+  "nome": "Queijo Prato Bola",
+  "marca": "Basel",
+  "original": "Queijo Prato Bola Basel kg",
+  "categoria": "Frios e Laticínios",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 59.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1556",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "salame-italiano-fatiado__sadia__100g",
+  "nome": "Salame Italiano Fatiado",
+  "marca": "Sadia",
+  "original": "Salame Italiano Fatiado Sadia 100g",
+  "categoria": "Frios e Laticínios",
+  "tamanho": {
+   "valor": 100,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 13.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1557",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "margarina__claybom__500g",
+  "nome": "Margarina",
+  "marca": "Claybom",
+  "original": "Margarina Claybom 500g",
+  "categoria": "Frios e Laticínios",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1558",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "queijo-frescal__minas-bom__1000g",
+  "nome": "Queijo Minas Frescal",
+  "marca": "Minas Bom",
+  "original": "Queijo Minas Frescal Minas Bom, Barão kg",
+  "categoria": "Frios e Laticínios",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 29.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1559",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "queijo-minas-frescal__barao__1000g",
+  "nome": "Queijo Minas Frescal",
+  "marca": "Barão",
+  "original": "Queijo Minas Frescal Minas Bom, Barão kg",
+  "categoria": "Frios e Laticínios",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 29.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1560",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "queijo-prato-mucarela__tirolez__150g",
+  "nome": "Queijo Prato ou Muçarela Fatiado",
+  "marca": "Tirolez",
+  "original": "Queijo Prato ou Muçarela Fatiado Tirolez 150g",
+  "categoria": "Frios e Laticínios",
+  "tamanho": {
+   "valor": 150,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 11.49,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1561",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "queijo-brie__quata__125g",
+  "nome": "Queijo Brie",
+  "marca": "Quatá",
+  "original": "Queijo Brie Quatá 125g",
+  "categoria": "Frios e Laticínios",
+  "tamanho": {
+   "valor": 125,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 15.38,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1562",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "sorvete__lacta__1500ml",
+  "nome": "Sorvete",
+  "marca": "Lacta",
+  "original": "Sorvete Lacta 1,5L",
+  "categoria": "Congelados",
+  "tamanho": {
+   "valor": 1500,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 29.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1563",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "petit-suisse__danoninho__320g",
+  "nome": "Petit Suisse",
+  "marca": "Danoninho",
+  "original": "Petit Suisse Danoninho 320g",
+  "categoria": "Frios e Laticínios",
+  "tamanho": {
+   "valor": 320,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 9.79,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1564",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "requeijao__danone__200g",
+  "nome": "Requeijão",
+  "marca": "Danone",
+  "original": "Requeijão Danone 200g",
+  "categoria": "Frios e Laticínios",
+  "tamanho": {
+   "valor": 200,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 7.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1565",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "creme-ricota__president__200g",
+  "nome": "Creme de Ricota",
+  "marca": "Président",
+  "original": "Creme de Ricota Président 200g",
+  "categoria": "Frios e Laticínios",
+  "tamanho": {
+   "valor": 200,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 7.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1566",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "queijo-parmesao-ralado__galbani__50g",
+  "nome": "Queijo Parmesão Ralado",
+  "marca": "Galbani",
+  "original": "Queijo Parmesão Ralado Galbani 50g",
+  "categoria": "Frios e Laticínios",
+  "tamanho": {
+   "valor": 50,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 5.59,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1567",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "massa-pastel__ingrid__400g",
+  "nome": "Massa para Pastel",
+  "marca": "Ingrid",
+  "original": "Massa para Pastel Ingrid 400g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 400,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 5.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1568",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "batata-palito__easychef__2000g",
+  "nome": "Batata Palito",
+  "marca": "EasyChef",
+  "original": "Batata Palito EasyChef 2kg",
+  "categoria": "Congelados",
+  "tamanho": {
+   "valor": 2000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 18.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1569",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "batata-palito-prime__sem-marca__2000g",
+  "nome": "Batata Palito Prime Fries",
+  "marca": "",
+  "original": "Batata Palito Prime Fries 2kg",
+  "categoria": "Congelados",
+  "tamanho": {
+   "valor": 2000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 18.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1570",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "batata-palito-air__mccain__600g",
+  "nome": "Batata Palito Air Fryer",
+  "marca": "McCain",
+  "original": "Batata Palito Air Fryer McCain 600g",
+  "categoria": "Congelados",
+  "tamanho": {
+   "valor": 600,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 16.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1571",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "batata-palito__bobs__1050g",
+  "nome": "Batata Palito",
+  "marca": "Bob's",
+  "original": "Batata Palito Bob's 1,05kg",
+  "categoria": "Congelados",
+  "tamanho": {
+   "valor": 1050,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 19.98,
+    "exige": []
+   },
+   {
+    "valor": 17.98,
+    "exige": [
+     "guana-clube"
+    ],
+    "condicao": "no Guana Clube"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1572",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "batata-palito__campo-e-sabor__1500g",
+  "nome": "Batata Palito",
+  "marca": "Campo e Sabor",
+  "original": "Batata Palito Campo e Sabor 1,5kg",
+  "categoria": "Congelados",
+  "tamanho": {
+   "valor": 1500,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 15.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1573",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "salsicha__sadia__3000g",
+  "nome": "Salsicha Congelada",
+  "marca": "Sadia",
+  "original": "Salsicha Congelada Sadia 3kg",
+  "categoria": "Frios e Laticínios",
+  "tamanho": {
+   "valor": 3000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 23.97,
+    "exige": [],
+    "condicao": "o kg sai por R$ 7,99"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1574",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "tirinhas-frango__perdigao__1000g",
+  "nome": "Tirinhas de Frango",
+  "marca": "Perdigão",
+  "original": "Tirinhas de Frango Perdigão 1kg",
+  "categoria": "Congelados",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 15.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1575",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "mini-chicken__perdigao__1000g",
+  "nome": "Mini Chicken",
+  "marca": "Perdigão",
+  "original": "Mini Chicken Perdigão 1kg",
+  "categoria": "Congelados",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 14.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1576",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "nhoque-batata__tutto__500g",
+  "nome": "Nhoque de Batata",
+  "marca": "Tutto",
+  "original": "Nhoque de Batata Tutto 500g",
+  "categoria": "Congelados",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 7.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1577",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "mini-lasanha__sadia__350g",
+  "nome": "Mini Lasanha",
+  "marca": "Sadia",
+  "original": "Mini Lasanha Sadia 350g",
+  "categoria": "Congelados",
+  "tamanho": {
+   "valor": 350,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 9.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1578",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "iscas-frango__sadia__300g",
+  "nome": "Iscas de Frango",
+  "marca": "Sadia",
+  "original": "Iscas de Frango Sadia 300g",
+  "categoria": "Congelados",
+  "tamanho": {
+   "valor": 300,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 12.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1579",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "meu-menu__perdigao__300g",
+  "nome": "Meu Menu",
+  "marca": "Perdigão",
+  "original": "Meu Menu Perdigão 300g",
+  "categoria": "Congelados",
+  "tamanho": {
+   "valor": 300,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 9.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1580",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "bolinho-bacalhau__riberalves__300g",
+  "nome": "Bolinho de Bacalhau",
+  "marca": "Riberalves",
+  "original": "Bolinho de Bacalhau Riberalves 300g",
+  "categoria": "Congelados",
+  "tamanho": {
+   "valor": 300,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 29.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1581",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "bolinho-bacalhau__saboreah__600g",
+  "nome": "Bolinho de Bacalhau",
+  "marca": "Saboreah!",
+  "original": "Bolinho de Bacalhau Saboreah! 600g",
+  "categoria": "Congelados",
+  "tamanho": {
+   "valor": 600,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 24.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1582",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "steak-frango__lar__100g",
+  "nome": "Steak de Frango",
+  "marca": "Lar",
+  "original": "Steak de Frango Lar 100g",
+  "categoria": "Congelados",
+  "tamanho": {
+   "valor": 100,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 1.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1583",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "waffle__waaw__210g",
+  "nome": "Waffle",
+  "marca": "Waaw!",
+  "original": "Waffle Waaw! 210g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 210,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 7.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1584",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "pao-queijo__forno-de-minas__400g",
+  "nome": "Pão de Queijo Waffle",
+  "marca": "Forno de Minas",
+  "original": "Pão de Queijo Waffle Forno de Minas 400g",
+  "categoria": "Congelados",
+  "tamanho": {
+   "valor": 400,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 22.9,
+    "exige": [],
+    "condicao": "50% de desconto na 2ª unidade (sai R$ 11,45)"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1585",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "pao-queijo__sao-geraldo__800g",
+  "nome": "Pão de Queijo",
+  "marca": "São Geraldo",
+  "original": "Pão de Queijo São Geraldo 800g",
+  "categoria": "Congelados",
+  "tamanho": {
+   "valor": 800,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 10.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1586",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "alho__easychef__1100g",
+  "nome": "Alho Congelado",
+  "marca": "EasyChef",
+  "original": "Alho Congelado EasyChef 1,1kg",
+  "categoria": "Hortifrúti",
+  "tamanho": {
+   "valor": 1100,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 25.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1587",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "morango__easychef__1100g",
+  "nome": "Morango Congelado",
+  "marca": "EasyChef",
+  "original": "Morango Congelado EasyChef 1,1kg",
+  "categoria": "Hortifrúti",
+  "tamanho": {
+   "valor": 1100,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 16.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1588",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "file-peito-frango__seara__1000g",
+  "nome": "Filé de Peito de Frango",
+  "marca": "Seara",
+  "original": "Filé de Peito de Frango Seara kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 16.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1589",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "filezinho-peito-frango__seara__1000g",
+  "nome": "Filezinho de Peito de Frango (Sassami)",
+  "marca": "Seara",
+  "original": "Filezinho de Peito de Frango (Sassami) Seara, Sadia kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 16.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1590",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "filezinho-peito-frango__sadia__1000g",
+  "nome": "Filezinho de Peito de Frango (Sassami)",
+  "marca": "Sadia",
+  "original": "Filezinho de Peito de Frango (Sassami) Seara, Sadia kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 16.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1591",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "file-peito-frango__sadia__1000g",
+  "nome": "Filé de Peito de Frango",
+  "marca": "Sadia",
+  "original": "Filé de Peito de Frango Sadia kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 17.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1592",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "peito-frango__lar__1000g",
+  "nome": "Filé de Peito de Frango Envelopado",
+  "marca": "Lar",
+  "original": "Filé de Peito de Frango Envelopado Lar kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 15.97,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1593",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "picanha-fatiada__bordon__1000g",
+  "nome": "Picanha Fatiada",
+  "marca": "Bordon",
+  "original": "Picanha Fatiada Bordon kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 49.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1594",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "picanha__friboi__1000g",
+  "nome": "Picanha Bovina a Vácuo (peça)",
+  "marca": "Friboi",
+  "original": "Picanha Bovina a Vácuo (peça) Friboi kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 69.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1595",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "picanha__maturatta__1000g",
+  "nome": "Picanha Bovina a Vácuo (peça)",
+  "marca": "Maturatta",
+  "original": "Picanha Bovina a Vácuo (peça) Maturatta kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 79.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1596",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "file-costela-coracao__maturatta__1000g",
+  "nome": "Filé de Costela ou Coração da Alcatra (peça)",
+  "marca": "Maturatta",
+  "original": "Filé de Costela ou Coração da Alcatra (peça) Maturatta kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 59.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1597",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "coracao-brasa__perdigao__500g",
+  "nome": "Coração Na Brasa",
+  "marca": "Perdigão",
+  "original": "Coração Na Brasa Perdigão 500g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 19.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1598",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "peito-frango-osso__guibon__1000g",
+  "nome": "Peito de Frango sem Osso e com Pele",
+  "marca": "Guibon",
+  "original": "Peito de Frango sem Osso e com Pele Guibon kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 14.95,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1599",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "frango-passarinho__seara__1000g",
+  "nome": "Frango a Passarinho",
+  "marca": "Seara",
+  "original": "Frango a Passarinho Seara kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 12.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1600",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "sobrecoxa-frango__levida__1000g",
+  "nome": "Sobrecoxa de Frango",
+  "marca": "LeVida",
+  "original": "Sobrecoxa de Frango LeVida kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 12.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1601",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "coxa-sobrecoxa-frango__lar__1000g",
+  "nome": "Coxa e Sobrecoxa de Frango",
+  "marca": "Lar",
+  "original": "Coxa e Sobrecoxa de Frango Lar kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 9.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1602",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "moida__friboi__500g",
+  "nome": "Carne Moída",
+  "marca": "Friboi",
+  "original": "Carne Moída Friboi 500g",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 16.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1603",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "coxinhas-asa-frango__copacol__1000g",
+  "nome": "Coxinhas da Asa de Frango",
+  "marca": "Copacol",
+  "original": "Coxinhas da Asa de Frango Copacol kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 11.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1604",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "coxa-sobrecoxa-frango__sem-marca__1000g",
+  "nome": "Coxa com Sobrecoxa de Frango com Dorso",
+  "marca": "",
+  "original": "Coxa com Sobrecoxa de Frango com Dorso kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 7.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1605",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "file-coxa-sobrecoxa__rivelli__1000g",
+  "nome": "Filé de Coxa e Sobrecoxa com Pele",
+  "marca": "Rivelli",
+  "original": "Filé de Coxa e Sobrecoxa com Pele Rivelli kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 12.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1606",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "bisteca-suina__seara__1000g",
+  "nome": "Bisteca Suína",
+  "marca": "Seara",
+  "original": "Bisteca Suína Seara kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 15.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1607",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "linguica-pernil__perdigao__1000g",
+  "nome": "Linguiça de Pernil",
+  "marca": "Perdigão",
+  "original": "Linguiça de Pernil Perdigão kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 14.97,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1608",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "linguica-suina__seara__1000g",
+  "nome": "Linguiça Suína",
+  "marca": "Seara",
+  "original": "Linguiça Suína Seara kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 14.97,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1609",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "sobrecoxa-frango-assa__perdigao__1200g",
+  "nome": "Sobrecoxa de Frango Assa Fácil",
+  "marca": "Perdigão",
+  "original": "Sobrecoxa de Frango Assa Fácil Perdigão 1,2kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1200,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 19.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1610",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "file-salmao__buona-pesca__1000g",
+  "nome": "Filé de Salmão",
+  "marca": "Buona Pesca",
+  "original": "Filé de Salmão Buona Pesca kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 79.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1611",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "file-polaca__dhfish__500g",
+  "nome": "Filé de Polaca",
+  "marca": "Dhfish",
+  "original": "Filé de Polaca Dhfish, Do Chef, Planalto 500g",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 16.97,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1612",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "file-polaca__do-chef__500g",
+  "nome": "Filé de Polaca",
+  "marca": "Do Chef",
+  "original": "Filé de Polaca Dhfish, Do Chef, Planalto 500g",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 16.97,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1613",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "file-polaca__planalto__500g",
+  "nome": "Filé de Polaca",
+  "marca": "Planalto",
+  "original": "Filé de Polaca Dhfish, Do Chef, Planalto 500g",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 16.97,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1614",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "ovos-vermelhos__casbri__20un",
+  "nome": "Ovos Vermelhos Tipo A",
+  "marca": "Casbri",
+  "original": "Ovos Vermelhos Tipo A Casbri c/20 unidades",
+  "categoria": "Hortifrúti",
+  "tamanho": {
+   "valor": 20,
+   "unidade": "un"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 14.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1615",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "ovos-brancos__sem-marca__20un",
+  "nome": "Ovos Brancos Tipo A",
+  "marca": "",
+  "original": "Ovos Brancos Tipo A c/20 unidades",
+  "categoria": "Hortifrúti",
+  "tamanho": {
+   "valor": 20,
+   "unidade": "un"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 9.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1616",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "farinha-lactea__nestle__210g",
+  "nome": "Farinha Láctea",
+  "marca": "Nestlé",
+  "original": "Farinha Láctea Nestlé 210g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 210,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 5.99,
+    "exige": [],
+    "condicao": "leve 210g, pague 180g"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1617",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "cereal-neston-cereais__nestle__210g",
+  "nome": "Cereal Neston 3 Cereais Sachê",
+  "marca": "Nestlé",
+  "original": "Cereal Neston 3 Cereais Sachê Nestlé 210g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 210,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 5.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1618",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "biscoito-recheado-maltado__piraque__85g",
+  "nome": "Biscoito Recheado Maltado",
+  "marca": "Piraquê",
+  "original": "Biscoito Recheado Maltado Piraquê 85g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 85,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 1.79,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1619",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "biscoito-wafer__minueto__81g",
+  "nome": "Biscoito Wafer",
+  "marca": "Minueto",
+  "original": "Biscoito Wafer Minueto 81g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 81,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 1.89,
+    "exige": []
+   },
+   {
+    "valor": 1.65,
+    "exige": [
+     "guana-clube"
+    ],
+    "condicao": "no Guana Clube"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1620",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "biscoito-recheado__oreo__270g",
+  "nome": "Biscoito Recheado",
+  "marca": "Oreo",
+  "original": "Biscoito Recheado Oreo 3x90g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 270,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 8.97,
+    "exige": [],
+    "condicao": "cada pacote sai por R$ 2,99"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1621",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "biscoito-recheado__piraque__160g",
+  "nome": "Biscoito Recheado",
+  "marca": "Piraquê",
+  "original": "Biscoito Recheado Piraquê 160g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 160,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.39,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1622",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "biscoito-cookies__piraque__80g",
+  "nome": "Biscoito Cookies",
+  "marca": "Piraquê",
+  "original": "Biscoito Cookies Piraquê 80g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 80,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1623",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "biscoito-wafer__piraque__100g",
+  "nome": "Biscoito Wafer",
+  "marca": "Piraquê",
+  "original": "Biscoito Wafer Piraquê 100g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 100,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.97,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1624",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "biscoito-cookies__bauducco__96g",
+  "nome": "Biscoito Cookies",
+  "marca": "Bauducco",
+  "original": "Biscoito Cookies Bauducco 96g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 96,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1625",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "batata__pringles__104g",
+  "nome": "Batata",
+  "marca": "Pringles",
+  "original": "Batata Pringles 104g",
+  "categoria": "Hortifrúti",
+  "tamanho": {
+   "valor": 104,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 8.99,
+    "exige": [],
+    "condicao": "104g ou 109g"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1626",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "bombons-sortidos__garoto__220g",
+  "nome": "Bombons Sortidos",
+  "marca": "Garoto",
+  "original": "Bombons Sortidos Garoto 220g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 220,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 10.45,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1627",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "bombons-especialidades__nestle__220g",
+  "nome": "Bombons Especialidades",
+  "marca": "Nestlé",
+  "original": "Bombons Especialidades Nestlé 220g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 220,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 10.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1628",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "chocolate__garoto__80g",
+  "nome": "Chocolate",
+  "marca": "Garoto",
+  "original": "Chocolate Garoto 80g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 80,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 6.99,
+    "exige": [],
+    "condicao": "80g ou 90g"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1629",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "biscoito-palito-grissini__granforno__125g",
+  "nome": "Biscoito Palito Grissini",
+  "marca": "Granforno",
+  "original": "Biscoito Palito Grissini Granforno 125g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 125,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 13.98,
+    "exige": []
+   },
+   {
+    "valor": 9.97,
+    "exige": [
+     "guana-clube"
+    ],
+    "condicao": "no Guana Clube"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1630",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "batata-palha__yoki__100g",
+  "nome": "Batata Palha",
+  "marca": "Yoki",
+  "original": "Batata Palha Yoki 100g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 100,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 6.99,
+    "exige": [],
+    "condicao": "100g ou 105g"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1631",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "farinha-trigo__boa-sorte__1000g",
+  "nome": "Farinha de Trigo Tradicional",
+  "marca": "Boa Sorte",
+  "original": "Farinha de Trigo Tradicional Boa Sorte 1kg",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1632",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "farinha-trigo-especial__globo__1000g",
+  "nome": "Farinha de Trigo Especial",
+  "marca": "Globo",
+  "original": "Farinha de Trigo Especial Globo 1kg",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1633",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "achocolatado-liquido__nescau__180ml",
+  "nome": "Achocolatado Líquido",
+  "marca": "Nescau",
+  "original": "Achocolatado Líquido Nescau 180ml",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 180,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 1.89,
+    "exige": [],
+    "condicao": "leve 180ml, pague 160ml"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1634",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "pao-forma__bauducco__390g",
+  "nome": "Pão de Forma Tradicional",
+  "marca": "Bauducco",
+  "original": "Pão de Forma Tradicional Bauducco 390g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 390,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 6.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1635",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "pao-forma__seven-boys__450g",
+  "nome": "Pão de Forma Tradicional",
+  "marca": "Seven Boys",
+  "original": "Pão de Forma Tradicional Seven Boys 450g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 450,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 5.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1636",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "pao-forma__visconti__400g",
+  "nome": "Pão de Forma Tradicional",
+  "marca": "Visconti",
+  "original": "Pão de Forma Tradicional Visconti 400g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 400,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 6.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1637",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "bisnaguinha__visconti__240g",
+  "nome": "Bisnaguinha",
+  "marca": "Visconti",
+  "original": "Bisnaguinha Visconti 240g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 240,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 5.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1638",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "bisnaguinha__seven-boys__300g",
+  "nome": "Bisnaguinha",
+  "marca": "Seven Boys",
+  "original": "Bisnaguinha Seven Boys 300g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 300,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 5.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1639",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "cereal-infantil__mucilon__180g",
+  "nome": "Cereal Infantil",
+  "marca": "Mucilon",
+  "original": "Cereal Infantil Mucilon 180g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 180,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.99,
+    "exige": [],
+    "condicao": "leve 180g, pague 160g"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1640",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "bolinho-laranja__seven-boys__30g",
+  "nome": "Bolinho de Laranja",
+  "marca": "Seven Boys",
+  "original": "Bolinho de Laranja Seven Boys 30g",
+  "categoria": "Hortifrúti",
+  "tamanho": {
+   "valor": 30,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 1.29,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1641",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "bolinho__ana-maria__70g",
+  "nome": "Bolinho",
+  "marca": "Ana Maria",
+  "original": "Bolinho Ana Maria 70g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 70,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.79,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1642",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "massa-aldente__piraque__400g",
+  "nome": "Massa Aldente",
+  "marca": "Piraquê",
+  "original": "Massa Aldente Piraquê 400g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 400,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.65,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1643",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "massa-semola__dona-benta__500g",
+  "nome": "Massa de Sêmola",
+  "marca": "Dona Benta",
+  "original": "Massa de Sêmola Dona Benta 500g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.36,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1644",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "espaguete__galo__1000g",
+  "nome": "Espaguete de Sêmola",
+  "marca": "Galo",
+  "original": "Espaguete de Sêmola Galo 1kg",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 5.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1645",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "concentrado-guarana__guaraplus__1000ml",
+  "nome": "Concentrado de Guaraná",
+  "marca": "Guaraplus",
+  "original": "Concentrado de Guaraná Guaraplus 1L",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 5.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1646",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "refresco-pronto__dafruta__1000ml",
+  "nome": "Refresco Pronto",
+  "marca": "Dafruta",
+  "original": "Refresco Pronto Dafruta 1L",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1647",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "refrigerante-guarana__antarctica__2250ml",
+  "nome": "Refrigerante Guaraná",
+  "marca": "Antarctica",
+  "original": "Refrigerante Guaraná Antarctica 2,25L",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 2250,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 7.69,
+    "exige": [],
+    "condicao": "2 litros + 250ml grátis"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1648",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "refrigerante__pepsi__2250ml",
+  "nome": "Refrigerante",
+  "marca": "Pepsi",
+  "original": "Refrigerante Pepsi 2,25L",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 2250,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 6.99,
+    "exige": [],
+    "condicao": "2 litros + 250ml grátis"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1649",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "suco-uva__tradicao-do-sul__1350ml",
+  "nome": "Suco de Uva",
+  "marca": "Tradição do Sul",
+  "original": "Suco de Uva Tradição do Sul 1,35L",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 1350,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 12.89,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1650",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "suco-uva__alma-do-sul__1350ml",
+  "nome": "Suco de Uva",
+  "marca": "Alma do Sul",
+  "original": "Suco de Uva Alma do Sul 1,35L",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 1350,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 12.79,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1651",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "suco-uva__serra-do-vinhedo__1000ml",
+  "nome": "Suco de Uva",
+  "marca": "Serra do Vinhedo",
+  "original": "Suco de Uva Serra do Vinhedo 1L",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 9.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1652",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "refresco-po__frisco__18g",
+  "nome": "Refresco em Pó",
+  "marca": "Frisco",
+  "original": "Refresco em Pó Frisco 18g",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 18,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 0.79,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1653",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "cha-ice-tea__lipton__1500ml",
+  "nome": "Chá Ice Tea",
+  "marca": "Lipton",
+  "original": "Chá Ice Tea Lipton 1,5L",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 1500,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 5.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1654",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "bebida-levemente-gaseificada__h2oh__1500ml",
+  "nome": "Bebida Levemente Gaseificada",
+  "marca": "H2OH!",
+  "original": "Bebida Levemente Gaseificada H2OH! 1,5L",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 1500,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 6.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1655",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "refresco__guaraplus__290ml",
+  "nome": "Refresco Copo",
+  "marca": "Guaraplus",
+  "original": "Refresco Copo Guaraplus 290ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 290,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 0.69,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1656",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "cha__lipton__340ml",
+  "nome": "Chá Lata",
+  "marca": "Lipton",
+  "original": "Chá Lata Lipton 340ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 340,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1657",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "bebida-fruit-shoot__maguary__150ml",
+  "nome": "Bebida Fruit Shoot",
+  "marca": "Maguary",
+  "original": "Bebida Fruit Shoot Maguary 150ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 150,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 1.19,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1658",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "cerveja__brahma__269ml",
+  "nome": "Cerveja Lata",
+  "marca": "Brahma",
+  "original": "Cerveja Lata Brahma 269ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 269,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.39,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1659",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "cerveja__antarctica__269ml",
+  "nome": "Cerveja Lata",
+  "marca": "Antarctica",
+  "original": "Cerveja Lata Antarctica 269ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 269,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.35,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1660",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "cerveja__spaten__269ml",
+  "nome": "Cerveja Lata",
+  "marca": "Spaten",
+  "original": "Cerveja Lata Spaten 269ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 269,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.67,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1661",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "cerveja-zero__brahma__473ml",
+  "nome": "Cerveja Zero Latão",
+  "marca": "Brahma",
+  "original": "Cerveja Zero Latão Brahma 473ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 473,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.89,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1662",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "cerveja__original__5676ml",
+  "nome": "Cerveja Latão (pack c/12)",
+  "marca": "Original",
+  "original": "Cerveja Latão (pack c/12) Original 12x473ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 5676,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 52.68,
+    "exige": [],
+    "condicao": "cada lata sai por R$ 4,39"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1663",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "cerveja__corona__473ml",
+  "nome": "Cerveja Latão",
+  "marca": "Corona",
+  "original": "Cerveja Latão Corona 473ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 473,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 5.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1664",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "cerveja-long-neck__stella-artois__330ml",
+  "nome": "Cerveja Long Neck",
+  "marca": "Stella Artois",
+  "original": "Cerveja Long Neck Stella Artois 330ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 330,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1665",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "cerveja-long-neck__corona__330ml",
+  "nome": "Cerveja Long Neck Extra ou Cero",
+  "marca": "Corona",
+  "original": "Cerveja Long Neck Extra ou Cero Corona 330ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 330,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 6.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1666",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "cerveja-long-neck__michelob-ultra__330ml",
+  "nome": "Cerveja Long Neck",
+  "marca": "Michelob Ultra",
+  "original": "Cerveja Long Neck Michelob Ultra 330ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 330,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 5.39,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1667",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "vodka-ice__smirnoff__275ml",
+  "nome": "Vodka Ice",
+  "marca": "Smirnoff",
+  "original": "Vodka Ice Smirnoff 275ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 275,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 6.49,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1668",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "vodka-ice__smirnoff__269ml",
+  "nome": "Vodka Ice Lata",
+  "marca": "Smirnoff",
+  "original": "Vodka Ice Lata Smirnoff 269ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 269,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1669",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "gin-london-dry__tanqueray__375ml",
+  "nome": "Gin London Dry",
+  "marca": "Tanqueray",
+  "original": "Gin London Dry Tanqueray 375ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 375,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 59.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1670",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "gin__gordons__750ml",
+  "nome": "Gin",
+  "marca": "Gordon's",
+  "original": "Gin Gordon's 750ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 750,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 64.9,
+    "exige": [],
+    "condicao": "Pink ou Lemon 700ml, ou Tradicional 750ml"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1671",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "vodka__smirnoff__600ml",
+  "nome": "Vodka",
+  "marca": "Smirnoff",
+  "original": "Vodka Smirnoff 600ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 600,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 22.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1672",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "aperitivo__aperol__750ml",
+  "nome": "Aperitivo",
+  "marca": "Aperol",
+  "original": "Aperitivo Aperol 750ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 750,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 49.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1673",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "energetico__red-bull__473ml",
+  "nome": "Energético",
+  "marca": "Red Bull",
+  "original": "Energético Red Bull 473ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 473,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 11.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1674",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "espumante-italiano-brut__la-marchesina__750ml",
+  "nome": "Espumante Italiano Brut Branco ou Rosé",
+  "marca": "La Marchesina",
+  "original": "Espumante Italiano Brut Branco ou Rosé La Marchesina 750ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 750,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 37.5,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1675",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "espumante__mumm__750ml",
+  "nome": "Espumante",
+  "marca": "Mumm",
+  "original": "Espumante Mumm 750ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 750,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 44.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1676",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "whisky__jack-daniels__1000ml",
+  "nome": "Whisky",
+  "marca": "Jack Daniel's",
+  "original": "Whisky Jack Daniel's 1L",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 129.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1677",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "whisky-red-label__johnnie-walker__500ml",
+  "nome": "Whisky Red Label",
+  "marca": "Johnnie Walker",
+  "original": "Whisky Red Label Johnnie Walker 500ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 39.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1678",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "whisky-black-label__johnnie-walker__500ml",
+  "nome": "Whisky Black Label",
+  "marca": "Johnnie Walker",
+  "original": "Whisky Black Label Johnnie Walker 500ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 84.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1679",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "whisky-gold-label__johnnie-walker__750ml",
+  "nome": "Whisky Gold Label Reserve",
+  "marca": "Johnnie Walker",
+  "original": "Whisky Gold Label Reserve Johnnie Walker 750ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 750,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 229.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1680",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "whisky-anos__old-parr__1000ml",
+  "nome": "Whisky 12 Anos",
+  "marca": "Old Parr",
+  "original": "Whisky 12 Anos Old Parr 1L",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 139.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1681",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "whisky-finest__ballantines__750ml",
+  "nome": "Whisky Finest",
+  "marca": "Ballantine's",
+  "original": "Whisky Finest Ballantine's 750ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 750,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 49.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1682",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "lava-roupas-liquido__tixan-ype__3000ml",
+  "nome": "Lava-Roupas Líquido",
+  "marca": "Tixan Ypê",
+  "original": "Lava-Roupas Líquido Tixan Ypê 3L",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 3000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 25.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1683",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "lava-roupas-liquido__suprema__5000ml",
+  "nome": "Lava-Roupas Líquido",
+  "marca": "Suprema",
+  "original": "Lava-Roupas Líquido Suprema 5L",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 5000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 22.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1684",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "lava-roupas-liquido__coala__3000ml",
+  "nome": "Lava-Roupas Líquido Chá Branco",
+  "marca": "Coala",
+  "original": "Lava-Roupas Líquido Chá Branco Coala 3L",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 3000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 27.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1685",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "tira-manchas__calisul__500g",
+  "nome": "Tira-Manchas",
+  "marca": "Calisul",
+  "original": "Tira-Manchas Calisul 500g",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 13.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1686",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "alvejante__vanish__500ml",
+  "nome": "Alvejante Refil",
+  "marca": "Vanish",
+  "original": "Alvejante Refil Vanish 500ml",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 6.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1687",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "lava-roupas__ola__500ml",
+  "nome": "Lava-Roupas",
+  "marca": "Olá",
+  "original": "Lava-Roupas Olá 500ml",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 13.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1688",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "lava-roupas-liquido__uau__1700ml",
+  "nome": "Lava-Roupas Líquido",
+  "marca": "Uau",
+  "original": "Lava-Roupas Líquido Uau 1,7L",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 1700,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 9.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1689",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "lava-roupas__ares__5000ml",
+  "nome": "Lava-Roupas",
+  "marca": "Ares",
+  "original": "Lava-Roupas Ares 5L",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 5000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 14.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1690",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "limpador-multiuso__tudo__500ml",
+  "nome": "Limpador Multiuso",
+  "marca": "Tudo",
+  "original": "Limpador Multiuso Tudo 500ml",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.47,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1691",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "limpador-multiuso__uau__500ml",
+  "nome": "Limpador Multiuso",
+  "marca": "Uau",
+  "original": "Limpador Multiuso Uau 500ml",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.47,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1692",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "limpador-perfumado__uau__1800ml",
+  "nome": "Limpador Perfumado",
+  "marca": "Uau",
+  "original": "Limpador Perfumado Uau 1,8L",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 1800,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 9.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1693",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "limpador-perfumes-natureza__veja__1000ml",
+  "nome": "Limpador Perfumes da Natureza",
+  "marca": "Veja",
+  "original": "Limpador Perfumes da Natureza Veja 1L",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 6.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1694",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "limpador__casa-perfume__500ml",
+  "nome": "Limpador",
+  "marca": "Casa & Perfume",
+  "original": "Limpador Casa & Perfume 500ml",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1695",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "limpador-perfumado__casaflor__500ml",
+  "nome": "Limpador Perfumado",
+  "marca": "Casaflor",
+  "original": "Limpador Perfumado Casaflor 500ml",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.47,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1696",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "limpador-perfumado__zulu__500ml",
+  "nome": "Limpador Perfumado",
+  "marca": "Zulu",
+  "original": "Limpador Perfumado Zulu 500ml",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1697",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "desinfetante-pinho__uau__500ml",
+  "nome": "Desinfetante Pinho",
+  "marca": "Uau",
+  "original": "Desinfetante Pinho Uau 500ml",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1698",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "agua-sanitaria__vex__2000ml",
+  "nome": "Água Sanitária",
+  "marca": "Vex",
+  "original": "Água Sanitária Vex 2L",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 2000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.49,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1699",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "desinfetante__urca__2000ml",
+  "nome": "Desinfetante",
+  "marca": "Urca",
+  "original": "Desinfetante Urca 2L",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 2000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 5.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1700",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "limpador-gel__inspira__500ml",
+  "nome": "Limpador Gel",
+  "marca": "Inspira",
+  "original": "Limpador Gel Inspira 500ml",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 7.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1701",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "lustra-moveis__uau__200ml",
+  "nome": "Lustra-Móveis",
+  "marca": "Uau",
+  "original": "Lustra-Móveis Uau 200ml",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 200,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.77,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1702",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "detergente__odd__500ml",
+  "nome": "Detergente",
+  "marca": "Odd",
+  "original": "Detergente Odd 500ml",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.19,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1703",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "inseticida__pro-inset__350ml",
+  "nome": "Inseticida",
+  "marca": "Pro Inset",
+  "original": "Inseticida Pro Inset 350ml",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 350,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 8.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1704",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "repelente-mosquito__vazza__200ml",
+  "nome": "Repelente Mosquito",
+  "marca": "Vazza",
+  "original": "Repelente Mosquito Vazza 200ml",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 200,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 14.9,
+    "exige": [],
+    "condicao": "exceto Kids"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1705",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "shampoo-condicionador__ox__375ml",
+  "nome": "Shampoo + Condicionador",
+  "marca": "OX",
+  "original": "Shampoo + Condicionador OX 375ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 375,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 26.9,
+    "exige": [],
+    "condicao": "shampoo 375ml + condicionador 170ml"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1706",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "kit-shampoo-condicionador__pantene__sem-tamanho",
+  "nome": "Kit Shampoo + Condicionador",
+  "marca": "Pantene",
+  "original": "Kit Shampoo + Condicionador Pantene, Elseve",
+  "categoria": "Higiene",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 28.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1707",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "kit-shampoo-condicionador__elseve__sem-tamanho",
+  "nome": "Kit Shampoo + Condicionador",
+  "marca": "Elseve",
+  "original": "Kit Shampoo + Condicionador Pantene, Elseve",
+  "categoria": "Higiene",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 28.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1708",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "oleo-extraordinario__elseve__100ml",
+  "nome": "Óleo Extraordinário",
+  "marca": "Elseve",
+  "original": "Óleo Extraordinário Elseve 100ml",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 100,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 29.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1709",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "kit-shampoo-condicionador__kolene__sem-tamanho",
+  "nome": "Kit Shampoo + Condicionador",
+  "marca": "Kolene",
+  "original": "Kit Shampoo + Condicionador Kolene, Skala",
+  "categoria": "Higiene",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 11.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1710",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "kit-shampoo-condicionador__skala__sem-tamanho",
+  "nome": "Kit Shampoo + Condicionador",
+  "marca": "Skala",
+  "original": "Kit Shampoo + Condicionador Kolene, Skala",
+  "categoria": "Higiene",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 11.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1711",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "oleo-nutricao__ox__120ml",
+  "nome": "Óleo de Nutrição",
+  "marca": "OX",
+  "original": "Óleo de Nutrição OX 120ml",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 120,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 24.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1712",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "shampoo__ox__400ml",
+  "nome": "Shampoo",
+  "marca": "OX",
+  "original": "Shampoo OX 400ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 400,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 18.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1713",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "mascara-tratamento__ox__300g",
+  "nome": "Máscara de Tratamento",
+  "marca": "OX",
+  "original": "Máscara de Tratamento OX 300g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 300,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 18.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1714",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "serum-capilar__elseve__100ml",
+  "nome": "Sérum Capilar",
+  "marca": "Elseve",
+  "original": "Sérum Capilar Elseve 100ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 100,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 39.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1715",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "shampoo__elseve__400ml",
+  "nome": "Shampoo",
+  "marca": "Elseve",
+  "original": "Shampoo Elseve 400ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 400,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 19.98,
+    "exige": [],
+    "condicao": "exceto Anticaspa"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1716",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "creme-tratamento__elseve__300g",
+  "nome": "Creme de Tratamento",
+  "marca": "Elseve",
+  "original": "Creme de Tratamento Elseve 300g",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 300,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 24.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1717",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "shampoo-condicionador__seda__300ml",
+  "nome": "Shampoo + Condicionador",
+  "marca": "Seda",
+  "original": "Shampoo + Condicionador Seda 300ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 300,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 15.98,
+    "exige": [],
+    "condicao": "shampoo 300ml + condicionador 190ml"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1718",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "agua-micelar__loreal-paris__200ml",
+  "nome": "Água Micelar",
+  "marca": "L'Oréal Paris",
+  "original": "Água Micelar L'Oréal Paris 200ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 200,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 17.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1719",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "mascara__siage__250g",
+  "nome": "Máscara",
+  "marca": "Siàge",
+  "original": "Máscara Siàge 250g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 250,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 69.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1720",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "shampoo__siage__250ml",
+  "nome": "Shampoo",
+  "marca": "Siàge",
+  "original": "Shampoo Siàge 250ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 250,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 39.9,
+    "exige": []
+   }
+  ],
+  "precoDe": 45.99,
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1721",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "kit-shampoo-condicionador__inoar__500ml",
+  "nome": "Kit Shampoo + Condicionador",
+  "marca": "Inoar",
+  "original": "Kit Shampoo + Condicionador Inoar 500ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 29.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1722",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "shampoo-colageno__pantene__510ml",
+  "nome": "Shampoo Colágeno",
+  "marca": "Pantene",
+  "original": "Shampoo Colágeno Pantene 510ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 510,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 29.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1723",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "leave-in-bond__dove__50ml",
+  "nome": "Leave-In Bond Repair",
+  "marca": "Dove",
+  "original": "Leave-In Bond Repair Dove 50ml",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 50,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 17.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1724",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "shampoo__dove__350ml",
+  "nome": "Shampoo",
+  "marca": "Dove",
+  "original": "Shampoo Dove 350ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 350,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 19.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1725",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "oleo-bond-repair__dove__110ml",
+  "nome": "Óleo Bond Repair",
+  "marca": "Dove",
+  "original": "Óleo Bond Repair Dove 110ml",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 110,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 27.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1726",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "shampoo__pantene__400ml",
+  "nome": "Shampoo",
+  "marca": "Pantene",
+  "original": "Shampoo Pantene 400ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 400,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 19.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1727",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "oleo-milagroso__pantene__95ml",
+  "nome": "Óleo Milagroso",
+  "marca": "Pantene",
+  "original": "Óleo Milagroso Pantene 95ml",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 95,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 24.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1728",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "kit-shampoo-condicionador__siage__250ml",
+  "nome": "Kit Shampoo + Condicionador",
+  "marca": "Siàge",
+  "original": "Kit Shampoo + Condicionador Siàge 250ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 250,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 69.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1729",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "kit-shampoo-creme__yamasterol__320ml",
+  "nome": "Kit Shampoo + Creme Multifuncional",
+  "marca": "Yamasterol",
+  "original": "Kit Shampoo + Creme Multifuncional Yamasterol 320ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 320,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 16.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1730",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "kit-shampoo-condicionador__cadiveu__250ml",
+  "nome": "Kit Shampoo + Condicionador + Sérum",
+  "marca": "Cadiveu",
+  "original": "Kit Shampoo + Condicionador + Sérum Cadiveu 250ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 250,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 59.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1731",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "creme-tratamento-pentear__skafe__1000g",
+  "nome": "Creme de Tratamento ou para Pentear Keraform",
+  "marca": "Skafe",
+  "original": "Creme de Tratamento ou para Pentear Keraform Skafe 1kg",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 12.75,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1732",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "creme-tratamento__skala__1000g",
+  "nome": "Creme de Tratamento",
+  "marca": "Skala",
+  "original": "Creme de Tratamento Skala 1kg",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 9.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1733",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "shampoo-morte-subita__lola__250ml",
+  "nome": "Shampoo Morte Súbita",
+  "marca": "Lola",
+  "original": "Shampoo Morte Súbita Lola 250ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 250,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 29.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1734",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "spray-capilar-morte__lola__250ml",
+  "nome": "Spray Capilar Morte Súbita",
+  "marca": "Lola",
+  "original": "Spray Capilar Morte Súbita Lola 250ml",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 250,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 29.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1735",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "mascara-capilar-morte__lola__450g",
+  "nome": "Máscara Capilar Morte Súbita",
+  "marca": "Lola",
+  "original": "Máscara Capilar Morte Súbita Lola 450g",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 450,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 49.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1736",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "coloracao__cor-ton__sem-tamanho",
+  "nome": "Coloração",
+  "marca": "Cor&Ton",
+  "original": "Coloração Cor&Ton",
+  "categoria": "Higiene",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 11.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1737",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "coloracao-imedia-excellence__loreal-paris__sem-tamanho",
+  "nome": "Coloração Imédia Excellence",
+  "marca": "L'Oréal Paris",
+  "original": "Coloração Imédia Excellence L'Oréal Paris",
+  "categoria": "Higiene",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 29.98,
+    "exige": [],
+    "condicao": "exceto tons vermelhos"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1738",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "antisseptico-bucal__cepacol__500ml",
+  "nome": "Antisséptico Bucal",
+  "marca": "Cepacol",
+  "original": "Antisséptico Bucal Cepacol 500ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 11.98,
+    "exige": [],
+    "condicao": "leve 500ml, pague 350ml"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1739",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "antisseptico-bucal__oral-b__500ml",
+  "nome": "Antisséptico Bucal",
+  "marca": "Oral-B",
+  "original": "Antisséptico Bucal Oral-B 500ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 16.98,
+    "exige": [],
+    "condicao": "leve 500ml, pague 300ml"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1740",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "escova-dental-premier__colgate__sem-tamanho",
+  "nome": "Escova Dental Premier Clean",
+  "marca": "Colgate",
+  "original": "Escova Dental Premier Clean Colgate",
+  "categoria": "Higiene",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.39,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1741",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "escova-dental-classic__sem-marca__sem-tamanho",
+  "nome": "Escova Dental Classic Confort ou Power Dent",
+  "marca": "",
+  "original": "Escova Dental Classic Confort ou Power Dent",
+  "categoria": "Higiene",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 1.19,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1742",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "sabonete__nivea__85g",
+  "nome": "Sabonete",
+  "marca": "Nivea",
+  "original": "Sabonete Nivea 85g",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 85,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 1.99,
+    "exige": [],
+    "condicao": "exceto Creme Care"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1743",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "sabonete__dove__90g",
+  "nome": "Sabonete",
+  "marca": "Dove",
+  "original": "Sabonete Dove 90g",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 90,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1744",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "sabonete__dove__6un",
+  "nome": "Sabonete Pack",
+  "marca": "Dove",
+  "original": "Sabonete Pack Dove c/6 unidades",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 6,
+   "unidade": "un"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 22.74,
+    "exige": [],
+    "condicao": "cada unidade sai por R$ 3,79"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1745",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "creme-dental-tripla__colgate__180g",
+  "nome": "Creme Dental Tripla Ação",
+  "marca": "Colgate",
+  "original": "Creme Dental Tripla Ação Colgate 180g",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 180,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 6.88,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1746",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "creme-dental__oral-b__150g",
+  "nome": "Creme Dental 1.2.3",
+  "marca": "Oral-B",
+  "original": "Creme Dental 1.2.3 Oral-B 150g",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 150,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1747",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "creme-dental-mpa__colgate__120g",
+  "nome": "Creme Dental MPA",
+  "marca": "Colgate",
+  "original": "Creme Dental MPA Colgate 120g",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 120,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 5.79,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1748",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "sabonete__albany__80g",
+  "nome": "Sabonete",
+  "marca": "Albany",
+  "original": "Sabonete Albany 80g",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 80,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 1.49,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1749",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "sabonete-gelato__albany__80g",
+  "nome": "Sabonete Gelato",
+  "marca": "Albany",
+  "original": "Sabonete Gelato Albany 80g",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 80,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 1.79,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1750",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "creme-dental__sensodyne__90g",
+  "nome": "Creme Dental",
+  "marca": "Sensodyne",
+  "original": "Creme Dental Sensodyne 90g",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 90,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 14.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1751",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "creme-dental-tripla__sorriso__120g",
+  "nome": "Creme Dental Tripla Limpeza",
+  "marca": "Sorriso",
+  "original": "Creme Dental Tripla Limpeza Sorriso 120g",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 120,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.49,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1752",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "sabonete__farnese__85g",
+  "nome": "Sabonete",
+  "marca": "Farnese",
+  "original": "Sabonete Farnese 85g",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 85,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 1.19,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1753",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "sabonete__farnese__180g",
+  "nome": "Sabonete",
+  "marca": "Farnese",
+  "original": "Sabonete Farnese 180g",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 180,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.79,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1754",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "sabonete-brasilidades-agua__francis__80g",
+  "nome": "Sabonete Brasilidades Água de Coco",
+  "marca": "Francis",
+  "original": "Sabonete Brasilidades Água de Coco Francis 80g",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 80,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.39,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1755",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "sabonete-intenso__francis__80g",
+  "nome": "Sabonete Intenso",
+  "marca": "Francis",
+  "original": "Sabonete Intenso Francis 80g",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 80,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 1.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1756",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "creme-dental-total__colgate__180g",
+  "nome": "Creme Dental Total",
+  "marca": "Colgate",
+  "original": "Creme Dental Total Colgate 180g",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 180,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 14.49,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1757",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "sabonete__above__75g",
+  "nome": "Sabonete",
+  "marca": "Above",
+  "original": "Sabonete Above 75g",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 75,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1758",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "body-splash__barbours__200ml",
+  "nome": "Body Splash",
+  "marca": "Barbour's",
+  "original": "Body Splash Barbour's 200ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 200,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 39.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1759",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "agua-micelar__nivea__200ml",
+  "nome": "Água Micelar",
+  "marca": "Nivea",
+  "original": "Água Micelar Nivea 200ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 200,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 17.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1760",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "sabonete-liquido-gel__nivea__140g",
+  "nome": "Sabonete Líquido Gel Pele Mista a Oleosa",
+  "marca": "Nivea",
+  "original": "Sabonete Líquido Gel Pele Mista a Oleosa Nivea 140g",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 140,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 26.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1761",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "hidratante__monange__200ml",
+  "nome": "Hidratante",
+  "marca": "Monange",
+  "original": "Hidratante Monange, Paixão 200ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 200,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 7.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1762",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "hidratante__paixao__200ml",
+  "nome": "Hidratante",
+  "marca": "Paixão",
+  "original": "Hidratante Monange, Paixão 200ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 200,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 7.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1763",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "sabonete-liquido__lux__200ml",
+  "nome": "Sabonete Líquido Refil",
+  "marca": "Lux",
+  "original": "Sabonete Líquido Refil Lux 200ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 200,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 6.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1764",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "sabonete-liquido__nivea__200ml",
+  "nome": "Sabonete Líquido Refil",
+  "marca": "Nivea",
+  "original": "Sabonete Líquido Refil Nivea 200ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 200,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 6.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1765",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "sabonete-liquido__coala__500ml",
+  "nome": "Sabonete Líquido",
+  "marca": "Coala",
+  "original": "Sabonete Líquido Coala 500ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 12.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1766",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "sabonete-liquido-oleo__nivea__200ml",
+  "nome": "Sabonete Líquido Óleo de Banho",
+  "marca": "Nivea",
+  "original": "Sabonete Líquido Óleo de Banho Nivea 200ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 200,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 29.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1767",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "sabonete-liquido__zarb__250ml",
+  "nome": "Sabonete Líquido",
+  "marca": "Zarb",
+  "original": "Sabonete Líquido Zarb 250ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 250,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.79,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1768",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "desodorante-roll-on__dove__50ml",
+  "nome": "Desodorante Roll-On",
+  "marca": "Dove",
+  "original": "Desodorante Roll-On Dove 50ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 50,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 9.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1769",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "desodorante-roll-on__nivea__50ml",
+  "nome": "Desodorante Roll-On",
+  "marca": "Nivea",
+  "original": "Desodorante Roll-On Nivea 50ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 50,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 8.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1770",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "desodorante-roll-on__dryon__85ml",
+  "nome": "Desodorante Roll-On",
+  "marca": "Dryon",
+  "original": "Desodorante Roll-On Dryon 85ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 85,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 7.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1771",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "desodorante-aerossol__rexona__150ml",
+  "nome": "Desodorante Aerossol",
+  "marca": "Rexona",
+  "original": "Desodorante Aerossol Rexona 150ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 150,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 12.9,
+    "exige": [],
+    "condicao": "exceto Clinical"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1772",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "desodorante-aerossol__nivea__150ml",
+  "nome": "Desodorante Aerossol",
+  "marca": "Nivea",
+  "original": "Desodorante Aerossol Nivea 150ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 150,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 9.99,
+    "exige": [],
+    "condicao": "exceto Deep e Deomilk"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1773",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "absorvente__always__8un",
+  "nome": "Absorvente Básico Suave",
+  "marca": "Always",
+  "original": "Absorvente Básico Suave Always c/8 unidades",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 8,
+   "unidade": "un"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.49,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1774",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "absorvente-gel-noturno__intimus__8un",
+  "nome": "Absorvente Gel Noturno",
+  "marca": "Intimus",
+  "original": "Absorvente Gel Noturno Intimus c/8 unidades",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 8,
+   "unidade": "un"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1775",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "absorvente-gel-seca__intimus__8un",
+  "nome": "Absorvente Gel Seca ou Suave",
+  "marca": "Intimus",
+  "original": "Absorvente Gel Seca ou Suave Intimus c/8 unidades",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 8,
+   "unidade": "un"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.49,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1776",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "absorvente-active-suave__diana__16un",
+  "nome": "Absorvente Active Suave",
+  "marca": "Diana",
+  "original": "Absorvente Active Suave Diana c/16 unidades",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 16,
+   "unidade": "un"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 5.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1777",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "absorvente-noturno__diana__16un",
+  "nome": "Absorvente Noturno",
+  "marca": "Diana",
+  "original": "Absorvente Noturno Diana c/16 unidades",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 16,
+   "unidade": "un"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 8.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1778",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "shampoo-baby__johnsons__400ml",
+  "nome": "Shampoo Baby",
+  "marca": "Johnson's",
+  "original": "Shampoo Baby Johnson's 400ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 400,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 17.98,
+    "exige": []
+   }
+  ],
+  "precoDe": 22.9,
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1779",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "sabonete-liquido-glicerinado__granado__250ml",
+  "nome": "Sabonete Líquido Glicerinado Bebê",
+  "marca": "Granado",
+  "original": "Sabonete Líquido Glicerinado Bebê Granado 250ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 250,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 14.98,
+    "exige": []
+   }
+  ],
+  "precoDe": 18.98,
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1780",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "shampoo-extra-suave__huggies__200ml",
+  "nome": "Shampoo Extra Suave ou Camomila",
+  "marca": "Huggies",
+  "original": "Shampoo Extra Suave ou Camomila Huggies 200ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 200,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 9.98,
+    "exige": []
+   }
+  ],
+  "precoDe": 11.99,
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1781",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "sabonete__huggies__75g",
+  "nome": "Sabonete",
+  "marca": "Huggies",
+  "original": "Sabonete Huggies 75g",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 75,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 1.99,
+    "exige": []
+   }
+  ],
+  "precoDe": 2.69,
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1782",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "sabonete-liquido__huggies__200ml",
+  "nome": "Sabonete Líquido Refil",
+  "marca": "Huggies",
+  "original": "Sabonete Líquido Refil Huggies 200ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 200,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 6.99,
+    "exige": []
+   }
+  ],
+  "precoDe": 8.98,
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1783",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "sabonete-liquido__bla-bla-bla__250ml",
+  "nome": "Sabonete Líquido",
+  "marca": "Blá-Blá-Blá",
+  "original": "Sabonete Líquido Blá-Blá-Blá 250ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 250,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1784",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "shampoo-talco-bebe__granado__sem-tamanho",
+  "nome": "Shampoo ou Talco Bebê",
+  "marca": "Granado",
+  "original": "Shampoo ou Talco Bebê Granado",
+  "categoria": "Higiene",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 15.99,
+    "exige": [],
+    "condicao": "shampoo 250ml ou talco 100g"
+   },
+   {
+    "valor": 14.98,
+    "exige": [
+     "guana-clube"
+    ],
+    "condicao": "no Guana Clube"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1785",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "shampoo-condicionador-creme__seda__300ml",
+  "nome": "Shampoo, Condicionador ou Creme de Pentear Juntinhos",
+  "marca": "Seda",
+  "original": "Shampoo, Condicionador ou Creme de Pentear Juntinhos Seda 300ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 300,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 10.99,
+    "exige": []
+   },
+   {
+    "valor": 9.98,
+    "exige": [
+     "guana-clube"
+    ],
+    "condicao": "no Guana Clube"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1786",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "sabonete__pompom__70g",
+  "nome": "Sabonete",
+  "marca": "Pompom",
+  "original": "Sabonete Pompom 70g",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 70,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 1.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1787",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "shampoo__pompom__200ml",
+  "nome": "Shampoo",
+  "marca": "Pompom",
+  "original": "Shampoo Pompom 200ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 200,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 8.99,
+    "exige": []
+   },
+   {
+    "valor": 6.99,
+    "exige": [
+     "guana-clube"
+    ],
+    "condicao": "no Guana Clube"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1788",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "sabonete-baby__dove__75g",
+  "nome": "Sabonete Baby",
+  "marca": "Dove",
+  "original": "Sabonete Baby Dove 75g",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 75,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.89,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1789",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "shampoo-baby__dove__200ml",
+  "nome": "Shampoo Baby",
+  "marca": "Dove",
+  "original": "Shampoo Baby Dove 200ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 200,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 11.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1790",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "shampoo-baby__dove__400ml",
+  "nome": "Shampoo Baby",
+  "marca": "Dove",
+  "original": "Shampoo Baby Dove 400ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 400,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 19.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1791",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "shampoo-cachinhos__kolene__300ml",
+  "nome": "Shampoo Cachinhos",
+  "marca": "Kolene",
+  "original": "Shampoo Cachinhos Kolene 300ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 300,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 9.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1792",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "gelatina-cachinhos__kolene__500g",
+  "nome": "Gelatina Cachinhos",
+  "marca": "Kolene",
+  "original": "Gelatina Cachinhos Kolene 500g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 17.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1793",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "shampoo-condicionador-creme__skafe__300ml",
+  "nome": "Shampoo, Condicionador ou Creme Natutrat Kids",
+  "marca": "Skafe",
+  "original": "Shampoo, Condicionador ou Creme Natutrat Kids Skafe 300ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 300,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 7.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1794",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "sabonete__flora-nenen__80g",
+  "nome": "Sabonete",
+  "marca": "Flora Nenen",
+  "original": "Sabonete Flora Nenen 80g",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 80,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 1.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1795",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "sabonete-liquido__flora-nenen__250ml",
+  "nome": "Sabonete Líquido Sachê",
+  "marca": "Flora Nenen",
+  "original": "Sabonete Líquido Sachê Flora Nenen 250ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 250,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.99,
+    "exige": []
+   },
+   {
+    "valor": 3.99,
+    "exige": [
+     "guana-clube"
+    ],
+    "condicao": "no Guana Clube"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1796",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "shampoo-baby__baruel__400ml",
+  "nome": "Shampoo Baby",
+  "marca": "Baruel",
+  "original": "Shampoo Baby Baruel 400ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 400,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 13.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1797",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "sabonete-liquido-baby__baruel__400ml",
+  "nome": "Sabonete Líquido Baby",
+  "marca": "Baruel",
+  "original": "Sabonete Líquido Baby Baruel 400ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 400,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 14.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1798",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "kit-shampoo-condicionador__cheirinho-de-bebe__210ml",
+  "nome": "Kit Shampoo + Condicionador",
+  "marca": "Cheirinho de Bebê",
+  "original": "Kit Shampoo + Condicionador Cheirinho de Bebê 210ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 210,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 19.98,
+    "exige": []
+   },
+   {
+    "valor": 17.98,
+    "exige": [
+     "guana-clube"
+    ],
+    "condicao": "no Guana Clube"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1799",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "kit__bla-bla-bla__300ml",
+  "nome": "Kit",
+  "marca": "Blá-Blá-Blá",
+  "original": "Kit Blá-Blá-Blá 300ml",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 300,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 13.98,
+    "exige": []
+   },
+   {
+    "valor": 10.99,
+    "exige": [
+     "guana-clube"
+    ],
+    "condicao": "no Guana Clube"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1800",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "kit-shampoo-condicionador__tra-la-la__480ml",
+  "nome": "Kit Shampoo + Condicionador",
+  "marca": "Trá Lá Lá",
+  "original": "Kit Shampoo + Condicionador Trá Lá Lá 480ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 480,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 17.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1801",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "kit-shampoo-condicionador__palmolive__315ml",
+  "nome": "Kit Shampoo + Condicionador Kids",
+  "marca": "Palmolive",
+  "original": "Kit Shampoo + Condicionador Kids Palmolive 315ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 315,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 29.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1802",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "desodorante-roll-on__tra-la-la__65ml",
+  "nome": "Desodorante Roll-On",
+  "marca": "Trá Lá Lá",
+  "original": "Desodorante Roll-On Trá Lá Lá 65ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 65,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 11.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1803",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "hastes-flexiveis__topz__75un",
+  "nome": "Hastes Flexíveis",
+  "marca": "Topz",
+  "original": "Hastes Flexíveis Topz c/75 unidades",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 75,
+   "unidade": "un"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 1.39,
+    "exige": []
+   },
+   {
+    "valor": 1.19,
+    "exige": [
+     "guana-clube"
+    ],
+    "condicao": "no Guana Clube"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1804",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "enxaguante-bucal__carmed__250ml",
+  "nome": "Enxaguante Bucal",
+  "marca": "Carmed",
+  "original": "Enxaguante Bucal Carmed 250ml",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 250,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 19.98,
+    "exige": [],
+    "condicao": "leve 2, pague 1 (cada unidade sai por R$ 9,99)"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1805",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "gel-dental__carmed__70g",
+  "nome": "Gel Dental",
+  "marca": "Carmed",
+  "original": "Gel Dental Carmed 70g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 70,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 19.98,
+    "exige": [],
+    "condicao": "leve 2, pague 1 (cada unidade sai por R$ 9,99)"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1806",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "gel-dental-harry__colgate__100g",
+  "nome": "Gel Dental Harry Potter",
+  "marca": "Colgate",
+  "original": "Gel Dental Harry Potter Colgate 100g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 100,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 13.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1807",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "escova-dental-harry__colgate__4un",
+  "nome": "Escova Dental Harry Potter",
+  "marca": "Colgate",
+  "original": "Escova Dental Harry Potter Colgate c/4 unidades",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 4,
+   "unidade": "un"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 29.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1808",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "escova-dental-dr__sem-marca__sem-tamanho",
+  "nome": "Escova Dental Dr. Rabbit",
+  "marca": "",
+  "original": "Escova Dental Dr. Rabbit",
+  "categoria": "Higiene",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 6.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1809",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "toalhas-umedecidas__baby-limp__50un",
+  "nome": "Toalhas Umedecidas",
+  "marca": "Baby Limp",
+  "original": "Toalhas Umedecidas Baby Limp c/50 unidades",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 50,
+   "unidade": "un"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.99,
+    "exige": []
+   },
+   {
+    "valor": 2.99,
+    "exige": [
+     "guana-clube"
+    ],
+    "condicao": "no Guana Clube"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1810",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "toalhas-umedecidas-f__baby-limp__50un",
+  "nome": "Toalhas Umedecidas F/T",
+  "marca": "Baby Limp",
+  "original": "Toalhas Umedecidas F/T Baby Limp c/50 unidades",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 50,
+   "unidade": "un"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.99,
+    "exige": []
+   }
+  ],
+  "precoDe": 4.99,
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1811",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "toalhas-umedecidas__babysec__48un",
+  "nome": "Toalhas Umedecidas",
+  "marca": "Babysec",
+  "original": "Toalhas Umedecidas Babysec c/48 unidades",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 48,
+   "unidade": "un"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.99,
+    "exige": []
+   }
+  ],
+  "precoDe": 7.49,
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1812",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "toalhas-umedecidas__huggies__48un",
+  "nome": "Toalhas Umedecidas",
+  "marca": "Huggies",
+  "original": "Toalhas Umedecidas Huggies c/48 unidades",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 48,
+   "unidade": "un"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 7.99,
+    "exige": []
+   }
+  ],
+  "precoDe": 10.98,
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1813",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "creme-assaduras-amendoas__hipoglos__40g",
+  "nome": "Creme para Assaduras Amêndoas",
+  "marca": "Hipoglós",
+  "original": "Creme para Assaduras Amêndoas Hipoglós 40g",
+  "categoria": "Hortifrúti",
+  "tamanho": {
+   "valor": 40,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 21.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1814",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "creme-assaduras-regular__huggies__80g",
+  "nome": "Creme para Assaduras Regular",
+  "marca": "Huggies",
+  "original": "Creme para Assaduras Regular Huggies 80g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 80,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 13.99,
+    "exige": []
+   }
+  ],
+  "precoDe": 17.99,
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1815",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "creme-assaduras__lukinha__90g",
+  "nome": "Creme para Assaduras",
+  "marca": "Lukinha",
+  "original": "Creme para Assaduras Lukinha 90g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 90,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 10.9,
+    "exige": []
+   }
+  ],
+  "precoDe": 12.99,
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1816",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "fralda-confort-sec__pampers__70un",
+  "nome": "Fralda Confort Sec Giga M",
+  "marca": "Pampers",
+  "original": "Fralda Confort Sec Giga M Pampers c/70 unidades",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 70,
+   "unidade": "un"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 79.9,
+    "exige": []
+   }
+  ],
+  "precoDe": 99.9,
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1817",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "fralda-rapida-absorcao__huggies__sem-tamanho",
+  "nome": "Fralda Rápida Absorção",
+  "marca": "Huggies",
+  "original": "Fralda Rápida Absorção Huggies",
+  "categoria": "Higiene",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 12.65,
+    "exige": []
+   }
+  ],
+  "precoDe": 14.98,
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1818",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "fralda-baby-jumbo__turma-da-monica__sem-tamanho",
+  "nome": "Fralda Baby Jumbo",
+  "marca": "Turma da Mônica",
+  "original": "Fralda Baby Jumbo Turma da Mônica",
+  "categoria": "Higiene",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 15.98,
+    "exige": []
+   }
+  ],
+  "precoDe": 18.98,
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1819",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "fralda-premium-mega__babysec__sem-tamanho",
+  "nome": "Fralda Premium Mega",
+  "marca": "Babysec",
+  "original": "Fralda Premium Mega Babysec",
+  "categoria": "Higiene",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 29.98,
+    "exige": []
+   }
+  ],
+  "precoDe": 36.98,
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1820",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "fralda-premium-shortinho__babysec__sem-tamanho",
+  "nome": "Fralda Premium Shortinho Hiper",
+  "marca": "Babysec",
+  "original": "Fralda Premium Shortinho Hiper Babysec",
+  "categoria": "Higiene",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 59.9,
+    "exige": []
+   }
+  ],
+  "precoDe": 68.9,
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1821",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "fralda-maxima-protecao__huggies__sem-tamanho",
+  "nome": "Fralda Máxima Proteção ou Pants Proteção Acolchoada",
+  "marca": "Huggies",
+  "original": "Fralda Máxima Proteção ou Pants Proteção Acolchoada Huggies",
+  "categoria": "Higiene",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 19.98,
+    "exige": []
+   }
+  ],
+  "precoDe": 22.98,
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1822",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "fralda-looney-tunes__looping__sem-tamanho",
+  "nome": "Fralda Looney Tunes Jumbinho",
+  "marca": "Looping",
+  "original": "Fralda Looney Tunes Jumbinho Looping",
+  "categoria": "Higiene",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 9.98,
+    "exige": []
+   }
+  ],
+  "precoDe": 12.98,
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1823",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "fralda-ultra-sequinha__babysec__sem-tamanho",
+  "nome": "Fralda Ultra Sequinha Jumbo",
+  "marca": "Babysec",
+  "original": "Fralda Ultra Sequinha Jumbo Babysec",
+  "categoria": "Higiene",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 15.98,
+    "exige": []
+   }
+  ],
+  "precoDe": 19.98,
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1824",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "fralda-ultrasec-shortinho__babysec__sem-tamanho",
+  "nome": "Fralda Ultrasec Shortinho Jumbinho",
+  "marca": "Babysec",
+  "original": "Fralda Ultrasec Shortinho Jumbinho Babysec",
+  "categoria": "Higiene",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 15.98,
+    "exige": []
+   }
+  ],
+  "precoDe": 19.98,
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1825",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "fralda-looney-tunes__looping__sem-tamanho",
+  "nome": "Fralda Looney Tunes Hiper",
+  "marca": "Looping",
+  "original": "Fralda Looney Tunes Hiper Looping",
+  "categoria": "Higiene",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 29.98,
+    "exige": []
+   }
+  ],
+  "precoDe": 39.98,
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1826",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "amaciante-baby-care__ruth__1000ml",
+  "nome": "Amaciante Baby Care",
+  "marca": "Ruth",
+  "original": "Amaciante Baby Care Ruth 1L",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "guanabara-pdf-2026-11-24#1827",
+  "mercado": "guanabara",
+  "encarte": "guanabara-pdf-2026-11-24",
+  "produto": "lava-roupas-liquido__ruth__1000ml",
+  "nome": "Lava-Roupas Líquido Baby",
+  "marca": "Ruth",
+  "original": "Lava-Roupas Líquido Baby Ruth 1L",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 7.99,
+    "exige": []
+   }
+  ],
   "revisado": false
  },
  {
@@ -12881,7 +21103,7 @@
   "id": "guanabara-site-ate-2026-11-23#922",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
-  "produto": "shampoo__dove__350ml",
+  "produto": "kit-shampoo-cond__dove__350ml",
   "nome": "Kit Shampoo + Cond.",
   "marca": "Dove",
   "original": "Kit Dove Shampoo 350ml + Cond.175ml",
@@ -24966,7 +33188,7 @@
   "id": "mundial-site-2026-11-23#318",
   "mercado": "mundial",
   "encarte": "mundial-site-2026-11-23",
-  "produto": "waffle-americano__waaw__210g",
+  "produto": "waffle__waaw__210g",
   "nome": "Waffle Tipo Americano",
   "marca": "!waaw!",
   "original": "Waffle !WAAW! Tipo Americano 210g",
@@ -33364,7 +41586,7 @@
   "id": "prezunic-encarte-9f34d0a6-39f5#1245",
   "mercado": "prezunic",
   "encarte": "prezunic-encarte-9f34d0a6-39f5",
-  "produto": "linguica-churrasco-pernil__perdigao__1000g",
+  "produto": "linguica-pernil__perdigao__1000g",
   "nome": "Linguiça para Churrasco de Pernil",
   "marca": "Perdigão",
   "original": "LINGUIÇA PARA CHURRASCO AURORA OU DE PERNIL PERDIGÃO kg",
@@ -33591,7 +41813,7 @@
   "id": "prezunic-encarte-9f34d0a6-39f5#1255",
   "mercado": "prezunic",
   "encarte": "prezunic-encarte-9f34d0a6-39f5",
-  "produto": "leite-uht-levinho__molico__1000ml",
+  "produto": "leite-uht__molico__1000ml",
   "nome": "Leite Uht Levinho",
   "marca": "Molico",
   "original": "LEITE UHT NINHO LEVINHO OU MOLICO zero lactose/desnatado 1l",
@@ -34005,7 +42227,7 @@
   "id": "prezunic-encarte-9f34d0a6-39f5#1273",
   "mercado": "prezunic",
   "encarte": "prezunic-encarte-9f34d0a6-39f5",
-  "produto": "vila-isabel-jardim__perdigao__500g",
+  "produto": "coracao-brasa__perdigao__500g",
   "nome": "Vila Isabel, Jardim Oceânico, Voluntários, Laranjeiras, Marapendi, No Site, App Whatsapp, No Período de 13/11 a 26/11/2026, Enquanto Durarem Nossos Estoques. Coração de Frango Na Brasa",
   "marca": "Perdigão",
   "original": "VILA ISABEL, JARDIM OCEÂNICO, VOLUNTÁRIOS, LARANJEIRAS, MARAPENDI, NO SITE, APP E WHATSAPP, NO PERÍODO DE 13/11 A 26/11/2026, OU ENQUANTO DURAREM NOSSOS ESTOQUES. CORAÇÃO DE FRANGO NA BRASA PERDIGÃO cong. 500g",
@@ -36321,7 +44543,7 @@
   "id": "prezunic-encarte-9f34d0a6-39f5#1374",
   "mercado": "prezunic",
   "encarte": "prezunic-encarte-9f34d0a6-39f5",
-  "produto": "cerveja-extra-cero__corona__330ml",
+  "produto": "cerveja-long-neck__corona__330ml",
   "nome": "Cerveja Extra Cero",
   "marca": "Corona",
   "original": "CERVEJA CORONA EXTRA OU CERO long neck 330ml",
@@ -37611,7 +45833,7 @@
   "id": "prezunic-encarte-30cf93a9-6fe9#1093",
   "mercado": "prezunic",
   "encarte": "prezunic-encarte-30cf93a9-6fe9",
-  "produto": "filezinho-frango__sadia__1000g",
+  "produto": "filezinho-peito-frango__sadia__1000g",
   "nome": "Filezinho de Peito de Frango",
   "marca": "Sadia",
   "original": "FILEZINHO DE PEITO DE FRANGO SADIA, SEARA OU PERDIGÃO bdj/iqf/zip 1kg",
@@ -39066,7 +47288,7 @@
   "id": "prezunic-encarte-df754694-3282#1441",
   "mercado": "prezunic",
   "encarte": "prezunic-encarte-df754694-3282",
-  "produto": "file-filezinho-peito__seara__1000g",
+  "produto": "file-peito-frango__seara__1000g",
   "nome": "Filé Filezinho de Peito de Frango",
   "marca": "Seara",
   "original": "FILÉ OU FILEZINHO DE PEITO DE FRANGO SEARA bdj/iqf/zip cong. 1kg",
