@@ -10,6 +10,8 @@ export interface Produto {
   categoria: Categoria;
   tamanho: Tamanho | null;
   porKg: boolean;
+  /** Primeira foto disponível entre as ofertas (fonte: site do mercado). */
+  imagem?: string;
   ofertas: Oferta[];
 }
 
@@ -17,8 +19,10 @@ export function agruparProdutos(ofertas: Oferta[]): Map<string, Produto> {
   const mapa = new Map<string, Produto>();
   for (const o of ofertas) {
     const p = mapa.get(o.produto);
-    if (p) p.ofertas.push(o);
-    else
+    if (p) {
+      p.ofertas.push(o);
+      if (!p.imagem && o.imagem) p.imagem = o.imagem;
+    } else
       mapa.set(o.produto, {
         id: o.produto,
         nome: o.nome,
@@ -26,6 +30,7 @@ export function agruparProdutos(ofertas: Oferta[]): Map<string, Produto> {
         categoria: o.categoria,
         tamanho: o.tamanho,
         porKg: o.porKg,
+        ...(o.imagem ? { imagem: o.imagem } : {}),
         ofertas: [o],
       });
   }

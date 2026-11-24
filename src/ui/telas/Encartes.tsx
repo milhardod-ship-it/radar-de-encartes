@@ -1,6 +1,6 @@
 import { useMemo } from 'react';
 import { ENCARTES, nomeMercado } from '../../dados';
-import { dataCurta } from '../componentes';
+import { Topo, dataCurta } from '../componentes';
 import { useApp } from '../contexto';
 
 export function Encartes() {
@@ -16,11 +16,10 @@ export function Encartes() {
 
   return (
     <>
-      <h1 className="titulo-tela">Encartes</h1>
-      <p className="subtitulo">De onde vêm os preços. Cada oferta no app aponta para o encarte original.</p>
+      <Topo titulo="Encartes" subtitulo="De onde vêm os preços de cada oferta" />
 
       <section className="secao">
-        <h2>Valendo hoje ({validos.length})</h2>
+        <h2 className="titulo-secao">Valendo hoje ({validos.length})</h2>
         {validos.length === 0 && <p className="apoio">Nenhum encarte válido hoje.</p>}
         {validos.map((e) => (
           <article key={e.id} className="cartao" style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>

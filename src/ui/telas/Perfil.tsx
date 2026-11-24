@@ -1,5 +1,6 @@
 import { MERCADOS, TODAS_OFERTAS } from '../../dados';
 import type { MercadoId } from '../../core/tipos';
+import { Topo } from '../componentes';
 import { DATA_DE_TESTE, definirDataDeTeste, useApp } from '../contexto';
 import { Icone } from '../Icone';
 
@@ -9,7 +10,7 @@ export function Perfil() {
   const { perfil, alternarPrograma, hoje } = useApp();
   return (
     <>
-      <h1 className="titulo-tela">Perfil</h1>
+      <Topo titulo="Perfil" subtitulo="Seus apps, cartões e preferências" />
 
       <section className="secao">
         <h2>Quais destes você tem?</h2>

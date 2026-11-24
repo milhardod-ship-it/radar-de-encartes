@@ -5,7 +5,8 @@ import { formatarReais } from '../../core/texto';
 import type { MercadoId, Perfil, ProgramaId } from '../../core/tipos';
 import { PROGRAMAS, nomeMercado } from '../../dados';
 import { useApp } from '../contexto';
-import { Icone, Logo } from '../Icone';
+import { Topo } from '../componentes';
+import { Icone } from '../Icone';
 
 const TODOS_PROGRAMAS: Perfil = { programas: Object.keys(PROGRAMAS) as ProgramaId[] };
 
@@ -233,12 +234,9 @@ export function Lista() {
 
 function Cabecalho({ total }: { total: number }) {
   return (
-    <header className="cabecalho">
-      <Logo tamanho={34} />
-      <div className="cresce">
-        <h1 className="titulo-tela">Minha lista</h1>
-        <p className="subtitulo">{total === 0 ? 'Monte sua lista de compras' : `${total} ${total === 1 ? 'item' : 'itens'} · encartes válidos hoje`}</p>
-      </div>
-    </header>
+    <Topo
+      titulo="Minha lista"
+      subtitulo={total === 0 ? 'Monte sua lista de compras' : `${total} ${total === 1 ? 'item' : 'itens'} · encartes válidos hoje`}
+    />
   );
 }

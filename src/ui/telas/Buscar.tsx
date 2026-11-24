@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { buscar, menorPrecoDoProduto, mercadosDistintos } from '../../core/produtos';
 import { CATEGORIAS, type Categoria } from '../../core/tipos';
-import { LinhaProduto } from '../componentes';
+import { LinhaProduto, Topo } from '../componentes';
 import { useApp } from '../contexto';
 import { Icone } from '../Icone';
 
@@ -37,9 +37,9 @@ export function Buscar() {
 
   return (
     <>
-      <h1 className="titulo-tela">Buscar</h1>
+      <Topo titulo="Buscar" subtitulo="Ofertas válidas hoje nos encartes">
       <label className="busca">
-        <Icone nome="buscar" tamanho={20} />
+        <Icone nome="buscar" tamanho={22} grosso />
         <span className="so-leitor">Buscar produto</span>
         <input
           ref={campo}
@@ -50,6 +50,7 @@ export function Buscar() {
           enterKeyHint="search"
         />
       </label>
+      </Topo>
 
       <div className="rolagem-h" role="group" aria-label="Categoria">
         <button className="filtro" aria-pressed={categoria === null} onClick={() => setCategoria(null)}>

@@ -4,7 +4,7 @@ import { similaresMaisBaratos } from '../../core/produtos';
 import { formatarPorMedida, formatarReais, formatarTamanho } from '../../core/texto';
 import type { MercadoId, Oferta, Preco } from '../../core/tipos';
 import { MAPA_ENCARTES, PROGRAMAS, nomeMercado } from '../../dados';
-import { LinhaProduto, Voltar, dataCurta } from '../componentes';
+import { FotoProduto, LinhaProduto, Topo, dataCurta } from '../componentes';
 import { useApp } from '../contexto';
 import { Icone } from '../Icone';
 
@@ -41,9 +41,7 @@ export function Produto({ id }: { id: string }) {
   if (!produto) {
     return (
       <>
-        <div className="linha">
-          <Voltar />
-        </div>
+        <Topo titulo="Comparar preços" voltar />
         <div className="vazio">
           <p>Esta oferta não está mais valendo.</p>
         </div>
@@ -56,17 +54,19 @@ export function Produto({ id }: { id: string }) {
 
   return (
     <>
-      <div className="linha">
-        <Voltar />
-        <span className="apoio" style={{ fontWeight: 600, fontSize: 15 }}>Comparar preços</span>
-      </div>
+      <Topo titulo="Comparar preços" voltar />
 
-      <header style={{ display: 'flex', flexDirection: 'column', gap: 4 }}>
-        <h1 className="titulo-tela" style={{ fontSize: 22, lineHeight: 1.2 }}>{produto.nome}</h1>
-        <p className="subtitulo">
-          {[produto.marca, formatarTamanho(produto.tamanho, produto.porKg), produto.categoria].filter(Boolean).join(' · ')}
-        </p>
-      </header>
+      <section className="cartao linha" style={{ gap: 14, padding: 14 }}>
+        <span className="miniatura" style={{ width: 96, height: 96, borderRadius: 18 }}>
+          <FotoProduto src={produto.imagem} categoria={produto.categoria} tamanhoIcone={48} />
+        </span>
+        <div className="cresce" style={{ display: 'flex', flexDirection: 'column', gap: 4 }}>
+          <h2 className="titulo-tela" style={{ fontSize: 21, lineHeight: 1.2, color: 'var(--marinho)' }}>{produto.nome}</h2>
+          <p className="subtitulo">
+            {[produto.marca, formatarTamanho(produto.tamanho, produto.porKg), produto.categoria].filter(Boolean).join(' · ')}
+          </p>
+        </div>
+      </section>
 
       <div>
         <div className="segmentado" role="group" aria-label="Qual preço mostrar">
@@ -96,7 +96,7 @@ export function Produto({ id }: { id: string }) {
             <article
               key={oferta.id}
               className="cartao"
-              style={{ display: 'flex', flexDirection: 'column', gap: 6, border: melhor ? '2px solid var(--verde)' : undefined }}
+              style={{ display: 'flex', flexDirection: 'column', gap: 6, border: melhor ? '2px solid var(--bom)' : undefined }}
             >
               <div className="linha">
                 <span className="cresce" style={{ fontSize: 16, fontWeight: 700 }}>{nomeMercado(oferta.mercado)}</span>
@@ -107,7 +107,7 @@ export function Produto({ id }: { id: string }) {
                 <span className="numero" style={{ fontSize: 28 }}>{formatarReais(preco.valor)}</span>
                 <span className="apoio" style={{ fontSize: 14 }}>{formatarPorMedida(preco.valor, oferta.tamanho)}</span>
               </div>
-              {preco.condicao && <span className="chip app" style={{ alignSelf: 'flex-start' }}>{preco.condicao}</span>}
+              {preco.condicao && <span className="chip com-app" style={{ alignSelf: 'flex-start' }}>{preco.condicao}</span>}
               {extras.map((p, i) => (
                 <span key={i} className="apoio">
                   {formatarReais(p.valor)} {p.condicao ?? `com ${p.exige.map((x) => PROGRAMAS[x].nome).join(' + ')}`}

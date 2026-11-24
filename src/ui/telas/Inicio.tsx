@@ -3,9 +3,9 @@ import { descontoPercentual, ehSoHoje, precoParaTodos } from '../../core/precos'
 import { mercadosDistintos } from '../../core/produtos';
 import { CATEGORIAS } from '../../core/tipos';
 import { MAPA_ENCARTES } from '../../dados';
-import { CartaoOferta, LinhaProduto, dataCurta } from '../componentes';
+import { CartaoOferta, LinhaProduto, Topo, dataCurta } from '../componentes';
 import { useApp } from '../contexto';
-import { Icone, Logo } from '../Icone';
+import { Icone, IconeCategoria } from '../Icone';
 
 const DIAS = ['domingo', 'segunda', 'terça', 'quarta', 'quinta', 'sexta', 'sábado'];
 
@@ -33,23 +33,20 @@ export function Inicio() {
 
   return (
     <>
-      <header className="cabecalho">
-        <Logo />
-        <span className="marca-app cresce">Radar de Encartes</span>
-      </header>
-
-      <button className="busca" onClick={() => irPara('buscar', { focarBusca: true })}>
-        <Icone nome="buscar" tamanho={20} />
-        <span>Quanto tá o… arroz, café, frango</span>
-      </button>
+      <Topo marca>
+        <button className="busca" onClick={() => irPara('buscar', { focarBusca: true })}>
+          <Icone nome="buscar" tamanho={22} grosso />
+          <span>Quanto tá o… arroz, café, frango</span>
+        </button>
+      </Topo>
 
       {soHoje.length > 0 && (
         <section className="secao">
           <div className="linha">
             <span className="chip hoje">
-              <Icone nome="relogio" tamanho={14} grosso /> Só hoje
+              <Icone nome="relogio" tamanho={18} grosso /> Só hoje
             </span>
-            <span className="apoio">
+            <span className="apoio" style={{ fontSize: 15 }}>
               {DIAS[dia.getDay()]}, {dataCurta(hoje)}
             </span>
           </div>
@@ -63,7 +60,9 @@ export function Inicio() {
 
       {descontos.length > 0 && (
         <section className="secao">
-          <h2>Maiores descontos</h2>
+          <h2 className="titulo-secao">
+            <Icone nome="etiqueta" tamanho={26} grosso /> Maiores descontos
+          </h2>
           <div className="grade-2">
             {descontos.map(({ o, d }) => (
               <CartaoOferta key={o.id} oferta={o} valor={precoParaTodos(o)?.valor ?? 0} destaque={`−${d}%`} />
@@ -73,10 +72,16 @@ export function Inicio() {
       )}
 
       <section className="secao">
-        <h2>Categorias</h2>
+        <h2 className="titulo-secao">Categorias</h2>
         <div className="grade-3">
           {CATEGORIAS.map((c) => (
-            <button key={c} className="botao pequeno" onClick={() => irPara('buscar', { categoria: c })}>
+            <button
+              key={c}
+              className="cartao"
+              onClick={() => irPara('buscar', { categoria: c })}
+              style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: 6, padding: '12px 6px', color: 'var(--marinho)', fontWeight: 600, fontSize: 13, textAlign: 'center' }}
+            >
+              <IconeCategoria categoria={c} tamanho={30} />
               {c}
             </button>
           ))}
@@ -85,26 +90,21 @@ export function Inicio() {
 
       {comparaveis.length > 0 && (
         <section className="secao">
-          <h2>Dá para comparar ({comparaveis.length})</h2>
-          <p className="apoio">Produtos que estão no encarte de mais de um mercado.</p>
+          <h2 className="titulo-secao">Dá para comparar</h2>
+          <p className="apoio">{comparaveis.length} produtos estão no encarte de mais de um mercado.</p>
           {comparaveis.map((p) => (
             <LinhaProduto key={p.id} produto={p} />
           ))}
         </section>
       )}
 
-      {ofertas.length === 0 && <SemOfertas />}
+      {ofertas.length === 0 && (
+        <div className="vazio">
+          <p>
+            Nenhum encarte válido hoje. Ative o “modo de teste” no Perfil para ver os encartes desta versão.
+          </p>
+        </div>
+      )}
     </>
-  );
-}
-
-function SemOfertas() {
-  return (
-    <div className="vazio">
-      <p>
-        Nenhum encarte válido hoje. Os encartes desta versão de teste são de 17/11 a 02/12/2026: ative o “modo de teste” no
-        Perfil para vê-los.
-      </p>
-    </div>
   );
 }
