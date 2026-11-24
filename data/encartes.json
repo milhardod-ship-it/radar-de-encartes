@@ -87,12 +87,21 @@
   "fonte": "site do Guanabara (robô, 2026-11-23)"
  },
  {
-  "id": "mundial-site-2026-11-23",
+  "id": "guanabara-site-2026-11-24",
+  "mercado": "guanabara",
+  "titulo": "Encarte Guanabara",
+  "inicio": "2026-11-24",
+  "fim": "2026-11-25",
+  "lojas": [],
+  "fonte": "site do Guanabara (robô, 2026-11-24)"
+ },
+ {
+  "id": "mundial-site-2026-11-24",
   "mercado": "mundial",
   "titulo": "Ofertas 19.11 a 02.12.2026",
   "inicio": "2026-11-19",
   "fim": "2026-12-02",
   "lojas": [],
-  "fonte": "site do Mundial (robô, 2026-11-23)"
+  "fonte": "site do Mundial (robô, 2026-11-24)"
  }
 ]
