@@ -58,7 +58,7 @@ export function Encartes() {
 
       <section className="secao">
         <h2>Ainda não incluídos</h2>
-        <p className="apoio">Prezunic, Supermarket e Assaí entram assim que a coleta deles estiver pronta.</p>
+        <p className="apoio">Supermarket e Assaí entram assim que a coleta deles estiver pronta.</p>
       </section>
     </>
   );

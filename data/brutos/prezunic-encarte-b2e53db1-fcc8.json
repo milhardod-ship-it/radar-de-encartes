@@ -1,0 +1,175 @@
+{
+ "fonte": "prezunic-site",
+ "coletadoEm": "2026-11-24T01:16:13.836Z",
+ "encarte": {
+  "titulo": "Especial sorvetes | lojas: Catumbi, Senador Camará, Benfica, Engenho Novo, Campo Grande, Realengo, Caxias Centenário, Olaria, Vista Alegre, Cidade de Deus, Caxias Centro, Campinho, Taquara, Itaoca, Nilópolis, Fonseca, Penha, Cachambi, Vilar dos Teles, Padre Miguel, Santa Cruz, Maricá e Tingui.",
+  "textoValidade": "Válidas de 13 a 30/11/2026",
+  "estado": "RJ",
+  "pdf": "https://prezunic.vtexassets.com/assets/vtex.file-manager-graphql/images/b2e53db1-fcc8-40b4-9281-4910c6558ed5___1b98ad0854cbd7d325a583ce1cd3ac08.pdf",
+  "inicio": "2026-11-13",
+  "fim": "2026-11-30",
+  "lojas": [
+   "Catumbi",
+   "Senador Camará",
+   "Benfica",
+   "Engenho Novo",
+   "Campo Grande",
+   "Realengo",
+   "Caxias Centenário",
+   "Olaria",
+   "Vista Alegre",
+   "Cidade de Deus",
+   "Caxias Centro",
+   "Campinho",
+   "Taquara",
+   "Itaoca",
+   "Nilópolis",
+   "Fonseca",
+   "Penha",
+   "Cachambi",
+   "Vilar dos Teles",
+   "Padre Miguel",
+   "Santa Cruz",
+   "Maricá",
+   "Tingui"
+  ]
+ },
+ "itens": [
+  {
+   "pagina": 1,
+   "nome": "SORVETE NESTLÉ TRADICIONAL",
+   "detalhe": "(sabores) 1,5l",
+   "preco": 19.99,
+   "precoDe": 24.99,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "SORVETE NESTLÉ MARCAS",
+   "detalhe": "(sabores) 1,5l",
+   "preco": 29.99,
+   "precoDe": 37.99,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "SORVETE LACTA",
+   "detalhe": "(sabores) 1,5l",
+   "preco": 29.99,
+   "precoDe": 34.99,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "SORVETE TRADICIONAL KIBON",
+   "detalhe": "(sabores) 1,5l",
+   "preco": 21.9,
+   "precoDe": 29.99,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "SORVETE NAPOLITANO NESTLÉ",
+   "detalhe": "zero 450g",
+   "preco": 25.99,
+   "precoDe": 29.99,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "SORVETE BOMBOMZIN GAROTO",
+   "detalhe": "caixa 82,5g",
+   "preco": 12.99,
+   "precoDe": 14.99,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "SORVETE NOBRELLI DUO",
+   "detalhe": "(sabores) 1,3l",
+   "preco": 14.99,
+   "precoDe": 15.99,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "SORVETE MOÇA NESTLÉ",
+   "detalhe": "(sabores) 1,5l",
+   "preco": 32.99,
+   "precoDe": 36.99,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "SORVETE MINI BITES CHOKITO NESTLÉ",
+   "detalhe": "caixa 78g",
+   "preco": 12.99,
+   "precoDe": 14.99,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "SORVETE MINI BITES OREO",
+   "detalhe": "pote 72g",
+   "preco": 17.99,
+   "precoDe": 19.99,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "MINI SORVETE KIBON",
+   "detalhe": "(sabores) 92g",
+   "preco": 12.9,
+   "precoDe": 16.99,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "PICOLÉ BATON GAROTO",
+   "detalhe": "45g com 8 un.",
+   "preco": 29.99,
+   "precoDe": 32.99,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "WAFFLE MR. BEY",
+   "detalhe": "tradicional cong. 180g c/6",
+   "preco": 8.99,
+   "precoDe": 12.99,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "WAFFLE FORNO DE MINAS",
+   "detalhe": "280g c/ 8",
+   "preco": 12.99,
+   "precoDe": 16.99,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "MORANGO ORIGINAL FOOD",
+   "detalhe": "cong. 1.02kg",
+   "preco": 23.99,
+   "precoDe": 27.99,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "BISCOITO WAFER LOOK ITAMARATY",
+   "detalhe": "(sabores) 55g",
+   "preco": 2.99,
+   "precoDe": 4.49,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "COLHER PARA SORVETE KREA",
+   "detalhe": "20cm",
+   "preco": 9.99,
+   "precoDe": 15.99,
+   "limite": null
+  }
+ ]
+}

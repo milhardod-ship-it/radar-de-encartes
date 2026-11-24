@@ -8,6 +8,7 @@ import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { agruparFolhetos, lerPdfDoFolheto, listarLojasComFolhetos, type ColetaAtacadao } from '../src/coleta/atacadao';
 import { coletarGuanabara } from '../src/coleta/guanabara';
+import { lerPdfPrezunic, listarEncartesPrezunic, type ColetaPrezunic } from '../src/coleta/prezunic';
 import { baixarArquivo, criarBaixar } from '../src/coleta/http';
 import { coletarMundial } from '../src/coleta/mundial';
 
@@ -97,6 +98,41 @@ if (quer('atacadao')) {
     for (const arq of readdirSync(BRUTOS).filter((a) => a.startsWith('atacadao-folheto-'))) {
       const c = JSON.parse(readFileSync(join(BRUTOS, arq), 'utf8')) as ColetaAtacadao;
       if (c.folheto.fim < limite) unlinkSync(join(BRUTOS, arq));
+    }
+  } catch (e) {
+    falhas++;
+    console.error(`  ERRO: ${(e as Error).message}`);
+  }
+}
+
+if (quer('prezunic')) {
+  try {
+    console.log('Prezunic…');
+    const encartes = listarEncartesPrezunic(baixar, 'RJ').filter((e) => e.fim >= hoje);
+    console.log(`  ${encartes.length} encartes do RJ valendo`);
+    for (const e of encartes) {
+      const id = (e.pdf.split('/').pop() ?? '').split('___')[0].slice(0, 13) || String(Date.now());
+      const nome = `prezunic-encarte-${id}.json`;
+      const caminho = join(BRUTOS, nome);
+      let coleta: ColetaPrezunic;
+      if (existsSync(caminho)) {
+        coleta = JSON.parse(readFileSync(caminho, 'utf8'));
+        coleta.encarte = e; // o PDF não muda; atualiza título, validade e lojas
+      } else {
+        const pdf = join(tmpdir(), `prezunic-${id}.pdf`);
+        baixarArquivo(e.pdf, pdf);
+        const itens = lerPdfPrezunic(pdf);
+        unlinkSync(pdf);
+        if (itens.length === 0) console.log(`  ! "${e.titulo}": nenhum produto lido (layout novo? talvez precise do leitor por IA)`);
+        coleta = { fonte: 'prezunic-site', coletadoEm: new Date().toISOString(), encarte: e, itens };
+      }
+      console.log(`  "${e.titulo.slice(0, 60)}" ${e.inicio} a ${e.fim}: ${coleta.itens.length} ofertas`);
+      salvar(nome, coleta);
+    }
+    const limite = new Date(Date.now() - 3 * 3600 * 1000 - 14 * 86400000).toISOString().slice(0, 10);
+    for (const arq of readdirSync(BRUTOS).filter((a) => a.startsWith('prezunic-encarte-'))) {
+      const c = JSON.parse(readFileSync(join(BRUTOS, arq), 'utf8')) as ColetaPrezunic;
+      if (c.encarte.fim < limite) unlinkSync(join(BRUTOS, arq));
     }
   } catch (e) {
     falhas++;

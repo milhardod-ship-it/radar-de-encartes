@@ -11,10 +11,11 @@ import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import type { ColetaAtacadao } from '../src/coleta/atacadao';
 import type { ColetaGuanabara } from '../src/coleta/guanabara';
+import type { ColetaPrezunic } from '../src/coleta/prezunic';
 import type { ColetaMundial } from '../src/coleta/mundial';
 import { idProduto, unificarProdutos } from '../src/core/canonico';
 import { categorizar } from '../src/core/categorias';
-import { MARCAS_CONHECIDAS, limparNome, separarMarca } from '../src/core/marcas';
+import { MARCAS_CONHECIDAS, limparNome, separarMarca, separarMarcas } from '../src/core/marcas';
 import { extrairTamanho } from '../src/core/texto';
 import type { Encarte, MercadoId, Oferta, Preco, ProgramaId } from '../src/core/tipos';
 
@@ -270,6 +271,44 @@ for (const arquivo of brutos.filter((f) => f.startsWith('atacadao-folheto-'))) {
         textoTamanho: it.nome,
         precos: [{ valor: preco, exige: [], ...(obs && !/^pe[çc]a$/i.test(obs) ? { condicao: obs.replace(/^Exc\.?:?\s*/i, 'exceto ') } : {}) }],
         imagem: it.imagem ?? undefined,
+      });
+    }
+  }
+}
+
+// ---------------------------------------------------------------- Prezunic (robô; PDFs lidos pela posição das palavras)
+{
+  const listaMarcas = [...marcasConhecidas];
+  for (const arquivo of brutos.filter((f) => f.startsWith('prezunic-encarte-'))) {
+    const c = ler(`data/brutos/${arquivo}`) as ColetaPrezunic;
+    const idEncarte = arquivo.replace('.json', '');
+    const titulo =
+      c.encarte.titulo
+        .split('|')[0]
+        .replace(/\s+(nas|para as)?\s*lojas?:?.*$/i, '')
+        .trim() || 'Encarte Prezunic';
+    encartes.push({
+      id: idEncarte,
+      mercado: 'prezunic',
+      titulo: titulo.charAt(0).toUpperCase() + titulo.slice(1),
+      inicio: c.encarte.inicio,
+      fim: c.encarte.fim,
+      lojas: c.encarte.lojas,
+      fonte: `encartes do site do Prezunic (robô, ${c.coletadoEm.slice(0, 10)})`,
+    });
+    for (const it of c.itens) {
+      const texto = capitalizar(it.nome);
+      const { marcas, nome } = separarMarcas(texto, listaMarcas);
+      adicionar({
+        mercado: 'prezunic',
+        encarte: idEncarte,
+        nome: limparNome(nome) || nome || texto,
+        marcas,
+        original: `${it.nome} ${it.detalhe}`.trim(),
+        textoTamanho: `${it.detalhe} ${it.nome}`,
+        precos: [{ valor: it.preco, exige: [] }],
+        precoDe: it.precoDe ?? undefined,
+        limite: it.limite ? it.limite.replace(/^Limite/, 'limite') : undefined,
       });
     }
   }

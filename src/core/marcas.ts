@@ -42,6 +42,10 @@ export const MARCAS_CONHECIDAS = [
   // vistas nos folhetos do Atacadão
   'Capel', 'Caravelas', 'Chinezinho', 'Menina', 'Pirâmide', 'Ekma', 'Snickers', 'Santa Helena', 'Syn',
   'Bombay Sapphire', 'Pitú', 'Maguary', 'Embalixo', 'Urca Maxx', 'Biocrema', 'Champ', 'Panelux', 'Nadir', 'Lusafilm',
+  // vistas nos encartes do Prezunic
+  'Mantiqueira', 'Mantiqueira Happy Eggs', 'Visconde de Mauá', 'Filippo Berio', 'Rafael Salgado', 'Cuisine&Co',
+  'Nobrelli', 'Mr. Bey', 'Original Food', 'Look', 'Krea', 'Bacio di Latte', 'Havanna', 'Campo Lindo', 'Rana',
+  'Kibon', 'Prezunic',
 ];
 
 /**
@@ -85,4 +89,37 @@ export function limparNome(nome: string): string {
     .replace(/\s*\/\s*$/, '')
     .replace(/\s+/g, ' ')
     .trim();
+}
+
+/**
+ * Todas as marcas citadas num texto com várias opções ("SEARA OU SADIA", "PIRACANJUBA, ELEGÊ OU GLÓRIA").
+ * Devolve as marcas (sem repetir palavras já usadas por uma marca maior) e o nome sem elas.
+ */
+export function separarMarcas(texto: string, marcas: readonly string[]): { marcas: string[]; nome: string } {
+  const palavras = texto.split(/\s+/).filter(Boolean);
+  const normais = palavras.map((p) => normalizar(p));
+  const usadas = new Set<number>();
+  const achadas: { m: string; i: number }[] = [];
+  const candidatas = [...marcas]
+    .map((m) => ({ m, tokens: normalizar(m).split(' ').filter(Boolean) }))
+    .filter((c) => c.tokens.length > 0)
+    .sort((a, b) => b.tokens.length - a.tokens.length || b.m.length - a.m.length);
+  for (const { m, tokens } of candidatas) {
+    // procura a sequência de palavras da marca, na ordem, sem reaproveitar palavras
+    for (let i = 0; i + tokens.length <= normais.length; i++) {
+      if (tokens.every((t, k) => normais[i + k] === t && !usadas.has(i + k))) {
+        for (let k = 0; k < tokens.length; k++) usadas.add(i + k);
+        if (!achadas.some((a) => a.m === m)) achadas.push({ m, i });
+        break;
+      }
+    }
+  }
+  const nome = palavras
+    .filter((_, i) => !usadas.has(i))
+    .join(' ')
+    .replace(/(^|\s)(ou|e|,)(?=\s|$)/gi, ' ')
+    .replace(/[,\s]+$/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+  return { marcas: achadas.sort((a, b) => a.i - b.i).map((a) => a.m), nome };
 }

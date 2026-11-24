@@ -1,0 +1,135 @@
+{
+ "fonte": "prezunic-site",
+ "coletadoEm": "2026-11-24T01:16:12.974Z",
+ "encarte": {
+  "titulo": "3ª e 4ª da feirinha",
+  "textoValidade": "Válidas de 24 a 25/11/2026",
+  "estado": "RJ",
+  "pdf": "https://prezunic.vtexassets.com/assets/vtex.file-manager-graphql/images/30cf93a9-6fe9-49a8-8c6b-3aa4c904b496___5f1b6b4bd33e658756f453f508ece858.pdf",
+  "inicio": "2026-11-24",
+  "fim": "2026-11-25",
+  "lojas": []
+ },
+ "itens": [
+  {
+   "pagina": 1,
+   "nome": "OVOS MANTIQUEIRA HAPPY EGGS",
+   "detalhe": "vermelhos c/ 20 un.",
+   "preco": 13.99,
+   "precoDe": 15.99,
+   "limite": "Limite por cliente de 10 UN."
+  },
+  {
+   "pagina": 1,
+   "nome": "ALHO A GRANEL",
+   "detalhe": "kg",
+   "preco": 17.99,
+   "precoDe": 22.99,
+   "limite": "Limite por cliente de 10 Kg"
+  },
+  {
+   "pagina": 1,
+   "nome": "BATATA-INGLESA",
+   "detalhe": "kg",
+   "preco": 5.99,
+   "precoDe": 9.99,
+   "limite": "Limite por cliente de 10 Kg"
+  },
+  {
+   "pagina": 1,
+   "nome": "PÊSSEGO OU AMEIXA NACIONAL",
+   "detalhe": "kg/bandeja 500g",
+   "preco": 9.99,
+   "precoDe": 13.99,
+   "limite": "Limite por cliente de 10 Kg"
+  },
+  {
+   "pagina": 1,
+   "nome": "MAÇÃ-GALA",
+   "detalhe": "kg",
+   "preco": 7.99,
+   "precoDe": 12.99,
+   "limite": "Limite por cliente de 10 Kg"
+  },
+  {
+   "pagina": 1,
+   "nome": "UVA CRIMSON PREZUNIC",
+   "detalhe": "500g",
+   "preco": 6.99,
+   "precoDe": 9.99,
+   "limite": "Limite por cliente de 10 UN."
+  },
+  {
+   "pagina": 1,
+   "nome": "ACÉM OU PALETA BOVINA",
+   "detalhe": "(pedaço ou moído) kg",
+   "preco": 36.98,
+   "precoDe": 42.99,
+   "limite": "Limite por cliente de 10 Kg"
+  },
+  {
+   "pagina": 1,
+   "nome": "CONTRAFILÉ TRADICIONAL OU FILÉ DE COSTELA BOVINO MATURATTA",
+   "detalhe": "(peça) kg",
+   "preco": 52.98,
+   "precoDe": 62.99,
+   "limite": "Limite por cliente de 10 Kg"
+  },
+  {
+   "pagina": 1,
+   "nome": "FÍGADO, MOCOTÓ BOVINO OU CARNE MOÍDA FRIBOI",
+   "detalhe": "cong. kg/ 500g",
+   "preco": 13.98,
+   "precoDe": 16.99,
+   "limite": "Limite por cliente de 10 Kg"
+  },
+  {
+   "pagina": 1,
+   "nome": "SOBRECOXA DE FRANGO SEARA OU SADIA",
+   "detalhe": "bdj./iqf./zip. cong. 1kg",
+   "preco": 12.98,
+   "precoDe": 15.99,
+   "limite": "Limite por cliente de 10 UN."
+  },
+  {
+   "pagina": 1,
+   "nome": "FILEZINHO DE PEITO DE FRANGO SADIA, SEARA OU PERDIGÃO",
+   "detalhe": "bdj/iqf/zip 1kg",
+   "preco": 16.98,
+   "precoDe": 23.99,
+   "limite": "Limite por cliente de 10 UN."
+  },
+  {
+   "pagina": 1,
+   "nome": "HAMBÚRGUER PERDIGÃO",
+   "detalhe": "cong. 672g",
+   "preco": 13.99,
+   "precoDe": 17.99,
+   "limite": "Limite por cliente de 10 UN."
+  },
+  {
+   "pagina": 1,
+   "nome": "SALSICHA HOT DOG PERDIGÃO",
+   "detalhe": "cong. kg",
+   "preco": 8.99,
+   "precoDe": 11.99,
+   "limite": "Limite por cliente de 10 Kg"
+  },
+  {
+   "pagina": 1,
+   "nome": "LEITE UHT PIRACANJUBA, ELEGÊ OU GLÓRIA",
+   "detalhe": "(tipos) 1l",
+   "preco": 4.99,
+   "precoDe": 6.49,
+   "limite": "Limite por cliente de 12 UN."
+  },
+  {
+   "pagina": 1,
+   "nome": "CAFÉ EM PÓ PILÃO OU PIMPINELA GOLDEN",
+   "detalhe": "(tipos) 500g",
+   "preco": 25.98,
+   "precoDe": 32.98,
+   "limite": "Limite por cliente de 12 UN."
+  }
+ ]
+}

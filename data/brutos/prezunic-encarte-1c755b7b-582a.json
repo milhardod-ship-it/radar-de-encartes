@@ -1,0 +1,488 @@
+{
+ "fonte": "prezunic-site",
+ "coletadoEm": "2026-11-24T01:16:14.120Z",
+ "encarte": {
+  "titulo": "Adega Prezunic nas lojas Pechincha, Jauru, Recreio, Barra, Marapendi, Méier, Icaraí, Botafogo, Park Shopping, Freguesia, Tijuca, Vila Isabel, Jardim Oceânico, Laranjeiras, Ilha do Governador e Voluntários da Pátria",
+  "textoValidade": "válidas de 03/11 a 30/11/2026",
+  "estado": "RJ",
+  "pdf": "https://prezunic.vtexassets.com/assets/vtex.file-manager-graphql/images/1c755b7b-582a-4319-ac49-af15ac2b3a4f___c4f64b3893621c007488a16498c7acc3.pdf",
+  "inicio": "2026-11-03",
+  "fim": "2026-11-30",
+  "lojas": [
+   "Pechincha",
+   "Jauru",
+   "Recreio",
+   "Barra",
+   "Marapendi",
+   "Méier",
+   "Icaraí",
+   "Botafogo",
+   "Park Shopping",
+   "Freguesia",
+   "Tijuca",
+   "Vila Isabel",
+   "Jardim Oceânico",
+   "Laranjeiras",
+   "Ilha do Governador",
+   "Voluntários da Pátria"
+  ]
+ },
+ "itens": [
+  {
+   "pagina": 2,
+   "nome": "VINHO CHILENO VIK",
+   "detalhe": "tinto 750ml",
+   "preco": 679.9,
+   "precoDe": 849.9,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "VINHO ARGENTINO NICOLA CATENA BONARDA",
+   "detalhe": "tinto 750ml",
+   "preco": 599.9,
+   "precoDe": 749.9,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "VINHO CHILENO JARDÍN DE MACUL",
+   "detalhe": "(tipos) 750ml",
+   "preco": 398.97,
+   "precoDe": 499.9,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "CHAMPAGNE FRANCÊS MOËT & CHANDON IMPÉRIAL BRUT",
+   "detalhe": "750ml",
+   "preco": 398.97,
+   "precoDe": 499.9,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "VINHO CHILENO FÉLIX SANTA EMA",
+   "detalhe": "(tinto) 750ml",
+   "preco": 499.9,
+   "precoDe": null,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "VINHO CHILENO VINA VIK LA PIU BELLE",
+   "detalhe": "(tinto) 750ml",
+   "preco": 343.9,
+   "precoDe": 429.9,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "VINHO CHILENO COUSIÑO-MACUL LOTA",
+   "detalhe": "(tinto) 750ml",
+   "preco": 359.9,
+   "precoDe": 449.9,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "VINHO DO PORTO FERREIRA DONA ANTÓNIA",
+   "detalhe": "(tinto) 750ml",
+   "preco": 279.5,
+   "precoDe": 349.9,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "VINHO AUSTRALIANO PENFOLDS KOONUNGA HILL",
+   "detalhe": "(tipos) 750ml",
+   "preco": 229.89,
+   "precoDe": 289.9,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "VINHO PORTUGUÊS QUINTA DO CASAL MONTEIRO RED",
+   "detalhe": "(tinto) 750ml",
+   "preco": 204.8,
+   "precoDe": 259.9,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "VINHO CHILENO MONTES ALPHA",
+   "detalhe": "(tipos) 750ml",
+   "preco": 159.9,
+   "precoDe": 199.9,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "VINHO NEOZELANDÊS CURIOUS KIWI",
+   "detalhe": "(tipos) 750ml",
+   "preco": 159.9,
+   "precoDe": 199.9,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "VINHO AMERICANO LONG BARN ZINFANDEL",
+   "detalhe": "(tinto) 750ml",
+   "preco": 127.6,
+   "precoDe": 159.9,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "VINHO CHILENO PIEDRA SECA PEREZ CRUZ",
+   "detalhe": "(tinto) 750ml",
+   "preco": 150.59,
+   "precoDe": 189.9,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "VINHO ARGENTINO SAPO DE OTRO POZO",
+   "detalhe": "(tipos) 750ml",
+   "preco": 118.29,
+   "precoDe": 149.9,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "VINHO FRANCÊS DOMAINE VILLESÈCHE CÔTES DU RHÔNE",
+   "detalhe": "(tinto) 750ml",
+   "preco": 127.9,
+   "precoDe": 159.9,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "VINHO CHILENO VIK A",
+   "detalhe": "(tipos) 750ml",
+   "preco": 135.92,
+   "precoDe": 169.9,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "VINHO ARGENTINO COBOS FELINO MALBEC",
+   "detalhe": "(tinto) 750ml",
+   "preco": 150.59,
+   "precoDe": 189.9,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "VINHO ARGENTINO MOSQUITA MUERTA",
+   "detalhe": "(tipos) 750ml",
+   "preco": 159.92,
+   "precoDe": 199.9,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "VINHO CHILENO MARQUES DE CASA CONCHA",
+   "detalhe": "(tipos) 750ml",
+   "preco": 119.9,
+   "precoDe": 149.9,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "VINHO CHILENO PEREZ CRUZ LIMITED EDITION",
+   "detalhe": "(tipos) 750ml",
+   "preco": 119.9,
+   "precoDe": 149.9,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "VINHO ALEMÃO VILLA WOLF",
+   "detalhe": "(tipos) 750ml",
+   "preco": 119.9,
+   "precoDe": 149.9,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "VINHO PORTUGUÊS FAROL DOS QUATRO VENTOS SUPERIOR DOURO",
+   "detalhe": "(tinto seco) 750ml",
+   "preco": 111.9,
+   "precoDe": 139.9,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "VINHO FRANCÊS CLAUDE VAL PAUL MAS ROSÉ",
+   "detalhe": "750ml",
+   "preco": 103.79,
+   "precoDe": 129.9,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "VINHO FRANCÊS VESTIGE MÉDITERANÉE ROSÉ",
+   "detalhe": "750ml",
+   "preco": 111.9,
+   "precoDe": 139.9,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "VINHO PORTUGUÊS MURALHAS DE MONÇÃO",
+   "detalhe": "(branco) 750ml",
+   "preco": 95.9,
+   "precoDe": 119.9,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "VINHO SUL-AFRICANO NEDERBURG",
+   "detalhe": "(tipos) 750ml",
+   "preco": 79.9,
+   "precoDe": 99.9,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "VINHO DO PORTO TREVO DA SORTE",
+   "detalhe": "tawny / ruby 750ml",
+   "preco": 79.9,
+   "precoDe": 99.9,
+   "limite": null
+  },
+  {
+   "pagina": 5,
+   "nome": "VINHO CHILENO MONTES",
+   "detalhe": "(tipos) 750ml",
+   "preco": 79.9,
+   "precoDe": 99.9,
+   "limite": null
+  },
+  {
+   "pagina": 5,
+   "nome": "VINHO AUSTRALIANO YELLOW TAIL",
+   "detalhe": "shiraz 750ml",
+   "preco": 71.9,
+   "precoDe": 89.9,
+   "limite": null
+  },
+  {
+   "pagina": 5,
+   "nome": "VINHO PORTUGUÊS CARTUXA EA",
+   "detalhe": "(tipos) 750ml",
+   "preco": 67.9,
+   "precoDe": 84.9,
+   "limite": null
+  },
+  {
+   "pagina": 5,
+   "nome": "VINHO ESPANHOL PATA NEGRA",
+   "detalhe": "(tipos) 750ml",
+   "preco": 59.7,
+   "precoDe": 74.9,
+   "limite": null
+  },
+  {
+   "pagina": 5,
+   "nome": "VINHO ARGENTINO DOÑA PAULA",
+   "detalhe": "(tipos) 750ml",
+   "preco": 71.9,
+   "precoDe": 89.9,
+   "limite": null
+  },
+  {
+   "pagina": 5,
+   "nome": "VINHO CHILENO SANTA EMA GRAN RESERVA",
+   "detalhe": "(tipos) 750ml",
+   "preco": 71.9,
+   "precoDe": 89.9,
+   "limite": null
+  },
+  {
+   "pagina": 5,
+   "nome": "VINHO PORTUGUÊS PARCELAS DÃO",
+   "detalhe": "(tipos) 750ml",
+   "preco": 71.9,
+   "precoDe": 89.9,
+   "limite": null
+  },
+  {
+   "pagina": 5,
+   "nome": "VINHO CHILENO RESERVA PEREZ CRUZ",
+   "detalhe": "cabernet sauvignon 750ml",
+   "preco": 67.9,
+   "precoDe": 84.9,
+   "limite": null
+  },
+  {
+   "pagina": 5,
+   "nome": "VINHO CHILENO DIABLO",
+   "detalhe": "(tipos) 750ml",
+   "preco": 63.99,
+   "precoDe": 79.99,
+   "limite": null
+  },
+  {
+   "pagina": 5,
+   "nome": "VINHO PORTUGUÊS CLAVIS AUREA TEJO RESERVA",
+   "detalhe": "(tinto seco) 750ml",
+   "preco": 63.9,
+   "precoDe": 79.9,
+   "limite": null
+  },
+  {
+   "pagina": 5,
+   "nome": "VINHO SUL-AFRICANO AFRICAN KING",
+   "detalhe": "(tipos) 750ml",
+   "preco": 63.6,
+   "precoDe": 79.9,
+   "limite": null
+  },
+  {
+   "pagina": 5,
+   "nome": "VINHO ARGENTINO BALBO ESTATE",
+   "detalhe": "(tipos) 750ml",
+   "preco": 59.99,
+   "precoDe": 74.99,
+   "limite": null
+  },
+  {
+   "pagina": 6,
+   "nome": "ESPUMANTE NACIONAL CASA PERINI",
+   "detalhe": "(tipos) 750ml",
+   "preco": 55.5,
+   "precoDe": 69.9,
+   "limite": null
+  },
+  {
+   "pagina": 6,
+   "nome": "COOLER SANTA CAROLINA FRIZZ & FRUITY",
+   "detalhe": "(sabores) 750ml",
+   "preco": 47.99,
+   "precoDe": 59.99,
+   "limite": null
+  },
+  {
+   "pagina": 6,
+   "nome": "VINHO ARGENTINO ZORRO SALVAJE DE UCO",
+   "detalhe": "(tinto) 750ml",
+   "preco": 55.9,
+   "precoDe": 69.9,
+   "limite": null
+  },
+  {
+   "pagina": 6,
+   "nome": "VINHO ESPANHOL ANCIANO CLÁSSICO TEMPRANILLO",
+   "detalhe": "(tinto seco) 750ml",
+   "preco": 59.7,
+   "precoDe": 74.9,
+   "limite": null
+  },
+  {
+   "pagina": 6,
+   "nome": "VINHO CHILENO CREMASCHI FURLOTTI",
+   "detalhe": "(tipos) 750ml",
+   "preco": 55.9,
+   "precoDe": 69.9,
+   "limite": null
+  },
+  {
+   "pagina": 6,
+   "nome": "VINHO ARGENTINO TRIVENTO",
+   "detalhe": "(tipos) 750ml",
+   "preco": 50.19,
+   "precoDe": 62.9,
+   "limite": null
+  },
+  {
+   "pagina": 6,
+   "nome": "VINHO ARGENTINO CORDERO CON PIEL LOBO",
+   "detalhe": "(tipos) 750ml",
+   "preco": 47.9,
+   "precoDe": 59.9,
+   "limite": null
+  },
+  {
+   "pagina": 6,
+   "nome": "VINHO PORTUGUÊS ALIANÇA BAIRRADA RESERVA",
+   "detalhe": "(tipos) 750ml",
+   "preco": 47.9,
+   "precoDe": 59.9,
+   "limite": null
+  },
+  {
+   "pagina": 7,
+   "nome": "QUEIJO BABYBEL MINI SAINT",
+   "detalhe": "(tradicional ou light) 100g c/5 und",
+   "preco": 25.9,
+   "precoDe": 33.9,
+   "limite": null
+  },
+  {
+   "pagina": 7,
+   "nome": "MASSAS RANA",
+   "detalhe": "tipos 250g",
+   "preco": 45.99,
+   "precoDe": 49.99,
+   "limite": null
+  },
+  {
+   "pagina": 7,
+   "nome": "QUEIJO GRANA PADANO SORESINA",
+   "detalhe": "125g",
+   "preco": 49.99,
+   "precoDe": 59.99,
+   "limite": null
+  },
+  {
+   "pagina": 7,
+   "nome": "QUEIJO PARMESÃO LA PAULINA",
+   "detalhe": "(peça ou pedaço) kg",
+   "preco": 69.99,
+   "precoDe": 89.99,
+   "limite": null
+  },
+  {
+   "pagina": 7,
+   "nome": "PRESUNTO PARMA SADIA",
+   "detalhe": "(peça ou fatiado) s/ osso kg",
+   "preco": 139.9,
+   "precoDe": 159.9,
+   "limite": null
+  },
+  {
+   "pagina": 7,
+   "nome": "QUEIJO BRIE CAMPO LINDO",
+   "detalhe": "(peça ou pedaço) kg",
+   "preco": 129.9,
+   "precoDe": 149.9,
+   "limite": null
+  },
+  {
+   "pagina": 7,
+   "nome": "PRESUNTO HACIENDAS SERRANO",
+   "detalhe": "100g",
+   "preco": 22.99,
+   "precoDe": 27.99,
+   "limite": null
+  },
+  {
+   "pagina": 7,
+   "nome": "QUEIJO GORGONZOLA VIGOR",
+   "detalhe": "(peça ou pedaço) kg",
+   "preco": 119.9,
+   "precoDe": 139.9,
+   "limite": null
+  },
+  {
+   "pagina": 7,
+   "nome": "PRESUNTO HACIENDAS RESERVA",
+   "detalhe": "extraﬁno 100g",
+   "preco": 26.99,
+   "precoDe": 31.99,
+   "limite": null
+  }
+ ]
+}

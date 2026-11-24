@@ -15,7 +15,7 @@ npm run build      # importa os dados + checa tipos + gera dist/
 
 ## Robô de coleta
 ```
-npm run coletar             # busca Guanabara, Mundial e Atacadão e salva em data/brutos/
+npm run coletar             # busca Guanabara, Mundial, Atacadão e Prezunic e salva em data/brutos/
 npm run coletar -- mundial  # só um mercado
 npm run importar            # transforma tudo em data/ofertas.json (o build já roda)
 ```
@@ -24,6 +24,8 @@ npm run importar            # transforma tudo em data/ofertas.json (o build já 
 - **Mundial**: lista de ofertas do site (JSON dentro da página) + encartes vigentes.
 - **Atacadão**: API pública de folhetos do site (lojas do RJ e seus folhetos em PDF); os PDFs trazem os
   dados das ofertas embutidos, lidos com `pdfinfo` (pacote poppler-utils).
+- **Prezunic**: lista de encartes da página `/encartes`; os PDFs são lidos pela posição das palavras
+  (`pdftotext -bbox-layout`): nome, detalhe, preço "de" e "por" e limite por cliente.
 - Agendamento: `.github/workflows/coletar.yml` roda 4×/dia (06:17, 10:43, 14:17 e 18:17 no Rio), salva e publica.
 - Se um site mudar, o robô falha com mensagem clara e os testes de `tests/coleta.test.ts` mostram o que quebrou.
 

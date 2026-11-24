@@ -159,3 +159,44 @@ describe('robô do Atacadão', () => {
     expect(lerTabloide('Creator: InDesign\nPages: 4')).toBeNull();
   });
 });
+
+describe('robô do Prezunic', () => {
+  it('lê a validade e as lojas do encarte', async () => {
+    const { lerTextoValidade, lerLojasDoTitulo } = await import('../src/coleta/prezunic');
+    expect(lerTextoValidade('Válidas de 24 a 25/11/2026')).toEqual({ inicio: '2026-11-24', fim: '2026-11-25' });
+    expect(lerTextoValidade('válidas de 03/11 a 30/11/2026')).toEqual({ inicio: '2026-11-03', fim: '2026-11-30' });
+    expect(lerTextoValidade('Válidas de 23/11/2026')).toEqual({ inicio: '2026-11-23', fim: '2026-11-23' });
+    expect(lerLojasDoTitulo('Especial sorvetes | lojas: Recreio, Barra, Freguesia e Marapendi.')).toEqual(['Recreio', 'Barra', 'Freguesia', 'Marapendi']);
+    expect(lerLojasDoTitulo('3ª e 4ª da feirinha')).toEqual([]);
+  });
+
+  it('lê produto, "de/por", detalhe e limite pela posição das palavras', async () => {
+    const { lerProdutosPrezunic } = await import('../src/coleta/prezunic');
+    const w = (x0: number, y0: number, x1: number, y1: number, t: string) =>
+      `<word xMin="${x0}" yMin="${y0}" xMax="${x1}" yMax="${y1}">${t}</word>`;
+    // recorte real do encarte "3ª e 4ª da feirinha" (fonte 18 no nome, 52 nos reais, 39 nos centavos)
+    const bbox = `<page width="700" height="1871">
+      ${w(23, 1132, 108, 1150, 'ACÉM')}${w(110, 1132, 130, 1150, 'OU')}${w(133, 1132, 190, 1150, 'PALETA')}
+      ${w(101, 1146, 151, 1164, 'BOVINA')}
+      ${w(80, 1170, 120, 1183, '(pedaço')}${w(123, 1170, 135, 1183, 'ou')}${w(138, 1170, 175, 1183, 'moído)')}${w(178, 1170, 190, 1183, 'kg')}
+      ${w(32, 1300, 50, 1320, 'R$')}${w(49, 1277, 87, 1329, '42')}${w(87, 1269, 116, 1308, ',99')}
+      ${w(137, 1300, 154, 1320, 'R$')}${w(153, 1277, 191, 1329, '36')}${w(191, 1269, 220, 1308, ',98')}
+      ${w(77, 1335, 174, 1346, 'Limite por cliente de 10 Kg')}
+    </page>`;
+    expect(lerProdutosPrezunic(bbox)).toEqual([
+      { pagina: 1, nome: 'ACÉM OU PALETA BOVINA', detalhe: '(pedaço ou moído) kg', preco: 36.98, precoDe: 42.99, limite: 'Limite por cliente de 10 Kg' },
+    ]);
+  });
+
+  it('separa várias marcas da mesma oferta', async () => {
+    const { separarMarcas } = await import('../src/core/marcas');
+    expect(separarMarcas('Leite Uht Piracanjuba, Elegê ou Glória', ['Piracanjuba', 'Elegê', 'Glória'])).toEqual({
+      marcas: ['Piracanjuba', 'Elegê', 'Glória'],
+      nome: 'Leite Uht',
+    });
+    expect(separarMarcas('Café em Pó Pilão ou Pimpinela Golden', ['Pilão', 'Pimpinela', 'Pimpinela Golden'])).toEqual({
+      marcas: ['Pilão', 'Pimpinela Golden'],
+      nome: 'Café em Pó',
+    });
+  });
+});

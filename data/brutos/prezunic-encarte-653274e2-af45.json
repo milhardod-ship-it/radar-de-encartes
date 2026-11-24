@@ -1,0 +1,264 @@
+{
+ "fonte": "prezunic-site",
+ "coletadoEm": "2026-11-24T01:16:13.587Z",
+ "encarte": {
+  "titulo": "Especial sorvetes | lojas: Recreio, Barra, Freguesia, Pechincha, Jauru, Ilha do Governador, Méier, Icaraí, Botafogo, Tijuca, Park Shopping, Vila Isabel, Jardim Oceânico, Voluntários, Laranjeiras e Marapendi.",
+  "textoValidade": "Válidas de 13 a 30/11/2026",
+  "estado": "RJ",
+  "pdf": "https://prezunic.vtexassets.com/assets/vtex.file-manager-graphql/images/653274e2-af45-4d8e-92ca-10f288b249c0___df979e923682d77d77a413040c462cf7.pdf",
+  "inicio": "2026-11-13",
+  "fim": "2026-11-30",
+  "lojas": [
+   "Recreio",
+   "Barra",
+   "Freguesia",
+   "Pechincha",
+   "Jauru",
+   "Ilha do Governador",
+   "Méier",
+   "Icaraí",
+   "Botafogo",
+   "Tijuca",
+   "Park Shopping",
+   "Vila Isabel",
+   "Jardim Oceânico",
+   "Voluntários",
+   "Laranjeiras",
+   "Marapendi"
+  ]
+ },
+ "itens": [
+  {
+   "pagina": 3,
+   "nome": "SORVETE NESTLÉ TRADICIONAL",
+   "detalhe": "(sabores) 1,5l",
+   "preco": 19.99,
+   "precoDe": 25.99,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "SORVETE TRADICIONAL KIBON",
+   "detalhe": "(sabores) 1,5l",
+   "preco": 21.99,
+   "precoDe": 29.99,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "SORVETE NESTLÉ MARCAS",
+   "detalhe": "(sabores) 1,5l",
+   "preco": 29.99,
+   "precoDe": 37.99,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "SORVETE LACTA",
+   "detalhe": "(sabores) 1,5l",
+   "preco": 29.99,
+   "precoDe": 34.99,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "SORVETE LACTA",
+   "detalhe": "(sabores) 485g",
+   "preco": 29.99,
+   "precoDe": 31.99,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "SORVETE NAPOLITANO NESTLÉ",
+   "detalhe": "zero 450g",
+   "preco": 25.99,
+   "precoDe": 29.99,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "SORVETE MOÇA NESTLÉ",
+   "detalhe": "(sabores) 1,5l",
+   "preco": 32.99,
+   "precoDe": 36.99,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "PICOLÉS NESTLÉ",
+   "detalhe": "(tipos) c/4",
+   "preco": 29.99,
+   "precoDe": 32.99,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "MINI SORVETE KIBON",
+   "detalhe": "(sabores) 92g",
+   "preco": 12.9,
+   "precoDe": 16.99,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "SORVETE BOMBOMZIN GAROTO",
+   "detalhe": "caixa 82,5g",
+   "preco": 12.99,
+   "precoDe": 14.99,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "BISCOITO WAFER LOOK ITAMARATY",
+   "detalhe": "(sabores) 55g",
+   "preco": 2.99,
+   "precoDe": 4.49,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "MINI BITES CHOKITO NESTLÉ",
+   "detalhe": "caixa 78g",
+   "preco": 12.99,
+   "precoDe": 14.99,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "CREME CHANTILLY PRÉSIDENT",
+   "detalhe": "spray tradicional 250g",
+   "preco": 29.99,
+   "precoDe": 36.99,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "SORVETE MINI BITES OREO",
+   "detalhe": "72g",
+   "preco": 17.99,
+   "precoDe": 19.99,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "MORANGO ORIGINAL FOOD",
+   "detalhe": "cong. 1.02kg",
+   "preco": 23.99,
+   "precoDe": 27.99,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "GELATO BACIO DI LATTE",
+   "detalhe": "(sabores) 490ml",
+   "preco": 49.9,
+   "precoDe": 59.99,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "BOMBOM SORVETE BACIO DI LATTE",
+   "detalhe": "(sabores) 144g",
+   "preco": 29.9,
+   "precoDe": 39.9,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "BOMBOM DE SORVETE BACIO DI LATTE",
+   "detalhe": "(sabores) 90g",
+   "preco": 19.9,
+   "precoDe": 25.99,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "PETIT GATEAU MR.BEY",
+   "detalhe": "240g",
+   "preco": 27.9,
+   "precoDe": 31.9,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "BROWNIE BITES MR. BEY",
+   "detalhe": "60g",
+   "preco": 6.99,
+   "precoDe": 7.99,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "PETIT GATEAU MR.BEY DUO",
+   "detalhe": "cong. 60g",
+   "preco": 7.99,
+   "precoDe": 9.49,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "PETIT GATEAU MR.BEY CHOCOLATE AO LEITE",
+   "detalhe": "cong. 60g",
+   "preco": 7.99,
+   "precoDe": 9.49,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "WAFFLE FORNO DE MINAS",
+   "detalhe": "(sabores) 280g",
+   "preco": 13.99,
+   "precoDe": 16.99,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "PETIT GATEAU DULCE LECH HAVANNA",
+   "detalhe": "cong. 60g",
+   "preco": 8.99,
+   "precoDe": 9.99,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "PICOLÉS BACIO DI LATTE",
+   "detalhe": "(sabores) 70g",
+   "preco": 17.9,
+   "precoDe": 21.99,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "WAFFLE MR. BEY",
+   "detalhe": "tradicional cong. 180g c/6",
+   "preco": 8.99,
+   "precoDe": 12.99,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "TORTA MISS DAISY SADIA",
+   "detalhe": "(sabores) 470g",
+   "preco": 32.99,
+   "precoDe": 38.99,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "COLHER PARA SORVETE KREA",
+   "detalhe": "OI26 20cm",
+   "preco": 9.99,
+   "precoDe": 15.99,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "CAIXA TÉRMICA",
+   "detalhe": "34l",
+   "preco": 89.99,
+   "precoDe": 129.9,
+   "limite": null
+  }
+ ]
+}

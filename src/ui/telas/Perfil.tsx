@@ -45,7 +45,7 @@ export function Perfil() {
       <section className="secao">
         <h2>Sobre esta versão</h2>
         <p className="apoio">
-          Versão de teste com {TODAS_OFERTAS.length} ofertas de Guanabara, Mundial e Atacadão (encartes de 17/11 a 02/12/2026).
+          Versão de teste com {TODAS_OFERTAS.length} ofertas de Guanabara, Mundial, Atacadão e Prezunic, coletadas automaticamente dos sites.
           Os dados foram extraídos automaticamente e ainda não foram revisados. Data usada: {hoje.split('-').reverse().join('/')}.
         </p>
         <label className="cartao opcao">

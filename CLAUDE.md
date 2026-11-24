@@ -35,7 +35,13 @@ Carro-chefe: **lista de compras** (total por mercado, melhor mercado, quando val
   anti-robô (Incapsula) que bloqueia robô honesto. Decidido: NÃO disfarçar o robô de navegador.
   No RJ é 1 encarte para as 41 lojas, só imagem (precisa do leitor por IA). Pendente: dono mandar o encarte
   e/ou chave da API do Claude; futuro: pedir autorização/parceria ao Assaí.
-- **Prezunic**: loja online VTEX. A fazer. **Supermarket**: endereço do site a descobrir.
+- **Prezunic**: robô lê a lista de encartes no JSON da página `/encartes` (título, estado RJ/GO, `validityText`,
+  `pdfUrl` em prezunic.vtexassets.com). Validade: vale o TEXTO ("Válidas de 13 a 26/11/2026", igual ao PDF);
+  `startAt/endAt` é só a janela em que o site exibe. Lojas vêm do título ("…lojas: Recreio, Barra…"; vazio = todas).
+  PDFs (Smarket) têm texto sem dados estruturados: leitura pela posição das palavras (`pdftotext -bbox-layout`):
+  nome em maiúsculas acima, 2 preços grandes (esq. = "de", dir. = "por"), "Limite por cliente" abaixo; altura
+  de referência = altura mais comum dos números da página. Em 23/11: 7 encartes RJ, 429 ofertas, 100% lidas.
+- **Supermarket**: endereço do site a descobrir.
 
 ## Etapas
 | # | Etapa | Status |
@@ -44,7 +50,7 @@ Carro-chefe: **lista de compras** (total por mercado, melhor mercado, quando val
 | 2 | Protótipo visual + identidade | ✅ |
 | 3 | App base: Início, Busca, Produto, Lista, Encartes, Perfil | ✅ |
 | 4 | Robô de coleta Guanabara + Mundial, agendado no GitHub Actions | ✅ |
-| 5 | Atacadão automático ✅; Assaí (bloqueado, ver acima), Prezunic, Supermarket | ⏳ |
+| 5 | Atacadão ✅ e Prezunic ✅ automáticos; Assaí (bloqueado, ver acima), Supermarket | ⏳ |
 | 6 | Localização (bairro → lojas próximas, distância) | ⏳ |
 | 7 | Painel de revisão das ofertas e da junção de produtos | ⏳ |
 | 8 | Alertas de preço, histórico, favoritos | ⏳ |
@@ -53,7 +59,7 @@ Carro-chefe: **lista de compras** (total por mercado, melhor mercado, quando val
 ```
 npm install
 npm run dev        # http://localhost:5173  (data de teste: ?data=2026-11-23)
-npm run coletar    # robô: Guanabara, Mundial e Atacadão → data/brutos/ (precisa de pdfinfo/poppler-utils)
+npm run coletar    # robô: Guanabara, Mundial, Atacadão e Prezunic → data/brutos/ (precisa de poppler-utils)
 npm run importar   # data/brutos + curadoria → data/ofertas.json e data/encartes.json
 npm test
 npm run build

@@ -1,0 +1,871 @@
+{
+ "fonte": "prezunic-site",
+ "coletadoEm": "2026-11-24T01:16:14.722Z",
+ "encarte": {
+  "titulo": "Ofertas exclusivas para as lojas: Catumbi, Senador Camará, Benfica, Engenho Novo, Campo Grande, Realengo, Caxias Centenário, Olaria, Vista Alegre, Cidade de Deus, Caxias Centro, Campinho, Taquara, Itaoca, Nilópolis, Fonseca, Penha, Cachambi, Vilar dos Teles, Padre Miguel, Santa Cruz, Maricá e Tingui.",
+  "textoValidade": "Válidas de 13 a 26/11/2026",
+  "estado": "RJ",
+  "pdf": "https://prezunic.vtexassets.com/assets/vtex.file-manager-graphql/images/8c6576b0-e267-4f7e-a53b-84c5c8938322___c725678c5acaed09550452828e83851f.pdf",
+  "inicio": "2026-11-13",
+  "fim": "2026-11-26",
+  "lojas": [
+   "Catumbi",
+   "Senador Camará",
+   "Benfica",
+   "Engenho Novo",
+   "Campo Grande",
+   "Realengo",
+   "Caxias Centenário",
+   "Olaria",
+   "Vista Alegre",
+   "Cidade de Deus",
+   "Caxias Centro",
+   "Campinho",
+   "Taquara",
+   "Itaoca",
+   "Nilópolis",
+   "Fonseca",
+   "Penha",
+   "Cachambi",
+   "Vilar dos Teles",
+   "Padre Miguel",
+   "Santa Cruz",
+   "Maricá",
+   "Tingui"
+  ]
+ },
+ "itens": [
+  {
+   "pagina": 1,
+   "nome": "CARRÉ SUÍNO OU PERNIL SEARA",
+   "detalhe": "cong. kg",
+   "preco": 14.98,
+   "precoDe": 16.99,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "COXA E SOBRECOXA DE FRANGO COM DORSO",
+   "detalhe": "envelopada cong. kg",
+   "preco": 7.98,
+   "precoDe": 8.99,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "CIDADE DE DEUS, CAXIAS CENTRO, CAMPINHO, TAQUARA, ITAOCA, NILÓPOLIS, FONSECA, PENHA, CACHAMBI, VILAR DOS TELES, PADRE MIGUEL, SANTA CRUZ, MARICÁ, TINGUI, NO APP, SITE E WHATSAPP, NO PERÍODO DE 13/11 A 26/11/2026, OU ENQUANTO DURAREM NOSSOS ESTOQUES. LINGUIÇA CALABRESA SEARA",
+   "detalhe": "kg",
+   "preco": 19.98,
+   "precoDe": 23.99,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "LINGUIÇA DE PERNIL",
+   "detalhe": "kg",
+   "preco": 14.99,
+   "precoDe": 19.99,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "HAMBÚRGUER PERDIGÃO",
+   "detalhe": "cong. 672g",
+   "preco": 13.99,
+   "precoDe": 17.99,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "IOGURTE PARCIALMENTE DESNATADO NESTLÉ",
+   "detalhe": "sabores 1,15kg.",
+   "preco": 14.99,
+   "precoDe": 16.99,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "FEIJÃO FRADINHO CHINEZINHO",
+   "detalhe": "500g",
+   "preco": 4.49,
+   "precoDe": 5.39,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "FAROFA DE MANDIOCA BOM GOSTO",
+   "detalhe": "(sabores) 300g",
+   "preco": 7.99,
+   "precoDe": 9.99,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "MINI LASANHA SADIA",
+   "detalhe": "(sabores) cong. 350g",
+   "preco": 8.99,
+   "precoDe": 10.49,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "KETCHUP PREDILECTA",
+   "detalhe": "tradicional/picante 400g",
+   "preco": 5.99,
+   "precoDe": 6.49,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "CAFÉ BOM JESUS OU FORT",
+   "detalhe": "(tipos) 500g",
+   "preco": 19.98,
+   "precoDe": 24.98,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "CERVEJA HEINEKEN",
+   "detalhe": "latão 473ml",
+   "preco": 6.69,
+   "precoDe": 7.29,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "BATATA-PALHA CRAC",
+   "detalhe": "tradicional/extraﬁna 90g",
+   "preco": 5.99,
+   "precoDe": 6.99,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "CERVEJA ANTARCTICA SUBZERO",
+   "detalhe": "latão 473ml",
+   "preco": 3.89,
+   "precoDe": 4.39,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "ÁGUA SANITÁRIA PRO WATER",
+   "detalhe": "2l",
+   "preco": 4.99,
+   "precoDe": 5.99,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "AMACIANTE BIG SOFT",
+   "detalhe": "(tipos) 2l",
+   "preco": 5.99,
+   "precoDe": 6.99,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "LAVA-ROUPAS LÍQUIDO BIG SOFT",
+   "detalhe": "(tipos) 3l",
+   "preco": 16.99,
+   "precoDe": 18.99,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "ESPAGUETE ALDENTE",
+   "detalhe": "1kg",
+   "preco": 5.49,
+   "precoDe": 6.99,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "ÁGUA MINERAL FÊNIX",
+   "detalhe": "s/ gás PET 1,5l",
+   "preco": 1.99,
+   "precoDe": 2.29,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "KIT VEJA MULTIÚSO OU CLORO UAU",
+   "detalhe": "c/3 und. 500ml cada",
+   "preco": 10.99,
+   "precoDe": 12.99,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "MARGARINA CREMOSY",
+   "detalhe": "pote com sal 500g",
+   "preco": 4.98,
+   "precoDe": 5.98,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "LAVA-ROUPAS EM PÓ TIXAN",
+   "detalhe": "(fragrâncias) 2,2kg c/10% grátis",
+   "preco": 19.99,
+   "precoDe": 22.99,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "ARROZ PALMARES, TIO MINGOTE, PREZUNIC OU BELO SABOR",
+   "detalhe": "1kg",
+   "preco": 3.99,
+   "precoDe": 4.99,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "AZEITE DE OLIVA O-LIVE",
+   "detalhe": "(extravirgem) 450ml",
+   "preco": 28.99,
+   "precoDe": 29.99,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "BEBIDA LÁCTEA WHEY PIRACANJUBA",
+   "detalhe": "(sabores) 250ml",
+   "preco": 5.99,
+   "precoDe": 7.99,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "SUCRILHOS OU FROOT LOOPS",
+   "detalhe": "110g/100g/90g",
+   "preco": 5.99,
+   "precoDe": 6.49,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "CIDADE DE DEUS, CAXIAS CENTRO, CAMPINHO, TAQUARA, ITAOCA, NILÓPOLIS, FONSECA, PENHA, CACHAMBI, VILAR DOS TELES, PADRE MIGUEL, SANTA CRUZ, MARICÁ, TINGUI, NO APP, SITE E WHATSAPP, NO PERÍODO DE 13/11 A 26/11/2026, OU ENQUANTO DURAREM NOSSOS ESTOQUES. CAFÉ SOLÚVEL PIMPINELA",
+   "detalhe": "tradicional 40g",
+   "preco": 5.99,
+   "precoDe": 7.99,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "GOMA PARA TAPIOCA CHINEZINHO",
+   "detalhe": "400g",
+   "preco": 3.99,
+   "precoDe": 4.99,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "LEITE UHT PIRACANJUBA",
+   "detalhe": "zero lactose 1l",
+   "preco": 6.49,
+   "precoDe": 7.49,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "PASSATA DE TOMATE ITALIANA LA MOLISANA",
+   "detalhe": "(vidro) clássico 690g",
+   "preco": 12.9,
+   "precoDe": 15.99,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "ACHOCOLATADO EM PÓ MÁXIMA",
+   "detalhe": "sachê 1,01kg",
+   "preco": 9.99,
+   "precoDe": 13.99,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "MOLHO DE TOMATE PREDILECTA",
+   "detalhe": "tradicional 300g",
+   "preco": 1.79,
+   "precoDe": 1.99,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "BATATA RUFFLES OU DORITOS",
+   "detalhe": "(sabores) 115g/120g",
+   "preco": 10.89,
+   "precoDe": 14.99,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "BISCOITO WAFER PIRAQUÊ",
+   "detalhe": "(sabores) 100g",
+   "preco": 2.99,
+   "precoDe": 3.69,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "ATUM SÓLIDO NATURAL CUISINE&CO",
+   "detalhe": "lata 120g",
+   "preco": 8.99,
+   "precoDe": 10.99,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "BISCOITO RECHEADO TRAKINAS",
+   "detalhe": "(sabores) 126g",
+   "preco": 2.99,
+   "precoDe": 4.19,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "ROSQUINHA MABEL",
+   "detalhe": "(tipos) 300g",
+   "preco": 4.99,
+   "precoDe": 6.49,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "LEITE DE COCO SOCOCO",
+   "detalhe": "vidro 200ml",
+   "preco": 7.49,
+   "precoDe": 8.49,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "BISCOITO POLVILHO CRAC",
+   "detalhe": "(sabores) 80g",
+   "preco": 4.49,
+   "precoDe": 5.49,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "BISCOITOS MAIZENA, MALTADO OU RECHEADOS PIRAQUÊ",
+   "detalhe": "(tipos) 132g/160g/175g",
+   "preco": 2.99,
+   "precoDe": 3.99,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "BOMBOM GAROTO SORTIDO",
+   "detalhe": "caixa 220g 10% gts",
+   "preco": 14.99,
+   "precoDe": 17.99,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "PÃO DE HAMBÚRGUER OU HOT DOG",
+   "detalhe": "kg",
+   "preco": 19.9,
+   "precoDe": 22.9,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "BRIOCHE",
+   "detalhe": "(sabores) kg",
+   "preco": 29.99,
+   "precoDe": 32.99,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "PÃO DE CALABRESA COM QUEIJO OU BATATA COM PRESUNTO E QUEIJO",
+   "detalhe": "kg",
+   "preco": 45.99,
+   "precoDe": 49.99,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "BOLO DE CORTE",
+   "detalhe": "(sabores) kg",
+   "preco": 32.99,
+   "precoDe": 39.99,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "PÃO DE LEITE OU SUÍÇO",
+   "detalhe": "kg",
+   "preco": 29.99,
+   "precoDe": 33.99,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "BISCOITO DE QUEIJO",
+   "detalhe": "kg",
+   "preco": 39.9,
+   "precoDe": 45.9,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "BAILARINA",
+   "detalhe": "(sabores) kg",
+   "preco": 37.9,
+   "precoDe": 42.9,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "PÃO DOCE",
+   "detalhe": "com creme kg",
+   "preco": 29.99,
+   "precoDe": 34.99,
+   "limite": null
+  },
+  {
+   "pagina": 2,
+   "nome": "PUDIM DE LEITE",
+   "detalhe": "kg",
+   "preco": 45.99,
+   "precoDe": 49.99,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "CARNE MOÍDA FRIBOI",
+   "detalhe": "cong. 500g",
+   "preco": 14.98,
+   "precoDe": 18.99,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "SALSICHA HOT DOG SEARA",
+   "detalhe": "kg",
+   "preco": 8.99,
+   "precoDe": 9.99,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "FRANGO A PASSARINHO SEARA",
+   "detalhe": "cong. 1kg",
+   "preco": 10.98,
+   "precoDe": 13.99,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "CIDADE DE DEUS, CAXIAS CENTRO, CAMPINHO, TAQUARA, ITAOCA, NILÓPOLIS, FONSECA, PENHA, CACHAMBI, VILAR DOS TELES, PADRE MIGUEL, SANTA CRUZ, MARICÁ, TINGUI, NO APP, SITE E WHATSAPP, NO PERÍODO DE 13/11 A 26/11/2026, OU ENQUANTO DURAREM NOSSOS ESTOQUES. SOBRECOXA DE FRANGO SEARA OU SADIA",
+   "detalhe": "iqf/bandeja/zip 1kg",
+   "preco": 13.98,
+   "precoDe": 15.99,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "MORTADELA DEFUMADA SADIA",
+   "detalhe": "kg",
+   "preco": 16.99,
+   "precoDe": 19.99,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "PRESUNTO SUÍNO PERDIGÃO",
+   "detalhe": "(peça ou fatiado) kg",
+   "preco": 26.99,
+   "precoDe": 32.99,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "MANTEIGA ITAMBÉ OU ELEGÊ",
+   "detalhe": "tablete 200g",
+   "preco": 11.99,
+   "precoDe": 14.99,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "BEBIDA LÁCTEA ELEGÊ",
+   "detalhe": "(sabores) 510g",
+   "preco": 5.99,
+   "precoDe": 7.49,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "COXA E SOBRECOXA DE FRANGO PARA CHURRASCO SEARA",
+   "detalhe": "cong. 1kg",
+   "preco": 21.98,
+   "precoDe": 28.99,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "QUEIJO PARMESÃO GALBANI",
+   "detalhe": "180g",
+   "preco": 17.9,
+   "precoDe": 22.99,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "BACON DEFUMADO SEARA OU COSTELA OU PERNIL SUÍNO SALGADO",
+   "detalhe": "kg",
+   "preco": 35.98,
+   "precoDe": 39.99,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "REQUEIJÃO VIGOR",
+   "detalhe": "tradicional/light 200g",
+   "preco": 8.9,
+   "precoDe": 9.9,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "LEITE FERMENTADO CHAMYTO",
+   "detalhe": "450g",
+   "preco": 6.99,
+   "precoDe": 8.99,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "LEITE FERMENTADO DESNATADO ACTIVIA ZERO LACTOSE",
+   "detalhe": "(sabores) 800g",
+   "preco": 17.99,
+   "precoDe": 21.99,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "IOGURTE GREGO DANONE",
+   "detalhe": "(sabores) 90g",
+   "preco": 2.69,
+   "precoDe": 3.49,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "SUCO NATURAL ONE",
+   "detalhe": "(sabores) refrigerado 900ml",
+   "preco": 14.99,
+   "precoDe": 18.99,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "NUGGETS SADIA",
+   "detalhe": "(sabores) 300g",
+   "preco": 9.99,
+   "precoDe": 11.99,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "TEKITOS SEARA",
+   "detalhe": "cong. 1kg",
+   "preco": 17.99,
+   "precoDe": 19.99,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "IOGURTE LÍQUIDO ITAMBÉ",
+   "detalhe": "(sabores) 1,15kg",
+   "preco": 14.99,
+   "precoDe": 17.9,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "PETIT CHAMBINHO NESTLÉ",
+   "detalhe": "(sabores) 320g",
+   "preco": 8.99,
+   "precoDe": 11.9,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "SOBREMESA LÁCTEA ITAMBÉ",
+   "detalhe": "(tipos) 180g c/2",
+   "preco": 6.99,
+   "precoDe": 7.99,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "LINGUIÇA SUÍNA AURORA",
+   "detalhe": "(tipos) cong. 700g",
+   "preco": 16.99,
+   "precoDe": 21.75,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "MEU MENU PERDIGÃO",
+   "detalhe": "(sabores) 300g",
+   "preco": 9.99,
+   "precoDe": 12.99,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "BATATA PRÉ-FRITA PRIME FRIES OU NEWBRAZ",
+   "detalhe": "cong. 2kg",
+   "preco": 17.99,
+   "precoDe": 21.99,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "PIZZAS PERDIGÃO",
+   "detalhe": "(sabores) 460g",
+   "preco": 16.99,
+   "precoDe": 18.99,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "FILEZINHO DE FRANGO EMPANADO AURORA",
+   "detalhe": "multigrãos 275g",
+   "preco": 11.99,
+   "precoDe": 13.99,
+   "limite": null
+  },
+  {
+   "pagina": 3,
+   "nome": "PÃO DE QUEIJO FORNO DE MINAS",
+   "detalhe": "(tipos) cong. 400g",
+   "preco": 16.99,
+   "precoDe": 19.99,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "FILÉ DE TILÁPIA CUISINE&CO",
+   "detalhe": "cong. 500g",
+   "preco": 29.98,
+   "precoDe": 34.99,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "ARROZ BRANCO CUISINE&CO",
+   "detalhe": "5kg",
+   "preco": 21.99,
+   "precoDe": 28.99,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "BATATA TUBO CUISINE&CO",
+   "detalhe": "(sabores) 100g",
+   "preco": 8.99,
+   "precoDe": 12.99,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "NÉCTAR YUMMY FRESH",
+   "detalhe": "(sabores) 1l",
+   "preco": 4.99,
+   "precoDe": 7.49,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "CERVEJA BRAHMA",
+   "detalhe": "zero álcool latão 473ml",
+   "preco": 3.99,
+   "precoDe": 4.99,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "CREME DENTAL COLGATE TRIPLA AÇÃO",
+   "detalhe": "180g",
+   "preco": 6.98,
+   "precoDe": 9.99,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "ABSORVENTE INTIMUS GEL",
+   "detalhe": "(tipos) leve mais pague menos com 32 unids.",
+   "preco": 16.99,
+   "precoDe": 21.49,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "CERVEJA SPATEN",
+   "detalhe": "latão 473ml",
+   "preco": 5.49,
+   "precoDe": 5.89,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "ANTISSÉPTICO BUCAL CEPACOL",
+   "detalhe": "(tipos) leve 500ml/pague 350ml",
+   "preco": 10.99,
+   "precoDe": 13.99,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "PAPEL HIGIÊNICO FAMILY CARE",
+   "detalhe": "folha dupla 30m c/16",
+   "preco": 18.99,
+   "precoDe": 21.99,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "CIDADE DE DEUS, CAXIAS CENTRO, CAMPINHO, TAQUARA, ITAOCA, NILÓPOLIS, FONSECA, PENHA, CACHAMBI, VILAR DOS TELES, PADRE MIGUEL, SANTA CRUZ, MARICÁ, TINGUI, NO APP, SITE E WHATSAPP, NO PERÍODO DE 13/11 A 26/11/2026, OU ENQUANTO DURAREM NOSSOS ESTOQUES. FEIJÃO PRETO CUISINE&CO",
+   "detalhe": "1kg",
+   "preco": 5.99,
+   "precoDe": 6.99,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "LAVA-ROUPAS EM PÓ HOME CARE",
+   "detalhe": "800g",
+   "preco": 5.99,
+   "precoDe": 6.99,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "AÇÚCAR REFINADO CUISINE&CO",
+   "detalhe": "1kg",
+   "preco": 3.39,
+   "precoDe": 3.99,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "SUCO DE UVA INTEGRAL PREZUNIC",
+   "detalhe": "pet 1,35l",
+   "preco": 14.99,
+   "precoDe": 19.99,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "FARINHA DE TRIGO CUISINE&CO",
+   "detalhe": "s/fermento 1kg",
+   "preco": 3.49,
+   "precoDe": 4.49,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "REFRIGERANTE PEPSI COLA OU GUARANÁ ANTARCTICA",
+   "detalhe": "PET 3l",
+   "preco": 8.99,
+   "precoDe": 11.99,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "CERVEJA BRAHMA CHOPP",
+   "detalhe": "latão 473ml c/12 un.",
+   "preco": 4.88,
+   "precoDe": 55.08,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "VINHO ARGENTINO VIÑA MAYOR BLEND",
+   "detalhe": "(tipos) 750ml",
+   "preco": 15.99,
+   "precoDe": 19.99,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "DESODORANTE AEROSSOL REXONA",
+   "detalhe": "(fragrâncias) 150ml",
+   "preco": 13.98,
+   "precoDe": 15.99,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "SABONETE LÍQUIDO NATURAL EXTRACT",
+   "detalhe": "(fragrâncias) 1l",
+   "preco": 9.98,
+   "precoDe": 11.99,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "INSETICIDA MORTEIN AEROSSOL TRADICIONAL",
+   "detalhe": "360ml",
+   "preco": 14.99,
+   "precoDe": 16.99,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "CHOPP DE VINHO PINKMOON",
+   "detalhe": "600ml",
+   "preco": 6.99,
+   "precoDe": 8.99,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "SACHÊS WHISKAS",
+   "detalhe": "85g",
+   "preco": 2.99,
+   "precoDe": 3.99,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "CERVEJA AMSTEL",
+   "detalhe": "puro malte latão 473ml",
+   "preco": 4.99,
+   "precoDe": 5.49,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "WHISKY",
+   "detalhe": "BALLANTINE&apos;S FINEST 1l",
+   "preco": 74.9,
+   "precoDe": 99.9,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "SHAMPOO + CONDICIONADOR DABELLE",
+   "detalhe": "250ml/175ml",
+   "preco": 15.98,
+   "precoDe": 21.19,
+   "limite": null
+  },
+  {
+   "pagina": 4,
+   "nome": "CARVÃO VEGETAL PREZUNIC OU CARIOCÃO",
+   "detalhe": "3kg",
+   "preco": 21.99,
+   "precoDe": 29.99,
+   "limite": null
+  }
+ ]
+}
