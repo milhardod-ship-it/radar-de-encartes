@@ -3,10 +3,12 @@
 //       npm run coletar -- guanabara  (só um)
 // Depois rode `npm run importar` (o build já faz isso) para atualizar data/ofertas.json.
 import { existsSync, readFileSync, readdirSync, unlinkSync, writeFileSync } from 'node:fs';
+import { tmpdir } from 'node:os';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { agruparFolhetos, lerPdfDoFolheto, listarLojasComFolhetos, type ColetaAtacadao } from '../src/coleta/atacadao';
 import { coletarGuanabara } from '../src/coleta/guanabara';
-import { criarBaixar } from '../src/coleta/http';
+import { baixarArquivo, criarBaixar } from '../src/coleta/http';
 import { coletarMundial } from '../src/coleta/mundial';
 
 const BRUTOS = join(dirname(fileURLToPath(import.meta.url)), '..', 'data', 'brutos');
@@ -58,6 +60,44 @@ if (quer('mundial')) {
     // A lista do Mundial é o retrato do momento: fica só a coleta mais recente.
     for (const f of readdirSync(BRUTOS)) if (f.startsWith('mundial-site-')) unlinkSync(join(BRUTOS, f));
     salvar(`mundial-site-${hoje}.json`, c);
+  } catch (e) {
+    falhas++;
+    console.error(`  ERRO: ${(e as Error).message}`);
+  }
+}
+
+if (quer('atacadao')) {
+  try {
+    console.log('Atacadão…');
+    const lojas = listarLojasComFolhetos(baixar, 'RJ');
+    const folhetos = agruparFolhetos(lojas).filter((f) => f.fim >= hoje);
+    console.log(`  ${lojas.length} lojas no RJ; ${folhetos.length} folhetos valendo`);
+    for (const f of folhetos) {
+      const nome = `atacadao-folheto-${f.id}.json`;
+      const caminho = join(BRUTOS, nome);
+      let coleta: ColetaAtacadao;
+      if (existsSync(caminho)) {
+        // Folheto já lido: o PDF não muda; só atualiza a lista de lojas.
+        coleta = JSON.parse(readFileSync(caminho, 'utf8'));
+        coleta.folheto = f;
+      } else {
+        const pdf = join(tmpdir(), `atacadao-${f.id}.pdf`);
+        baixarArquivo(f.url, pdf);
+        const dados = lerPdfDoFolheto(pdf);
+        unlinkSync(pdf);
+        if (!dados) console.log(`  ! "${f.nome}" (${f.id}) não tem dados embutidos: vai precisar do leitor por IA`);
+        coleta = { fonte: 'atacadao-api', coletadoEm: new Date().toISOString(), folheto: f, documento: dados?.documento ?? '', paginas: dados?.paginas ?? [] };
+      }
+      const n = coleta.paginas.reduce((t, p) => t + p.itens.length, 0);
+      console.log(`  "${f.nome}" ${f.inicio} a ${f.fim}: ${n} ofertas, ${f.lojas.length} lojas`);
+      salvar(nome, coleta);
+    }
+    // Remove folhetos vencidos há mais de 14 dias.
+    const limite = new Date(Date.now() - 3 * 3600 * 1000 - 14 * 86400000).toISOString().slice(0, 10);
+    for (const arq of readdirSync(BRUTOS).filter((a) => a.startsWith('atacadao-folheto-'))) {
+      const c = JSON.parse(readFileSync(join(BRUTOS, arq), 'utf8')) as ColetaAtacadao;
+      if (c.folheto.fim < limite) unlinkSync(join(BRUTOS, arq));
+    }
   } catch (e) {
     falhas++;
     console.error(`  ERRO: ${(e as Error).message}`);

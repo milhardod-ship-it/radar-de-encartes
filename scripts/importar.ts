@@ -9,6 +9,7 @@
 import { readFileSync, readdirSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import type { ColetaAtacadao } from '../src/coleta/atacadao';
 import type { ColetaGuanabara } from '../src/coleta/guanabara';
 import type { ColetaMundial } from '../src/coleta/mundial';
 import { idProduto, unificarProdutos } from '../src/core/canonico';
@@ -170,17 +171,25 @@ function separarMarcasAtacadao(linha: string): { nome: string; marcas: string[] 
   return { nome: resto.replace(/[/,]/g, ' ').replace(/\s+/g, ' ').trim(), marcas };
 }
 
-for (const arquivo of brutos.filter((f) => f.startsWith('atacadao-ofertao-'))) {
-  const pdf = ler(`data/brutos/${arquivo}`);
-  const idEncarte = arquivo.replace('.json', '');
-  for (const pg of pdf.paginas) {
+function importarTabloideAtacadao(paginas: { itens: { descricao: string; campos: Record<string, string> }[] }[], idEncarte: string) {
+  for (const pg of paginas) {
     for (const it of pg.itens) {
       const linhas = String(it.descricao).split('\n').map((s: string) => s.trim()).filter(Boolean);
-      const { nome, marcas } = separarMarcasAtacadao(linhas[0]);
+      if (linhas.length === 0) continue;
+      let { nome, marcas } = separarMarcasAtacadao(linhas[0]);
+      if (marcas.length === 0) {
+        // Marca fora da lista do Atacadão: tenta o dicionário geral (inclui as marcas do Mundial).
+        const r = separarMarca(linhas[0], [...marcasConhecidas]);
+        if (r.marca) {
+          nome = limparNome(r.nome) || r.nome;
+          marcas = [r.marca];
+        }
+      }
       const c = it.campos;
       const precos: Preco[] = [];
       const normal = reais(c.P);
-      if (normal) precos.push({ valor: normal, exige: [] });
+      if (!normal) continue;
+      precos.push({ valor: normal, exige: [] });
       const app = reais(c.PSEG);
       if (app) precos.push({ valor: app, exige: ['meu-atacadao'], condicao: 'ativando a oferta no app Meu Atacadão' });
       const cartao = reais(c.PTER);
@@ -199,11 +208,32 @@ for (const arquivo of brutos.filter((f) => f.startsWith('atacadao-ofertao-'))) {
         original: linhas.join(' · '),
         textoTamanho: linhas.join(' '),
         precos,
-        precoDe: de && normal && de > normal ? de : undefined,
+        precoDe: de && de > normal ? de : undefined,
         limite: c.QUNTOFERTAO ? 'limite por cliente: consulte no app' : undefined,
       });
     }
   }
+}
+
+// Ofertão cadastrado à mão (PDF enviado pelo dono), antes do robô
+for (const arquivo of brutos.filter((f) => f.startsWith('atacadao-ofertao-'))) {
+  importarTabloideAtacadao(ler(`data/brutos/${arquivo}`).paginas, arquivo.replace('.json', ''));
+}
+
+// Folhetos coletados pelo robô (API de folhetos do site)
+for (const arquivo of brutos.filter((f) => f.startsWith('atacadao-folheto-'))) {
+  const c = ler(`data/brutos/${arquivo}`) as ColetaAtacadao;
+  const idEncarte = arquivo.replace('.json', '');
+  encartes.push({
+    id: idEncarte,
+    mercado: 'atacadao',
+    titulo: c.folheto.nome.replace(/O(f+)e(r+)t[ãa]+o/i, 'Ofertão'),
+    inicio: c.folheto.inicio,
+    fim: c.folheto.fim,
+    lojas: c.folheto.lojas.map((l) => (l.cidade && l.cidade !== 'Rio de Janeiro' ? `${l.cidade} (${l.nome})` : l.nome)).sort(),
+    fonte: `folhetos do site do Atacadão (robô, ${c.coletadoEm.slice(0, 10)})`,
+  });
+  importarTabloideAtacadao(c.paginas, idEncarte);
 }
 
 // ---------------------------------------------------------------- Guanabara (robô; encartes das últimas 2 semanas)

@@ -29,3 +29,16 @@ export function criarBaixar(pausaMs = 1200): Baixar {
 function dormir(ms: number) {
   Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, ms);
 }
+
+/** Baixa um arquivo binário (PDF) para o disco. */
+export function baixarArquivo(url: string, destino: string) {
+  for (let tentativa = 1; ; tentativa++) {
+    try {
+      execFileSync('curl', ['-sSL', '--fail', '-m', '180', '-A', AGENTE, '-o', destino, url]);
+      return;
+    } catch (e) {
+      if (tentativa >= 3) throw new Error(`Falha ao baixar ${url}: ${(e as Error).message.split('\n')[0]}`);
+      dormir(3000 * tentativa);
+    }
+  }
+}

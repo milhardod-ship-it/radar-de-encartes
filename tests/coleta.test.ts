@@ -127,3 +127,35 @@ describe('validade da lista do Guanabara', () => {
     expect(coletarGuanabara(baixar, new Date('2026-11-24T12:00:00Z'))).toEqual({ vencidaAte: '2026-11-23' });
   });
 });
+
+describe('robô do Atacadão', () => {
+  it('agrupa os folhetos de todas as lojas (um folheto, várias lojas)', async () => {
+    const { agruparFolhetos } = await import('../src/coleta/atacadao');
+    const folheto = (id: string, nome: string, ini: string, fim: string) => ({
+      id, name: nome, validity: { initial: `${ini}T00:00:00Z`, final: `${fim}T00:00:00Z` }, urlFinalDocument: `https://x/?id=${id}`, exclude: false,
+    });
+    const lojas = [
+      { storeId: 247, loja: 'Realengo', bairro: 'Realengo', cidade: 'Rio de Janeiro', lat: '-22.87', long: '-43.42', flyers: [folheto('A', 'Ofertão', '2026-11-24', '2026-11-30'), folheto('B', 'Boa do Dia', '2026-11-24', '2026-11-24')] },
+      { storeId: 300, loja: 'Maria da Luz', bairro: 'Centro', cidade: 'Nova Iguaçu', lat: '-22.7', long: '-43.4', flyers: [folheto('A', 'Ofertão', '2026-11-24', '2026-11-30')] },
+    ];
+    const r = agruparFolhetos(lojas);
+    expect(r.map((f) => [f.id, f.nome, f.inicio, f.fim, f.lojas.map((l) => l.nome)])).toEqual([
+      ['B', 'Boa do Dia', '2026-11-24', '2026-11-24', ['Realengo']],
+      ['A', 'Ofertão', '2026-11-24', '2026-11-30', ['Realengo', 'Maria da Luz']],
+    ]);
+  });
+
+  it('lê os dados embutidos do PDF (TABLOIDI-DADOS)', async () => {
+    const { lerTabloide } = await import('../src/coleta/atacadao');
+    const meta = {
+      versao: '2.0', documento: 'rj (BOA DO DIA) 24 nov 26',
+      paginas: [{ pagina: 1, itens: [{ numero: 1, descricao: { texto: 'Açúcar Refinado Guarani\nPacote com 1kg' }, campos: { P: { texto: 'R$3,39' }, D: { texto: 'de:  R$ 3,59  por:' } }, fotos: [{ sku: '47951' }, { sku: '47951' }] }] }],
+    };
+    const saida = `Title: x\nSubject:         TABLOIDI-DADOS 2.0\n${JSON.stringify(meta)}\nCreator: Adobe InDesign`;
+    expect(lerTabloide(saida)).toEqual({
+      documento: 'rj (BOA DO DIA) 24 nov 26',
+      paginas: [{ pagina: 1, itens: [{ numero: 1, descricao: 'Açúcar Refinado Guarani\nPacote com 1kg', campos: { P: 'R$3,39', D: 'de:  R$ 3,59  por:' }, skus: ['47951'] }] }],
+    });
+    expect(lerTabloide('Creator: InDesign\nPages: 4')).toBeNull();
+  });
+});

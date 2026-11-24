@@ -1,6 +1,6 @@
 [
  {
-  "id": "atacadao-boa-do-dia-2026-11-23#948",
+  "id": "atacadao-boa-do-dia-2026-11-23#1025",
   "mercado": "atacadao",
   "encarte": "atacadao-boa-do-dia-2026-11-23",
   "produto": "maca__sem-marca__850g",
@@ -23,7 +23,7 @@
   "revisado": false
  },
  {
-  "id": "atacadao-boa-do-dia-2026-11-23#949",
+  "id": "atacadao-boa-do-dia-2026-11-23#1026",
   "mercado": "atacadao",
   "encarte": "atacadao-boa-do-dia-2026-11-23",
   "produto": "peito-frango__lar__1000g",
@@ -47,7 +47,7 @@
   "revisado": false
  },
  {
-  "id": "atacadao-boa-do-dia-2026-11-23#950",
+  "id": "atacadao-boa-do-dia-2026-11-23#1027",
   "mercado": "atacadao",
   "encarte": "atacadao-boa-do-dia-2026-11-23",
   "produto": "hamburguer-frango__friboi__2016g",
@@ -70,7 +70,7 @@
   "revisado": false
  },
  {
-  "id": "atacadao-boa-do-dia-2026-11-23#951",
+  "id": "atacadao-boa-do-dia-2026-11-23#1028",
   "mercado": "atacadao",
   "encarte": "atacadao-boa-do-dia-2026-11-23",
   "produto": "leite-uht-integral__quata__1000ml",
@@ -98,6 +98,2887 @@
   ],
   "precoDe": 4.89,
   "limite": "máx. 48 unidades por cliente no app",
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1Kv5N49qCj5LBM84Vb-kd3DwF8Pb72w-W#543",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1Kv5N49qCj5LBM84Vb-kd3DwF8Pb72w-W",
+  "produto": "laranja-pera__sem-marca__1000g",
+  "nome": "Laranja-pera",
+  "marca": "",
+  "original": "Laranja-pera · Granel · Quilo",
+  "categoria": "Hortifrúti",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 2.99,
+    "exige": []
+   }
+  ],
+  "precoDe": 4.99,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1Kv5N49qCj5LBM84Vb-kd3DwF8Pb72w-W#544",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1Kv5N49qCj5LBM84Vb-kd3DwF8Pb72w-W",
+  "produto": "contra-file__friboi__1000g",
+  "nome": "Carne Bovina Contra Filé Resfriada",
+  "marca": "Friboi",
+  "original": "Carne Bovina Contra Filé Friboi Resfriada · Preço por quilo na peça",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 47.9,
+    "exige": []
+   }
+  ],
+  "precoDe": 55.9,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1Kv5N49qCj5LBM84Vb-kd3DwF8Pb72w-W#545",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1Kv5N49qCj5LBM84Vb-kd3DwF8Pb72w-W",
+  "produto": "acucar__guarani__1000g",
+  "nome": "Açúcar Refinado",
+  "marca": "Guarani",
+  "original": "Açúcar Refinado Guarani · Pacote com 1kg",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.39,
+    "exige": []
+   }
+  ],
+  "precoDe": 3.59,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1Kv5N49qCj5LBM84Vb-kd3DwF8Pb72w-W#546",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1Kv5N49qCj5LBM84Vb-kd3DwF8Pb72w-W",
+  "produto": "lava-roupas-po__urca__4000g",
+  "nome": "Lava Roupas em Pó",
+  "marca": "Urca",
+  "original": "Lava Roupas em Pó Urca · Pacote com 4kg",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 4000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 17.99,
+    "exige": []
+   }
+  ],
+  "precoDe": 19.99,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#547",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "abobora-paulista-jacare__sem-marca__1000g",
+  "nome": "Abóbora Paulista Jacaré Sergipana",
+  "marca": "",
+  "original": "Abóbora Paulista/Jacaré/ Sergipana · Quilo",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 3.99,
+    "exige": []
+   },
+   {
+    "valor": 3.29,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 2.99,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 5.99,
+  "limite": "limite por cliente: consulte no app",
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#548",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "ovo-branco-grande__sem-marca__30un",
+  "nome": "Ovo Branco Grande",
+  "marca": "",
+  "original": "Ovo Branco Grande · Bandeja com 30 unidades",
+  "categoria": "Hortifrúti",
+  "tamanho": {
+   "valor": 30,
+   "unidade": "un"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 14.9,
+    "exige": []
+   },
+   {
+    "valor": 13.9,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 13.2,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 16.9,
+  "limite": "limite por cliente: consulte no app",
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#549",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "cebola__sem-marca__1000g",
+  "nome": "Cebola",
+  "marca": "",
+  "original": "Cebola · Quilo",
+  "categoria": "Hortifrúti",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 8.99,
+    "exige": []
+   },
+   {
+    "valor": 7.99,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 7.19,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 9.98,
+  "limite": "limite por cliente: consulte no app",
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#550",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "abacate__sem-marca__1000g",
+  "nome": "Abacate",
+  "marca": "",
+  "original": "Abacate · Quilo",
+  "categoria": "Hortifrúti",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 4.99,
+    "exige": []
+   },
+   {
+    "valor": 4.29,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 3.89,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 5.99,
+  "limite": "limite por cliente: consulte no app",
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#551",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "coco-verde__sem-marca__sem-tamanho",
+  "nome": "Coco Verde",
+  "marca": "",
+  "original": "Coco Verde · Unidade",
+  "categoria": "Mercearia",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.99,
+    "exige": []
+   },
+   {
+    "valor": 3.29,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 2.99,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 5.99,
+  "limite": "limite por cliente: consulte no app",
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#552",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "laranja-pera__sem-marca__3000g",
+  "nome": "Laranja-pera",
+  "marca": "",
+  "original": "Laranja-pera · Saco com 3kg",
+  "categoria": "Hortifrúti",
+  "tamanho": {
+   "valor": 3000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 8.99,
+    "exige": []
+   },
+   {
+    "valor": 7.99,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 7.19,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 12.9,
+  "limite": "limite por cliente: consulte no app",
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#553",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "file-peixe-tilapia__copacol__800g",
+  "nome": "Filé de Peixe Tilápia",
+  "marca": "Copacol",
+  "original": "Filé de Peixe Tilápia Copacol · Congelado · Pacote com 800g",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 800,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 35.9,
+    "exige": []
+   },
+   {
+    "valor": 32.9,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 29.6,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 38.9,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#554",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "peixe-tilapia-postas__copacol__800g",
+  "nome": "Peixe Tilápia em Postas Congelado",
+  "marca": "Copacol",
+  "original": "Peixe Tilápia em Postas Copacol/ Aurora Congelado · Pacote com 800g",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 800,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 19.98,
+    "exige": []
+   },
+   {
+    "valor": 18.98,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 16.98,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 21.9,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#555",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "peixe-tilapia-postas__aurora__800g",
+  "nome": "Peixe Tilápia em Postas Congelado",
+  "marca": "Aurora",
+  "original": "Peixe Tilápia em Postas Copacol/ Aurora Congelado · Pacote com 800g",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 800,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 19.98,
+    "exige": []
+   },
+   {
+    "valor": 18.98,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 16.98,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 21.9,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#556",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "bisteca-suina__frimesa__1000g",
+  "nome": "Bisteca Suína Congelada",
+  "marca": "Frimesa",
+  "original": "Bisteca Suína Frimesa Congelada · Preço por quilo no pacote",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 14.99,
+    "exige": []
+   },
+   {
+    "valor": 13.49,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 12.15,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 15.99,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#557",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "file-peito-frango__copacol__1000g",
+  "nome": "Filé de Peito de Frango",
+  "marca": "Copacol",
+  "original": "Filé de Peito de Frango Copacol/ Sadia/ Canção · Congelado · Bandeja com 1kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 16.99,
+    "exige": []
+   },
+   {
+    "valor": 15.99,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 14.99,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 18.99,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#558",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "file-peito-frango__sadia__1000g",
+  "nome": "Filé de Peito de Frango",
+  "marca": "Sadia",
+  "original": "Filé de Peito de Frango Copacol/ Sadia/ Canção · Congelado · Bandeja com 1kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 16.99,
+    "exige": []
+   },
+   {
+    "valor": 15.99,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 14.99,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 18.99,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#559",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "file-peito-frango__cancao__1000g",
+  "nome": "Filé de Peito de Frango",
+  "marca": "Canção",
+  "original": "Filé de Peito de Frango Copacol/ Sadia/ Canção · Congelado · Bandeja com 1kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 16.99,
+    "exige": []
+   },
+   {
+    "valor": 15.99,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 14.99,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 18.99,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#560",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "frango-passarinho__lar__1000g",
+  "nome": "Frango à Passarinho IQF Congelado",
+  "marca": "Lar",
+  "original": "Frango à Passarinho IQF Lar Congelado · Pacote com 1kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 9.99,
+    "exige": []
+   },
+   {
+    "valor": 8.99,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 8.09,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 10.99,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#561",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "sobrecoxa-frango__sadia__800g",
+  "nome": "Sobrecoxa de Frango Congelada",
+  "marca": "Sadia",
+  "original": "Sobrecoxa de Frango Sadia Congelada · Assa Fácil · Pacote com 800g",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 800,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 12.98,
+    "exige": []
+   },
+   {
+    "valor": 11.98,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 10.98,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 14.9,
+  "limite": "limite por cliente: consulte no app",
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#562",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "contra-file__friboi__1000g",
+  "nome": "Carne Bovina Contra Filé Resfriada",
+  "marca": "Friboi",
+  "original": "Carne Bovina Contra Filé Friboi Resfriada · Preço por quilo na peça",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 52.9,
+    "exige": []
+   },
+   {
+    "valor": 49.9,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 46.9,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 56.9,
+  "limite": "limite por cliente: consulte no app",
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#563",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "assado-forno-panela__friboi__1000g",
+  "nome": "Carne Bovina Assado de Forno Carne de Panela Cozido ao Molho",
+  "marca": "Friboi",
+  "original": "Carne Bovina Assado de Forno/ Carne de Panela/ Cozido ao Molho Friboi · Resfriada · Preço por quilo na peça",
+  "categoria": "Outros",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 29.99,
+    "exige": []
+   },
+   {
+    "valor": 28.99,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 25.99,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 36.9,
+  "limite": "limite por cliente: consulte no app",
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#564",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "moida__friboi__500g",
+  "nome": "Carne Bovina Moída Congelada",
+  "marca": "Friboi",
+  "original": "Carne Bovina Moída Friboi Congelada · Pacote com 500g",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 13.99,
+    "exige": []
+   },
+   {
+    "valor": 12.99,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 11.79,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 16.9,
+  "limite": "limite por cliente: consulte no app",
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#565",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "pao-queijo__sao-geraldo__800g",
+  "nome": "Pão de Queijo",
+  "marca": "São Geraldo",
+  "original": "Pão de Queijo São Geraldo · Tradicional · Pacote com 800g",
+  "categoria": "Congelados",
+  "tamanho": {
+   "valor": 800,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 14.9,
+    "exige": []
+   },
+   {
+    "valor": 12.9,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 11.6,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 16.9,
+  "limite": "limite por cliente: consulte no app",
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#566",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "batata-pre-frita__uai__2000g",
+  "nome": "Batata Pré-Frita Congelada",
+  "marca": "Uai",
+  "original": "Batata Pré-Frita Uai Congelada · Pacote com 2kg",
+  "categoria": "Congelados",
+  "tamanho": {
+   "valor": 2000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 19.9,
+    "exige": []
+   },
+   {
+    "valor": 17.9,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 15.9,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 21.9,
+  "limite": "limite por cliente: consulte no app",
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#567",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "hamburguer-misto__friboi__672g",
+  "nome": "Hambúrguer Misto",
+  "marca": "Friboi",
+  "original": "Hambúrguer Misto Friboi · Caixeta com 672g",
+  "categoria": "Congelados",
+  "tamanho": {
+   "valor": 672,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 12.99,
+    "exige": []
+   },
+   {
+    "valor": 11.99,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 10.79,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 14.99,
+  "limite": "limite por cliente: consulte no app",
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#568",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "manteiga__imperial__500g",
+  "nome": "Manteiga",
+  "marca": "Imperial",
+  "original": "Manteiga Imperial · Com sal · Pote com 500g",
+  "categoria": "Frios e Laticínios",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 19.99,
+    "exige": []
+   },
+   {
+    "valor": 18.99,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 16.99,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 23.99,
+  "limite": "limite por cliente: consulte no app",
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#569",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "queijo-mussarela__mutumilk__1000g",
+  "nome": "Queijo Mussarela",
+  "marca": "Mutumilk",
+  "original": "Queijo Mussarela Mutumilk · F4 · Preço por quilo na peça",
+  "categoria": "Frios e Laticínios",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 32.99,
+    "exige": []
+   },
+   {
+    "valor": 31.99,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 28.99,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 36.99,
+  "limite": "limite por cliente: consulte no app",
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#570",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "salsicha-hot-dog__perdigao__5000g",
+  "nome": "Salsicha Hot Dog Congelada",
+  "marca": "Perdigão",
+  "original": "Salsicha Hot Dog Perdigão Congelada · Pacote com 5kg",
+  "categoria": "Frios e Laticínios",
+  "tamanho": {
+   "valor": 5000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 39.95,
+    "exige": []
+   },
+   {
+    "valor": 37.95,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 33.95,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 45.95,
+  "limite": "limite por cliente: consulte no app",
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#571",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "leite__capel__1000ml",
+  "nome": "Leite Longa Vida",
+  "marca": "Capel",
+  "original": "Leite Longa Vida Capel · Integral · TP com 1L",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.39,
+    "exige": []
+   },
+   {
+    "valor": 4.19,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 3.99,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 4.59,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#572",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "macarrao-semola__dona-benta__1000g",
+  "nome": "Macarrão de Sêmola",
+  "marca": "Dona Benta",
+  "original": "Macarrão de Sêmola Dona Benta · Espaguete · Pacote com 1kg",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.99,
+    "exige": []
+   },
+   {
+    "valor": 4.79,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 4.39,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 5.49,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#573",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "acucar__caravelas__1000g",
+  "nome": "Açúcar",
+  "marca": "Caravelas",
+  "original": "Açúcar Caravelas · Refinado · Pacote com 1kg",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.19,
+    "exige": []
+   },
+   {
+    "valor": 2.99,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 2.69,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 3.49,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#574",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "leite-condensado__italac__395g",
+  "nome": "Leite Condensado",
+  "marca": "Italac",
+  "original": "Leite Condensado Italac · Semidesnatado · TP com 395g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 395,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.99,
+    "exige": []
+   },
+   {
+    "valor": 4.79,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 4.39,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 5.69,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#575",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "farinha-mandioca__chinezinho__1000g",
+  "nome": "Farinha de Mandioca",
+  "marca": "Chinezinho",
+  "original": "Farinha de Mandioca Chinezinho · Torrada/ Branca · Pacote com 1kg",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.29,
+    "exige": []
+   },
+   {
+    "valor": 3.99,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 3.59,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 4.99,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#576",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "leite-po__aurora__400g",
+  "nome": "Leite em Pó",
+  "marca": "Aurora",
+  "original": "Leite em Pó Aurora · Integral Instantâneo · Pacote com 400g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 400,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 12.99,
+    "exige": []
+   },
+   {
+    "valor": 12.79,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 11.59,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 13.99,
+  "limite": "limite por cliente: consulte no app",
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#577",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "leite-coco__menina__200ml",
+  "nome": "Leite de Coco",
+  "marca": "Menina",
+  "original": "Leite de Coco Menina · Vidro com 200ml",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 200,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.59,
+    "exige": []
+   },
+   {
+    "valor": 3.45,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 3.15,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 3.99,
+  "limite": "limite por cliente: consulte no app",
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#578",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "sal__piramide__1000g",
+  "nome": "Sal",
+  "marca": "Pirâmide",
+  "original": "Sal Pirâmide · Moído - Iodado · Pacote com 1kg",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.19,
+    "exige": []
+   },
+   {
+    "valor": 2.15,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 1.95,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 2.29,
+  "limite": "limite por cliente: consulte no app",
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#579",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "molho-tomate__ekma__1700g",
+  "nome": "Molho de Tomate",
+  "marca": "Ekma",
+  "original": "Molho de Tomate Ekma · Pizza/ Triturado · Pouch com 1,7kg",
+  "categoria": "Congelados",
+  "tamanho": {
+   "valor": 1700,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 11.79,
+    "exige": []
+   },
+   {
+    "valor": 11.59,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 10.59,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 11.9,
+  "limite": "limite por cliente: consulte no app",
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#580",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "biscoito-rosquinha__kerus__300g",
+  "nome": "Biscoito Rosquinha",
+  "marca": "Kerus",
+  "original": "Biscoito Rosquinha Kerus · Vários sabores · Pacote com 300g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 300,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.99,
+    "exige": []
+   },
+   {
+    "valor": 2.49,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 2.25,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 3.29,
+  "limite": "limite por cliente: consulte no app",
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#581",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "biscoito-wafer__panco__112g",
+  "nome": "Biscoito Wafer",
+  "marca": "Panco",
+  "original": "Biscoito Wafer Panco · Vários sabores · Pacote com 112g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 112,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.98,
+    "exige": []
+   },
+   {
+    "valor": 1.98,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 1.78,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 2.99,
+  "limite": "limite por cliente: consulte no app",
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#582",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "biscoito__renata__360g",
+  "nome": "Biscoito",
+  "marca": "Renata",
+  "original": "Biscoito Renata · Vários sabores · Pacote com 360g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 360,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.95,
+    "exige": []
+   },
+   {
+    "valor": 3.95,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 3.55,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 4.99,
+  "limite": "limite por cliente: consulte no app",
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#583",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "biscoito-recheado__trakinas__126g",
+  "nome": "Biscoito Recheado",
+  "marca": "Trakinas",
+  "original": "Biscoito Recheado Trakinas · Vários sabores · Pacote com 126g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 126,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.75,
+    "exige": []
+   },
+   {
+    "valor": 2.15,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 1.95,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 2.99,
+  "limite": "limite por cliente: consulte no app",
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#584",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "biscoito-legusto__kerus__80g",
+  "nome": "Biscoito LeGusto",
+  "marca": "Kerus",
+  "original": "Biscoito Kerus LeGusto · Coberto de Chocolate · Pacote com 80g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 80,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.49,
+    "exige": []
+   },
+   {
+    "valor": 2.99,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 2.69,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "limite": "limite por cliente: consulte no app",
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#585",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "biscoito-recheado-passatempo__nestle__130g",
+  "nome": "Biscoito Recheado Passatempo",
+  "marca": "Nestlé",
+  "original": "Biscoito Recheado Nestlé Passatempo · Chocolate 10% Grátis · Pacote com 130g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 130,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 1.99,
+    "exige": []
+   },
+   {
+    "valor": 1.49,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 1.35,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 2.29,
+  "limite": "limite por cliente: consulte no app",
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#586",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "leite-condensado__moca__395g",
+  "nome": "Leite Condensado",
+  "marca": "Moça",
+  "original": "Leite Condensado Moça · Integral · Lata com 395g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 395,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 8.99,
+    "exige": []
+   },
+   {
+    "valor": 6.99,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 6.29,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 9.99,
+  "limite": "limite por cliente: consulte no app",
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#587",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "leite-po__ninho__380g",
+  "nome": "Leite em Pó",
+  "marca": "Ninho",
+  "original": "Leite em Pó Ninho · Integral Instantâneo/ Integral · Lata com 380g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 380,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 17.9,
+    "exige": []
+   },
+   {
+    "valor": 15.9,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 14.3,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 19.9,
+  "limite": "limite por cliente: consulte no app",
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#588",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "achocolatado-po__nescau__350g",
+  "nome": "Achocolatado em Pó",
+  "marca": "Nescau",
+  "original": "Achocolatado em Pó Nescau · Lata com 350g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 350,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 9.99,
+    "exige": []
+   },
+   {
+    "valor": 7.99,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 7.19,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "limite": "limite por cliente: consulte no app",
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#589",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "aveia-flocos-flocos__nestle__170g",
+  "nome": "Aveia em Flocos Flocos Finos",
+  "marca": "Nestlé",
+  "original": "Aveia em Flocos/ Flocos Finos Nestlé · Caixeta com 170g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 170,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.95,
+    "exige": []
+   },
+   {
+    "valor": 2.95,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 2.65,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 3.99,
+  "limite": "limite por cliente: consulte no app",
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#590",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "leite-po__molico__280g",
+  "nome": "Leite em Pó",
+  "marca": "Molico",
+  "original": "Leite em Pó Molico · Desnatado · Lata com 280g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 280,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 17.9,
+    "exige": []
+   },
+   {
+    "valor": 15.9,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 14.3,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 18.9,
+  "limite": "limite por cliente: consulte no app",
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#591",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "ceral-infantil__mucilon__360g",
+  "nome": "Ceral Infantil",
+  "marca": "Mucilon",
+  "original": "Ceral Infantil Mucilon · Vários tipos · Sachê com 360g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 360,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 11.9,
+    "exige": []
+   },
+   {
+    "valor": 9.9,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 8.9,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 12.9,
+  "limite": "limite por cliente: consulte no app",
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#592",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "chocolate__snickers__40g",
+  "nome": "Chocolate",
+  "marca": "Snickers",
+  "original": "Chocolate Snickers · Vários sabores · Unidade com 40g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 40,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.99,
+    "exige": []
+   },
+   {
+    "valor": 3.49,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 3.15,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 4.49,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#593",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "salgadinho__kerus__43g",
+  "nome": "Salgadinho",
+  "marca": "Kerus",
+  "original": "Salgadinho Kerus · Vários sabores · Pacote com 43g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 43,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 1.19,
+    "exige": []
+   },
+   {
+    "valor": 1.09,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 0.99,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 1.49,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#594",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "doce-pacoca-pacoquita__santa-helena__100un",
+  "nome": "Doce Paçoca Paçoquita",
+  "marca": "Santa Helena",
+  "original": "Doce Paçoca Santa Helena Paçoquita · Rolha Embalada · Caixa com 100 unidades",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 100,
+   "unidade": "un"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 35.9,
+    "exige": []
+   },
+   {
+    "valor": 31.9,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 28.9,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 44.9,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#595",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "cerveja__itaipava__550ml",
+  "nome": "Cerveja",
+  "marca": "Itaipava",
+  "original": "Cerveja Itaipava · Latão com 550ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 550,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.69,
+    "exige": []
+   },
+   {
+    "valor": 4.19,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 3.79,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 4.79,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#596",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "cerveja__amstel__269ml",
+  "nome": "Cerveja",
+  "marca": "Amstel",
+  "original": "Cerveja Amstel · Lata com 269ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 269,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.19,
+    "exige": []
+   },
+   {
+    "valor": 2.99,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 2.69,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 3.29,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#597",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "refrigerante__grapette__2000ml",
+  "nome": "Refrigerante",
+  "marca": "Grapette",
+  "original": "Refrigerante Grapette · Framboesa · Pet com 2L",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 2000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 5.19,
+    "exige": []
+   },
+   {
+    "valor": 5.09,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 4.59,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 5.39,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#598",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "refrigerante-guarana__antarctica__600ml",
+  "nome": "Refrigerante Guaraná",
+  "marca": "Antarctica",
+  "original": "Refrigerante Guaraná Antarctica · Pet com 600ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 600,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.89,
+    "exige": []
+   },
+   {
+    "valor": 4.49,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 3.99,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 4.99,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#599",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "refresco__guaraplus__290ml",
+  "nome": "Refresco",
+  "marca": "Guaraplus",
+  "original": "Refresco Guaraplus · Guaraná · Unidade com 290ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 290,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 0.79,
+    "exige": []
+   },
+   {
+    "valor": 0.75,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 0.69,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 0.88,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#600",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "ice__syn__300ml",
+  "nome": "Ice",
+  "marca": "Syn",
+  "original": "Ice Syn · Lemon · Pet com 300ml",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 300,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.79,
+    "exige": []
+   },
+   {
+    "valor": 2.49,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 2.25,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 2.99,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#601",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "gin__bombay-sapphire__750ml",
+  "nome": "Gin",
+  "marca": "Bombay Sapphire",
+  "original": "Gin Bombay Sapphire · Garrafa com 750ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 750,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 99.9,
+    "exige": []
+   },
+   {
+    "valor": 89.9,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 80.9,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 109.9,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#602",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "cachaca__pitu__965ml",
+  "nome": "Cachaça",
+  "marca": "Pitú",
+  "original": "Cachaça Pitú · Com casco · Garrafa com 965ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 965,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 11.99,
+    "exige": []
+   },
+   {
+    "valor": 10.99,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 9.99,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 12.99,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#603",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "suco__maguary__950ml",
+  "nome": "Suco",
+  "marca": "Maguary",
+  "original": "Suco Maguary · Seleção Uva e Maçã · Pet com 950ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 950,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 9.9,
+    "exige": []
+   },
+   {
+    "valor": 8.99,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 8.09,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 10.99,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#604",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "saco-lixo__embalixo__100000ml",
+  "nome": "Saco para Lixo",
+  "marca": "Embalixo",
+  "original": "Saco para Lixo Embalixo · Super econômico - 100L/ 50L/ 30L/ 15L · Rolo com 25/ 50/ 50/ 100 unidades",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 100000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 7.9,
+    "exige": []
+   },
+   {
+    "valor": 6.9,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 6.2,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 12.9,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#605",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "desinfetante__bufalo__5000ml",
+  "nome": "Desinfetante",
+  "marca": "Búfalo",
+  "original": "Desinfetante Búfalo · Lavanda/ Eucalipto · Bombona com 5L",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 5000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 11.49,
+    "exige": []
+   },
+   {
+    "valor": 10.99,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 9.99,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 12.49,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#606",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "lava-roupas-po__urca-maxx__2200g",
+  "nome": "Lava Roupas em Pó",
+  "marca": "Urca Maxx",
+  "original": "Lava Roupas em Pó Urca Maxx · Caixeta com 2,2kg",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 2200,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 14.49,
+    "exige": []
+   },
+   {
+    "valor": 13.99,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 12.69,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 14.99,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#607",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "desengordurante__uau__500ml",
+  "nome": "Desengordurante",
+  "marca": "Uau",
+  "original": "Desengordurante Uau · Limão · Frasco com 500ml",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 5.39,
+    "exige": []
+   },
+   {
+    "valor": 4.79,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 4.29,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 6.09,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#608",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "desinfetante-gel__limppano__500ml",
+  "nome": "Desinfetante em Gel",
+  "marca": "Limppano",
+  "original": "Desinfetante em Gel Limppano · Vários tipos · Frasco com 500ml",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 10.98,
+    "exige": []
+   },
+   {
+    "valor": 9.98,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 8.98,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 13.5,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#609",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "pastilha-adesiva__limppano__3un",
+  "nome": "Pastilha Adesiva",
+  "marca": "Limppano",
+  "original": "Pastilha Adesiva Limppano · Vários tipos · Caixeta com 3 unidades",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 3,
+   "unidade": "un"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 6.09,
+    "exige": []
+   },
+   {
+    "valor": 5.09,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 4.59,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 7.09,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#610",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "condicionador__palmolive__315ml",
+  "nome": "Condicionador",
+  "marca": "Palmolive",
+  "original": "Condicionador Palmolive · Vários tipos · Frasco com 315ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 315,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 8.99,
+    "exige": []
+   },
+   {
+    "valor": 7.98,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 7.18,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 10.19,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#611",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "sabonete-naturals__palmolive__680g",
+  "nome": "Sabonete Naturals",
+  "marca": "Palmolive",
+  "original": "Sabonete Palmolive Naturals · Várias fragrâncias · Pack com 8x85g",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 680,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 13.5,
+    "exige": []
+   },
+   {
+    "valor": 11.5,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 10.4,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 15.5,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#612",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "creme-tratamento-cabelo__skala__1000g",
+  "nome": "Creme de Tratamento para Cabelo",
+  "marca": "Skala",
+  "original": "Creme de Tratamento para Cabelo Skala · Vários tipos · Pote com 1kg",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 9.79,
+    "exige": []
+   },
+   {
+    "valor": 9.39,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 8.49,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 10.98,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#613",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "papel-higienico__bulnez__sem-tamanho",
+  "nome": "Papel Higiênico",
+  "marca": "Bulnez",
+  "original": "Papel Higiênico Bulnez · Folha Dupla 30m · Pacote com 12 rolos",
+  "categoria": "Higiene",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 15.29,
+    "exige": []
+   },
+   {
+    "valor": 14.99,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 13.49,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 15.9,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#614",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "sabonete__biocrema__90g",
+  "nome": "Sabonete",
+  "marca": "Biocrema",
+  "original": "Sabonete Biocrema · Vários tipos · Unidade com 90g",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 90,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.1,
+    "exige": []
+   },
+   {
+    "valor": 1.95,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 1.75,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 2.25,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#615",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "alimento-caes__champ__18000g",
+  "nome": "Alimento para Cães",
+  "marca": "Champ",
+  "original": "Alimento para Cães Champ · Carne e Cereal · Saco com 18kg",
+  "categoria": "Outros",
+  "tamanho": {
+   "valor": 18000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 89,
+    "exige": []
+   },
+   {
+    "valor": 79.9,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 71.9,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 125,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#616",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "panela-pressao__panelux__4500ml",
+  "nome": "Panela de Pressão",
+  "marca": "Panelux",
+  "original": "Panela de Pressão Panelux · Polida - 4,5L · Unidade",
+  "categoria": "Outros",
+  "tamanho": {
+   "valor": 4500,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 49.9,
+    "exige": []
+   },
+   {
+    "valor": 44.9,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 40.4,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 52.9,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#617",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "copo-americano__nadir__sem-tamanho",
+  "nome": "Copo Americano",
+  "marca": "Nadir",
+  "original": "Copo Americano Nadir · Ref. 2010 · Unidade",
+  "categoria": "Mercearia",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 1.09,
+    "exige": []
+   },
+   {
+    "valor": 0.99,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 0.89,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 1.59,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#618",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "filme-pvc__lusafilm__sem-tamanho",
+  "nome": "Filme PVC",
+  "marca": "Lusafilm",
+  "original": "Filme PVC Lusafilm · 28cm x 30m · Rolo",
+  "categoria": "Mercearia",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 5.99,
+    "exige": []
+   },
+   {
+    "valor": 5.49,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 4.99,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 6.49,
+  "revisado": false
+ },
+ {
+  "id": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE#619",
+  "mercado": "atacadao",
+  "encarte": "atacadao-folheto-1PKbTVZKGKi6VU3r7bubQaaflwf8RiKKE",
+  "produto": "pneu-touring__dunlop__sem-tamanho",
+  "nome": "Pneu Touring",
+  "marca": "Dunlop",
+  "original": "Pneu Dunlop Touring · 175/65 R14 · Unidade",
+  "categoria": "Outros",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 349,
+    "exige": []
+   },
+   {
+    "valor": 329,
+    "exige": [
+     "meu-atacadao"
+    ],
+    "condicao": "ativando a oferta no app Meu Atacadão"
+   },
+   {
+    "valor": 299.02,
+    "exige": [
+     "meu-atacadao",
+     "cartao-atacadao"
+    ],
+    "condicao": "app Meu Atacadão + cartão Atacadão, Carrefour ou Sam’s Club"
+   }
+  ],
+  "precoDe": 389,
   "revisado": false
  },
  {
@@ -299,9 +3180,9 @@
   "id": "atacadao-ofertao-2026-11-17#470",
   "mercado": "atacadao",
   "encarte": "atacadao-ofertao-2026-11-17",
-  "produto": "banana-prata__sem-marca__1000g",
-  "nome": "Banana Prata",
-  "marca": "",
+  "produto": "banana__prata__1000g",
+  "nome": "Banana",
+  "marca": "Prata",
   "original": "Banana Prata · Quilo",
   "categoria": "Hortifrúti",
   "tamanho": {
@@ -3065,7 +5946,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#543",
+  "id": "guanabara-site-ate-2026-11-23#620",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "arroz__camil__5000g",
@@ -3088,7 +5969,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#544",
+  "id": "guanabara-site-ate-2026-11-23#621",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "arroz__combrasil__5000g",
@@ -3111,7 +5992,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#545",
+  "id": "guanabara-site-ate-2026-11-23#622",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "arroz__rei-do-sul__5000g",
@@ -3134,7 +6015,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#546",
+  "id": "guanabara-site-ate-2026-11-23#623",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "arroz__pillon__5000g",
@@ -3157,7 +6038,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#547",
+  "id": "guanabara-site-ate-2026-11-23#624",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "arroz__maximo__5000g",
@@ -3180,7 +6061,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#548",
+  "id": "guanabara-site-ate-2026-11-23#625",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "arroz-branco__prato-fino__5000g",
@@ -3203,7 +6084,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#549",
+  "id": "guanabara-site-ate-2026-11-23#626",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "arroz__carreteiro__5000g",
@@ -3226,7 +6107,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#550",
+  "id": "guanabara-site-ate-2026-11-23#627",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "arroz__ouro-nobre__5000g",
@@ -3249,7 +6130,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#551",
+  "id": "guanabara-site-ate-2026-11-23#628",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "farinha-trigo__globo__1000g",
@@ -3272,7 +6153,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#552",
+  "id": "guanabara-site-ate-2026-11-23#629",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "farinha-trigo-especial__boa-sorte__1000g",
@@ -3295,7 +6176,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#553",
+  "id": "guanabara-site-ate-2026-11-23#630",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "feijao-preto__combrasil__1000g",
@@ -3318,7 +6199,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#554",
+  "id": "guanabara-site-ate-2026-11-23#631",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "feijao-preto__copa__1000g",
@@ -3341,7 +6222,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#555",
+  "id": "guanabara-site-ate-2026-11-23#632",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "feijao-preto__kicaldo__1000g",
@@ -3364,7 +6245,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#556",
+  "id": "guanabara-site-ate-2026-11-23#633",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "feijao-preto__macio__1000g",
@@ -3387,7 +6268,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#557",
+  "id": "guanabara-site-ate-2026-11-23#634",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "feijao-preto__maximo__1000g",
@@ -3410,7 +6291,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#558",
+  "id": "guanabara-site-ate-2026-11-23#635",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "feijao-preto__panela-de-barro__1000g",
@@ -3433,7 +6314,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#559",
+  "id": "guanabara-site-ate-2026-11-23#636",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "feijao-preto__sanes__1000g",
@@ -3456,7 +6337,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#560",
+  "id": "guanabara-site-ate-2026-11-23#637",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "pipoca-microondas__yoki__90g",
@@ -3479,7 +6360,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#561",
+  "id": "guanabara-site-ate-2026-11-23#638",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "arroz__tio-joao__5000g",
@@ -3502,7 +6383,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#562",
+  "id": "guanabara-site-ate-2026-11-23#639",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "acucar__uniao__1000g",
@@ -3525,7 +6406,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#563",
+  "id": "guanabara-site-ate-2026-11-23#640",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "acucar__guarani__1000g",
@@ -3548,7 +6429,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#564",
+  "id": "guanabara-site-ate-2026-11-23#641",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "amido-milho__maizena__200g",
@@ -3571,7 +6452,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#565",
+  "id": "guanabara-site-ate-2026-11-23#642",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "aveia-flocos-flocos__quaker__165g",
@@ -3594,7 +6475,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#566",
+  "id": "guanabara-site-ate-2026-11-23#643",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "aveia-flocos__yoki__170g",
@@ -3617,7 +6498,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#567",
+  "id": "guanabara-site-ate-2026-11-23#644",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "aveia-flocos-finos__yoki__170g",
@@ -3640,7 +6521,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#568",
+  "id": "guanabara-site-ate-2026-11-23#645",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "cafe__bom-dia__500g",
@@ -3663,7 +6544,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#569",
+  "id": "guanabara-site-ate-2026-11-23#646",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "cafe__3-coracoes__500g",
@@ -3686,7 +6567,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#570",
+  "id": "guanabara-site-ate-2026-11-23#647",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "cafe__bom-jesus__500g",
@@ -3709,7 +6590,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#571",
+  "id": "guanabara-site-ate-2026-11-23#648",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "cafe__melitta__500g",
@@ -3732,7 +6613,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#572",
+  "id": "guanabara-site-ate-2026-11-23#649",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "cafe__patusco__500g",
@@ -3755,7 +6636,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#573",
+  "id": "guanabara-site-ate-2026-11-23#650",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "cafe-golden__pimpinela__500g",
@@ -3778,7 +6659,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#574",
+  "id": "guanabara-site-ate-2026-11-23#651",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "cafe__uniao__500g",
@@ -3801,7 +6682,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#575",
+  "id": "guanabara-site-ate-2026-11-23#652",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "leite-po__gloria__360g",
@@ -3824,7 +6705,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#576",
+  "id": "guanabara-site-ate-2026-11-23#653",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "leite-po__italac__360g",
@@ -3847,7 +6728,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#577",
+  "id": "guanabara-site-ate-2026-11-23#654",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "leite-uht-integral__italac__1000ml",
@@ -3870,7 +6751,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#578",
+  "id": "guanabara-site-ate-2026-11-23#655",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "leite-uht-desnatado__italac__1000ml",
@@ -3893,7 +6774,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#579",
+  "id": "guanabara-site-ate-2026-11-23#656",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "leite-uht-integral__gloria__1000ml",
@@ -3916,7 +6797,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#580",
+  "id": "guanabara-site-ate-2026-11-23#657",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "leite-uht-integral__molico__1000ml",
@@ -3939,7 +6820,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#581",
+  "id": "guanabara-site-ate-2026-11-23#658",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "leite-uht__ninho__1000ml",
@@ -3962,7 +6843,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#582",
+  "id": "guanabara-site-ate-2026-11-23#659",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "leite-uht-integral__piracanjuba__1000ml",
@@ -3985,7 +6866,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#583",
+  "id": "guanabara-site-ate-2026-11-23#660",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "leite-po-desnatado__molico__280g",
@@ -4008,7 +6889,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#584",
+  "id": "guanabara-site-ate-2026-11-23#661",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "farinha-cereais-sachet__neston__210g",
@@ -4031,7 +6912,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#585",
+  "id": "guanabara-site-ate-2026-11-23#662",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "bisnaguito__plus-vita__300g",
@@ -4054,7 +6935,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#586",
+  "id": "guanabara-site-ate-2026-11-23#663",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "pao-forma-integral__panco__500g",
@@ -4077,7 +6958,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#587",
+  "id": "guanabara-site-ate-2026-11-23#664",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "pao-forma__seven-boys__450g",
@@ -4100,7 +6981,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#588",
+  "id": "guanabara-site-ate-2026-11-23#665",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "pao-integral__wickbold__450g",
@@ -4123,7 +7004,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#589",
+  "id": "guanabara-site-ate-2026-11-23#666",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "pao-forma__wickbold__450g",
@@ -4146,7 +7027,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#590",
+  "id": "guanabara-site-ate-2026-11-23#667",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "cafe__pilao__500g",
@@ -4170,7 +7051,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#591",
+  "id": "guanabara-site-ate-2026-11-23#668",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "cafe__pimpinela__500g",
@@ -4193,7 +7074,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#592",
+  "id": "guanabara-site-ate-2026-11-23#669",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "espaguete-semola__gallo__1000g",
@@ -4216,7 +7097,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#593",
+  "id": "guanabara-site-ate-2026-11-23#670",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "espaguete-semola__dona-benta__1000g",
@@ -4239,7 +7120,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#594",
+  "id": "guanabara-site-ate-2026-11-23#671",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "mistura-bolo__italac__400g",
@@ -4262,7 +7143,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#595",
+  "id": "guanabara-site-ate-2026-11-23#672",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "macarrao__renata__85g",
@@ -4285,7 +7166,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#596",
+  "id": "guanabara-site-ate-2026-11-23#673",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "macarrao__adria__75g",
@@ -4308,7 +7189,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#597",
+  "id": "guanabara-site-ate-2026-11-23#674",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "batata-palha__crac__70g",
@@ -4331,7 +7212,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#598",
+  "id": "guanabara-site-ate-2026-11-23#675",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "batata-palha__yoki__105g",
@@ -4354,7 +7235,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#599",
+  "id": "guanabara-site-ate-2026-11-23#676",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "biscoito-cream-cracker__adria__170g",
@@ -4377,7 +7258,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#600",
+  "id": "guanabara-site-ate-2026-11-23#677",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "biscoito-recheado-maltado__piraque__85g",
@@ -4400,7 +7281,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#601",
+  "id": "guanabara-site-ate-2026-11-23#678",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "biscoito-recheado__passatempo__130g",
@@ -4423,7 +7304,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#602",
+  "id": "guanabara-site-ate-2026-11-23#679",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "biscoito-piraque__maizena__175g",
@@ -4446,7 +7327,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#603",
+  "id": "guanabara-site-ate-2026-11-23#680",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "torrada__adria__142g",
@@ -4469,7 +7350,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#604",
+  "id": "guanabara-site-ate-2026-11-23#681",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "biscoito-recheado__piraque__160g",
@@ -4492,7 +7373,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#605",
+  "id": "guanabara-site-ate-2026-11-23#682",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "biscoito-goiabinha__piraque__75g",
@@ -4515,7 +7396,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#606",
+  "id": "guanabara-site-ate-2026-11-23#683",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "alcatra__friboi__1000g",
@@ -4538,7 +7419,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#607",
+  "id": "guanabara-site-ate-2026-11-23#684",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "contra-file__friboi__1000g",
@@ -4561,7 +7442,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#608",
+  "id": "guanabara-site-ate-2026-11-23#685",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "contra-file-friboi__maturatta__1000g",
@@ -4584,7 +7465,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#609",
+  "id": "guanabara-site-ate-2026-11-23#686",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "coracao-alcatra-friboi__maturatta__1000g",
@@ -4607,7 +7488,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#610",
+  "id": "guanabara-site-ate-2026-11-23#687",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "coxa-sobrecoxa-frango__sem-marca__1000g",
@@ -4630,7 +7511,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#611",
+  "id": "guanabara-site-ate-2026-11-23#688",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "coxa-frango__seara__1000g",
@@ -4653,7 +7534,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#612",
+  "id": "guanabara-site-ate-2026-11-23#689",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "coxinhas-asas-frango__guibon__1000g",
@@ -4676,7 +7557,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#613",
+  "id": "guanabara-site-ate-2026-11-23#690",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "file-costela-friboi__maturatta__1000g",
@@ -4699,7 +7580,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#614",
+  "id": "guanabara-site-ate-2026-11-23#691",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "file-peito__rivelli__1000g",
@@ -4722,7 +7603,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#615",
+  "id": "guanabara-site-ate-2026-11-23#692",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "file-peito-frango__sadia__1000g",
@@ -4745,7 +7626,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#616",
+  "id": "guanabara-site-ate-2026-11-23#693",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "file-mignon-cordao__anglo__1000g",
@@ -4768,7 +7649,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#617",
+  "id": "guanabara-site-ate-2026-11-23#694",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "file-mignon-chef__friboi__1000g",
@@ -4791,7 +7672,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#618",
+  "id": "guanabara-site-ate-2026-11-23#695",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "filezinho-frango__levida__1000g",
@@ -4814,7 +7695,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#619",
+  "id": "guanabara-site-ate-2026-11-23#696",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "filezinho-frango__sadia__1000g",
@@ -4837,7 +7718,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#620",
+  "id": "guanabara-site-ate-2026-11-23#697",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "frango-passarinho__rivelli__1000g",
@@ -4860,7 +7741,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#621",
+  "id": "guanabara-site-ate-2026-11-23#698",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "ovos-brancos__sem-marca__20un",
@@ -4883,7 +7764,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#622",
+  "id": "guanabara-site-ate-2026-11-23#699",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "pa__friboi__1000g",
@@ -4906,7 +7787,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#623",
+  "id": "guanabara-site-ate-2026-11-23#700",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "peito__friboi__1000g",
@@ -4929,7 +7810,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#624",
+  "id": "guanabara-site-ate-2026-11-23#701",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "acem__friboi__1000g",
@@ -4952,7 +7833,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#625",
+  "id": "guanabara-site-ate-2026-11-23#702",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "peito-frango__lar__1000g",
@@ -4975,7 +7856,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#626",
+  "id": "guanabara-site-ate-2026-11-23#703",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "picanha-friboi__maturatta__1000g",
@@ -4998,7 +7879,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#627",
+  "id": "guanabara-site-ate-2026-11-23#704",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sobrecoxa-frango__levida__1000g",
@@ -5021,7 +7902,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#628",
+  "id": "guanabara-site-ate-2026-11-23#705",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "file-peito-frango__guibon__1000g",
@@ -5044,7 +7925,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#629",
+  "id": "guanabara-site-ate-2026-11-23#706",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "batata-palito__mccain__1500g",
@@ -5067,7 +7948,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#630",
+  "id": "guanabara-site-ate-2026-11-23#707",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "batata-palito__easy-chef__2000g",
@@ -5090,7 +7971,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#631",
+  "id": "guanabara-site-ate-2026-11-23#708",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "batata-rostie__beluga__300g",
@@ -5113,7 +7994,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#632",
+  "id": "guanabara-site-ate-2026-11-23#709",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "hamburguer__perdigao__672g",
@@ -5136,7 +8017,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#633",
+  "id": "guanabara-site-ate-2026-11-23#710",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "hamburguer-texas-burger__seara__672g",
@@ -5159,7 +8040,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#634",
+  "id": "guanabara-site-ate-2026-11-23#711",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "lasanha__forno-de-minas__600g",
@@ -5182,7 +8063,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#635",
+  "id": "guanabara-site-ate-2026-11-23#712",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "lasanha__seara__600g",
@@ -5205,7 +8086,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#636",
+  "id": "guanabara-site-ate-2026-11-23#713",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "lasanha__perdigao__600g",
@@ -5228,7 +8109,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#637",
+  "id": "guanabara-site-ate-2026-11-23#714",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "lasanha__rezende__600g",
@@ -5251,7 +8132,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#638",
+  "id": "guanabara-site-ate-2026-11-23#715",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "lasanha__sadia__600g",
@@ -5274,7 +8155,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#639",
+  "id": "guanabara-site-ate-2026-11-23#716",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "pao-alho__mencucini__300g",
@@ -5297,7 +8178,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#640",
+  "id": "guanabara-site-ate-2026-11-23#717",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "pizza__seara__440g",
@@ -5320,7 +8201,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#641",
+  "id": "guanabara-site-ate-2026-11-23#718",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "steak-frango__lar__100g",
@@ -5343,7 +8224,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#642",
+  "id": "guanabara-site-ate-2026-11-23#719",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "tekitos__seara__1000g",
@@ -5366,7 +8247,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#643",
+  "id": "guanabara-site-ate-2026-11-23#720",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "mini-chicken__perdigao__1000g",
@@ -5389,7 +8270,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#644",
+  "id": "guanabara-site-ate-2026-11-23#721",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "blanquet-peru__sadia__1000g",
@@ -5412,7 +8293,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#645",
+  "id": "guanabara-site-ate-2026-11-23#722",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "mortadela-defumada__sadia__1000g",
@@ -5435,7 +8316,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#646",
+  "id": "guanabara-site-ate-2026-11-23#723",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "mortadela-ouro__perdigao__1000g",
@@ -5458,7 +8339,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#647",
+  "id": "guanabara-site-ate-2026-11-23#724",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "peito-frango-cozido__sadia__1000g",
@@ -5481,7 +8362,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#648",
+  "id": "guanabara-site-ate-2026-11-23#725",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "peito-peru-defumado__sadia__1000g",
@@ -5504,7 +8385,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#649",
+  "id": "guanabara-site-ate-2026-11-23#726",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "presunto-cozido__perdigao__1000g",
@@ -5527,7 +8408,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#650",
+  "id": "guanabara-site-ate-2026-11-23#727",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "queijo-minas-frescal__barao__1000g",
@@ -5550,7 +8431,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#651",
+  "id": "guanabara-site-ate-2026-11-23#728",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "queijo-minas-frescal__juliana__1000g",
@@ -5573,7 +8454,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#652",
+  "id": "guanabara-site-ate-2026-11-23#729",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "queijo-minas-frescal__monteminas__1000g",
@@ -5596,7 +8477,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#653",
+  "id": "guanabara-site-ate-2026-11-23#730",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "queijo-prato-lanchinho__vitoria__1000g",
@@ -5619,7 +8500,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#654",
+  "id": "guanabara-site-ate-2026-11-23#731",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "salame__sadia__1000g",
@@ -5642,7 +8523,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#655",
+  "id": "guanabara-site-ate-2026-11-23#732",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "salsicha-hot-dog__perdigao__sem-tamanho",
@@ -5662,7 +8543,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#656",
+  "id": "guanabara-site-ate-2026-11-23#733",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "salsicha-hot-dog__sadia__1000g",
@@ -5685,7 +8566,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#657",
+  "id": "guanabara-site-ate-2026-11-23#734",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "capeletti__mezzani__400g",
@@ -5708,7 +8589,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#658",
+  "id": "guanabara-site-ate-2026-11-23#735",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "margarina__becel__500g",
@@ -5731,7 +8612,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#659",
+  "id": "guanabara-site-ate-2026-11-23#736",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "margarina__claybom__500g",
@@ -5754,7 +8635,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#660",
+  "id": "guanabara-site-ate-2026-11-23#737",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "margarina__qualy__1000g",
@@ -5777,7 +8658,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#661",
+  "id": "guanabara-site-ate-2026-11-23#738",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "massa-pastel__ingrid__400g",
@@ -5800,7 +8681,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#662",
+  "id": "guanabara-site-ate-2026-11-23#739",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "queijo-processado-light__polenguinho__68g",
@@ -5823,7 +8704,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#663",
+  "id": "guanabara-site-ate-2026-11-23#740",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "ravioli__mezzani__400g",
@@ -5846,7 +8727,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#664",
+  "id": "guanabara-site-ate-2026-11-23#741",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sorvete-napolitano__nestle__1500ml",
@@ -5869,7 +8750,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#665",
+  "id": "guanabara-site-ate-2026-11-23#742",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "leite-fermentado__chamyto__450g",
@@ -5892,7 +8773,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#666",
+  "id": "guanabara-site-ate-2026-11-23#743",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "petit-suisse__danoninho__320g",
@@ -5915,7 +8796,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#667",
+  "id": "guanabara-site-ate-2026-11-23#744",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "bacalhau-porto__sem-marca__1000g",
@@ -5938,7 +8819,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#668",
+  "id": "guanabara-site-ate-2026-11-23#745",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "seca__sem-marca__1000g",
@@ -5961,7 +8842,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#669",
+  "id": "guanabara-site-ate-2026-11-23#746",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "linguica-calabresa__sadia__1000g",
@@ -5984,7 +8865,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#670",
+  "id": "guanabara-site-ate-2026-11-23#747",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "linguica-calabresa__perdigao__1000g",
@@ -6007,7 +8888,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#671",
+  "id": "guanabara-site-ate-2026-11-23#748",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sal-seco-saith__peixe__1000g",
@@ -6030,7 +8911,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#672",
+  "id": "guanabara-site-ate-2026-11-23#749",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "linguica-mista-fina__perdigao__1000g",
@@ -6053,7 +8934,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#673",
+  "id": "guanabara-site-ate-2026-11-23#750",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "cerveja__antarctica__269ml",
@@ -6076,7 +8957,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#674",
+  "id": "guanabara-site-ate-2026-11-23#751",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "cerveja__antarctica__473ml",
@@ -6099,7 +8980,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#675",
+  "id": "guanabara-site-ate-2026-11-23#752",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "cerveja__bohemia__473ml",
@@ -6122,7 +9003,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#676",
+  "id": "guanabara-site-ate-2026-11-23#753",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "cerveja__brahma__269ml",
@@ -6145,7 +9026,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#677",
+  "id": "guanabara-site-ate-2026-11-23#754",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "cerveja__brahma__350ml",
@@ -6168,7 +9049,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#678",
+  "id": "guanabara-site-ate-2026-11-23#755",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "cerveja-duplo-malte__brahma__473ml",
@@ -6191,7 +9072,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#679",
+  "id": "guanabara-site-ate-2026-11-23#756",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "cerveja__brahma__6300ml",
@@ -6214,7 +9095,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#680",
+  "id": "guanabara-site-ate-2026-11-23#757",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "cerveja__budweiser__269ml",
@@ -6237,7 +9118,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#681",
+  "id": "guanabara-site-ate-2026-11-23#758",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "cerveja__budweiser__473ml",
@@ -6260,7 +9141,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#682",
+  "id": "guanabara-site-ate-2026-11-23#759",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "cerveja__corona__330ml",
@@ -6283,7 +9164,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#683",
+  "id": "guanabara-site-ate-2026-11-23#760",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "cerveja__coronita__210ml",
@@ -6306,7 +9187,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#684",
+  "id": "guanabara-site-ate-2026-11-23#761",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "cerveja__original__473ml",
@@ -6329,7 +9210,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#685",
+  "id": "guanabara-site-ate-2026-11-23#762",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "cerveja__skol__473ml",
@@ -6352,7 +9233,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#686",
+  "id": "guanabara-site-ate-2026-11-23#763",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "cerveja-puro-malte__skol__473ml",
@@ -6375,7 +9256,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#687",
+  "id": "guanabara-site-ate-2026-11-23#764",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "cerveja__spaten__269ml",
@@ -6398,7 +9279,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#688",
+  "id": "guanabara-site-ate-2026-11-23#765",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "cerveja-long-neck__stella__330ml",
@@ -6421,7 +9302,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#689",
+  "id": "guanabara-site-ate-2026-11-23#766",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "cerveja__michelob-ultra__473ml",
@@ -6444,7 +9325,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#690",
+  "id": "guanabara-site-ate-2026-11-23#767",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "bebida__fruit-shoot__150ml",
@@ -6467,7 +9348,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#691",
+  "id": "guanabara-site-ate-2026-11-23#768",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "bebida-copo__guaravita__290ml",
@@ -6490,7 +9371,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#692",
+  "id": "guanabara-site-ate-2026-11-23#769",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "concentrado__bela-ischia__1000ml",
@@ -6513,7 +9394,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#693",
+  "id": "guanabara-site-ate-2026-11-23#770",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "energetico__red-bull__250ml",
@@ -6536,7 +9417,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#694",
+  "id": "guanabara-site-ate-2026-11-23#771",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "bebida__gatorade__500ml",
@@ -6559,7 +9440,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#695",
+  "id": "guanabara-site-ate-2026-11-23#772",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "gin__beefeater__750ml",
@@ -6582,7 +9463,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#696",
+  "id": "guanabara-site-ate-2026-11-23#773",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "gin__gordons__750ml",
@@ -6605,7 +9486,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#697",
+  "id": "guanabara-site-ate-2026-11-23#774",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "gin__tanqueray__750ml",
@@ -6628,7 +9509,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#698",
+  "id": "guanabara-site-ate-2026-11-23#775",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "refrigerante__guarana-antarctica__269ml",
@@ -6651,7 +9532,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#699",
+  "id": "guanabara-site-ate-2026-11-23#776",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "refresco-saborizado__dafruta__1000ml",
@@ -6674,7 +9555,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#700",
+  "id": "guanabara-site-ate-2026-11-23#777",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "refrigerante-gratis__pepsi__2000ml",
@@ -6697,7 +9578,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#701",
+  "id": "guanabara-site-ate-2026-11-23#778",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "refrigerante__pepsi__269ml",
@@ -6720,7 +9601,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#702",
+  "id": "guanabara-site-ate-2026-11-23#779",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "refresco-po__tang__18g",
@@ -6743,7 +9624,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#703",
+  "id": "guanabara-site-ate-2026-11-23#780",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "refrigerante__guarana-antarctica__200ml",
@@ -6766,7 +9647,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#704",
+  "id": "guanabara-site-ate-2026-11-23#781",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sidra__cereser__660ml",
@@ -6789,7 +9670,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#705",
+  "id": "guanabara-site-ate-2026-11-23#782",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "suco-concentrado-caju__dafruta__1000ml",
@@ -6812,7 +9693,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#706",
+  "id": "guanabara-site-ate-2026-11-23#783",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "suco-uva-integral__campo-largo__1350ml",
@@ -6835,7 +9716,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#707",
+  "id": "guanabara-site-ate-2026-11-23#784",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "refrigerante-laranja__sukita__2000ml",
@@ -6858,7 +9739,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#708",
+  "id": "guanabara-site-ate-2026-11-23#785",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "tropical__dafruta__950ml",
@@ -6881,7 +9762,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#709",
+  "id": "guanabara-site-ate-2026-11-23#786",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "vodka-natural__absolut__750ml",
@@ -6904,7 +9785,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#710",
+  "id": "guanabara-site-ate-2026-11-23#787",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "vodka-red__smirnoff__600ml",
@@ -6927,7 +9808,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#711",
+  "id": "guanabara-site-ate-2026-11-23#788",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "vodka-ice__smirnoff__275ml",
@@ -6950,7 +9831,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#712",
+  "id": "guanabara-site-ate-2026-11-23#789",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "whisky-finest__ballantines__750ml",
@@ -6973,7 +9854,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#713",
+  "id": "guanabara-site-ate-2026-11-23#790",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "whisky-anos__chivas-regal__750ml",
@@ -6996,7 +9877,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#714",
+  "id": "guanabara-site-ate-2026-11-23#791",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "whisky__red-label__750ml",
@@ -7019,7 +9900,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#715",
+  "id": "guanabara-site-ate-2026-11-23#792",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "whisky__white-horse__1000ml",
@@ -7042,7 +9923,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#716",
+  "id": "guanabara-site-ate-2026-11-23#793",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "whisky-black-label__johnnie-walker__1000ml",
@@ -7065,7 +9946,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#717",
+  "id": "guanabara-site-ate-2026-11-23#794",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "atum-ralado__coqueiro__170g",
@@ -7088,7 +9969,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#718",
+  "id": "guanabara-site-ate-2026-11-23#795",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "azeite-extra-virgem__andorinha-selecao__500ml",
@@ -7111,7 +9992,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#719",
+  "id": "guanabara-site-ate-2026-11-23#796",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "azeite-extra-virgem__gallo__400ml",
@@ -7134,7 +10015,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#720",
+  "id": "guanabara-site-ate-2026-11-23#797",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "azeite-extra-virgem-live__sem-marca__400ml",
@@ -7157,7 +10038,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#721",
+  "id": "guanabara-site-ate-2026-11-23#798",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "azeite-unico-vd__andorinha__500ml",
@@ -7180,7 +10061,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#722",
+  "id": "guanabara-site-ate-2026-11-23#799",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "azeitona-verde-fatiada__pramesa__160g",
@@ -7203,7 +10084,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#723",
+  "id": "guanabara-site-ate-2026-11-23#800",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "azeitona-doypack__pramesa__150g",
@@ -7227,7 +10108,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#724",
+  "id": "guanabara-site-ate-2026-11-23#801",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "azeitona-verde__pramesa__420g",
@@ -7250,7 +10131,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#725",
+  "id": "guanabara-site-ate-2026-11-23#802",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "caldo__knorr__57g",
@@ -7273,7 +10154,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#726",
+  "id": "guanabara-site-ate-2026-11-23#803",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "caldo__maggi__57g",
@@ -7296,7 +10177,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#727",
+  "id": "guanabara-site-ate-2026-11-23#804",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "ketchup__hemmer__1000g",
@@ -7319,7 +10200,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#728",
+  "id": "guanabara-site-ate-2026-11-23#805",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "ketchup__pramesa__300g",
@@ -7342,7 +10223,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#729",
+  "id": "guanabara-site-ate-2026-11-23#806",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "ervilha__pramesa__170g",
@@ -7365,7 +10246,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#730",
+  "id": "guanabara-site-ate-2026-11-23#807",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "extrato-tomate__elefante__300g",
@@ -7388,7 +10269,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#731",
+  "id": "guanabara-site-ate-2026-11-23#808",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "ketchup__pramesa__1010g",
@@ -7411,7 +10292,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#732",
+  "id": "guanabara-site-ate-2026-11-23#809",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "maionese__arisco__500g",
@@ -7434,7 +10315,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#733",
+  "id": "guanabara-site-ate-2026-11-23#810",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "maionese__hellmanns__500g",
@@ -7457,7 +10338,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#734",
+  "id": "guanabara-site-ate-2026-11-23#811",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "maionese__hemmer__930g",
@@ -7480,7 +10361,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#735",
+  "id": "guanabara-site-ate-2026-11-23#812",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "maionese__pramesa__500g",
@@ -7503,7 +10384,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#736",
+  "id": "guanabara-site-ate-2026-11-23#813",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "milho__pramesa__170g",
@@ -7526,7 +10407,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#737",
+  "id": "guanabara-site-ate-2026-11-23#814",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "molho-tomate__heinz__240g",
@@ -7549,7 +10430,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#738",
+  "id": "guanabara-site-ate-2026-11-23#815",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "molho-tomate__knorr__300g",
@@ -7572,7 +10453,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#739",
+  "id": "guanabara-site-ate-2026-11-23#816",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "oleo-canola__purilev__900ml",
@@ -7595,7 +10476,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#740",
+  "id": "guanabara-site-ate-2026-11-23#817",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "oleo-girassol__soya__900ml",
@@ -7618,7 +10499,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#741",
+  "id": "guanabara-site-ate-2026-11-23#818",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "oleo-soja__coamo__900ml",
@@ -7641,7 +10522,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#742",
+  "id": "guanabara-site-ate-2026-11-23#819",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "oleo-soja__liza__900ml",
@@ -7664,7 +10545,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#743",
+  "id": "guanabara-site-ate-2026-11-23#820",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "oleo-soja__soya__900ml",
@@ -7687,7 +10568,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#744",
+  "id": "guanabara-site-ate-2026-11-23#821",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "passata-di-pomodoro__pramesa__680g",
@@ -7710,7 +10591,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#745",
+  "id": "guanabara-site-ate-2026-11-23#822",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "tempero-mais-sabor__kitano__60g",
@@ -7733,7 +10614,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#746",
+  "id": "guanabara-site-ate-2026-11-23#823",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "tempero__sazon__60g",
@@ -7756,7 +10637,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#747",
+  "id": "guanabara-site-ate-2026-11-23#824",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "coco-ralado-umido__chinezinho__100g",
@@ -7779,7 +10660,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#748",
+  "id": "guanabara-site-ate-2026-11-23#825",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "coco-ralado-adoc__sabor-do-nordeste__100g",
@@ -7802,7 +10683,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#749",
+  "id": "guanabara-site-ate-2026-11-23#826",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "creme-leite__elege__200g",
@@ -7825,7 +10706,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#750",
+  "id": "guanabara-site-ate-2026-11-23#827",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "creme-leite-uht__gloria__200g",
@@ -7848,7 +10729,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#751",
+  "id": "guanabara-site-ate-2026-11-23#828",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "creme-leite__italac__200g",
@@ -7871,7 +10752,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#752",
+  "id": "guanabara-site-ate-2026-11-23#829",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "creme-leite__piracanjuba__200g",
@@ -7894,7 +10775,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#753",
+  "id": "guanabara-site-ate-2026-11-23#830",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "leite-condensado-semidesnatado__italac__395g",
@@ -7917,7 +10798,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#754",
+  "id": "guanabara-site-ate-2026-11-23#831",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "molho-tomate-refogado__pramesa__300g",
@@ -7940,7 +10821,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#755",
+  "id": "guanabara-site-ate-2026-11-23#832",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sardinha-ralada__gomes-da-costa__110g",
@@ -7963,7 +10844,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#756",
+  "id": "guanabara-site-ate-2026-11-23#833",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "leite-condensado-semidesnatado__moca__395g",
@@ -7986,7 +10867,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#757",
+  "id": "guanabara-site-ate-2026-11-23#834",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "agua-sanitaria-super__globo__2000ml",
@@ -8009,7 +10890,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#758",
+  "id": "guanabara-site-ate-2026-11-23#835",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "agua-sanitaria__vex__2000ml",
@@ -8032,7 +10913,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#759",
+  "id": "guanabara-site-ate-2026-11-23#836",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "agua-sanitaria__vitral__2000ml",
@@ -8055,7 +10936,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#760",
+  "id": "guanabara-site-ate-2026-11-23#837",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "alvejante__vanish__500ml",
@@ -8078,7 +10959,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#761",
+  "id": "guanabara-site-ate-2026-11-23#838",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "amaciante__big-soft__2000ml",
@@ -8101,7 +10982,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#762",
+  "id": "guanabara-site-ate-2026-11-23#839",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "amaciante__downy__1000ml",
@@ -8124,7 +11005,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#763",
+  "id": "guanabara-site-ate-2026-11-23#840",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "amaciante-concentrado__downy__450ml",
@@ -8147,7 +11028,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#764",
+  "id": "guanabara-site-ate-2026-11-23#841",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "amaciante-roupas-concentrado__ype__500ml",
@@ -8170,7 +11051,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#765",
+  "id": "guanabara-site-ate-2026-11-23#842",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "amaciante__urca__2000ml",
@@ -8193,7 +11074,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#766",
+  "id": "guanabara-site-ate-2026-11-23#843",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "amaciante-roupas__ype__2000ml",
@@ -8216,7 +11097,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#767",
+  "id": "guanabara-site-ate-2026-11-23#844",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "cera__brilho-facil__750ml",
@@ -8239,7 +11120,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#768",
+  "id": "guanabara-site-ate-2026-11-23#845",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "desinfetante-perfumado__minuano__500ml",
@@ -8262,7 +11143,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#769",
+  "id": "guanabara-site-ate-2026-11-23#846",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "desinfetante-pinho__ype__500ml",
@@ -8285,7 +11166,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#770",
+  "id": "guanabara-site-ate-2026-11-23#847",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "detergente__limpol__500ml",
@@ -8308,7 +11189,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#771",
+  "id": "guanabara-site-ate-2026-11-23#848",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "detergente__minuano__500ml",
@@ -8331,7 +11212,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#772",
+  "id": "guanabara-site-ate-2026-11-23#849",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "detergente__ype__500ml",
@@ -8354,7 +11235,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#773",
+  "id": "guanabara-site-ate-2026-11-23#850",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "aerossol-desc__glade__360ml",
@@ -8377,7 +11258,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#774",
+  "id": "guanabara-site-ate-2026-11-23#851",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "lava-roupas-po__brilhante__2200g",
@@ -8400,7 +11281,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#775",
+  "id": "guanabara-site-ate-2026-11-23#852",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "lava-roupas-po__omo__1600g",
@@ -8423,7 +11304,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#776",
+  "id": "guanabara-site-ate-2026-11-23#853",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "lava-roupas-po__omo__1600g",
@@ -8446,7 +11327,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#777",
+  "id": "guanabara-site-ate-2026-11-23#854",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "lava-roupas-po__omo__2200g",
@@ -8469,7 +11350,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#778",
+  "id": "guanabara-site-ate-2026-11-23#855",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "lava-roupa-liquido__ariel__3000ml",
@@ -8492,7 +11373,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#779",
+  "id": "guanabara-site-ate-2026-11-23#856",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "lava-roupas-liquido__brilhante__3000ml",
@@ -8515,7 +11396,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#780",
+  "id": "guanabara-site-ate-2026-11-23#857",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "lava-roupa-liquido__surf__5000ml",
@@ -8538,7 +11419,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#781",
+  "id": "guanabara-site-ate-2026-11-23#858",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "lava-roupas-liquido__odd__3000ml",
@@ -8561,7 +11442,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#782",
+  "id": "guanabara-site-ate-2026-11-23#859",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "lava-roupas-liquido__omo__3000ml",
@@ -8584,7 +11465,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#783",
+  "id": "guanabara-site-ate-2026-11-23#860",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "lava-roupa-po__tixan-ype__1600g",
@@ -8607,7 +11488,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#784",
+  "id": "guanabara-site-ate-2026-11-23#861",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "lava-roupa-po__tixan__2400g",
@@ -8630,7 +11511,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#785",
+  "id": "guanabara-site-ate-2026-11-23#862",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "lava-roupas-po__surf__1600g",
@@ -8653,7 +11534,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#786",
+  "id": "guanabara-site-ate-2026-11-23#863",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "lava-roupas-liquido__tixan-ype__3000ml",
@@ -8676,7 +11557,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#787",
+  "id": "guanabara-site-ate-2026-11-23#864",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "lava-roupas-rosa__uau__3000ml",
@@ -8699,7 +11580,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#788",
+  "id": "guanabara-site-ate-2026-11-23#865",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "limpador__casa-perfume__1000ml",
@@ -8722,7 +11603,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#789",
+  "id": "guanabara-site-ate-2026-11-23#866",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "limpador-multiuso__uau__500ml",
@@ -8745,7 +11626,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#790",
+  "id": "guanabara-site-ate-2026-11-23#867",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "limpador-multiuso__ype__500ml",
@@ -8768,7 +11649,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#791",
+  "id": "guanabara-site-ate-2026-11-23#868",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "limpador-cloro-ativo__veja__500ml",
@@ -8791,7 +11672,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#792",
+  "id": "guanabara-site-ate-2026-11-23#869",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "limpador-limpeza-pesada__veja__500ml",
@@ -8814,7 +11695,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#793",
+  "id": "guanabara-site-ate-2026-11-23#870",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "limpador-multiuso__veja__750ml",
@@ -8837,7 +11718,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#794",
+  "id": "guanabara-site-ate-2026-11-23#871",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sabao-pastoso__assolan__500g",
@@ -8860,7 +11741,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#795",
+  "id": "guanabara-site-ate-2026-11-23#872",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sabao-pastoso__neutral__500g",
@@ -8883,7 +11764,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#796",
+  "id": "guanabara-site-ate-2026-11-23#873",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sabao-pastoso-coco__ruth__500g",
@@ -8906,7 +11787,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#797",
+  "id": "guanabara-site-ate-2026-11-23#874",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sapolio__radium__300g",
@@ -8929,7 +11810,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#798",
+  "id": "guanabara-site-ate-2026-11-23#875",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "inseticida-multi__sbp__380ml",
@@ -8952,7 +11833,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#799",
+  "id": "guanabara-site-ate-2026-11-23#876",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "desinfetante__urca__2000ml",
@@ -8975,7 +11856,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#800",
+  "id": "guanabara-site-ate-2026-11-23#877",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "limpador-cloro-ativo__uau__500ml",
@@ -8998,7 +11879,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#801",
+  "id": "guanabara-site-ate-2026-11-23#878",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "papel-higienico-folha__mimmo__sem-tamanho",
@@ -9018,7 +11899,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#802",
+  "id": "guanabara-site-ate-2026-11-23#879",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "guardanapo-x__kitchen__sem-tamanho",
@@ -9038,7 +11919,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#803",
+  "id": "guanabara-site-ate-2026-11-23#880",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "lenco__soft__50un",
@@ -9061,7 +11942,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#804",
+  "id": "guanabara-site-ate-2026-11-23#881",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "papel-higienico-deluxe__cotton__sem-tamanho",
@@ -9081,7 +11962,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#805",
+  "id": "guanabara-site-ate-2026-11-23#882",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "papel-higienico-folha__dualette__sem-tamanho",
@@ -9101,7 +11982,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#806",
+  "id": "guanabara-site-ate-2026-11-23#883",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "papel-higienico-folha__neve__sem-tamanho",
@@ -9121,7 +12002,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#807",
+  "id": "guanabara-site-ate-2026-11-23#884",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "toalha-papel__social-clean__2un",
@@ -9144,7 +12025,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#808",
+  "id": "guanabara-site-ate-2026-11-23#885",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "toalha-papel__yuri__2un",
@@ -9167,7 +12048,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#809",
+  "id": "guanabara-site-ate-2026-11-23#886",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "absorvente__always__8un",
@@ -9190,7 +12071,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#810",
+  "id": "guanabara-site-ate-2026-11-23#887",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "absorvente-noturno__diana__16un",
@@ -9213,7 +12094,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#811",
+  "id": "guanabara-site-ate-2026-11-23#888",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "absorvente-gel-noturno__intimus__8un",
@@ -9236,7 +12117,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#812",
+  "id": "guanabara-site-ate-2026-11-23#889",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "agua-micelar__loreal-paris__200ml",
@@ -9259,7 +12140,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#813",
+  "id": "guanabara-site-ate-2026-11-23#890",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "agua-micelar__nivea__200ml",
@@ -9282,7 +12163,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#814",
+  "id": "guanabara-site-ate-2026-11-23#891",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "base-bb-cream__loreal-paris__30ml",
@@ -9305,7 +12186,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#815",
+  "id": "guanabara-site-ate-2026-11-23#892",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "condicionador__neutrox__500ml",
@@ -9328,7 +12209,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#816",
+  "id": "guanabara-site-ate-2026-11-23#893",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "condicionador__pantene__175ml",
@@ -9351,7 +12232,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#817",
+  "id": "guanabara-site-ate-2026-11-23#894",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "condicionador-minutos__pantene__170ml",
@@ -9374,7 +12255,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#818",
+  "id": "guanabara-site-ate-2026-11-23#895",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "condicionador__natutrat__300ml",
@@ -9397,7 +12278,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#819",
+  "id": "guanabara-site-ate-2026-11-23#896",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "condicionador__seda__325ml",
@@ -9420,7 +12301,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#820",
+  "id": "guanabara-site-ate-2026-11-23#897",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "cicatri-renove__elseve__50ml",
@@ -9443,7 +12324,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#821",
+  "id": "guanabara-site-ate-2026-11-23#898",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "creme-tratamento__elseve__300g",
@@ -9466,7 +12347,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#822",
+  "id": "guanabara-site-ate-2026-11-23#899",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "mascara-tratamento__ox__300g",
@@ -9489,7 +12370,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#823",
+  "id": "guanabara-site-ate-2026-11-23#900",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "creme-facial__nivea__100g",
@@ -9512,7 +12393,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#824",
+  "id": "guanabara-site-ate-2026-11-23#901",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "creme-pentear__elseve__250ml",
@@ -9535,7 +12416,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#825",
+  "id": "guanabara-site-ate-2026-11-23#902",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "creme-pentear-meu__lola__500g",
@@ -9558,7 +12439,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#826",
+  "id": "guanabara-site-ate-2026-11-23#903",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "creme-pentear__pantene__240g",
@@ -9581,7 +12462,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#827",
+  "id": "guanabara-site-ate-2026-11-23#904",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "creme-pentear__tresemme__200ml",
@@ -9604,7 +12485,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#828",
+  "id": "guanabara-site-ate-2026-11-23#905",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "desodorante-aerossol__axe__150ml",
@@ -9627,7 +12508,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#829",
+  "id": "guanabara-site-ate-2026-11-23#906",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "desodorante-aerossol__dryon__250ml",
@@ -9650,7 +12531,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#830",
+  "id": "guanabara-site-ate-2026-11-23#907",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "desodorante-aerossol__bozzano__150ml",
@@ -9673,7 +12554,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#831",
+  "id": "guanabara-site-ate-2026-11-23#908",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "desodorante-aerossol__dove__250ml",
@@ -9696,7 +12577,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#832",
+  "id": "guanabara-site-ate-2026-11-23#909",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "desodorante-aerossol__dove__89g",
@@ -9719,7 +12600,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#833",
+  "id": "guanabara-site-ate-2026-11-23#910",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "desodorante-roll-on__dove__50ml",
@@ -9742,7 +12623,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#834",
+  "id": "guanabara-site-ate-2026-11-23#911",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "desodorante__leite-de-rosas__170ml",
@@ -9765,7 +12646,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#835",
+  "id": "guanabara-site-ate-2026-11-23#912",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "desodorante-aerossol__monange__150ml",
@@ -9788,7 +12669,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#836",
+  "id": "guanabara-site-ate-2026-11-23#913",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "desodorante__giovanna-baby__150ml",
@@ -9811,7 +12692,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#837",
+  "id": "guanabara-site-ate-2026-11-23#914",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "desodorante-aerossol__nivea__150ml",
@@ -9835,7 +12716,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#838",
+  "id": "guanabara-site-ate-2026-11-23#915",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "desodorante-aerossol__rexona__250ml",
@@ -9858,7 +12739,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#839",
+  "id": "guanabara-site-ate-2026-11-23#916",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "desodorante-aerossol__rexona__150ml",
@@ -9882,7 +12763,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#840",
+  "id": "guanabara-site-ate-2026-11-23#917",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "hidratante-labial__nivea__4.8g",
@@ -9905,7 +12786,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#841",
+  "id": "guanabara-site-ate-2026-11-23#918",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "kit-shampoo-condicionador__cadiveu__250ml",
@@ -9928,7 +12809,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#842",
+  "id": "guanabara-site-ate-2026-11-23#919",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "kit-shampoo-cond__cadiveu__250ml",
@@ -9951,7 +12832,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#843",
+  "id": "guanabara-site-ate-2026-11-23#920",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "kit-shampoo-condicionador__vult__200ml",
@@ -9974,7 +12855,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#844",
+  "id": "guanabara-site-ate-2026-11-23#921",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "kit-shampoo-condicionador__inoar__500ml",
@@ -9997,7 +12878,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#845",
+  "id": "guanabara-site-ate-2026-11-23#922",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "kit-shampoo-cond__dove__350ml",
@@ -10020,7 +12901,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#846",
+  "id": "guanabara-site-ate-2026-11-23#923",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "kit-shampoo-cond__elseve__375ml",
@@ -10043,7 +12924,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#847",
+  "id": "guanabara-site-ate-2026-11-23#924",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "kit-shampoo-cond__neutrox__300ml",
@@ -10066,7 +12947,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#848",
+  "id": "guanabara-site-ate-2026-11-23#925",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "kit-shampoo-condicionador__ox__375ml",
@@ -10089,7 +12970,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#849",
+  "id": "guanabara-site-ate-2026-11-23#926",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "kit-shampoo-cond__pantene__350ml",
@@ -10112,7 +12993,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#850",
+  "id": "guanabara-site-ate-2026-11-23#927",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "kit-shampoo-cond__seda__300ml",
@@ -10135,7 +13016,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#851",
+  "id": "guanabara-site-ate-2026-11-23#928",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "kit-shampoo-condicionador__skala__325ml",
@@ -10158,7 +13039,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#852",
+  "id": "guanabara-site-ate-2026-11-23#929",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "kit-shampoo-condicionador__siage__250ml",
@@ -10181,7 +13062,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#853",
+  "id": "guanabara-site-ate-2026-11-23#930",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "kit-shampoo-condicionador__tresemme__350ml",
@@ -10204,7 +13085,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#854",
+  "id": "guanabara-site-ate-2026-11-23#931",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "kit-basicao-shampoo__lola__250ml",
@@ -10227,7 +13108,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#855",
+  "id": "guanabara-site-ate-2026-11-23#932",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "lenco-facial__nivea__25un",
@@ -10250,7 +13131,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#856",
+  "id": "guanabara-site-ate-2026-11-23#933",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "locao-hidratante__francis__200ml",
@@ -10273,7 +13154,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#857",
+  "id": "guanabara-site-ate-2026-11-23#934",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "hidratante__paixao__200ml",
@@ -10296,7 +13177,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#858",
+  "id": "guanabara-site-ate-2026-11-23#935",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "hidratante__monange__200ml",
@@ -10319,7 +13200,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#859",
+  "id": "guanabara-site-ate-2026-11-23#936",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "locao-hidratante__nivea__400ml",
@@ -10343,7 +13224,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#860",
+  "id": "guanabara-site-ate-2026-11-23#937",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "serum-corporal__dove__245ml",
@@ -10366,7 +13247,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#861",
+  "id": "guanabara-site-ate-2026-11-23#938",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "manteiga-capilar__lola__100g",
@@ -10389,7 +13270,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#862",
+  "id": "guanabara-site-ate-2026-11-23#939",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "mascara__siage__250g",
@@ -10412,7 +13293,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#863",
+  "id": "guanabara-site-ate-2026-11-23#940",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "mascara-capilar-morte__lola__450g",
@@ -10435,7 +13316,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#864",
+  "id": "guanabara-site-ate-2026-11-23#941",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "oleo-extraordinario__elseve__100ml",
@@ -10458,7 +13339,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#865",
+  "id": "guanabara-site-ate-2026-11-23#942",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "oleo-milagroso__pantene__95ml",
@@ -10481,7 +13362,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#866",
+  "id": "guanabara-site-ate-2026-11-23#943",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "oleo-nutricao__ox__120ml",
@@ -10504,7 +13385,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#867",
+  "id": "guanabara-site-ate-2026-11-23#944",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "serum-capilar__elseve__100ml",
@@ -10527,7 +13408,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#868",
+  "id": "guanabara-site-ate-2026-11-23#945",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "protetor-diario-days__intimus__sem-tamanho",
@@ -10548,7 +13429,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#869",
+  "id": "guanabara-site-ate-2026-11-23#946",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sabonete__palmolive__85g",
@@ -10571,7 +13452,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#870",
+  "id": "guanabara-site-ate-2026-11-23#947",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sabonete__dove__90g",
@@ -10594,7 +13475,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#871",
+  "id": "guanabara-site-ate-2026-11-23#948",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sabonete__dove__sem-tamanho",
@@ -10614,7 +13495,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#872",
+  "id": "guanabara-site-ate-2026-11-23#949",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sabonete__farnese__85g",
@@ -10638,7 +13519,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#873",
+  "id": "guanabara-site-ate-2026-11-23#950",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sabonete-flor-suave__ype__85g",
@@ -10661,7 +13542,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#874",
+  "id": "guanabara-site-ate-2026-11-23#951",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sabonete-gelato__albany__80g",
@@ -10684,7 +13565,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#875",
+  "id": "guanabara-site-ate-2026-11-23#952",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sabonete-brasilidades-agua__francis__80g",
@@ -10707,7 +13588,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#876",
+  "id": "guanabara-site-ate-2026-11-23#953",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sabonete-classico__francis__90g",
@@ -10730,7 +13611,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#877",
+  "id": "guanabara-site-ate-2026-11-23#954",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sabonete-intenso__francis__80g",
@@ -10753,7 +13634,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#878",
+  "id": "guanabara-site-ate-2026-11-23#955",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sabonete-liquido-gel__nivea__140g",
@@ -10776,7 +13657,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#879",
+  "id": "guanabara-site-ate-2026-11-23#956",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "gel-limpeza__garnier__150g",
@@ -10799,7 +13680,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#880",
+  "id": "guanabara-site-ate-2026-11-23#957",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "gel-esfoliante__garnier__120g",
@@ -10822,7 +13703,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#881",
+  "id": "guanabara-site-ate-2026-11-23#958",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sabonete-liquido-intimo__nivea__250ml",
@@ -10845,7 +13726,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#882",
+  "id": "guanabara-site-ate-2026-11-23#959",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sabonete-intimo__dermacyd__200ml",
@@ -10869,7 +13750,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#883",
+  "id": "guanabara-site-ate-2026-11-23#960",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sabonete-liquido-creme__nivea__250ml",
@@ -10892,7 +13773,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#884",
+  "id": "guanabara-site-ate-2026-11-23#961",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sabonete-liquido__nivea__200ml",
@@ -10915,7 +13796,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#885",
+  "id": "guanabara-site-ate-2026-11-23#962",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sabonete-liquido__hands-feet__1000ml",
@@ -10938,7 +13819,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#886",
+  "id": "guanabara-site-ate-2026-11-23#963",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sabonete-liquido__zarb__250ml",
@@ -10961,7 +13842,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#887",
+  "id": "guanabara-site-ate-2026-11-23#964",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sabonete-liquido-intimo__oaz__200ml",
@@ -10984,7 +13865,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#888",
+  "id": "guanabara-site-ate-2026-11-23#965",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sabonete-oleo-banho__dove__240ml",
@@ -11007,7 +13888,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#889",
+  "id": "guanabara-site-ate-2026-11-23#966",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sabonete-liquido__phebo__320ml",
@@ -11030,7 +13911,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#890",
+  "id": "guanabara-site-ate-2026-11-23#967",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sabonete__lux__85g",
@@ -11053,7 +13934,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#891",
+  "id": "guanabara-site-ate-2026-11-23#968",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sabonete-liquido__lux__200ml",
@@ -11076,7 +13957,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#892",
+  "id": "guanabara-site-ate-2026-11-23#969",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sabonete-liquido-oleo__nivea__200ml",
@@ -11099,7 +13980,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#893",
+  "id": "guanabara-site-ate-2026-11-23#970",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sabonete__nivea__85g",
@@ -11123,7 +14004,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#894",
+  "id": "guanabara-site-ate-2026-11-23#971",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sabonete-creme-care__nivea__90g",
@@ -11146,7 +14027,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#895",
+  "id": "guanabara-site-ate-2026-11-23#972",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sabonete__phebo__90g",
@@ -11169,7 +14050,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#896",
+  "id": "guanabara-site-ate-2026-11-23#973",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "shampoo-l600ml-p500ml__above__600ml",
@@ -11192,7 +14073,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#897",
+  "id": "guanabara-site-ate-2026-11-23#974",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "shampoo-masculino__above__325ml",
@@ -11215,7 +14096,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#898",
+  "id": "guanabara-site-ate-2026-11-23#975",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "shampoo__siage__250g",
@@ -11238,7 +14119,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#899",
+  "id": "guanabara-site-ate-2026-11-23#976",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "shampoo__elseve__400ml",
@@ -11262,7 +14143,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#900",
+  "id": "guanabara-site-ate-2026-11-23#977",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "shampoo__head-shoulders__400ml",
@@ -11285,7 +14166,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#901",
+  "id": "guanabara-site-ate-2026-11-23#978",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "shampoo-meu-cacho__lola__500ml",
@@ -11308,7 +14189,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#902",
+  "id": "guanabara-site-ate-2026-11-23#979",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "shampoo-morte-subita__lola__250ml",
@@ -11331,7 +14212,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#903",
+  "id": "guanabara-site-ate-2026-11-23#980",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "shampoo__monange__325ml",
@@ -11354,7 +14235,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#904",
+  "id": "guanabara-site-ate-2026-11-23#981",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "shampoo__ox__400ml",
@@ -11377,7 +14258,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#905",
+  "id": "guanabara-site-ate-2026-11-23#982",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "shampoo__pantene__400ml",
@@ -11400,7 +14281,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#906",
+  "id": "guanabara-site-ate-2026-11-23#983",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "shampoo-colageno__pantene__510ml",
@@ -11423,7 +14304,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#907",
+  "id": "guanabara-site-ate-2026-11-23#984",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "shampoo__seda__325ml",
@@ -11446,7 +14327,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#908",
+  "id": "guanabara-site-ate-2026-11-23#985",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "shampoo__tresemme__400ml",
@@ -11469,7 +14350,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#909",
+  "id": "guanabara-site-ate-2026-11-23#986",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "shampoo-danos-vorazes__lola__250ml",
@@ -11492,7 +14373,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#910",
+  "id": "guanabara-site-ate-2026-11-23#987",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "spray-capilar-morte__lola__250ml",
@@ -11515,7 +14396,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#911",
+  "id": "guanabara-site-ate-2026-11-23#988",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "talco__barla__140g",
@@ -11538,7 +14419,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#912",
+  "id": "guanabara-site-ate-2026-11-23#989",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "tintura-mini-kit__maxton__sem-tamanho",
@@ -11559,7 +14440,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#913",
+  "id": "guanabara-site-ate-2026-11-23#990",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "tintura__natucor__sem-tamanho",
@@ -11579,7 +14460,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#914",
+  "id": "guanabara-site-ate-2026-11-23#991",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "coloracao-cor-ton__sem-marca__sem-tamanho",
@@ -11599,7 +14480,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#915",
+  "id": "guanabara-site-ate-2026-11-23#992",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "creme-dental-tripla__colgate__180g",
@@ -11622,7 +14503,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#916",
+  "id": "guanabara-site-ate-2026-11-23#993",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "espuma-barbear__nivea__193g",
@@ -11645,7 +14526,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#917",
+  "id": "guanabara-site-ate-2026-11-23#994",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "chocolate__nestle__80g",
@@ -11668,7 +14549,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#918",
+  "id": "guanabara-site-ate-2026-11-23#995",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "chocolate-barra__milka__90g",
@@ -11691,7 +14572,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#919",
+  "id": "guanabara-site-ate-2026-11-23#996",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "chocolate-kitkat__nestle__41.5g",
@@ -11714,7 +14595,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#920",
+  "id": "guanabara-site-ate-2026-11-23#997",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "bombons-sortidos__garoto__220g",
@@ -11737,7 +14618,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#921",
+  "id": "guanabara-site-ate-2026-11-23#998",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "bombons-especialidades__nestle__220g",
@@ -11760,7 +14641,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#922",
+  "id": "guanabara-site-ate-2026-11-23#999",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "toalha-umedecida__baby-limp__50un",
@@ -11783,7 +14664,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#923",
+  "id": "guanabara-site-ate-2026-11-23#1000",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "toalha-umedecida-classic__huggies__48un",
@@ -11806,7 +14687,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#924",
+  "id": "guanabara-site-ate-2026-11-23#1001",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "toalha-umedecida-baby__looney-tunes__48un",
@@ -11829,7 +14710,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#925",
+  "id": "guanabara-site-ate-2026-11-23#1002",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "toalha-umedecida__babysec__48un",
@@ -11852,7 +14733,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#926",
+  "id": "guanabara-site-ate-2026-11-23#1003",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "fraldas-descartaveis-premium__babysec__sem-tamanho",
@@ -11872,7 +14753,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#927",
+  "id": "guanabara-site-ate-2026-11-23#1004",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "fralda-desc-pants__pampers__sem-tamanho",
@@ -11892,7 +14773,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#928",
+  "id": "guanabara-site-ate-2026-11-23#1005",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "condicionador-baby__dove__200ml",
@@ -11915,7 +14796,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#929",
+  "id": "guanabara-site-ate-2026-11-23#1006",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "cond-extra-suave__huggies__200ml",
@@ -11938,7 +14819,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#930",
+  "id": "guanabara-site-ate-2026-11-23#1007",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "condicionador-juntinhos__seda__300ml",
@@ -11961,7 +14842,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#931",
+  "id": "guanabara-site-ate-2026-11-23#1008",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "creme-assaduras-reg__huggies__80g",
@@ -11984,7 +14865,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#932",
+  "id": "guanabara-site-ate-2026-11-23#1009",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "creme-assaduras-amendoas__hipoglos__40g",
@@ -12007,7 +14888,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#933",
+  "id": "guanabara-site-ate-2026-11-23#1010",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "creme-pentear-juntinhos__seda__300ml",
@@ -12030,7 +14911,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#934",
+  "id": "guanabara-site-ate-2026-11-23#1011",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "hastes-flexiveis-cotonetes__johnson__75un",
@@ -12053,7 +14934,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#935",
+  "id": "guanabara-site-ate-2026-11-23#1012",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "hastes-flexiveis__topz__75un",
@@ -12076,7 +14957,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#936",
+  "id": "guanabara-site-ate-2026-11-23#1013",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sabonete-barra-extra__huggies__75g",
@@ -12099,7 +14980,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#937",
+  "id": "guanabara-site-ate-2026-11-23#1014",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sabonete-baby__dove__75g",
@@ -12122,7 +15003,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#938",
+  "id": "guanabara-site-ate-2026-11-23#1015",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sabonete-liquido-baby__dove__200ml",
@@ -12145,7 +15026,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#939",
+  "id": "guanabara-site-ate-2026-11-23#1016",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sabonete-liquido-baby__johnson__200ml",
@@ -12169,7 +15050,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#940",
+  "id": "guanabara-site-ate-2026-11-23#1017",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sabonete-liquido-glicerinado__granado__250ml",
@@ -12192,7 +15073,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#941",
+  "id": "guanabara-site-ate-2026-11-23#1018",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sabonete-liquido-baby__dove__180ml",
@@ -12215,7 +15096,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#942",
+  "id": "guanabara-site-ate-2026-11-23#1019",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "sab-liq-extra__huggies__200ml",
@@ -12238,7 +15119,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#943",
+  "id": "guanabara-site-ate-2026-11-23#1020",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "shampoo-bebe-glicerina__granado__250ml",
@@ -12261,7 +15142,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#944",
+  "id": "guanabara-site-ate-2026-11-23#1021",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "shampoo-baby-glicerina__dove__200ml",
@@ -12284,7 +15165,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#945",
+  "id": "guanabara-site-ate-2026-11-23#1022",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "shampoo__huggies__200ml",
@@ -12307,7 +15188,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#946",
+  "id": "guanabara-site-ate-2026-11-23#1023",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "talco-bebe__granado__100g",
@@ -12330,7 +15211,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-site-ate-2026-11-23#947",
+  "id": "guanabara-site-ate-2026-11-23#1024",
   "mercado": "guanabara",
   "encarte": "guanabara-site-ate-2026-11-23",
   "produto": "gel-dental-infantil__tandy__50g",

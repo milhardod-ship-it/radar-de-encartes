@@ -39,6 +39,9 @@ export const MARCAS_CONHECIDAS = [
   'Inoar', 'Skala', 'Siàge', 'Paixão', 'Farnese', 'Garnier', 'Dermacyd', 'Hands & Feet', 'Zarb', 'Oaz', 'Phebo',
   'Above', 'Head & Shoulders', 'Maxton', 'Natucor', 'Cor&Ton', 'Baby Limp', 'Looney Tunes', 'Babysec', 'Hipoglós',
   'Johnson', 'Johnson\'s', 'Topz', 'Tandy', 'Beluga', 'Adria', 'Knorr', 'Chamyto', 'Barla', 'Forno de Minas',
+  // vistas nos folhetos do Atacadão
+  'Capel', 'Caravelas', 'Chinezinho', 'Menina', 'Pirâmide', 'Ekma', 'Snickers', 'Santa Helena', 'Syn',
+  'Bombay Sapphire', 'Pitú', 'Maguary', 'Embalixo', 'Urca Maxx', 'Biocrema', 'Champ', 'Panelux', 'Nadir', 'Lusafilm',
 ];
 
 /**

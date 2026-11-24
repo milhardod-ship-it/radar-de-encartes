@@ -28,6 +28,8 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      - name: Leitor de PDF (folhetos do Atacadão)
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
       - name: Coletar (segue mesmo se um mercado falhar)
         id: coleta
         run: npm run coletar || echo "falhou=1" >> "$GITHUB_OUTPUT"
