@@ -41,7 +41,10 @@ Carro-chefe: **lista de compras** (total por mercado, melhor mercado, quando val
   PDFs (Smarket) têm texto sem dados estruturados: leitura pela posição das palavras (`pdftotext -bbox-layout`):
   nome em maiúsculas acima, 2 preços grandes (esq. = "de", dir. = "por"), "Limite por cliente" abaixo; altura
   de referência = altura mais comum dos números da página. Em 23/11: 7 encartes RJ, 429 ofertas, 100% lidas.
-- **Supermarket**: endereço do site a descobrir.
+- **Supermarket**: site `www.redesupermarket.com.br` (da SAERJ, associação de supermercados independentes; cada
+  loja associada pode ter encarte próprio). Em 23/11: escudo anti-robô do Cloudflare ("Just a moment…", bloqueia
+  até o robots.txt). Mesma decisão do Assaí: NÃO contornar. Caminho: dono manda o encarte + leitor por IA,
+  ou parceria.
 
 ## Etapas
 | # | Etapa | Status |
@@ -50,7 +53,7 @@ Carro-chefe: **lista de compras** (total por mercado, melhor mercado, quando val
 | 2 | Protótipo visual + identidade | ✅ |
 | 3 | App base: Início, Busca, Produto, Lista, Encartes, Perfil | ✅ |
 | 4 | Robô de coleta Guanabara + Mundial, agendado no GitHub Actions | ✅ |
-| 5 | Atacadão ✅ e Prezunic ✅ automáticos; Assaí (bloqueado, ver acima), Supermarket | ⏳ |
+| 5 | Atacadão ✅ e Prezunic ✅ automáticos; Assaí e Supermarket bloqueados por anti-robô (ver acima) | ⏳ |
 | 6 | Localização (bairro → lojas próximas, distância) | ⏳ |
 | 7 | Painel de revisão das ofertas e da junção de produtos | ⏳ |
 | 8 | Alertas de preço, histórico, favoritos | ⏳ |
