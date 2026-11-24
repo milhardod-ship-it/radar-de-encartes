@@ -44,6 +44,7 @@ function adicionar(base: {
   limite?: string;
   produto?: string;
   imagem?: string;
+  duvida?: string;
 }) {
   const { tamanho, porKg } = extrairTamanho(base.textoTamanho);
   const marcas = base.marcas.length ? base.marcas : [''];
@@ -66,6 +67,7 @@ function adicionar(base: {
       ...(base.fim ? { fim: base.fim } : {}),
       ...(base.limite ? { limite: base.limite } : {}),
       ...(base.imagem ? { imagem: base.imagem } : {}),
+      ...(base.duvida ? { duvida: base.duvida } : {}),
       revisado: false,
     });
   }
@@ -331,6 +333,7 @@ interface ItemCuradoria {
   condicao?: string;
   limite?: string;
   produto?: string;
+  duvida?: string;
 }
 interface ArquivoCuradoria {
   encarte: string;
@@ -368,6 +371,7 @@ for (const arq of readdirSync(join(RAIZ, 'data/curadoria')).filter((f) => f.ends
       precoDe: it.de,
       limite: it.limite,
       produto: it.produto,
+      duvida: it.duvida,
     });
   }
 }

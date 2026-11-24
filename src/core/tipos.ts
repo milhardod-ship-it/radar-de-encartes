@@ -90,6 +90,8 @@ export interface Oferta {
   /** Data final desta oferta (pode ser antes do fim do encarte). */
   fim?: string;
   limite?: string;
+  /** Motivo de dúvida na leitura (ex.: lido de imagem). O app mostra "preço a confirmar". */
+  duvida?: string;
   /** Foto do produto publicada pelo mercado (quando a fonte tem). */
   imagem?: string;
   revisado: boolean;

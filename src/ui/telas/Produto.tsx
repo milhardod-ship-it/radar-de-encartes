@@ -108,6 +108,11 @@ export function Produto({ id }: { id: string }) {
                 <span className="numero" style={{ fontSize: 28 }}>{formatarReais(preco.valor)}</span>
                 <span className="apoio" style={{ fontSize: 14 }}>{formatarPorMedida(preco.valor, oferta.tamanho)}</span>
               </div>
+              {oferta.duvida && (
+                <span className="aviso" style={{ padding: '6px 10px', fontSize: 13 }}>
+                  <strong>Preço a confirmar:</strong> {oferta.duvida}.
+                </span>
+              )}
               {preco.condicao && <span className="chip com-app" style={{ alignSelf: 'flex-start' }}>{preco.condicao}</span>}
               {extras.map((p, i) => (
                 <span key={i} className="apoio">
