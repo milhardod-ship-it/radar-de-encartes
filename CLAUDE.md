@@ -19,6 +19,7 @@ Carro-chefe: **lista de compras** (total por mercado, melhor mercado, quando val
 - **Não** coletar nada que exija login (ex.: Guana Clube) nem copiar dados de dentro de apps com conta.
   Clube fechado → futuro: parceria com o mercado.
 - Honestidade: oferta vencida some; "não compensa a viagem" quando dividir economiza pouco; sem truques.
+- Etiquetas "nesta embalagem X sai por R$ Y" nos encartes são só referência para o cliente: NÃO viram oferta.
 - Sem logos/cores das redes na interface (marcas registradas). Dados `revisado: false` até o painel de revisão.
 
 ## Fontes de dados (situação em 23/11/2026)
