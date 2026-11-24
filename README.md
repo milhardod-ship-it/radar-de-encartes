@@ -22,7 +22,7 @@ npm run importar            # transforma tudo em data/ofertas.json (o build já 
 - **Guanabara**: lista de ofertas do site, por categoria (`/produtos/<id>`) + validade da página `/encarte`.
   O Guana Clube exige login: não é coletado.
 - **Mundial**: lista de ofertas do site (JSON dentro da página) + encartes vigentes.
-- Agendamento: `.github/workflows/coletar.yml` roda 2×/dia (06:17 e 10:43 no Rio), salva e publica.
+- Agendamento: `.github/workflows/coletar.yml` roda 4×/dia (06:17, 10:43, 14:17 e 18:17 no Rio), salva e publica.
 - Se um site mudar, o robô falha com mensagem clara e os testes de `tests/coleta.test.ts` mostram o que quebrou.
 
 ## Organização

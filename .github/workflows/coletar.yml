@@ -6,6 +6,8 @@ on:
   schedule:
     - cron: '17 9 * * *'   # 06:17 no Rio (pega o "Boa do Dia" e ofertas do dia)
     - cron: '43 13 * * *'  # 10:43 no Rio (o Guanabara atualiza o encarte às segundas até 10h)
+    - cron: '17 17 * * *'  # 14:17 no Rio (pega listas trocadas no fim da manhã)
+    - cron: '17 21 * * *'  # 18:17 no Rio (última passada do dia)
   workflow_dispatch: {}
 
 permissions:
