@@ -55,7 +55,8 @@ Carro-chefe: **lista de compras** (total por mercado, melhor mercado, quando val
   eu filtro o cluster 538); o robô baixa as imagens, reduz (ImageMagick) e lê com IA → `data/curadoria/assai-ia-<campanha>.json`.
   Programa `meu-assai` (app Meu Assaí). Workflow "Ler encartes com IA" modo `assai`.
   25/11: o CloudFront respondeu 403 ao robô (proteção de acesso ou link só para o site). Decisão mantida: não
-  disfarçar o robô (sem Referer/User-Agent de navegador). Caminho: dono salva as imagens no celular e manda.
+  disfarçar o robô. Depois o dono decidiu: para as IMAGENS do Assaí, o robô se apresenta como navegador (User-Agent
+  de celular + Referer da página de ofertas), poucas imagens por execução, só no modo manual `assai`.
 - **Prezunic**: robô lê a lista de encartes no JSON da página `/encartes` (título, estado RJ/GO, `validityText`,
   `pdfUrl` em prezunic.vtexassets.com). Validade: vale o TEXTO ("Válidas de 13 a 26/11/2026", igual ao PDF);
   `startAt/endAt` é só a janela em que o site exibe. Lojas vêm do título ("…lojas: Recreio, Barra…"; vazio = todas).

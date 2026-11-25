@@ -31,10 +31,18 @@ function dormir(ms: number) {
 }
 
 /** Baixa um arquivo binário (PDF) para o disco. */
-export function baixarArquivo(url: string, destino: string) {
+/**
+ * Baixa um arquivo. `comoNavegador` manda os cabeçalhos de um navegador comum vindo da página indicada; só usado no
+ * Assaí, por decisão do dono (25/11), porque o servidor de imagens recusa o robô identificado. Poucas imagens por vez.
+ */
+export function baixarArquivo(url: string, destino: string, comoNavegador?: { pagina: string }) {
+  const cabecalhos = comoNavegador
+    ? ['-A', 'Mozilla/5.0 (Linux; Android 14; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36',
+       '-e', comoNavegador.pagina, '-H', 'Accept: image/avif,image/webp,image/apng,image/*,*/*;q=0.8', '-H', 'Accept-Language: pt-BR,pt;q=0.9']
+    : ['-A', AGENTE];
   for (let tentativa = 1; ; tentativa++) {
     try {
-      execFileSync('curl', ['-sSL', '--fail', '-m', '180', '-A', AGENTE, '-o', destino, url]);
+      execFileSync('curl', ['-sSL', '--fail', '-m', '180', ...cabecalhos, '-o', destino, url]);
       return;
     } catch (e) {
       if (tentativa >= 3) throw new Error(`Falha ao baixar ${url}: ${(e as Error).message.split('\n')[0]}`);

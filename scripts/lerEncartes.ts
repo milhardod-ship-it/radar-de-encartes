@@ -155,7 +155,7 @@ async function assai(cliente: ReturnType<typeof criarCliente>, gastoAte: number)
         if (gasto >= LIMITE_US) { console.log(`  ! parei: limite de gasto (US$ ${LIMITE_US})`); completo = false; break; }
         const original = join(pasta, `p${i + 1}-original.jpg`);
         const arq = join(pasta, `p${i + 1}.jpg`);
-        baixarArquivo(url, original);
+        baixarArquivo(url, original, { pagina: 'https://www.assai.com.br/ofertas/rio-de-janeiro' });
         // Mesmo tamanho das páginas do Guanabara (lado maior 1568 px): a IA lê bem e custa menos.
         execFileSync('convert', [original, '-resize', '1568x1568>', '-quality', '85', arq]);
         const r = await lerComReaproveitamento(cliente, arq, `Encarte do Assaí Atacadista (Rio de Janeiro), válido de ${e.inicio} a ${e.fim}, página ${i + 1} de ${e.paginas.length}. O app do Assaí se chama "Meu Assaí". Atacarejo: preços de atacado ("a partir de X unidades") são condição, não o preço normal.`);
