@@ -47,6 +47,11 @@ Carro-chefe: **lista de compras** (total por mercado, melhor mercado, quando val
   anti-robô (Incapsula) que bloqueia robô honesto. Decidido: NÃO disfarçar o robô de navegador.
   No RJ é 1 encarte para as 41 lojas, só imagem (precisa do leitor por IA). Pendente: dono mandar o encarte
   e/ou chave da API do Claude; futuro: pedir autorização/parceria ao Assaí.
+  25/11: dono abriu o `ofertas_assai.json` no celular e mandou. RJ = regional `eid` 18, 42 lojas na lista (Tijuca, id 54,
+  fora de todos os encartes → provavelmente fechada). Lojas em `data/fontes/assai-lojas-rj.json` (sem endereço no
+  arquivo; coordenada aproximada pelo nome; 6 sem local conhecido ficam de fora). Encartes = imagens JPEG em
+  `d2q57q7k4hzryv.cloudfront.net/RPA/v3/<campanha>/campanha-<campanha>-cluster-<n>-pagina-<p>.jpeg`; o do RJ é o
+  cluster 538 (todas as lojas). O arquivo recebido tinha só ofertas de outubro (desatualizado ou cache).
 - **Prezunic**: robô lê a lista de encartes no JSON da página `/encartes` (título, estado RJ/GO, `validityText`,
   `pdfUrl` em prezunic.vtexassets.com). Validade: vale o TEXTO ("Válidas de 13 a 26/11/2026", igual ao PDF);
   `startAt/endAt` é só a janela em que o site exibe. Lojas vêm do título ("…lojas: Recreio, Barra…"; vazio = todas).

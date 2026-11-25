@@ -4,7 +4,8 @@
 //  - Mundial: JSON da página /nossas-lojas
 //  - Prezunic: consulta pública de pontos de retirada da loja online (VTEX), numa grade sobre o RJ
 //  - Atacadão: API pública de folhetos (mesma do robô)
-import { writeFileSync } from 'node:fs';
+//  - Assaí: data/fontes/assai-lojas-rj.json (site com escudo anti-robô: lista enviada pelo dono, coordenadas aproximadas)
+import { readFileSync, writeFileSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { listarLojasComFolhetos } from '../src/coleta/atacadao';
@@ -133,6 +134,17 @@ try {
   console.log(`Atacadão: ${lojas.length - n0} lojas`);
 } catch (e) {
   console.error('Atacadão: ERRO', (e as Error).message);
+}
+
+// ---------------------------------------------------------------- Assaí (lista fixa, sem robô)
+{
+  const fonte = JSON.parse(readFileSync(join(RAIZ, 'data/fontes/assai-lojas-rj.json'), 'utf8'));
+  const n0 = lojas.length;
+  for (const l of fonte.lojas) {
+    if (l.lat == null) continue;
+    lojas.push({ id: `assai-${l.loja_id}`, mercado: 'assai', nome: l.nome, endereco: '', bairro: l.nome, cidade: l.cidade, lat: l.lat, lon: l.lon, aproximada: true });
+  }
+  console.log(`Assaí: ${lojas.length - n0} lojas (posição aproximada)`);
 }
 
 writeFileSync(join(RAIZ, 'data/lojas.json'), JSON.stringify(lojas, null, 1) + '\n');
