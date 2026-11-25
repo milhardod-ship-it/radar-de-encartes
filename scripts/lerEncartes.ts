@@ -266,10 +266,8 @@ let falhas = 0;
 try {
   if (process.argv.includes('--mundial')) gasto = await compararMundial(cliente, gasto);
   else if (process.argv.includes('--assai')) gasto = await assai(cliente, gasto);
-  else {
-    gasto = await guanabara(cliente, gasto);
-    gasto = await assai(cliente, gasto);
-  }
+  // Assaí fica fora da passada automática: o servidor das imagens recusou o robô (403) em 25/11.
+  else gasto = await guanabara(cliente, gasto);
 } catch (e) {
   falhas++;
   console.error(`  ERRO: ${(e as Error).message}`);
