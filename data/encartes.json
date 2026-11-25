@@ -1,5 +1,32 @@
 [
  {
+  "id": "assai-ia-176546-538",
+  "mercado": "assai",
+  "titulo": "Encarte Assaí RJ",
+  "inicio": "2026-11-23",
+  "fim": "2026-11-26",
+  "lojas": [],
+  "fonte": "imagens do encarte do Assaí (lista enviada pelo dono), lidas por IA (claude-sonnet-5-5) em 2026-11-25"
+ },
+ {
+  "id": "assai-ia-176547-538",
+  "mercado": "assai",
+  "titulo": "Encarte Assaí RJ",
+  "inicio": "2026-11-23",
+  "fim": "2026-11-26",
+  "lojas": [],
+  "fonte": "imagens do encarte do Assaí (lista enviada pelo dono), lidas por IA (claude-sonnet-5-5) em 2026-11-25"
+ },
+ {
+  "id": "assai-ia-176697-538",
+  "mercado": "assai",
+  "titulo": "Encarte Assaí RJ",
+  "inicio": "2026-11-25",
+  "fim": "2026-11-26",
+  "lojas": [],
+  "fonte": "imagens do encarte do Assaí (lista enviada pelo dono), lidas por IA (claude-sonnet-5-5) em 2026-11-25"
+ },
+ {
   "id": "atacadao-ofertao-2026-11-17",
   "mercado": "atacadao",
   "titulo": "Ofertão Atacadão",

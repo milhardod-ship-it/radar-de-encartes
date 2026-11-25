@@ -1,0 +1,255 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-25",
+ "itens": [
+  {
+   "nome": "Arroz Branco Longo Fino Tipo 1 Sabor Máximo",
+   "marcas": [
+    "Máximo"
+   ],
+   "tamanho": "5kg",
+   "preco": 21.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Óleo de Soja",
+   "marcas": [
+    "Soya"
+   ],
+   "tamanho": "900ml",
+   "preco": 7.49,
+   "de": null,
+   "clube": 6.99,
+   "soClube": false,
+   "condicao": "Preço clube no app Meu Assaí, válido até 1260un; 6% de desconto",
+   "duvida": "O preço 7,49 aparece com 'De' em formato de etiqueta, mas sem preço riscado claro"
+  },
+  {
+   "nome": "Leite Longa Vida Integral",
+   "marcas": [
+    "Italac",
+    "Elegê"
+   ],
+   "tamanho": "1L",
+   "preco": 4.39,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Café Tradicional ou Extraforte",
+   "marcas": [
+    "Evolutto"
+   ],
+   "tamanho": "500g",
+   "preco": 16.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Leite em Pó Integral ou Integral Instantâneo",
+   "marcas": [
+    "Aurora"
+   ],
+   "tamanho": "400g",
+   "preco": 12.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Azeite de Oliva Extravirgem",
+   "marcas": [
+    "Gallo"
+   ],
+   "tamanho": "500ml",
+   "preco": 24.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Macarrão de Sêmola Espaguete",
+   "marcas": [
+    "Cadore",
+    "Santa Amália"
+   ],
+   "tamanho": "1kg",
+   "preco": 3.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Bife Ancho Bovino Resfriado Maturatta",
+   "marcas": [
+    "Friboi"
+   ],
+   "tamanho": "kg",
+   "preco": 59.9,
+   "de": null,
+   "clube": 57.9,
+   "soClube": false,
+   "condicao": "Preço por quilo na peça; preço clube no app Meu Assaí, válido até 25kg; 3% de desconto",
+   "duvida": null
+  },
+  {
+   "nome": "Peito de Frango sem Pele e sem Osso Congelado",
+   "marcas": [
+    "Guibon"
+   ],
+   "tamanho": "kg",
+   "preco": 14.49,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "Preço por quilo na peça",
+   "duvida": null
+  },
+  {
+   "nome": "Filé de Peito de Frango Congelado",
+   "marcas": [
+    "Sadia"
+   ],
+   "tamanho": "1kg",
+   "preco": 15.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "Bandeja 1kg",
+   "duvida": null
+  },
+  {
+   "nome": "Filé de Coxas e Sobrecoxas de Frango Congeladas",
+   "marcas": [
+    "Aurora"
+   ],
+   "tamanho": "3kg",
+   "preco": 35.7,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "Neste pacote, 1kg sai por R$ 11,90",
+   "duvida": null
+  },
+  {
+   "nome": "Carré Suíno Resfriado",
+   "marcas": [
+    "Seara"
+   ],
+   "tamanho": "kg",
+   "preco": 14.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Linguiça Tipo Calabresa Defumada",
+   "marcas": [
+    "Seara"
+   ],
+   "tamanho": "2,5kg",
+   "preco": 39.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "Nesta unidade, 1kg sai por R$ 15,96",
+   "duvida": null
+  },
+  {
+   "nome": "Bacon em Manta",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "kg",
+   "preco": 21.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "Preço por quilo na peça",
+   "duvida": null
+  },
+  {
+   "nome": "Hambúrguer Bovino Congelado Maturatta Sabores",
+   "marcas": [
+    "Friboi"
+   ],
+   "tamanho": "180g",
+   "preco": 7.49,
+   "de": null,
+   "clube": 4.99,
+   "soClube": false,
+   "condicao": "Preço clube no app Meu Assaí, válido até 50un; 33% de desconto",
+   "duvida": null
+  },
+  {
+   "nome": "Batata Pré-Frita Congelada",
+   "marcas": [
+    "Rap Newbraz"
+   ],
+   "tamanho": "2kg",
+   "preco": 17.49,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Hambúrguer Misto de Carne Bovina e de Frango",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "672g",
+   "preco": 15.99,
+   "de": null,
+   "clube": 12.99,
+   "soClube": false,
+   "condicao": "Caixeta 672g; preço clube no app Meu Assaí, válido até 200un; 18% de desconto",
+   "duvida": null
+  },
+  {
+   "nome": "Salsicha para Hot Dog Congelada",
+   "marcas": [
+    "Sadia"
+   ],
+   "tamanho": "3kg",
+   "preco": 20.97,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "Neste pacote, 1kg sai por R$ 6,99",
+   "duvida": null
+  },
+  {
+   "nome": "Margarina com Sal",
+   "marcas": [
+    "Cremosy"
+   ],
+   "tamanho": "1kg",
+   "preco": 7.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "Pote 1kg",
+   "duvida": null
+  }
+ ]
+}

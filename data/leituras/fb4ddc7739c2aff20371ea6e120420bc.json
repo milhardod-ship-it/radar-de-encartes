@@ -1,0 +1,323 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-25",
+ "itens": [
+  {
+   "nome": "Lava-Roupas em Pó Tipos",
+   "marcas": [
+    "Tixan Ypê"
+   ],
+   "tamanho": "bag 2,4kg",
+   "preco": 18.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Lava-Roupas Líquido Tipos",
+   "marcas": [
+    "Odd"
+   ],
+   "tamanho": "galão 3L",
+   "preco": 17.89,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Amaciante Big Soft Fragrâncias",
+   "marcas": [],
+   "tamanho": "galão 2L",
+   "preco": 4.49,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Alvejante em Gel Tira-Manchas",
+   "marcas": [
+    "Vanish"
+   ],
+   "tamanho": "sachê 1,2L",
+   "preco": 16.89,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Água Sanitária",
+   "marcas": [
+    "Cloral"
+   ],
+   "tamanho": "galão 5L",
+   "preco": 8.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Detergente Líquido Neutro",
+   "marcas": [
+    "Odd"
+   ],
+   "tamanho": "galão 5L",
+   "preco": 18.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Desinfetante Pinho Sol Fragrâncias",
+   "marcas": [],
+   "tamanho": "frasco 1,75L",
+   "preco": 18.89,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Limpador Perfumado Casa & Perfume Fragrâncias",
+   "marcas": [],
+   "tamanho": "frasco 500ml",
+   "preco": 3.89,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Kit Super Globo 2 Cloro Ativo 500ml + 1 Multiuso 500ml",
+   "marcas": [],
+   "tamanho": "",
+   "preco": 7.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Limpador Cremoso Multiuso Tipos",
+   "marcas": [
+    "Cif"
+   ],
+   "tamanho": "frasco 450ml",
+   "preco": 10.89,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Limpador Multiuso Clássico",
+   "marcas": [
+    "Ypê"
+   ],
+   "tamanho": "pack 4x500ml",
+   "preco": 11.89,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Limpador para Cozinha Limão",
+   "marcas": [
+    "Veja"
+   ],
+   "tamanho": "kit refil 400ml",
+   "preco": 13.89,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "30% de desconto na segunda unidade",
+   "duvida": null
+  },
+  {
+   "nome": "Copo Descartável Tipos",
+   "marcas": [
+    "Copomais"
+   ],
+   "tamanho": "embalagem 100x200ml",
+   "preco": 4.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Guardanapo de Papel",
+   "marcas": [
+    "Coquetel"
+   ],
+   "tamanho": "pacote leve 100 pague 90 unidades de 22x23cm",
+   "preco": 2.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "leve 100, pague 90",
+   "duvida": null
+  },
+  {
+   "nome": "Toalhas de Papel",
+   "marcas": [
+    "Bom Pety"
+   ],
+   "tamanho": "pacote com 2 rolos",
+   "preco": 2.79,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Assadeira de Alumínio Descartável",
+   "marcas": [
+    "Bompack"
+   ],
+   "tamanho": "unidade 4L",
+   "preco": 3.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Copo Americano",
+   "marcas": [
+    "Nadir"
+   ],
+   "tamanho": "unidade 190ml",
+   "preco": 0.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Mop Giratório",
+   "marcas": [
+    "Seu Lar"
+   ],
+   "tamanho": "unidade 8L",
+   "preco": 29.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Vassoura Multiuso Dentro e Fora",
+   "marcas": [
+    "Alklin"
+   ],
+   "tamanho": "unidade",
+   "preco": 4.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Saco para Lixo Extra Reforçado Embalixo",
+   "marcas": [],
+   "tamanho": "pacote 20x50L ou 10x120L",
+   "preco": 9.89,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "grátis 2 esponjas",
+   "duvida": null
+  },
+  {
+   "nome": "Cadeira de Praia de Alumínio Tipos",
+   "marcas": [
+    "Botafogo"
+   ],
+   "tamanho": "unidade",
+   "preco": 59.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Caixa Térmica Cores",
+   "marcas": [
+    "Liberty Plast"
+   ],
+   "tamanho": "unidade",
+   "preco": 39.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Areia Sanitária para Gatos",
+   "marcas": [
+    "Pipicat"
+   ],
+   "tamanho": "saco 4kg",
+   "preco": 9.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Alimento para Cães ou Alimento para Gatos Sabores",
+   "marcas": [
+    "Pedigree",
+    "Whiskas"
+   ],
+   "tamanho": "caixeta 900g ou 765g",
+   "preco": 16.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "leve 9 pague 7; nesta unidade, 85gr saem por R$ 1,89",
+   "duvida": "Etiqueta de 1,89 é referência por unidade, não incluída como preço"
+  },
+  {
+   "nome": "Alimento para Gatos ou Alimento para Cães Tipos",
+   "marcas": [
+    "Whiskas",
+    "Pedigree"
+   ],
+   "tamanho": "saco 2,7kg",
+   "preco": 38.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  }
+ ]
+}

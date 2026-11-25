@@ -1,0 +1,197 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-25",
+ "itens": [
+  {
+   "nome": "Panettone Sabores",
+   "marcas": [
+    "Casa Suíça"
+   ],
+   "tamanho": "400g",
+   "preco": 21.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "caixeta",
+   "duvida": null
+  },
+  {
+   "nome": "Espumante Tipos",
+   "marcas": [
+    "Chuva de Prata"
+   ],
+   "tamanho": "660ml",
+   "preco": 19.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "garrafa",
+   "duvida": null
+  },
+  {
+   "nome": "Barra de Proteína Banana Brasil Sabores",
+   "marcas": [],
+   "tamanho": "30g",
+   "preco": 2.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "pacote",
+   "duvida": "Marca provavelmente Protein, mas não está clara no texto"
+  },
+  {
+   "nome": "Pasta de Amendoim Tipos",
+   "marcas": [
+    "Amendopower",
+    "Dacolônia"
+   ],
+   "tamanho": "500g",
+   "preco": 17.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "pote",
+   "duvida": null
+  },
+  {
+   "nome": "Whey Balance Protein Sabores",
+   "marcas": [
+    "Health Labs"
+   ],
+   "tamanho": "455g",
+   "preco": 44.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "sachê",
+   "duvida": null
+  },
+  {
+   "nome": "Fritadeira BAF45A",
+   "marcas": [
+    "Britânia"
+   ],
+   "tamanho": "5L 127V",
+   "preco": 249.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "unidade",
+   "duvida": null
+  },
+  {
+   "nome": "Fritadeira Elétrica",
+   "marcas": [
+    "Philco"
+   ],
+   "tamanho": "9,5L 127V",
+   "preco": 349.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "unidade",
+   "duvida": null
+  },
+  {
+   "nome": "Caixa Amplificada CM-300-N",
+   "marcas": [
+    "Bivolt",
+    "Mondial"
+   ],
+   "tamanho": "",
+   "preco": 259.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "unidade",
+   "duvida": "Marca ambígua: Bivolt é a tensão, marca provavelmente Mondial"
+  },
+  {
+   "nome": "Ventilador de Mesa Bivolt",
+   "marcas": [
+    "Britânia"
+   ],
+   "tamanho": "40cm 127V",
+   "preco": 139.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "unidade",
+   "duvida": null
+  },
+  {
+   "nome": "Ventilador de Coluna Essential",
+   "marcas": [
+    "Arno"
+   ],
+   "tamanho": "40cm 127V",
+   "preco": 259.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "unidade",
+   "duvida": null
+  },
+  {
+   "nome": "Pilha Pequena AA",
+   "marcas": [
+    "Panasonic"
+   ],
+   "tamanho": "cartela com 8 unidades",
+   "preco": 10.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Pilha Alcalina AA Pequena ou Palito",
+   "marcas": [
+    "Duracell"
+   ],
+   "tamanho": "cartela com 4 unidades",
+   "preco": 23.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Pneu Aro 14 175/75 XBRI Fastway",
+   "marcas": [],
+   "tamanho": "unidade",
+   "preco": 219.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "No cartão Passaí 10x sem juros de R$ 21,99",
+   "duvida": null
+  },
+  {
+   "nome": "Pneu Aro 15 185/65 XBRI Fastway",
+   "marcas": [],
+   "tamanho": "unidade",
+   "preco": 249.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "No cartão Passaí 10x sem juros de R$ 24,99",
+   "duvida": null
+  },
+  {
+   "nome": "Pneu Aro 13 175/70 82T Direction Touring",
+   "marcas": [
+    "Goodyear"
+   ],
+   "tamanho": "unidade",
+   "preco": 249.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "No cartão Passaí 10x sem juros de R$ 24,99",
+   "duvida": null
+  }
+ ]
+}

@@ -1,6 +1,3637 @@
 [
  {
-  "id": "atacadao-boa-do-dia-2026-11-23#1270",
+  "id": "assai-ia-176546-538#1270",
+  "mercado": "assai",
+  "encarte": "assai-ia-176546-538",
+  "produto": "panettone__casa-suica__400g",
+  "nome": "Panettone Sabores",
+  "marca": "Casa Suíça",
+  "original": "Panettone Sabores Casa Suíça 400g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 400,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 21.99,
+    "exige": [],
+    "condicao": "caixeta"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176546-538#1271",
+  "mercado": "assai",
+  "encarte": "assai-ia-176546-538",
+  "produto": "espumante__chuva-de-prata__660ml",
+  "nome": "Espumante Tipos",
+  "marca": "Chuva de Prata",
+  "original": "Espumante Tipos Chuva de Prata 660ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 660,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 19.9,
+    "exige": [],
+    "condicao": "garrafa"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176546-538#1272",
+  "mercado": "assai",
+  "encarte": "assai-ia-176546-538",
+  "produto": "barra-proteina-banana__sem-marca__30g",
+  "nome": "Barra de Proteína Banana Brasil Sabores",
+  "marca": "",
+  "original": "Barra de Proteína Banana Brasil Sabores 30g",
+  "categoria": "Hortifrúti",
+  "tamanho": {
+   "valor": 30,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.99,
+    "exige": [],
+    "condicao": "pacote"
+   }
+  ],
+  "duvida": "Marca provavelmente Protein, mas não está clara no texto",
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176546-538#1273",
+  "mercado": "assai",
+  "encarte": "assai-ia-176546-538",
+  "produto": "pasta-amendoim__amendopower__500g",
+  "nome": "Pasta de Amendoim Tipos",
+  "marca": "Amendopower",
+  "original": "Pasta de Amendoim Tipos Amendopower, Dacolônia 500g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 17.9,
+    "exige": [],
+    "condicao": "pote"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176546-538#1274",
+  "mercado": "assai",
+  "encarte": "assai-ia-176546-538",
+  "produto": "pasta-amendoim__dacolonia__500g",
+  "nome": "Pasta de Amendoim Tipos",
+  "marca": "Dacolônia",
+  "original": "Pasta de Amendoim Tipos Amendopower, Dacolônia 500g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 17.9,
+    "exige": [],
+    "condicao": "pote"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176546-538#1275",
+  "mercado": "assai",
+  "encarte": "assai-ia-176546-538",
+  "produto": "whey-balance-protein__health-labs__455g",
+  "nome": "Whey Balance Protein Sabores",
+  "marca": "Health Labs",
+  "original": "Whey Balance Protein Sabores Health Labs 455g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 455,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 44.9,
+    "exige": [],
+    "condicao": "sachê"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176546-538#1276",
+  "mercado": "assai",
+  "encarte": "assai-ia-176546-538",
+  "produto": "fritadeira-baf45a__britania__5000ml",
+  "nome": "Fritadeira BAF45A",
+  "marca": "Britânia",
+  "original": "Fritadeira BAF45A Britânia 5L 127V",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 5000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 249.9,
+    "exige": [],
+    "condicao": "unidade"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176546-538#1277",
+  "mercado": "assai",
+  "encarte": "assai-ia-176546-538",
+  "produto": "fritadeira-eletrica__philco__9500ml",
+  "nome": "Fritadeira Elétrica",
+  "marca": "Philco",
+  "original": "Fritadeira Elétrica Philco 9,5L 127V",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 9500,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 349.9,
+    "exige": [],
+    "condicao": "unidade"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176546-538#1278",
+  "mercado": "assai",
+  "encarte": "assai-ia-176546-538",
+  "produto": "amplificada-cm-n__bivolt__sem-tamanho",
+  "nome": "Caixa Amplificada CM-300-N",
+  "marca": "Bivolt",
+  "original": "Caixa Amplificada CM-300-N Bivolt, Mondial",
+  "categoria": "Mercearia",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 259.9,
+    "exige": [],
+    "condicao": "unidade"
+   }
+  ],
+  "duvida": "Marca ambígua: Bivolt é a tensão, marca provavelmente Mondial",
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176546-538#1279",
+  "mercado": "assai",
+  "encarte": "assai-ia-176546-538",
+  "produto": "amplificada-cm-n__mondial__sem-tamanho",
+  "nome": "Caixa Amplificada CM-300-N",
+  "marca": "Mondial",
+  "original": "Caixa Amplificada CM-300-N Bivolt, Mondial",
+  "categoria": "Mercearia",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 259.9,
+    "exige": [],
+    "condicao": "unidade"
+   }
+  ],
+  "duvida": "Marca ambígua: Bivolt é a tensão, marca provavelmente Mondial",
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176546-538#1280",
+  "mercado": "assai",
+  "encarte": "assai-ia-176546-538",
+  "produto": "ventilador-mesa-bivolt__britania__sem-tamanho",
+  "nome": "Ventilador de Mesa Bivolt",
+  "marca": "Britânia",
+  "original": "Ventilador de Mesa Bivolt Britânia 40cm 127V",
+  "categoria": "Mercearia",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 139.9,
+    "exige": [],
+    "condicao": "unidade"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176546-538#1281",
+  "mercado": "assai",
+  "encarte": "assai-ia-176546-538",
+  "produto": "ventilador-coluna-essential__arno__sem-tamanho",
+  "nome": "Ventilador de Coluna Essential",
+  "marca": "Arno",
+  "original": "Ventilador de Coluna Essential Arno 40cm 127V",
+  "categoria": "Mercearia",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 259.9,
+    "exige": [],
+    "condicao": "unidade"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176546-538#1282",
+  "mercado": "assai",
+  "encarte": "assai-ia-176546-538",
+  "produto": "pilha-pequena-aa__panasonic__8un",
+  "nome": "Pilha Pequena AA",
+  "marca": "Panasonic",
+  "original": "Pilha Pequena AA Panasonic cartela com 8 unidades",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 8,
+   "unidade": "un"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 10.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176546-538#1283",
+  "mercado": "assai",
+  "encarte": "assai-ia-176546-538",
+  "produto": "pilha-alcalina-aa__duracell__4un",
+  "nome": "Pilha Alcalina AA Pequena ou Palito",
+  "marca": "Duracell",
+  "original": "Pilha Alcalina AA Pequena ou Palito Duracell cartela com 4 unidades",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 4,
+   "unidade": "un"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 23.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176546-538#1284",
+  "mercado": "assai",
+  "encarte": "assai-ia-176546-538",
+  "produto": "pneu-aro-xbri__sem-marca__sem-tamanho",
+  "nome": "Pneu Aro 14 175/75 XBRI Fastway",
+  "marca": "",
+  "original": "Pneu Aro 14 175/75 XBRI Fastway unidade",
+  "categoria": "Outros",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 219.9,
+    "exige": [],
+    "condicao": "No cartão Passaí 10x sem juros de R$ 21,99"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176546-538#1285",
+  "mercado": "assai",
+  "encarte": "assai-ia-176546-538",
+  "produto": "pneu-aro-xbri__sem-marca__sem-tamanho",
+  "nome": "Pneu Aro 15 185/65 XBRI Fastway",
+  "marca": "",
+  "original": "Pneu Aro 15 185/65 XBRI Fastway unidade",
+  "categoria": "Outros",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 249.9,
+    "exige": [],
+    "condicao": "No cartão Passaí 10x sem juros de R$ 24,99"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176546-538#1286",
+  "mercado": "assai",
+  "encarte": "assai-ia-176546-538",
+  "produto": "pneu-aro-direction__goodyear__sem-tamanho",
+  "nome": "Pneu Aro 13 175/70 82T Direction Touring",
+  "marca": "Goodyear",
+  "original": "Pneu Aro 13 175/70 82T Direction Touring Goodyear unidade",
+  "categoria": "Outros",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 249.9,
+    "exige": [],
+    "condicao": "No cartão Passaí 10x sem juros de R$ 24,99"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1287",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "arroz-branco-longo__maximo__5000g",
+  "nome": "Arroz Branco Longo Fino Tipo 1 Sabor Máximo",
+  "marca": "Máximo",
+  "original": "Arroz Branco Longo Fino Tipo 1 Sabor Máximo Máximo 5kg",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 5000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 21.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1288",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "oleo-soja__soya__900ml",
+  "nome": "Óleo de Soja",
+  "marca": "Soya",
+  "original": "Óleo de Soja Soya 900ml",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 900,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 7.49,
+    "exige": [],
+    "condicao": "Preço clube no app Meu Assaí, válido até 1260un; 6% de desconto"
+   },
+   {
+    "valor": 6.99,
+    "exige": [
+     "meu-assai"
+    ],
+    "condicao": "no app Meu Assaí"
+   }
+  ],
+  "duvida": "O preço 7,49 aparece com 'De' em formato de etiqueta, mas sem preço riscado claro",
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1289",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "leite-integral__italac__1000ml",
+  "nome": "Leite Longa Vida Integral",
+  "marca": "Italac",
+  "original": "Leite Longa Vida Integral Italac, Elegê 1L",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.39,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1290",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "leite-integral__elege__1000ml",
+  "nome": "Leite Longa Vida Integral",
+  "marca": "Elegê",
+  "original": "Leite Longa Vida Integral Italac, Elegê 1L",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.39,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1291",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "cafe-extraforte__evolutto__500g",
+  "nome": "Café Tradicional ou Extraforte",
+  "marca": "Evolutto",
+  "original": "Café Tradicional ou Extraforte Evolutto 500g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 16.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1292",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "leite-po-integral__aurora__400g",
+  "nome": "Leite em Pó Integral ou Integral Instantâneo",
+  "marca": "Aurora",
+  "original": "Leite em Pó Integral ou Integral Instantâneo Aurora 400g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 400,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 12.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1293",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "azeite-oliva__gallo__500ml",
+  "nome": "Azeite de Oliva Extravirgem",
+  "marca": "Gallo",
+  "original": "Azeite de Oliva Extravirgem Gallo 500ml",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 24.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1294",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "macarrao-semola-espaguete__cadore__1000g",
+  "nome": "Macarrão de Sêmola Espaguete",
+  "marca": "Cadore",
+  "original": "Macarrão de Sêmola Espaguete Cadore, Santa Amália 1kg",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1295",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "macarrao-semola-espaguete__santa-amalia__1000g",
+  "nome": "Macarrão de Sêmola Espaguete",
+  "marca": "Santa Amália",
+  "original": "Macarrão de Sêmola Espaguete Cadore, Santa Amália 1kg",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1296",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "bife-ancho-maturatta__friboi__1000g",
+  "nome": "Bife Ancho Bovino Resfriado Maturatta",
+  "marca": "Friboi",
+  "original": "Bife Ancho Bovino Resfriado Maturatta Friboi kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 59.9,
+    "exige": [],
+    "condicao": "Preço por quilo na peça; preço clube no app Meu Assaí, válido até 25kg; 3% de desconto"
+   },
+   {
+    "valor": 57.9,
+    "exige": [
+     "meu-assai"
+    ],
+    "condicao": "no app Meu Assaí"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1297",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "peito-frango-osso__guibon__1000g",
+  "nome": "Peito de Frango sem Pele e sem Osso Congelado",
+  "marca": "Guibon",
+  "original": "Peito de Frango sem Pele e sem Osso Congelado Guibon kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 14.49,
+    "exige": [],
+    "condicao": "Preço por quilo na peça"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1298",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "file-peito-frango__sadia__1000g",
+  "nome": "Filé de Peito de Frango Congelado",
+  "marca": "Sadia",
+  "original": "Filé de Peito de Frango Congelado Sadia 1kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 15.98,
+    "exige": [],
+    "condicao": "Bandeja 1kg"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1299",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "file-coxas-sobrecoxas__aurora__3000g",
+  "nome": "Filé de Coxas e Sobrecoxas de Frango Congeladas",
+  "marca": "Aurora",
+  "original": "Filé de Coxas e Sobrecoxas de Frango Congeladas Aurora 3kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 3000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 35.7,
+    "exige": [],
+    "condicao": "Neste pacote, 1kg sai por R$ 11,90"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1300",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "carre-suino__seara__1000g",
+  "nome": "Carré Suíno Resfriado",
+  "marca": "Seara",
+  "original": "Carré Suíno Resfriado Seara kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 14.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1301",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "linguica-calabresa-defumada__seara__2500g",
+  "nome": "Linguiça Tipo Calabresa Defumada",
+  "marca": "Seara",
+  "original": "Linguiça Tipo Calabresa Defumada Seara 2,5kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 2500,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 39.9,
+    "exige": [],
+    "condicao": "Nesta unidade, 1kg sai por R$ 15,96"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1302",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "bacon-manta__perdigao__1000g",
+  "nome": "Bacon em Manta",
+  "marca": "Perdigão",
+  "original": "Bacon em Manta Perdigão kg",
+  "categoria": "Frios e Laticínios",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 21.9,
+    "exige": [],
+    "condicao": "Preço por quilo na peça"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1303",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "hamburguer-maturatta__friboi__180g",
+  "nome": "Hambúrguer Bovino Congelado Maturatta Sabores",
+  "marca": "Friboi",
+  "original": "Hambúrguer Bovino Congelado Maturatta Sabores Friboi 180g",
+  "categoria": "Congelados",
+  "tamanho": {
+   "valor": 180,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 7.49,
+    "exige": [],
+    "condicao": "Preço clube no app Meu Assaí, válido até 50un; 33% de desconto"
+   },
+   {
+    "valor": 4.99,
+    "exige": [
+     "meu-assai"
+    ],
+    "condicao": "no app Meu Assaí"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1304",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "batata-pre-frita__rap-newbraz__2000g",
+  "nome": "Batata Pré-Frita Congelada",
+  "marca": "Rap Newbraz",
+  "original": "Batata Pré-Frita Congelada Rap Newbraz 2kg",
+  "categoria": "Congelados",
+  "tamanho": {
+   "valor": 2000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 17.49,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1305",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "hamburguer__perdigao__672g",
+  "nome": "Hambúrguer Misto de Carne Bovina e de Frango",
+  "marca": "Perdigão",
+  "original": "Hambúrguer Misto de Carne Bovina e de Frango Perdigão 672g",
+  "categoria": "Congelados",
+  "tamanho": {
+   "valor": 672,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 15.99,
+    "exige": [],
+    "condicao": "Caixeta 672g; preço clube no app Meu Assaí, válido até 200un; 18% de desconto"
+   },
+   {
+    "valor": 12.99,
+    "exige": [
+     "meu-assai"
+    ],
+    "condicao": "no app Meu Assaí"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1306",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "salsicha__sadia__3000g",
+  "nome": "Salsicha para Hot Dog Congelada",
+  "marca": "Sadia",
+  "original": "Salsicha para Hot Dog Congelada Sadia 3kg",
+  "categoria": "Frios e Laticínios",
+  "tamanho": {
+   "valor": 3000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 20.97,
+    "exige": [],
+    "condicao": "Neste pacote, 1kg sai por R$ 6,99"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1307",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "margarina-sal__cremosy__1000g",
+  "nome": "Margarina com Sal",
+  "marca": "Cremosy",
+  "original": "Margarina com Sal Cremosy 1kg",
+  "categoria": "Frios e Laticínios",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 7.99,
+    "exige": [],
+    "condicao": "Pote 1kg"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1308",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "chopp__heineken__5000ml",
+  "nome": "Chopp",
+  "marca": "Heineken",
+  "original": "Chopp Heineken Barril 5L",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 5000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 99.9,
+    "exige": [],
+    "condicao": "No app Meu Assaí, válido para até 2un"
+   },
+   {
+    "valor": 89.9,
+    "exige": [
+     "meu-assai"
+    ],
+    "condicao": "no app Meu Assaí"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1309",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "refrigerante-original-zero__guarana-antarctica__350ml",
+  "nome": "Refrigerante Original ou Zero",
+  "marca": "Guaraná Antarctica",
+  "original": "Refrigerante Original ou Zero Guaraná Antarctica Lata 350ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 350,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.29,
+    "exige": [],
+    "condicao": "No app Meu Assaí, válido para até 60un"
+   },
+   {
+    "valor": 2.59,
+    "exige": [
+     "meu-assai"
+    ],
+    "condicao": "no app Meu Assaí"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1310",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "suco-concentrado-caju__dafruta__1000ml",
+  "nome": "Suco Concentrado de Caju ou Jandaia",
+  "marca": "Dafruta",
+  "original": "Suco Concentrado de Caju ou Jandaia Dafruta Garrafa 1L",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.99,
+    "exige": [],
+    "condicao": "No app Meu Assaí, válido para até 24un"
+   },
+   {
+    "valor": 3.99,
+    "exige": [
+     "meu-assai"
+    ],
+    "condicao": "no app Meu Assaí"
+   }
+  ],
+  "duvida": "Texto indica 'Suco concentrado de caju Dafruta ou Jandaia'; marcas ambíguas",
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1311",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "suco-uva-integral__santa-fe__1350ml",
+  "nome": "Suco de Uva Integral",
+  "marca": "Santa Fé",
+  "original": "Suco de Uva Integral Santa Fé Garrafa 1,35L",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 1350,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 15.99,
+    "exige": [],
+    "condicao": "No app Meu Assaí, válido para até 24un"
+   },
+   {
+    "valor": 11.99,
+    "exige": [
+     "meu-assai"
+    ],
+    "condicao": "no app Meu Assaí"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1312",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "refrigerante-original-zero__guarana-antarctica__2000ml",
+  "nome": "Refrigerante Original ou Zero",
+  "marca": "Guaraná Antarctica",
+  "original": "Refrigerante Original ou Zero Guaraná Antarctica Garrafa 2L",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 2000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 6.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1313",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "molho-tomate__bonare__300g",
+  "nome": "Molho de Tomate Tradicional",
+  "marca": "Bonare",
+  "original": "Molho de Tomate Tradicional Bonare Sachê 300g",
+  "categoria": "Hortifrúti",
+  "tamanho": {
+   "valor": 300,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 1.15,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1314",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "batata-palha-extra__mega-chips__100g",
+  "nome": "Batata Palha Tradicional ou Extra Fina",
+  "marca": "Mega Chips",
+  "original": "Batata Palha Tradicional ou Extra Fina Mega Chips Pacote 100g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 100,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1315",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "ketchup__hellmanns__760g",
+  "nome": "Ketchup",
+  "marca": "Hellmann's",
+  "original": "Ketchup Hellmann's Pack 2x380g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 760,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 15.9,
+    "exige": [],
+    "condicao": "Leve mais pague menos"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1316",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "maionese__vigor__500g",
+  "nome": "Maionese Tradicional",
+  "marca": "Vigor",
+  "original": "Maionese Tradicional Vigor Pote 500g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.79,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1317",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "azeitona-verde__vale-fertil__120g",
+  "nome": "Azeitona Verde sem Caroço",
+  "marca": "Vale Fértil",
+  "original": "Azeitona Verde sem Caroço Vale Fértil Pouch 120g peso drenado",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 120,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 5.49,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1318",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "farinha-trigo-especial__paloma__1000g",
+  "nome": "Farinha de Trigo Especial Tipo 1",
+  "marca": "Paloma",
+  "original": "Farinha de Trigo Especial Tipo 1 Paloma Pacote 1kg",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.59,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1319",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "achocolatado-po-original__toddy__370g",
+  "nome": "Achocolatado em Pó Original",
+  "marca": "Toddy",
+  "original": "Achocolatado em Pó Original Toddy Pote 370g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 370,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 8.89,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1320",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "biscoito__club-social__141g",
+  "nome": "Biscoito Sabores",
+  "marca": "Club Social",
+  "original": "Biscoito Sabores Club Social Pacote 141g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 141,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1321",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "linguica-suina__seara__600g",
+  "nome": "Linguiça Suína Tipos",
+  "marca": "Seara",
+  "original": "Linguiça Suína Tipos Seara Embalagem 600g",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 600,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 14.9,
+    "exige": [],
+    "condicao": "No app Meu Assaí, válido para até 200un"
+   },
+   {
+    "valor": 11.99,
+    "exige": [
+     "meu-assai"
+    ],
+    "condicao": "no app Meu Assaí"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1322",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "lasanha__aurora__600g",
+  "nome": "Lasanha Congelada Sabores",
+  "marca": "Aurora",
+  "original": "Lasanha Congelada Sabores Aurora Pacote 600g",
+  "categoria": "Congelados",
+  "tamanho": {
+   "valor": 600,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 14.99,
+    "exige": [],
+    "condicao": "No app Meu Assaí, válido para até 200un"
+   },
+   {
+    "valor": 12.99,
+    "exige": [
+     "meu-assai"
+    ],
+    "condicao": "no app Meu Assaí"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1323",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "bebida-lactea__pulsi__480g",
+  "nome": "Bebida Láctea Sabores",
+  "marca": "Pulsi",
+  "original": "Bebida Láctea Sabores Pulsi Bandeja 480g",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 480,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1324",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "iogurte-liquido__nestle__1150g",
+  "nome": "Iogurte Líquido Sabores",
+  "marca": "Nestlé",
+  "original": "Iogurte Líquido Sabores Nestlé Garrafa 1,15kg",
+  "categoria": "Frios e Laticínios",
+  "tamanho": {
+   "valor": 1150,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 12.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1325",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "bebida-lactea-kids__damare__200ml",
+  "nome": "Bebida Láctea Kids Sabores",
+  "marca": "Damare",
+  "original": "Bebida Láctea Kids Sabores Damare TP 200ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 200,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 0.85,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1326",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "pao-forma-os__sem-marca__375g",
+  "nome": "Pão de Forma os Primos ou Q Pão",
+  "marca": "",
+  "original": "Pão de Forma os Primos ou Q Pão Pacote 375g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 375,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.99,
+    "exige": []
+   }
+  ],
+  "duvida": "Os Primos e Q Pão podem ser as marcas",
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1327",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "cerveja__amstel__473ml",
+  "nome": "Cerveja Lager",
+  "marca": "Amstel",
+  "original": "Cerveja Lager Amstel Latão 473ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 473,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1328",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "aguardente__caninha-da-roca__500ml",
+  "nome": "Aguardente Sabores",
+  "marca": "Caninha da Roça",
+  "original": "Aguardente Sabores Caninha da Roça Garrafa 500ml",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1329",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "bebida-alcoolica-mista__smirnoff__275ml",
+  "nome": "Bebida Alcoólica Mista Ice Sabores",
+  "marca": "Smirnoff",
+  "original": "Bebida Alcoólica Mista Ice Sabores Smirnoff Garrafa 275ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 275,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 5.49,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1330",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "whisky-escoces-black__johnnie-walker__750ml",
+  "nome": "Whisky Escocês Black Label",
+  "marca": "Johnnie Walker",
+  "original": "Whisky Escocês Black Label Johnnie Walker Garrafa 750ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 750,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 124.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1331",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "vinho-nacional__chalise__750ml",
+  "nome": "Vinho Nacional Tipos",
+  "marca": "Chalise",
+  "original": "Vinho Nacional Tipos Chalise Garrafa 750ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 750,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 14.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1332",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "vinho-chileno__concha-y-toro__750ml",
+  "nome": "Vinho Chileno Tipos",
+  "marca": "Concha y Toro",
+  "original": "Vinho Chileno Tipos Concha y Toro Garrafa 750ml",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 750,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 22.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1333",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "bebida-energetica__baly__2000ml",
+  "nome": "Bebida Energética Sabores",
+  "marca": "Baly",
+  "original": "Bebida Energética Sabores Baly Garrafa 2L",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 2000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 8.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1334",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "cha-ice-tea__lipton__1500ml",
+  "nome": "Chá Ice Tea Sabores",
+  "marca": "Lipton",
+  "original": "Chá Ice Tea Sabores Lipton Garrafa 1,5L",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 1500,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1335",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "po-preparo-refresco__tang__18g",
+  "nome": "Pó para Preparo de Refresco Sabores",
+  "marca": "Tang",
+  "original": "Pó para Preparo de Refresco Sabores Tang Sachê 18g",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 18,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 0.94,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1336",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "refrigerante-original__coca-cola__1500ml",
+  "nome": "Refrigerante Original",
+  "marca": "Coca-Cola",
+  "original": "Refrigerante Original Coca-Cola PET 1,5L",
+  "categoria": "Bebidas",
+  "tamanho": {
+   "valor": 1500,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 6.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1337",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "fralda-ultrasec__babysec__sem-tamanho",
+  "nome": "Fralda Ultrasec",
+  "marca": "Babysec",
+  "original": "Fralda Ultrasec Babysec pacote/tamanhos",
+  "categoria": "Higiene",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 42.99,
+    "exige": [],
+    "condicao": "preço cada pacote; tabela de preço por unidade por tamanho (XXG R$0,98, XG R$0,86, G R$0,80, M R$0,69)"
+   }
+  ],
+  "duvida": "Tabela de quantidade por tamanho pequena, valores por unidade parcialmente legíveis",
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1338",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "fralda-descartavel-giga__turma-da-monica__sem-tamanho",
+  "nome": "Fralda Descartável Giga Turma da Mônica",
+  "marca": "Turma da Mônica",
+  "original": "Fralda Descartável Giga Turma da Mônica Turma da Mônica pacote/tamanhos",
+  "categoria": "Higiene",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 43.99,
+    "exige": [],
+    "condicao": "cada"
+   }
+  ],
+  "duvida": "Marca inferida pela embalagem (Turma da Mônica); tabela por tamanho pequena",
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1339",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "fralda-descartavel-maxima__huggies__sem-tamanho",
+  "nome": "Fralda Descartável Máxima Proteção",
+  "marca": "Huggies",
+  "original": "Fralda Descartável Máxima Proteção Huggies pacote/tamanhos",
+  "categoria": "Higiene",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 59.99,
+    "exige": [],
+    "condicao": "cada"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1340",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "toalha-umedecida__puro-amor__40un",
+  "nome": "Toalha Umedecida",
+  "marca": "Puro Amor",
+  "original": "Toalha Umedecida Puro Amor pacote com 40 unidades",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 40,
+   "unidade": "un"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.29,
+    "exige": [],
+    "condicao": "cada"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1341",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "lencos-umedecidos-tripla__huggies__88un",
+  "nome": "Lenços Umedecidos Tripla Proteção",
+  "marca": "Huggies",
+  "original": "Lenços Umedecidos Tripla Proteção Huggies pacote com 88 unidades",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 88,
+   "unidade": "un"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 7.49,
+    "exige": [],
+    "condicao": "cada"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1342",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "shampoo__johnsons__400ml",
+  "nome": "Shampoo Tipos",
+  "marca": "Johnson's",
+  "original": "Shampoo Tipos Johnson's frasco 400ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 400,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 19.99,
+    "exige": [],
+    "condicao": "cada"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1343",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "condicionador-regular-baby__johnsons__400ml",
+  "nome": "Condicionador Regular Baby",
+  "marca": "Johnsons",
+  "original": "Condicionador Regular Baby Johnsons frasco 400ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 400,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 24.99,
+    "exige": [],
+    "condicao": "cada"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1344",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "sabonete-cheirinho-bebe__sem-marca__500ml",
+  "nome": "Sabonete Cheirinho de Bebê Fragrâncias",
+  "marca": "",
+  "original": "Sabonete Cheirinho de Bebê Fragrâncias frasco 500ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 21.99,
+    "exige": [],
+    "condicao": "cada"
+   }
+  ],
+  "duvida": "Marca não legível",
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1345",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "sabonete-hidratante__pom-pom__350g",
+  "nome": "Sabonete Hidratante",
+  "marca": "Pom Pom",
+  "original": "Sabonete Hidratante Pom Pom pack promocional 5x70g",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 350,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 14.99,
+    "exige": [],
+    "condicao": "cada"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1346",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "composto-lacteo-primeira__ninho-nestle__1200g",
+  "nome": "Composto Lácteo Primeira Infância 1 a 3 anos",
+  "marca": "Ninho Nestlé",
+  "original": "Composto Lácteo Primeira Infância 1 a 3 anos Ninho Nestlé lata 1,2kg",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1200,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 78.9,
+    "exige": [],
+    "condicao": "cada"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1347",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "farinha-lactea__nestle__210g",
+  "nome": "Farinha Láctea",
+  "marca": "Nestlé",
+  "original": "Farinha Láctea Nestlé pacote 210g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 210,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 6.79,
+    "exige": [],
+    "condicao": "cada"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1348",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "cremogema__mingau__380g",
+  "nome": "Mingau Tradicional Cremogema",
+  "marca": "Mingau",
+  "original": "Mingau Tradicional Cremogema Mingau caixeta 380g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 380,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 12.9,
+    "exige": [],
+    "condicao": "cada"
+   }
+  ],
+  "duvida": "Marca incerta",
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1349",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "neston-cereais__nestle__sem-tamanho",
+  "nome": "Neston 3 Cereais",
+  "marca": "Nestlé",
+  "original": "Neston 3 Cereais Nestlé lata",
+  "categoria": "Mercearia",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 12.99,
+    "exige": [],
+    "condicao": "cada"
+   }
+  ],
+  "duvida": "Tamanho não legível",
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1350",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "cereal-infantil-mucilon__nestle__1000g",
+  "nome": "Cereal Infantil Mucilon Sabores",
+  "marca": "Nestlé",
+  "original": "Cereal Infantil Mucilon Sabores Nestlé pacote 1kg",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 27.9,
+    "exige": [],
+    "condicao": "cada"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1351",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "absorvente-gel-abas__intimus__42un",
+  "nome": "Absorvente Gel com Abas Cobertura Seca ou Suave",
+  "marca": "Intimus",
+  "original": "Absorvente Gel com Abas Cobertura Seca ou Suave Intimus pacote com 42 unidades",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 42,
+   "unidade": "un"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 12.99,
+    "exige": [],
+    "condicao": "cada"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1352",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "desodorante-creme__herbissimo__55g",
+  "nome": "Desodorante em Creme Fragrâncias",
+  "marca": "Herbíssimo",
+  "original": "Desodorante em Creme Fragrâncias Herbíssimo embalagem 55g",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 55,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 8.99,
+    "exige": [],
+    "condicao": "cada"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1353",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "desodorante-aerossol__nivea__200ml",
+  "nome": "Desodorante Aerossol Fragrâncias",
+  "marca": "Nivea",
+  "original": "Desodorante Aerossol Fragrâncias Nivea frasco 200ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 200,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 12.49,
+    "exige": [],
+    "condicao": "cada"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1354",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "sabonete__johnsons__80g",
+  "nome": "Sabonete Fragrâncias",
+  "marca": "Johnson's",
+  "original": "Sabonete Fragrâncias Johnson's embalagem 80g",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 80,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 1.98,
+    "exige": [],
+    "condicao": "cada"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1355",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "sabonete__dove__360g",
+  "nome": "Sabonete Tipos",
+  "marca": "Dove",
+  "original": "Sabonete Tipos Dove embalagem 4x90g",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 360,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 14.99,
+    "exige": [],
+    "condicao": "cada"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1356",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "creme-dental__close-up__90g",
+  "nome": "Creme Dental Tipos",
+  "marca": "Close Up",
+  "original": "Creme Dental Tipos Close Up caixeta 90g",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 90,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.69,
+    "exige": [],
+    "condicao": "cada"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1357",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "shampoo__seda__560ml",
+  "nome": "Shampoo Tipos",
+  "marca": "Seda",
+  "original": "Shampoo Tipos Seda frasco 560ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 560,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 13.89,
+    "exige": [],
+    "condicao": "cada"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1358",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "condicionador__seda__560ml",
+  "nome": "Condicionador Tipos",
+  "marca": "Seda",
+  "original": "Condicionador Tipos Seda frasco 560ml",
+  "categoria": "Higiene",
+  "tamanho": {
+   "valor": 560,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 13.89,
+    "exige": [],
+    "condicao": "cada"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1359",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "kit-shampoo-condicionador__novex__sem-tamanho",
+  "nome": "Kit Tipos Shampoo 300ml + Condicionador 300ml",
+  "marca": "Novex",
+  "original": "Kit Tipos Shampoo 300ml + Condicionador 300ml Novex",
+  "categoria": "Higiene",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 13.99,
+    "exige": [],
+    "condicao": "cada"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1360",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "kit-shampoo-condicionador__ox__sem-tamanho",
+  "nome": "Kit Tipos Shampoo 375ml + Condicionador 170ml",
+  "marca": "OX",
+  "original": "Kit Tipos Shampoo 375ml + Condicionador 170ml OX",
+  "categoria": "Higiene",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 19.99,
+    "exige": [],
+    "condicao": "cada"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1361",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "papel-higienico-folha__familiar__sem-tamanho",
+  "nome": "Papel Higiênico Folha Dupla Familiar",
+  "marca": "Familiar",
+  "original": "Papel Higiênico Folha Dupla Familiar Familiar pacote leve 12 e pague 11 rolos de 30m",
+  "categoria": "Higiene",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 12.9,
+    "exige": [],
+    "condicao": "leve 12 e pague 11"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1362",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "lava-roupas-po__tixan-ype__2400g",
+  "nome": "Lava-Roupas em Pó Tipos",
+  "marca": "Tixan Ypê",
+  "original": "Lava-Roupas em Pó Tipos Tixan Ypê bag 2,4kg",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 2400,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 18.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1363",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "lava-roupas-liquido__odd__3000ml",
+  "nome": "Lava-Roupas Líquido Tipos",
+  "marca": "Odd",
+  "original": "Lava-Roupas Líquido Tipos Odd galão 3L",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 3000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 17.89,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1364",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "amaciante-big-soft__sem-marca__2000ml",
+  "nome": "Amaciante Big Soft Fragrâncias",
+  "marca": "",
+  "original": "Amaciante Big Soft Fragrâncias galão 2L",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 2000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.49,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1365",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "alvejante-gel-tira__vanish__1200ml",
+  "nome": "Alvejante em Gel Tira-Manchas",
+  "marca": "Vanish",
+  "original": "Alvejante em Gel Tira-Manchas Vanish sachê 1,2L",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 1200,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 16.89,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1366",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "agua-sanitaria__cloral__5000ml",
+  "nome": "Água Sanitária",
+  "marca": "Cloral",
+  "original": "Água Sanitária Cloral galão 5L",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 5000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 8.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1367",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "detergente-liquido-neutro__odd__5000ml",
+  "nome": "Detergente Líquido Neutro",
+  "marca": "Odd",
+  "original": "Detergente Líquido Neutro Odd galão 5L",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 5000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 18.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1368",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "desinfetante-pinho-sol__sem-marca__1750ml",
+  "nome": "Desinfetante Pinho Sol Fragrâncias",
+  "marca": "",
+  "original": "Desinfetante Pinho Sol Fragrâncias frasco 1,75L",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 1750,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 18.89,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1369",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "limpador-perfumado-casa__sem-marca__500ml",
+  "nome": "Limpador Perfumado Casa & Perfume Fragrâncias",
+  "marca": "",
+  "original": "Limpador Perfumado Casa & Perfume Fragrâncias frasco 500ml",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.89,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1370",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "kit-super-globo__sem-marca__sem-tamanho",
+  "nome": "Kit Super Globo 2 Cloro Ativo 500ml + 1 Multiuso 500ml",
+  "marca": "",
+  "original": "Kit Super Globo 2 Cloro Ativo 500ml + 1 Multiuso 500ml",
+  "categoria": "Limpeza",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 7.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1371",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "limpador-cremoso-multiuso__cif__450ml",
+  "nome": "Limpador Cremoso Multiuso Tipos",
+  "marca": "Cif",
+  "original": "Limpador Cremoso Multiuso Tipos Cif frasco 450ml",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 450,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 10.89,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1372",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "limpador-multiuso-classico__ype__2000ml",
+  "nome": "Limpador Multiuso Clássico",
+  "marca": "Ypê",
+  "original": "Limpador Multiuso Clássico Ypê pack 4x500ml",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 2000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 11.89,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1373",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "limpador-cozinha-limao__veja__400ml",
+  "nome": "Limpador para Cozinha Limão",
+  "marca": "Veja",
+  "original": "Limpador para Cozinha Limão Veja kit refil 400ml",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 400,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 13.89,
+    "exige": [],
+    "condicao": "30% de desconto na segunda unidade"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1374",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "copo-descartavel__copomais__20000ml",
+  "nome": "Copo Descartável Tipos",
+  "marca": "Copomais",
+  "original": "Copo Descartável Tipos Copomais embalagem 100x200ml",
+  "categoria": "Outros",
+  "tamanho": {
+   "valor": 20000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1375",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "guardanapo-papel__coquetel__sem-tamanho",
+  "nome": "Guardanapo de Papel",
+  "marca": "Coquetel",
+  "original": "Guardanapo de Papel Coquetel pacote leve 100 pague 90 unidades de 22x23cm",
+  "categoria": "Bebidas",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.99,
+    "exige": [],
+    "condicao": "leve 100, pague 90"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1376",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "toalhas-papel__bom-pety__sem-tamanho",
+  "nome": "Toalhas de Papel",
+  "marca": "Bom Pety",
+  "original": "Toalhas de Papel Bom Pety pacote com 2 rolos",
+  "categoria": "Mercearia",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 2.79,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1377",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "assadeira-aluminio-descartavel__bompack__4000ml",
+  "nome": "Assadeira de Alumínio Descartável",
+  "marca": "Bompack",
+  "original": "Assadeira de Alumínio Descartável Bompack unidade 4L",
+  "categoria": "Outros",
+  "tamanho": {
+   "valor": 4000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 3.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1378",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "copo-americano__nadir__190ml",
+  "nome": "Copo Americano",
+  "marca": "Nadir",
+  "original": "Copo Americano Nadir unidade 190ml",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 190,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 0.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1379",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "mop-giratorio__seu-lar__8000ml",
+  "nome": "Mop Giratório",
+  "marca": "Seu Lar",
+  "original": "Mop Giratório Seu Lar unidade 8L",
+  "categoria": "Outros",
+  "tamanho": {
+   "valor": 8000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 29.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1380",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "vassoura-multiuso-dentro__alklin__sem-tamanho",
+  "nome": "Vassoura Multiuso Dentro e Fora",
+  "marca": "Alklin",
+  "original": "Vassoura Multiuso Dentro e Fora Alklin unidade",
+  "categoria": "Limpeza",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1381",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "saco-lixo-extra__sem-marca__1000000ml",
+  "nome": "Saco para Lixo Extra Reforçado Embalixo",
+  "marca": "",
+  "original": "Saco para Lixo Extra Reforçado Embalixo pacote 20x50L ou 10x120L",
+  "categoria": "Limpeza",
+  "tamanho": {
+   "valor": 1000000,
+   "unidade": "ml"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 9.89,
+    "exige": [],
+    "condicao": "grátis 2 esponjas"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1382",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "cadeira-praia-aluminio__botafogo__sem-tamanho",
+  "nome": "Cadeira de Praia de Alumínio Tipos",
+  "marca": "Botafogo",
+  "original": "Cadeira de Praia de Alumínio Tipos Botafogo unidade",
+  "categoria": "Mercearia",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 59.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1383",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "termica-cores__liberty-plast__sem-tamanho",
+  "nome": "Caixa Térmica Cores",
+  "marca": "Liberty Plast",
+  "original": "Caixa Térmica Cores Liberty Plast unidade",
+  "categoria": "Mercearia",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 39.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1384",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "areia-sanitaria-gatos__pipicat__4000g",
+  "nome": "Areia Sanitária para Gatos",
+  "marca": "Pipicat",
+  "original": "Areia Sanitária para Gatos Pipicat saco 4kg",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 4000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 9.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1385",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "alimento-caes-alimento__pedigree__900g",
+  "nome": "Alimento para Cães ou Alimento para Gatos Sabores",
+  "marca": "Pedigree",
+  "original": "Alimento para Cães ou Alimento para Gatos Sabores Pedigree, Whiskas caixeta 900g ou 765g",
+  "categoria": "Outros",
+  "tamanho": {
+   "valor": 900,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 16.99,
+    "exige": [],
+    "condicao": "leve 9 pague 7; nesta unidade, 85gr saem por R$ 1,89"
+   }
+  ],
+  "duvida": "Etiqueta de 1,89 é referência por unidade, não incluída como preço",
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1386",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "alimento-caes-alimento__whiskas__900g",
+  "nome": "Alimento para Cães ou Alimento para Gatos Sabores",
+  "marca": "Whiskas",
+  "original": "Alimento para Cães ou Alimento para Gatos Sabores Pedigree, Whiskas caixeta 900g ou 765g",
+  "categoria": "Outros",
+  "tamanho": {
+   "valor": 900,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 16.99,
+    "exige": [],
+    "condicao": "leve 9 pague 7; nesta unidade, 85gr saem por R$ 1,89"
+   }
+  ],
+  "duvida": "Etiqueta de 1,89 é referência por unidade, não incluída como preço",
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1387",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "alimento-gatos-alimento__whiskas__2700g",
+  "nome": "Alimento para Gatos ou Alimento para Cães Tipos",
+  "marca": "Whiskas",
+  "original": "Alimento para Gatos ou Alimento para Cães Tipos Whiskas, Pedigree saco 2,7kg",
+  "categoria": "Outros",
+  "tamanho": {
+   "valor": 2700,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 38.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176547-538#1388",
+  "mercado": "assai",
+  "encarte": "assai-ia-176547-538",
+  "produto": "alimento-gatos-alimento__pedigree__2700g",
+  "nome": "Alimento para Gatos ou Alimento para Cães Tipos",
+  "marca": "Pedigree",
+  "original": "Alimento para Gatos ou Alimento para Cães Tipos Whiskas, Pedigree saco 2,7kg",
+  "categoria": "Outros",
+  "tamanho": {
+   "valor": 2700,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 38.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1389",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "laranja-pera__sem-marca__1000g",
+  "nome": "Laranja-Pera",
+  "marca": "",
+  "original": "Laranja-Pera kg",
+  "categoria": "Hortifrúti",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 2.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1390",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "abacate__sem-marca__1000g",
+  "nome": "Abacate",
+  "marca": "",
+  "original": "Abacate kg",
+  "categoria": "Hortifrúti",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 3.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1391",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "macas__do-beni__850g",
+  "nome": "Maçãs",
+  "marca": "Do Beni",
+  "original": "Maçãs Do Beni, Super K pacote 850g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 850,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1392",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "macas__super-k__850g",
+  "nome": "Maçãs",
+  "marca": "Super K",
+  "original": "Maçãs Do Beni, Super K pacote 850g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 850,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1393",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "manga-palmer__sem-marca__1000g",
+  "nome": "Manga-Palmer",
+  "marca": "",
+  "original": "Manga-Palmer kg",
+  "categoria": "Hortifrúti",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 3.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1394",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "melao-verde-amarelo__sem-marca__1000g",
+  "nome": "Melão Verde ou Amarelo",
+  "marca": "",
+  "original": "Melão Verde ou Amarelo kg",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 4.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1395",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "coco-seco__sem-marca__1000g",
+  "nome": "Coco Seco",
+  "marca": "",
+  "original": "Coco Seco kg",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 5.99,
+    "exige": []
+   }
+  ],
+  "duvida": "Unidade do preço aparece como quilo, mas o produto costuma ser vendido por unidade; copiado como no encarte.",
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1396",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "abacaxi__sem-marca__sem-tamanho",
+  "nome": "Abacaxi",
+  "marca": "",
+  "original": "Abacaxi unidade",
+  "categoria": "Mercearia",
+  "tamanho": null,
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 6.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1397",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "banana-prata__sem-marca__1000g",
+  "nome": "Banana-Prata",
+  "marca": "",
+  "original": "Banana-Prata kg",
+  "categoria": "Hortifrúti",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 5.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1398",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "maca-nacional-fuji__sem-marca__1000g",
+  "nome": "Maçã Nacional Fuji",
+  "marca": "",
+  "original": "Maçã Nacional Fuji kg",
+  "categoria": "Hortifrúti",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 7.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1399",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "mamao-papaia__sem-marca__1000g",
+  "nome": "Mamão-Papaia",
+  "marca": "",
+  "original": "Mamão-Papaia kg",
+  "categoria": "Hortifrúti",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 7.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1400",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "uva-crimson-benassi__sem-marca__500g",
+  "nome": "Uva Crimson Benassi ou Uva Benitaka",
+  "marca": "",
+  "original": "Uva Crimson Benassi ou Uva Benitaka bandeja 500g",
+  "categoria": "Hortifrúti",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 6.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1401",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "ameixa__sem-marca__500g",
+  "nome": "Ameixa",
+  "marca": "",
+  "original": "Ameixa bandeja 500g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 7.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1402",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "nozes-casca__sem-marca__1000g",
+  "nome": "Nozes com Casca",
+  "marca": "",
+  "original": "Nozes com Casca kg",
+  "categoria": "Hortifrúti",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 38.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1403",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "pepino-comum__sem-marca__1000g",
+  "nome": "Pepino Comum",
+  "marca": "",
+  "original": "Pepino Comum kg",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 2.95,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1404",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "chuchu__sem-marca__1000g",
+  "nome": "Chuchu",
+  "marca": "",
+  "original": "Chuchu kg",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 2.29,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1405",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "cenoura__sem-marca__1000g",
+  "nome": "Cenoura",
+  "marca": "",
+  "original": "Cenoura kg",
+  "categoria": "Hortifrúti",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 2.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1406",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "batata-doce-rosada__sem-marca__1000g",
+  "nome": "Batata-Doce Rosada",
+  "marca": "",
+  "original": "Batata-Doce Rosada kg",
+  "categoria": "Hortifrúti",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 4.95,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1407",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "abobrinha-italiana__sem-marca__1000g",
+  "nome": "Abobrinha Italiana",
+  "marca": "",
+  "original": "Abobrinha Italiana kg",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 3.69,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1408",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "batata-monalisa-lavada__sem-marca__10000g",
+  "nome": "Batata Monalisa Lavada",
+  "marca": "",
+  "original": "Batata Monalisa Lavada saco 10kg",
+  "categoria": "Hortifrúti",
+  "tamanho": {
+   "valor": 10000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 49.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1409",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "alho-granel__sem-marca__1000g",
+  "nome": "Alho a Granel",
+  "marca": "",
+  "original": "Alho a Granel kg",
+  "categoria": "Hortifrúti",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 16.9,
+    "exige": [],
+    "condicao": "R$ 14,90 o kg a partir de 10kg"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1410",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "moida__frimaster__500g",
+  "nome": "Carne Bovina Moída Congelada",
+  "marca": "Frimaster",
+  "original": "Carne Bovina Moída Congelada Frimaster 500g",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 13.5,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1411",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "picanha-fatiada__bordon__1000g",
+  "nome": "Picanha Bovina Fatiada Resfriada",
+  "marca": "Bordon",
+  "original": "Picanha Bovina Fatiada Resfriada Bordon kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 48.9,
+    "exige": [],
+    "condicao": "preço por quilo na peça"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1412",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "frango-passarinho__seara__1000g",
+  "nome": "Frango a Passarinho Congelado",
+  "marca": "Seara",
+  "original": "Frango a Passarinho Congelado Seara 1kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 10.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1413",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "peito-frango-osso__guibon__1000g",
+  "nome": "Peito de Frango Sem Pele e Sem Osso Congelado",
+  "marca": "Guibon",
+  "original": "Peito de Frango Sem Pele e Sem Osso Congelado Guibon kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 13.99,
+    "exige": [],
+    "condicao": "preço por quilo na peça"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1414",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "file-peito-frango__aurora__1000g",
+  "nome": "Filé de Peito de Frango Congelado",
+  "marca": "Aurora",
+  "original": "Filé de Peito de Frango Congelado Aurora 1kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 15.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1415",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "alcatra-suina__frimesa__1000g",
+  "nome": "Alcatra Suína Congelada a Vácuo",
+  "marca": "Frimesa",
+  "original": "Alcatra Suína Congelada a Vácuo Frimesa kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 19.9,
+    "exige": [],
+    "condicao": "preço por quilo na peça"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1416",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "costelinha-suina-passarinho__suinco__1000g",
+  "nome": "Costelinha Suína a Passarinho Congelada IQF",
+  "marca": "Suinco",
+  "original": "Costelinha Suína a Passarinho Congelada IQF Suinco 1kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 14.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1417",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "file-polaca-alasca__seara__500g",
+  "nome": "Filé de Polaca do Alasca Congelado",
+  "marca": "Seara",
+  "original": "Filé de Polaca do Alasca Congelado Seara 500g",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 17.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1418",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "postas-tilapia-congeladas__copacol__800g",
+  "nome": "Postas de Tilápia Congeladas",
+  "marca": "Copacol",
+  "original": "Postas de Tilápia Congeladas Copacol 800g",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 800,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 17.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1419",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "peixe-salgado-polaca__se7e-mares__500g",
+  "nome": "Peixe Salgado Polaca-do-Alasca Pedaços",
+  "marca": "Se7e Mares",
+  "original": "Peixe Salgado Polaca-do-Alasca Pedaços Se7e Mares 500g",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 25.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1420",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "file-tilapia__c-vale__800g",
+  "nome": "Filé de Tilápia Congelado",
+  "marca": "C.Vale",
+  "original": "Filé de Tilápia Congelado C.Vale 800g",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 800,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 34.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1421",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "alho-inteiro-descascado__nutriz__200g",
+  "nome": "Alho Inteiro Descascado",
+  "marca": "Nutriz",
+  "original": "Alho Inteiro Descascado Nutriz 200g",
+  "categoria": "Hortifrúti",
+  "tamanho": {
+   "valor": 200,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 13.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1422",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "mix-legumes-classico__grano__1000g",
+  "nome": "Mix de Legumes Clássico Congelado",
+  "marca": "Grano",
+  "original": "Mix de Legumes Clássico Congelado Grano 1kg",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 16.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1423",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "pao-queijo__massa-leve__1000g",
+  "nome": "Pão de Queijo Massa Leve Tipos",
+  "marca": "Massa Leve",
+  "original": "Pão de Queijo Massa Leve Tipos Massa Leve 1kg",
+  "categoria": "Congelados",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 13.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1424",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "leite-fermentado__chamyto__480g",
+  "nome": "Leite Fermentado Sabores",
+  "marca": "Chamyto",
+  "original": "Leite Fermentado Sabores Chamyto, Nestlé 6x80g",
+  "categoria": "Frios e Laticínios",
+  "tamanho": {
+   "valor": 480,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1425",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "leite-fermentado__nestle__480g",
+  "nome": "Leite Fermentado Sabores",
+  "marca": "Nestlé",
+  "original": "Leite Fermentado Sabores Chamyto, Nestlé 6x80g",
+  "categoria": "Frios e Laticínios",
+  "tamanho": {
+   "valor": 480,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 4.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1426",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "manteiga-sal__so-minas__200g",
+  "nome": "Manteiga com Sal",
+  "marca": "Só Minas",
+  "original": "Manteiga com Sal Só Minas 200g",
+  "categoria": "Frios e Laticínios",
+  "tamanho": {
+   "valor": 200,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 8.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1427",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "requeijao-cremoso-light__catupiry__200g",
+  "nome": "Requeijão Cremoso Tradicional ou Light",
+  "marca": "Catupiry",
+  "original": "Requeijão Cremoso Tradicional ou Light Catupiry 200g",
+  "categoria": "Frios e Laticínios",
+  "tamanho": {
+   "valor": 200,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 7.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1428",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "queijo-minas-padrao__sertanorte__1000g",
+  "nome": "Queijo Tipo Minas Padrão ou Meia Cura",
+  "marca": "Sertanorte",
+  "original": "Queijo Tipo Minas Padrão ou Meia Cura Sertanorte kg",
+  "categoria": "Frios e Laticínios",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 59.9,
+    "exige": [],
+    "condicao": "preço por quilo na peça"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1429",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "pao-forma-integral__seven-boys__430g",
+  "nome": "Pão de Forma Integral ou 12 Grãos",
+  "marca": "Seven Boys",
+  "original": "Pão de Forma Integral ou 12 Grãos Seven Boys 430g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 430,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 5.99,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "assai-ia-176697-538#1430",
+  "mercado": "assai",
+  "encarte": "assai-ia-176697-538",
+  "produto": "waffle__mr-bey__180g",
+  "nome": "Waffle Tradicional Congelado",
+  "marca": "Mr. Bey",
+  "original": "Waffle Tradicional Congelado Mr. Bey 180g",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 180,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 7.49,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "atacadao-boa-do-dia-2026-11-23#1431",
   "mercado": "atacadao",
   "encarte": "atacadao-boa-do-dia-2026-11-23",
   "produto": "maca__sem-marca__850g",
@@ -23,7 +3654,7 @@
   "revisado": false
  },
  {
-  "id": "atacadao-boa-do-dia-2026-11-23#1271",
+  "id": "atacadao-boa-do-dia-2026-11-23#1432",
   "mercado": "atacadao",
   "encarte": "atacadao-boa-do-dia-2026-11-23",
   "produto": "peito-frango__lar__1000g",
@@ -47,7 +3678,7 @@
   "revisado": false
  },
  {
-  "id": "atacadao-boa-do-dia-2026-11-23#1272",
+  "id": "atacadao-boa-do-dia-2026-11-23#1433",
   "mercado": "atacadao",
   "encarte": "atacadao-boa-do-dia-2026-11-23",
   "produto": "hamburguer-frango__friboi__2016g",
@@ -70,7 +3701,7 @@
   "revisado": false
  },
  {
-  "id": "atacadao-boa-do-dia-2026-11-23#1273",
+  "id": "atacadao-boa-do-dia-2026-11-23#1434",
   "mercado": "atacadao",
   "encarte": "atacadao-boa-do-dia-2026-11-23",
   "produto": "leite-uht-integral__quata__1000ml",
@@ -8100,7 +11731,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1274",
+  "id": "guanabara-pdf-2026-11-24#1435",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "arroz__tio-joao__5000g",
@@ -8123,7 +11754,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1275",
+  "id": "guanabara-pdf-2026-11-24#1436",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "arroz__ouro-nobre__5000g",
@@ -8145,7 +11776,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1276",
+  "id": "guanabara-pdf-2026-11-24#1437",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "alcatra__friboi__1000g",
@@ -8167,7 +11798,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1277",
+  "id": "guanabara-pdf-2026-11-24#1438",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "contra-file__friboi__1000g",
@@ -8189,7 +11820,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1278",
+  "id": "guanabara-pdf-2026-11-24#1439",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "oleo-soja__coamo__900ml",
@@ -8211,7 +11842,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1279",
+  "id": "guanabara-pdf-2026-11-24#1440",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "file-peito-frango__rivelli__1000g",
@@ -8233,7 +11864,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1280",
+  "id": "guanabara-pdf-2026-11-24#1441",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "azeite-extra-virgem__iliada__500ml",
@@ -8256,7 +11887,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1281",
+  "id": "guanabara-pdf-2026-11-24#1442",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "azeite-extra-virgem__andorinha__500ml",
@@ -8278,7 +11909,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1282",
+  "id": "guanabara-pdf-2026-11-24#1443",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "leite-condensado-semidesnatado__italac__395g",
@@ -8300,7 +11931,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1283",
+  "id": "guanabara-pdf-2026-11-24#1444",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "maionese__hellmanns__500g",
@@ -8322,7 +11953,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1284",
+  "id": "guanabara-pdf-2026-11-24#1445",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "chocolate__cachet__100g",
@@ -8346,7 +11977,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1285",
+  "id": "guanabara-pdf-2026-11-24#1446",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "bombons-favoritos__lacta__250.6g",
@@ -8368,7 +11999,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1286",
+  "id": "guanabara-pdf-2026-11-24#1447",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "biscoito-recheado__trakinas__126g",
@@ -8390,7 +12021,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1287",
+  "id": "guanabara-pdf-2026-11-24#1448",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "biscoito-cream-cracker__richester__170g",
@@ -8412,7 +12043,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1288",
+  "id": "guanabara-pdf-2026-11-24#1449",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "espaguete-semola__dona-benta__1000g",
@@ -8434,7 +12065,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1289",
+  "id": "guanabara-pdf-2026-11-24#1450",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "amaciante-concentrado__downy__500ml",
@@ -8457,7 +12088,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1290",
+  "id": "guanabara-pdf-2026-11-24#1451",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "limpador-multiuso__veja__750ml",
@@ -8479,7 +12110,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1291",
+  "id": "guanabara-pdf-2026-11-24#1452",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "kit-shampoo-condicionador__vult__200ml",
@@ -8501,7 +12132,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1292",
+  "id": "guanabara-pdf-2026-11-24#1453",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "desodorante-aerossol__dryon__250ml",
@@ -8523,7 +12154,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1293",
+  "id": "guanabara-pdf-2026-11-24#1454",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "desodorante-aerossol__monange__150ml",
@@ -8545,7 +12176,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1294",
+  "id": "guanabara-pdf-2026-11-24#1455",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "desodorante-aerossol__giovanna-baby__150ml",
@@ -8567,7 +12198,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1295",
+  "id": "guanabara-pdf-2026-11-24#1456",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "lava-roupas-liquido__odd__3000ml",
@@ -8589,7 +12220,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1296",
+  "id": "guanabara-pdf-2026-11-24#1457",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "lava-roupas-po__surf__1600g",
@@ -8611,7 +12242,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1297",
+  "id": "guanabara-pdf-2026-11-24#1458",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "lava-roupas-po__omo__1400g",
@@ -8633,7 +12264,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1298",
+  "id": "guanabara-pdf-2026-11-24#1459",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "lava-roupas-po__tixan-ype__2400g",
@@ -8655,7 +12286,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1299",
+  "id": "guanabara-pdf-2026-11-24#1460",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "acucar-refinado__guarani__1000g",
@@ -8677,7 +12308,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1300",
+  "id": "guanabara-pdf-2026-11-24#1461",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "leite-uht-integral__piracanjuba__1000ml",
@@ -8699,10 +12330,10 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1301",
+  "id": "guanabara-pdf-2026-11-24#1462",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
-  "produto": "leite-uht-integral__italac__1000ml",
+  "produto": "leite-integral__italac__1000ml",
   "nome": "Leite UHT Integral",
   "marca": "Italac",
   "original": "Leite UHT Integral Piracanjuba, Italac, Elegê 1L",
@@ -8721,10 +12352,10 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1302",
+  "id": "guanabara-pdf-2026-11-24#1463",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
-  "produto": "leite-uht-integral__elege__1000ml",
+  "produto": "leite-integral__elege__1000ml",
   "nome": "Leite UHT Integral",
   "marca": "Elegê",
   "original": "Leite UHT Integral Piracanjuba, Italac, Elegê 1L",
@@ -8743,7 +12374,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1303",
+  "id": "guanabara-pdf-2026-11-24#1464",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "leite-uht-desnatado__piracanjuba__1000ml",
@@ -8765,7 +12396,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1304",
+  "id": "guanabara-pdf-2026-11-24#1465",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "leite-uht-desnatado__italac__1000ml",
@@ -8787,7 +12418,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1305",
+  "id": "guanabara-pdf-2026-11-24#1466",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "leite-uht-desnatado__elege__1000ml",
@@ -8809,7 +12440,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1306",
+  "id": "guanabara-pdf-2026-11-24#1467",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "leite-po-integral__gloria__360g",
@@ -8831,7 +12462,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1307",
+  "id": "guanabara-pdf-2026-11-24#1468",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "leite-po-integral__italac__360g",
@@ -8853,7 +12484,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1308",
+  "id": "guanabara-pdf-2026-11-24#1469",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "leite-po__ninho__380g",
@@ -8876,7 +12507,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1309",
+  "id": "guanabara-pdf-2026-11-24#1470",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "leite-po-desnatado__molico__280g",
@@ -8899,7 +12530,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1310",
+  "id": "guanabara-pdf-2026-11-24#1471",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "arroz-selecoes__camil__5000g",
@@ -8921,7 +12552,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1311",
+  "id": "guanabara-pdf-2026-11-24#1472",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "arroz-integral__tio-joao__1000g",
@@ -8943,7 +12574,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1312",
+  "id": "guanabara-pdf-2026-11-24#1473",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "arroz-integral__prato-fino__1000g",
@@ -8965,7 +12596,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1313",
+  "id": "guanabara-pdf-2026-11-24#1474",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "feijao-preto__panela-de-barro__1000g",
@@ -8987,7 +12618,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1314",
+  "id": "guanabara-pdf-2026-11-24#1475",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "feijao-preto__carreteiro__1000g",
@@ -9009,7 +12640,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1315",
+  "id": "guanabara-pdf-2026-11-24#1476",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "feijao-preto__kicaldo__1000g",
@@ -9031,7 +12662,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1316",
+  "id": "guanabara-pdf-2026-11-24#1477",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "feijao-carioca__patusco__1000g",
@@ -9053,7 +12684,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1317",
+  "id": "guanabara-pdf-2026-11-24#1478",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "capsulas-cafe-dolce__nescafe__10un",
@@ -9075,7 +12706,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1318",
+  "id": "guanabara-pdf-2026-11-24#1479",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "cafe__pilao__500g",
@@ -9097,7 +12728,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1319",
+  "id": "guanabara-pdf-2026-11-24#1480",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "cafe__uniao__500g",
@@ -9119,7 +12750,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1320",
+  "id": "guanabara-pdf-2026-11-24#1481",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "cafe__bom-dia__500g",
@@ -9141,7 +12772,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1321",
+  "id": "guanabara-pdf-2026-11-24#1482",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "leite-uht__ninho__1000ml",
@@ -9164,7 +12795,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1322",
+  "id": "guanabara-pdf-2026-11-24#1483",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "leite-uht__molico__1000ml",
@@ -9187,7 +12818,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1323",
+  "id": "guanabara-pdf-2026-11-24#1484",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "achocolatado-po__nescau__900g",
@@ -9209,7 +12840,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1324",
+  "id": "guanabara-pdf-2026-11-24#1485",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "achocolatado-po__nescau__350g",
@@ -9232,7 +12863,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1325",
+  "id": "guanabara-pdf-2026-11-24#1486",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "cereal-matinal__nescau__210g",
@@ -9254,7 +12885,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1326",
+  "id": "guanabara-pdf-2026-11-24#1487",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "cereal-snow-flakes__nestle__230g",
@@ -9276,7 +12907,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1327",
+  "id": "guanabara-pdf-2026-11-24#1488",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "cereal-sucrilhos-original__kelloggs__240g",
@@ -9299,7 +12930,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1328",
+  "id": "guanabara-pdf-2026-11-24#1489",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "farofa-pronta-temperada__yoki__400g",
@@ -9321,7 +12952,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1329",
+  "id": "guanabara-pdf-2026-11-24#1490",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "farofa__bom-gosto__900g",
@@ -9343,7 +12974,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1330",
+  "id": "guanabara-pdf-2026-11-24#1491",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "milho-pipoca-micro__yoki__100g",
@@ -9366,7 +12997,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1331",
+  "id": "guanabara-pdf-2026-11-24#1492",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "milho-pipoca-premium__yoki__400g",
@@ -9388,7 +13019,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1332",
+  "id": "guanabara-pdf-2026-11-24#1493",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "aveia-flocos__yoki__170g",
@@ -9410,7 +13041,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1333",
+  "id": "guanabara-pdf-2026-11-24#1494",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "aveia-flocos__quaker__165g",
@@ -9432,7 +13063,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1334",
+  "id": "guanabara-pdf-2026-11-24#1495",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "azeite-extra-virgem__gallo__400ml",
@@ -9454,7 +13085,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1335",
+  "id": "guanabara-pdf-2026-11-24#1496",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "azeite-extra-virgem__o-live__400ml",
@@ -9476,7 +13107,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1336",
+  "id": "guanabara-pdf-2026-11-24#1497",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "azeite-extra-virgem__andorinha-selecao__500ml",
@@ -9498,7 +13129,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1337",
+  "id": "guanabara-pdf-2026-11-24#1498",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "passata__tutto__680g",
@@ -9520,7 +13151,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1338",
+  "id": "guanabara-pdf-2026-11-24#1499",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "passata__suprema__680g",
@@ -9542,7 +13173,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1339",
+  "id": "guanabara-pdf-2026-11-24#1500",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "passata__ottima__680g",
@@ -9564,7 +13195,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1340",
+  "id": "guanabara-pdf-2026-11-24#1501",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "maionese__pramesa__500g",
@@ -9586,7 +13217,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1341",
+  "id": "guanabara-pdf-2026-11-24#1502",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "maionese-light__hellmanns__500g",
@@ -9608,7 +13239,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1342",
+  "id": "guanabara-pdf-2026-11-24#1503",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "maionese__hemmer__930g",
@@ -9631,7 +13262,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1343",
+  "id": "guanabara-pdf-2026-11-24#1504",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "ketchup__hemmer__1000g",
@@ -9654,7 +13285,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1344",
+  "id": "guanabara-pdf-2026-11-24#1505",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "mostarda-amarela__hemmer__700g",
@@ -9677,7 +13308,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1345",
+  "id": "guanabara-pdf-2026-11-24#1506",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "maionese__pramesa__200g",
@@ -9699,7 +13330,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1346",
+  "id": "guanabara-pdf-2026-11-24#1507",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "molho-tomate__hemmer__300g",
@@ -9721,7 +13352,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1347",
+  "id": "guanabara-pdf-2026-11-24#1508",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "molho-tomate__predilecta__300g",
@@ -9743,7 +13374,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1348",
+  "id": "guanabara-pdf-2026-11-24#1509",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "molho-tomate-saborizado__pramesa__300g",
@@ -9765,7 +13396,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1349",
+  "id": "guanabara-pdf-2026-11-24#1510",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "molho-tomate__heinz__240g",
@@ -9787,7 +13418,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1350",
+  "id": "guanabara-pdf-2026-11-24#1511",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "doce-leite__san-ignacio__450g",
@@ -9809,7 +13440,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1351",
+  "id": "guanabara-pdf-2026-11-24#1512",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "ketchup__hellmanns__380g",
@@ -9831,7 +13462,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1352",
+  "id": "guanabara-pdf-2026-11-24#1513",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "mostarda__hellmanns__170g",
@@ -9853,7 +13484,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1353",
+  "id": "guanabara-pdf-2026-11-24#1514",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "caldo__maggi__57g",
@@ -9875,7 +13506,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1354",
+  "id": "guanabara-pdf-2026-11-24#1515",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "tempero-meu-segredo__maggi__49g",
@@ -9897,7 +13528,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1355",
+  "id": "guanabara-pdf-2026-11-24#1516",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "tempero-mais-sabor__kitano__60g",
@@ -9919,7 +13550,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1356",
+  "id": "guanabara-pdf-2026-11-24#1517",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "creme-cebola__maggi__68g",
@@ -9942,7 +13573,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1357",
+  "id": "guanabara-pdf-2026-11-24#1518",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "azeitona-gordal__pramesa__400g",
@@ -9964,7 +13595,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1358",
+  "id": "guanabara-pdf-2026-11-24#1519",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "azeitona-verde-inteira__pramesa__150g",
@@ -9987,7 +13618,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1359",
+  "id": "guanabara-pdf-2026-11-24#1520",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "azeitona-verde-fatiada__pramesa__120g",
@@ -10009,7 +13640,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1360",
+  "id": "guanabara-pdf-2026-11-24#1521",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "salsicha__bordon__180g",
@@ -10031,7 +13662,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1361",
+  "id": "guanabara-pdf-2026-11-24#1522",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "milho-verde-ervilha__pramesa__170g",
@@ -10053,7 +13684,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1362",
+  "id": "guanabara-pdf-2026-11-24#1523",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "pate-atum__gomes-da-costa__170g",
@@ -10075,7 +13706,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1363",
+  "id": "guanabara-pdf-2026-11-24#1524",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "atum-ralado-natural__88__140g",
@@ -10097,7 +13728,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1364",
+  "id": "guanabara-pdf-2026-11-24#1525",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "atum-ralado__gomes-da-costa__170g",
@@ -10119,7 +13750,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1365",
+  "id": "guanabara-pdf-2026-11-24#1526",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "mortadela-ouro__perdigao__1000g",
@@ -10141,7 +13772,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1366",
+  "id": "guanabara-pdf-2026-11-24#1527",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "presunto-cozido__perdigao__1000g",
@@ -10163,7 +13794,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1367",
+  "id": "guanabara-pdf-2026-11-24#1528",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "mortadela-defumada__sadia__1000g",
@@ -10185,7 +13816,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1368",
+  "id": "guanabara-pdf-2026-11-24#1529",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "peito-frango-defumado__sadia__1000g",
@@ -10208,7 +13839,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1369",
+  "id": "guanabara-pdf-2026-11-24#1530",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "salsicha-hot-dog__sadia__1000g",
@@ -10230,7 +13861,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1370",
+  "id": "guanabara-pdf-2026-11-24#1531",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "salsicha-hot-dog__perdigao__1000g",
@@ -10252,7 +13883,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1371",
+  "id": "guanabara-pdf-2026-11-24#1532",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "queijo-prato-bola__basel__1000g",
@@ -10274,7 +13905,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1372",
+  "id": "guanabara-pdf-2026-11-24#1533",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "salame-italiano-fatiado__sadia__100g",
@@ -10296,7 +13927,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1373",
+  "id": "guanabara-pdf-2026-11-24#1534",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "margarina__claybom__500g",
@@ -10318,7 +13949,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1374",
+  "id": "guanabara-pdf-2026-11-24#1535",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "queijo-frescal__minas-bom__1000g",
@@ -10340,7 +13971,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1375",
+  "id": "guanabara-pdf-2026-11-24#1536",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "queijo-minas-frescal__barao__1000g",
@@ -10362,7 +13993,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1376",
+  "id": "guanabara-pdf-2026-11-24#1537",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "queijo-prato-mucarela__tirolez__150g",
@@ -10384,7 +14015,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1377",
+  "id": "guanabara-pdf-2026-11-24#1538",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "queijo-brie__quata__125g",
@@ -10406,7 +14037,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1378",
+  "id": "guanabara-pdf-2026-11-24#1539",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "sorvete__lacta__1500ml",
@@ -10428,7 +14059,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1379",
+  "id": "guanabara-pdf-2026-11-24#1540",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "petit-suisse__danoninho__320g",
@@ -10450,7 +14081,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1380",
+  "id": "guanabara-pdf-2026-11-24#1541",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "requeijao__danone__200g",
@@ -10472,7 +14103,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1381",
+  "id": "guanabara-pdf-2026-11-24#1542",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "creme-ricota__president__200g",
@@ -10494,7 +14125,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1382",
+  "id": "guanabara-pdf-2026-11-24#1543",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "queijo-parmesao-ralado__galbani__50g",
@@ -10516,7 +14147,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1383",
+  "id": "guanabara-pdf-2026-11-24#1544",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "massa-pastel__ingrid__400g",
@@ -10538,7 +14169,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1384",
+  "id": "guanabara-pdf-2026-11-24#1545",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "batata-palito__easychef__2000g",
@@ -10560,7 +14191,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1385",
+  "id": "guanabara-pdf-2026-11-24#1546",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "batata-palito-prime__sem-marca__2000g",
@@ -10582,7 +14213,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1386",
+  "id": "guanabara-pdf-2026-11-24#1547",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "batata-palito-air__mccain__600g",
@@ -10604,7 +14235,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1387",
+  "id": "guanabara-pdf-2026-11-24#1548",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "batata-palito__bobs__1050g",
@@ -10633,7 +14264,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1388",
+  "id": "guanabara-pdf-2026-11-24#1549",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "batata-palito__campo-e-sabor__1500g",
@@ -10655,7 +14286,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1389",
+  "id": "guanabara-pdf-2026-11-24#1550",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "salsicha__sadia__3000g",
@@ -10678,7 +14309,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1390",
+  "id": "guanabara-pdf-2026-11-24#1551",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "tirinhas-frango__perdigao__1000g",
@@ -10700,7 +14331,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1391",
+  "id": "guanabara-pdf-2026-11-24#1552",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "mini-chicken__perdigao__1000g",
@@ -10722,7 +14353,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1392",
+  "id": "guanabara-pdf-2026-11-24#1553",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "nhoque-batata__tutto__500g",
@@ -10744,7 +14375,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1393",
+  "id": "guanabara-pdf-2026-11-24#1554",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "mini-lasanha__sadia__350g",
@@ -10766,7 +14397,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1394",
+  "id": "guanabara-pdf-2026-11-24#1555",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "iscas-frango__sadia__300g",
@@ -10788,7 +14419,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1395",
+  "id": "guanabara-pdf-2026-11-24#1556",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "meu-menu__perdigao__300g",
@@ -10810,7 +14441,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1396",
+  "id": "guanabara-pdf-2026-11-24#1557",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "bolinho-bacalhau__riberalves__300g",
@@ -10832,7 +14463,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1397",
+  "id": "guanabara-pdf-2026-11-24#1558",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "bolinho-bacalhau__saboreah__600g",
@@ -10854,7 +14485,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1398",
+  "id": "guanabara-pdf-2026-11-24#1559",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "steak-frango__lar__100g",
@@ -10876,7 +14507,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1399",
+  "id": "guanabara-pdf-2026-11-24#1560",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "waffle__waaw__210g",
@@ -10898,7 +14529,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1400",
+  "id": "guanabara-pdf-2026-11-24#1561",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "pao-queijo__forno-de-minas__400g",
@@ -10921,7 +14552,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1401",
+  "id": "guanabara-pdf-2026-11-24#1562",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "pao-queijo__sao-geraldo__800g",
@@ -10943,7 +14574,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1402",
+  "id": "guanabara-pdf-2026-11-24#1563",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "alho__easychef__1100g",
@@ -10965,7 +14596,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1403",
+  "id": "guanabara-pdf-2026-11-24#1564",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "morango__easychef__1100g",
@@ -10987,7 +14618,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1404",
+  "id": "guanabara-pdf-2026-11-24#1565",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "file-peito-frango__seara__1000g",
@@ -11009,7 +14640,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1405",
+  "id": "guanabara-pdf-2026-11-24#1566",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "filezinho-peito-frango__seara__1000g",
@@ -11031,7 +14662,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1406",
+  "id": "guanabara-pdf-2026-11-24#1567",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "filezinho-peito-frango__sadia__1000g",
@@ -11053,7 +14684,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1407",
+  "id": "guanabara-pdf-2026-11-24#1568",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "file-peito-frango__sadia__1000g",
@@ -11075,7 +14706,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1408",
+  "id": "guanabara-pdf-2026-11-24#1569",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "peito-frango__lar__1000g",
@@ -11097,7 +14728,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1409",
+  "id": "guanabara-pdf-2026-11-24#1570",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "picanha-fatiada__bordon__1000g",
@@ -11119,7 +14750,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1410",
+  "id": "guanabara-pdf-2026-11-24#1571",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "picanha__friboi__1000g",
@@ -11141,7 +14772,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1411",
+  "id": "guanabara-pdf-2026-11-24#1572",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "picanha__maturatta__1000g",
@@ -11163,7 +14794,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1412",
+  "id": "guanabara-pdf-2026-11-24#1573",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "coracao-alcatra__maturatta__1000g",
@@ -11185,7 +14816,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1413",
+  "id": "guanabara-pdf-2026-11-24#1574",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "coracao-brasa__perdigao__500g",
@@ -11207,7 +14838,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1414",
+  "id": "guanabara-pdf-2026-11-24#1575",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "peito-frango-osso__guibon__1000g",
@@ -11229,7 +14860,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1415",
+  "id": "guanabara-pdf-2026-11-24#1576",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "frango-passarinho__seara__1000g",
@@ -11251,7 +14882,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1416",
+  "id": "guanabara-pdf-2026-11-24#1577",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "sobrecoxa-frango__levida__1000g",
@@ -11273,7 +14904,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1417",
+  "id": "guanabara-pdf-2026-11-24#1578",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "coxa-sobrecoxa-frango__lar__1000g",
@@ -11295,7 +14926,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1418",
+  "id": "guanabara-pdf-2026-11-24#1579",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "moida__friboi__500g",
@@ -11317,7 +14948,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1419",
+  "id": "guanabara-pdf-2026-11-24#1580",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "coxinhas-asa-frango__copacol__1000g",
@@ -11339,7 +14970,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1420",
+  "id": "guanabara-pdf-2026-11-24#1581",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "coxa-sobrecoxa-frango__sem-marca__1000g",
@@ -11361,7 +14992,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1421",
+  "id": "guanabara-pdf-2026-11-24#1582",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "file-coxa-sobrecoxa__rivelli__1000g",
@@ -11383,7 +15014,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1422",
+  "id": "guanabara-pdf-2026-11-24#1583",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "bisteca-suina__seara__1000g",
@@ -11405,7 +15036,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1423",
+  "id": "guanabara-pdf-2026-11-24#1584",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "linguica-pernil__perdigao__1000g",
@@ -11427,7 +15058,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1424",
+  "id": "guanabara-pdf-2026-11-24#1585",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "linguica-suina__seara__1000g",
@@ -11449,7 +15080,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1425",
+  "id": "guanabara-pdf-2026-11-24#1586",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "sobrecoxa-frango-assa__perdigao__1200g",
@@ -11471,7 +15102,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1426",
+  "id": "guanabara-pdf-2026-11-24#1587",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "file-salmao__buona-pesca__1000g",
@@ -11493,7 +15124,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1427",
+  "id": "guanabara-pdf-2026-11-24#1588",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "file-polaca__dhfish__500g",
@@ -11515,7 +15146,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1428",
+  "id": "guanabara-pdf-2026-11-24#1589",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "file-polaca__do-chef__500g",
@@ -11537,7 +15168,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1429",
+  "id": "guanabara-pdf-2026-11-24#1590",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "file-polaca__planalto__500g",
@@ -11559,7 +15190,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1430",
+  "id": "guanabara-pdf-2026-11-24#1591",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "ovos-vermelhos__casbri__20un",
@@ -11581,7 +15212,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1431",
+  "id": "guanabara-pdf-2026-11-24#1592",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "ovos-brancos__sem-marca__20un",
@@ -11603,7 +15234,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1432",
+  "id": "guanabara-pdf-2026-11-24#1593",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "farinha-lactea__nestle__210g",
@@ -11626,7 +15257,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1433",
+  "id": "guanabara-pdf-2026-11-24#1594",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "cereal-neston-cereais__nestle__210g",
@@ -11648,7 +15279,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1434",
+  "id": "guanabara-pdf-2026-11-24#1595",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "biscoito-recheado-maltado__piraque__85g",
@@ -11670,7 +15301,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1435",
+  "id": "guanabara-pdf-2026-11-24#1596",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "biscoito-wafer__minueto__81g",
@@ -11699,7 +15330,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1436",
+  "id": "guanabara-pdf-2026-11-24#1597",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "biscoito-recheado__oreo__270g",
@@ -11722,7 +15353,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1437",
+  "id": "guanabara-pdf-2026-11-24#1598",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "biscoito-recheado__piraque__160g",
@@ -11744,7 +15375,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1438",
+  "id": "guanabara-pdf-2026-11-24#1599",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "biscoito-cookies__piraque__80g",
@@ -11766,7 +15397,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1439",
+  "id": "guanabara-pdf-2026-11-24#1600",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "biscoito-wafer__piraque__100g",
@@ -11788,7 +15419,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1440",
+  "id": "guanabara-pdf-2026-11-24#1601",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "biscoito-cookies__bauducco__96g",
@@ -11810,7 +15441,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1441",
+  "id": "guanabara-pdf-2026-11-24#1602",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "batata__pringles__104g",
@@ -11833,7 +15464,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1442",
+  "id": "guanabara-pdf-2026-11-24#1603",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "bombons-sortidos__garoto__220g",
@@ -11855,7 +15486,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1443",
+  "id": "guanabara-pdf-2026-11-24#1604",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "bombons-especialidades__nestle__220g",
@@ -11877,7 +15508,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1444",
+  "id": "guanabara-pdf-2026-11-24#1605",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "chocolate__garoto__80g",
@@ -11900,7 +15531,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1445",
+  "id": "guanabara-pdf-2026-11-24#1606",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "biscoito-palito-grissini__granforno__125g",
@@ -11929,7 +15560,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1446",
+  "id": "guanabara-pdf-2026-11-24#1607",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "batata-palha__yoki__100g",
@@ -11952,7 +15583,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1447",
+  "id": "guanabara-pdf-2026-11-24#1608",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "farinha-trigo__boa-sorte__1000g",
@@ -11974,7 +15605,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1448",
+  "id": "guanabara-pdf-2026-11-24#1609",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "farinha-trigo-especial__globo__1000g",
@@ -11996,7 +15627,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1449",
+  "id": "guanabara-pdf-2026-11-24#1610",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "achocolatado-liquido__nescau__180ml",
@@ -12019,7 +15650,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1450",
+  "id": "guanabara-pdf-2026-11-24#1611",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "pao-forma__bauducco__390g",
@@ -12041,7 +15672,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1451",
+  "id": "guanabara-pdf-2026-11-24#1612",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "pao-forma__seven-boys__450g",
@@ -12063,7 +15694,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1452",
+  "id": "guanabara-pdf-2026-11-24#1613",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "pao-forma__visconti__400g",
@@ -12085,7 +15716,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1453",
+  "id": "guanabara-pdf-2026-11-24#1614",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "bisnaguinha__visconti__240g",
@@ -12107,7 +15738,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1454",
+  "id": "guanabara-pdf-2026-11-24#1615",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "bisnaguinha__seven-boys__300g",
@@ -12129,7 +15760,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1455",
+  "id": "guanabara-pdf-2026-11-24#1616",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "cereal-infantil__mucilon__180g",
@@ -12152,7 +15783,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1456",
+  "id": "guanabara-pdf-2026-11-24#1617",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "bolinho-laranja__seven-boys__30g",
@@ -12174,7 +15805,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1457",
+  "id": "guanabara-pdf-2026-11-24#1618",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "bolinho__ana-maria__70g",
@@ -12196,7 +15827,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1458",
+  "id": "guanabara-pdf-2026-11-24#1619",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "massa-aldente__piraque__400g",
@@ -12218,7 +15849,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1459",
+  "id": "guanabara-pdf-2026-11-24#1620",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "massa-semola__dona-benta__500g",
@@ -12240,7 +15871,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1460",
+  "id": "guanabara-pdf-2026-11-24#1621",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "espaguete__galo__1000g",
@@ -12262,7 +15893,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1461",
+  "id": "guanabara-pdf-2026-11-24#1622",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "concentrado-guarana__guaraplus__1000ml",
@@ -12284,7 +15915,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1462",
+  "id": "guanabara-pdf-2026-11-24#1623",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "refresco-pronto__dafruta__1000ml",
@@ -12306,7 +15937,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1463",
+  "id": "guanabara-pdf-2026-11-24#1624",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "refrigerante-guarana__antarctica__2250ml",
@@ -12329,7 +15960,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1464",
+  "id": "guanabara-pdf-2026-11-24#1625",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "refrigerante__pepsi__2250ml",
@@ -12352,7 +15983,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1465",
+  "id": "guanabara-pdf-2026-11-24#1626",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "suco-uva__tradicao-do-sul__1350ml",
@@ -12374,7 +16005,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1466",
+  "id": "guanabara-pdf-2026-11-24#1627",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "suco-uva__alma-do-sul__1350ml",
@@ -12396,7 +16027,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1467",
+  "id": "guanabara-pdf-2026-11-24#1628",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "suco-uva__serra-do-vinhedo__1000ml",
@@ -12418,7 +16049,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1468",
+  "id": "guanabara-pdf-2026-11-24#1629",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "refresco-po__frisco__18g",
@@ -12440,7 +16071,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1469",
+  "id": "guanabara-pdf-2026-11-24#1630",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "cha-ice-tea__lipton__1500ml",
@@ -12462,7 +16093,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1470",
+  "id": "guanabara-pdf-2026-11-24#1631",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "bebida-levemente-gaseificada__h2oh__1500ml",
@@ -12484,7 +16115,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1471",
+  "id": "guanabara-pdf-2026-11-24#1632",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "refresco__guaraplus__290ml",
@@ -12506,7 +16137,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1472",
+  "id": "guanabara-pdf-2026-11-24#1633",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "cha__lipton__340ml",
@@ -12528,7 +16159,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1473",
+  "id": "guanabara-pdf-2026-11-24#1634",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "bebida-fruit-shoot__maguary__150ml",
@@ -12550,7 +16181,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1474",
+  "id": "guanabara-pdf-2026-11-24#1635",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "cerveja__brahma__269ml",
@@ -12572,7 +16203,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1475",
+  "id": "guanabara-pdf-2026-11-24#1636",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "cerveja__antarctica__269ml",
@@ -12594,7 +16225,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1476",
+  "id": "guanabara-pdf-2026-11-24#1637",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "cerveja__spaten__269ml",
@@ -12616,7 +16247,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1477",
+  "id": "guanabara-pdf-2026-11-24#1638",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "cerveja-zero__brahma__473ml",
@@ -12638,7 +16269,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1478",
+  "id": "guanabara-pdf-2026-11-24#1639",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "cerveja__original__5676ml",
@@ -12661,7 +16292,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1479",
+  "id": "guanabara-pdf-2026-11-24#1640",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "cerveja__corona__473ml",
@@ -12683,7 +16314,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1480",
+  "id": "guanabara-pdf-2026-11-24#1641",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "cerveja__stella-artois__330ml",
@@ -12705,7 +16336,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1481",
+  "id": "guanabara-pdf-2026-11-24#1642",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "cerveja-long-neck__corona__330ml",
@@ -12727,7 +16358,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1482",
+  "id": "guanabara-pdf-2026-11-24#1643",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "cerveja-long-neck__michelob-ultra__330ml",
@@ -12749,7 +16380,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1483",
+  "id": "guanabara-pdf-2026-11-24#1644",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "vodka-ice__smirnoff__275ml",
@@ -12771,7 +16402,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1484",
+  "id": "guanabara-pdf-2026-11-24#1645",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "vodka-ice__smirnoff__269ml",
@@ -12793,7 +16424,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1485",
+  "id": "guanabara-pdf-2026-11-24#1646",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "gin-london-dry__tanqueray__375ml",
@@ -12815,7 +16446,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1486",
+  "id": "guanabara-pdf-2026-11-24#1647",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "gin__gordons__750ml",
@@ -12838,7 +16469,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1487",
+  "id": "guanabara-pdf-2026-11-24#1648",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "vodka__smirnoff__600ml",
@@ -12860,7 +16491,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1488",
+  "id": "guanabara-pdf-2026-11-24#1649",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "aperitivo__aperol__750ml",
@@ -12882,7 +16513,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1489",
+  "id": "guanabara-pdf-2026-11-24#1650",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "energetico__red-bull__473ml",
@@ -12904,7 +16535,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1490",
+  "id": "guanabara-pdf-2026-11-24#1651",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "espumante-italiano-brut__la-marchesina__750ml",
@@ -12926,7 +16557,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1491",
+  "id": "guanabara-pdf-2026-11-24#1652",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "espumante__mumm__750ml",
@@ -12948,7 +16579,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1492",
+  "id": "guanabara-pdf-2026-11-24#1653",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "whisky__jack-daniels__1000ml",
@@ -12970,7 +16601,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1493",
+  "id": "guanabara-pdf-2026-11-24#1654",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "whisky-red-label__johnnie-walker__500ml",
@@ -12992,7 +16623,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1494",
+  "id": "guanabara-pdf-2026-11-24#1655",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "whisky-black-label__johnnie-walker__500ml",
@@ -13014,7 +16645,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1495",
+  "id": "guanabara-pdf-2026-11-24#1656",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "whisky-gold-label__johnnie-walker__750ml",
@@ -13036,7 +16667,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1496",
+  "id": "guanabara-pdf-2026-11-24#1657",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "whisky-anos__old-parr__1000ml",
@@ -13058,7 +16689,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1497",
+  "id": "guanabara-pdf-2026-11-24#1658",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "whisky-finest__ballantines__750ml",
@@ -13080,7 +16711,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1498",
+  "id": "guanabara-pdf-2026-11-24#1659",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "lava-roupas-liquido__tixan-ype__3000ml",
@@ -13102,7 +16733,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1499",
+  "id": "guanabara-pdf-2026-11-24#1660",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "lava-roupas-liquido__suprema__5000ml",
@@ -13124,7 +16755,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1500",
+  "id": "guanabara-pdf-2026-11-24#1661",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "lava-roupas-liquido__coala__3000ml",
@@ -13146,7 +16777,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1501",
+  "id": "guanabara-pdf-2026-11-24#1662",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "tira-manchas__calisul__500g",
@@ -13168,7 +16799,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1502",
+  "id": "guanabara-pdf-2026-11-24#1663",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "alvejante__vanish__500ml",
@@ -13190,7 +16821,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1503",
+  "id": "guanabara-pdf-2026-11-24#1664",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "lava-roupas__ola__500ml",
@@ -13212,7 +16843,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1504",
+  "id": "guanabara-pdf-2026-11-24#1665",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "lava-roupas-liquido__uau__1700ml",
@@ -13234,7 +16865,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1505",
+  "id": "guanabara-pdf-2026-11-24#1666",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "lava-roupas__ares__5000ml",
@@ -13256,7 +16887,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1506",
+  "id": "guanabara-pdf-2026-11-24#1667",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "limpador-multiuso__tudo__500ml",
@@ -13278,7 +16909,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1507",
+  "id": "guanabara-pdf-2026-11-24#1668",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "limpador-multiuso__uau__500ml",
@@ -13300,7 +16931,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1508",
+  "id": "guanabara-pdf-2026-11-24#1669",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "limpador-perfumado__uau__1800ml",
@@ -13322,7 +16953,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1509",
+  "id": "guanabara-pdf-2026-11-24#1670",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "limpador-perfumes-natureza__veja__1000ml",
@@ -13344,7 +16975,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1510",
+  "id": "guanabara-pdf-2026-11-24#1671",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "limpador__casa-perfume__500ml",
@@ -13366,7 +16997,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1511",
+  "id": "guanabara-pdf-2026-11-24#1672",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "limpador-perfumado__casaflor__500ml",
@@ -13388,7 +17019,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1512",
+  "id": "guanabara-pdf-2026-11-24#1673",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "limpador-perfumado__zulu__500ml",
@@ -13410,7 +17041,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1513",
+  "id": "guanabara-pdf-2026-11-24#1674",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "desinfetante-pinho__uau__500ml",
@@ -13432,7 +17063,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1514",
+  "id": "guanabara-pdf-2026-11-24#1675",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "agua-sanitaria__vex__2000ml",
@@ -13454,7 +17085,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1515",
+  "id": "guanabara-pdf-2026-11-24#1676",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "desinfetante__urca__2000ml",
@@ -13476,7 +17107,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1516",
+  "id": "guanabara-pdf-2026-11-24#1677",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "limpador-gel__inspira__500ml",
@@ -13498,7 +17129,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1517",
+  "id": "guanabara-pdf-2026-11-24#1678",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "lustra-moveis__uau__200ml",
@@ -13520,7 +17151,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1518",
+  "id": "guanabara-pdf-2026-11-24#1679",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "detergente__odd__500ml",
@@ -13542,7 +17173,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1519",
+  "id": "guanabara-pdf-2026-11-24#1680",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "inseticida__pro-inset__350ml",
@@ -13564,7 +17195,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1520",
+  "id": "guanabara-pdf-2026-11-24#1681",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "repelente-mosquito__vazza__200ml",
@@ -13587,7 +17218,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1521",
+  "id": "guanabara-pdf-2026-11-24#1682",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "shampoo-condicionador__ox__375ml",
@@ -13610,7 +17241,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1522",
+  "id": "guanabara-pdf-2026-11-24#1683",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "kit-shampoo-condicionador__pantene__sem-tamanho",
@@ -13630,7 +17261,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1523",
+  "id": "guanabara-pdf-2026-11-24#1684",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "kit-shampoo-condicionador__elseve__sem-tamanho",
@@ -13650,7 +17281,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1524",
+  "id": "guanabara-pdf-2026-11-24#1685",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "oleo-extraordinario__elseve__100ml",
@@ -13672,7 +17303,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1525",
+  "id": "guanabara-pdf-2026-11-24#1686",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "kit-shampoo-condicionador__kolene__sem-tamanho",
@@ -13691,7 +17322,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1526",
+  "id": "guanabara-pdf-2026-11-24#1687",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "kit-shampoo-condicionador__skala__sem-tamanho",
@@ -13710,7 +17341,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1527",
+  "id": "guanabara-pdf-2026-11-24#1688",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "oleo-nutricao__ox__120ml",
@@ -13732,7 +17363,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1528",
+  "id": "guanabara-pdf-2026-11-24#1689",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "shampoo__ox__400ml",
@@ -13754,7 +17385,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1529",
+  "id": "guanabara-pdf-2026-11-24#1690",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "mascara-tratamento__ox__300g",
@@ -13776,7 +17407,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1530",
+  "id": "guanabara-pdf-2026-11-24#1691",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "serum-capilar__elseve__100ml",
@@ -13798,7 +17429,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1531",
+  "id": "guanabara-pdf-2026-11-24#1692",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "shampoo__elseve__400ml",
@@ -13821,7 +17452,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1532",
+  "id": "guanabara-pdf-2026-11-24#1693",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "creme-tratamento__elseve__300g",
@@ -13843,7 +17474,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1533",
+  "id": "guanabara-pdf-2026-11-24#1694",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "shampoo-condicionador__seda__300ml",
@@ -13866,7 +17497,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1534",
+  "id": "guanabara-pdf-2026-11-24#1695",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "agua-micelar__loreal-paris__200ml",
@@ -13888,7 +17519,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1535",
+  "id": "guanabara-pdf-2026-11-24#1696",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "mascara__siage__250g",
@@ -13911,7 +17542,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1536",
+  "id": "guanabara-pdf-2026-11-24#1697",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "shampoo__siage__250ml",
@@ -13935,7 +17566,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1537",
+  "id": "guanabara-pdf-2026-11-24#1698",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "kit-shampoo-condicionador__inoar__500ml",
@@ -13957,7 +17588,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1538",
+  "id": "guanabara-pdf-2026-11-24#1699",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "shampoo-colageno__pantene__510ml",
@@ -13979,7 +17610,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1539",
+  "id": "guanabara-pdf-2026-11-24#1700",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "leave-in-bond__dove__50ml",
@@ -14001,7 +17632,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1540",
+  "id": "guanabara-pdf-2026-11-24#1701",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "shampoo__dove__350ml",
@@ -14023,7 +17654,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1541",
+  "id": "guanabara-pdf-2026-11-24#1702",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "oleo-bond-repair__dove__110ml",
@@ -14045,7 +17676,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1542",
+  "id": "guanabara-pdf-2026-11-24#1703",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "shampoo__pantene__400ml",
@@ -14067,7 +17698,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1543",
+  "id": "guanabara-pdf-2026-11-24#1704",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "oleo-milagroso__pantene__95ml",
@@ -14089,7 +17720,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1544",
+  "id": "guanabara-pdf-2026-11-24#1705",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "kit-shampoo-condicionador__siage__250ml",
@@ -14112,7 +17743,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1545",
+  "id": "guanabara-pdf-2026-11-24#1706",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "kit-shampoo-creme__yamasterol__320ml",
@@ -14134,7 +17765,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1546",
+  "id": "guanabara-pdf-2026-11-24#1707",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "kit-shampoo-condicionador__cadiveu__250ml",
@@ -14156,7 +17787,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1547",
+  "id": "guanabara-pdf-2026-11-24#1708",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "creme-tratamento-pentear__skafe__1000g",
@@ -14178,7 +17809,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1548",
+  "id": "guanabara-pdf-2026-11-24#1709",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "creme-tratamento__skala__1000g",
@@ -14200,7 +17831,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1549",
+  "id": "guanabara-pdf-2026-11-24#1710",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "shampoo-morte-subita__lola__250ml",
@@ -14222,7 +17853,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1550",
+  "id": "guanabara-pdf-2026-11-24#1711",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "spray-capilar-morte__lola__250ml",
@@ -14244,7 +17875,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1551",
+  "id": "guanabara-pdf-2026-11-24#1712",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "mascara-capilar-morte__lola__450g",
@@ -14266,7 +17897,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1552",
+  "id": "guanabara-pdf-2026-11-24#1713",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "coloracao__cor-ton__sem-tamanho",
@@ -14285,7 +17916,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1553",
+  "id": "guanabara-pdf-2026-11-24#1714",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "coloracao-imedia-excellence__loreal-paris__sem-tamanho",
@@ -14305,7 +17936,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1554",
+  "id": "guanabara-pdf-2026-11-24#1715",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "antisseptico-bucal__cepacol__500ml",
@@ -14328,7 +17959,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1555",
+  "id": "guanabara-pdf-2026-11-24#1716",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "antisseptico-bucal__oral-b__500ml",
@@ -14351,7 +17982,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1556",
+  "id": "guanabara-pdf-2026-11-24#1717",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "escova-dental-premier__colgate__sem-tamanho",
@@ -14370,7 +18001,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1557",
+  "id": "guanabara-pdf-2026-11-24#1718",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "escova-dental-classic__sem-marca__sem-tamanho",
@@ -14389,7 +18020,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1558",
+  "id": "guanabara-pdf-2026-11-24#1719",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "sabonete__nivea__85g",
@@ -14412,7 +18043,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1559",
+  "id": "guanabara-pdf-2026-11-24#1720",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "sabonete__dove__90g",
@@ -14434,7 +18065,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1560",
+  "id": "guanabara-pdf-2026-11-24#1721",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "sabonete__dove__6un",
@@ -14457,7 +18088,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1561",
+  "id": "guanabara-pdf-2026-11-24#1722",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "creme-dental-tripla__colgate__180g",
@@ -14479,7 +18110,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1562",
+  "id": "guanabara-pdf-2026-11-24#1723",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "creme-dental__oral-b__150g",
@@ -14501,7 +18132,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1563",
+  "id": "guanabara-pdf-2026-11-24#1724",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "creme-dental-mpa__colgate__120g",
@@ -14523,7 +18154,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1564",
+  "id": "guanabara-pdf-2026-11-24#1725",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "sabonete__albany__80g",
@@ -14545,7 +18176,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1565",
+  "id": "guanabara-pdf-2026-11-24#1726",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "sabonete-gelato__albany__80g",
@@ -14567,7 +18198,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1566",
+  "id": "guanabara-pdf-2026-11-24#1727",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "creme-dental__sensodyne__90g",
@@ -14589,7 +18220,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1567",
+  "id": "guanabara-pdf-2026-11-24#1728",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "creme-dental-tripla__sorriso__120g",
@@ -14611,7 +18242,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1568",
+  "id": "guanabara-pdf-2026-11-24#1729",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "sabonete__farnese__85g",
@@ -14633,7 +18264,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1569",
+  "id": "guanabara-pdf-2026-11-24#1730",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "sabonete__farnese__180g",
@@ -14655,7 +18286,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1570",
+  "id": "guanabara-pdf-2026-11-24#1731",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "sabonete-brasilidades-agua__francis__80g",
@@ -14677,7 +18308,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1571",
+  "id": "guanabara-pdf-2026-11-24#1732",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "sabonete-intenso__francis__80g",
@@ -14699,7 +18330,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1572",
+  "id": "guanabara-pdf-2026-11-24#1733",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "creme-dental-total__colgate__180g",
@@ -14721,7 +18352,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1573",
+  "id": "guanabara-pdf-2026-11-24#1734",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "sabonete__above__75g",
@@ -14743,7 +18374,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1574",
+  "id": "guanabara-pdf-2026-11-24#1735",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "body-splash__barbours__200ml",
@@ -14765,7 +18396,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1575",
+  "id": "guanabara-pdf-2026-11-24#1736",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "agua-micelar__nivea__200ml",
@@ -14787,7 +18418,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1576",
+  "id": "guanabara-pdf-2026-11-24#1737",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "sabonete-liquido-gel__nivea__140g",
@@ -14809,7 +18440,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1577",
+  "id": "guanabara-pdf-2026-11-24#1738",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "hidratante__monange__200ml",
@@ -14831,7 +18462,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1578",
+  "id": "guanabara-pdf-2026-11-24#1739",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "hidratante__paixao__200ml",
@@ -14853,7 +18484,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1579",
+  "id": "guanabara-pdf-2026-11-24#1740",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "sabonete-liquido__lux__200ml",
@@ -14875,7 +18506,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1580",
+  "id": "guanabara-pdf-2026-11-24#1741",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "sabonete-liquido__nivea__200ml",
@@ -14897,7 +18528,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1581",
+  "id": "guanabara-pdf-2026-11-24#1742",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "sabonete-liquido__coala__500ml",
@@ -14919,7 +18550,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1582",
+  "id": "guanabara-pdf-2026-11-24#1743",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "sabonete-liquido-oleo__nivea__200ml",
@@ -14941,7 +18572,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1583",
+  "id": "guanabara-pdf-2026-11-24#1744",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "sabonete-liquido__zarb__250ml",
@@ -14963,7 +18594,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1584",
+  "id": "guanabara-pdf-2026-11-24#1745",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "desodorante-roll-on__dove__50ml",
@@ -14985,7 +18616,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1585",
+  "id": "guanabara-pdf-2026-11-24#1746",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "desodorante-roll-on__nivea__50ml",
@@ -15007,7 +18638,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1586",
+  "id": "guanabara-pdf-2026-11-24#1747",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "desodorante-roll-on__dryon__85ml",
@@ -15029,7 +18660,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1587",
+  "id": "guanabara-pdf-2026-11-24#1748",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "desodorante-aerossol__rexona__150ml",
@@ -15052,7 +18683,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1588",
+  "id": "guanabara-pdf-2026-11-24#1749",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "desodorante-aerossol__nivea__150ml",
@@ -15075,7 +18706,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1589",
+  "id": "guanabara-pdf-2026-11-24#1750",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "absorvente__always__8un",
@@ -15097,7 +18728,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1590",
+  "id": "guanabara-pdf-2026-11-24#1751",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "absorvente-gel-noturno__intimus__8un",
@@ -15119,7 +18750,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1591",
+  "id": "guanabara-pdf-2026-11-24#1752",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "absorvente-gel-seca__intimus__8un",
@@ -15141,7 +18772,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1592",
+  "id": "guanabara-pdf-2026-11-24#1753",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "absorvente-active-suave__diana__16un",
@@ -15163,7 +18794,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1593",
+  "id": "guanabara-pdf-2026-11-24#1754",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "absorvente-noturno__diana__16un",
@@ -15185,7 +18816,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1594",
+  "id": "guanabara-pdf-2026-11-24#1755",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "shampoo-baby__johnsons__400ml",
@@ -15208,7 +18839,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1595",
+  "id": "guanabara-pdf-2026-11-24#1756",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "sabonete-liquido-glicerinado__granado__250ml",
@@ -15231,7 +18862,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1596",
+  "id": "guanabara-pdf-2026-11-24#1757",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "shampoo-extra-suave__huggies__200ml",
@@ -15254,7 +18885,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1597",
+  "id": "guanabara-pdf-2026-11-24#1758",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "sabonete__huggies__75g",
@@ -15277,7 +18908,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1598",
+  "id": "guanabara-pdf-2026-11-24#1759",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "sabonete-liquido__huggies__200ml",
@@ -15300,7 +18931,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1599",
+  "id": "guanabara-pdf-2026-11-24#1760",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "sabonete-liquido__bla-bla-bla__250ml",
@@ -15322,7 +18953,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1600",
+  "id": "guanabara-pdf-2026-11-24#1761",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "shampoo-talco-bebe__granado__sem-tamanho",
@@ -15349,7 +18980,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1601",
+  "id": "guanabara-pdf-2026-11-24#1762",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "shampoo-condicionador-creme__seda__300ml",
@@ -15378,7 +19009,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1602",
+  "id": "guanabara-pdf-2026-11-24#1763",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "sabonete__pompom__70g",
@@ -15400,7 +19031,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1603",
+  "id": "guanabara-pdf-2026-11-24#1764",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "shampoo__pompom__200ml",
@@ -15429,7 +19060,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1604",
+  "id": "guanabara-pdf-2026-11-24#1765",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "sabonete-baby__dove__75g",
@@ -15451,7 +19082,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1605",
+  "id": "guanabara-pdf-2026-11-24#1766",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "shampoo-baby__dove__200ml",
@@ -15473,7 +19104,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1606",
+  "id": "guanabara-pdf-2026-11-24#1767",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "shampoo-baby__dove__400ml",
@@ -15495,7 +19126,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1607",
+  "id": "guanabara-pdf-2026-11-24#1768",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "shampoo-cachinhos__kolene__300ml",
@@ -15517,7 +19148,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1608",
+  "id": "guanabara-pdf-2026-11-24#1769",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "gelatina-cachinhos__kolene__500g",
@@ -15539,7 +19170,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1609",
+  "id": "guanabara-pdf-2026-11-24#1770",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "shampoo-condicionador-creme__skafe__300ml",
@@ -15561,7 +19192,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1610",
+  "id": "guanabara-pdf-2026-11-24#1771",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "sabonete__flora-nenen__80g",
@@ -15583,7 +19214,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1611",
+  "id": "guanabara-pdf-2026-11-24#1772",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "sabonete-liquido__flora-nenen__250ml",
@@ -15612,7 +19243,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1612",
+  "id": "guanabara-pdf-2026-11-24#1773",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "shampoo-baby__baruel__400ml",
@@ -15634,7 +19265,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1613",
+  "id": "guanabara-pdf-2026-11-24#1774",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "sabonete-liquido-baby__baruel__400ml",
@@ -15656,7 +19287,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1614",
+  "id": "guanabara-pdf-2026-11-24#1775",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "kit-shampoo-condicionador__cheirinho-de-bebe__210ml",
@@ -15685,7 +19316,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1615",
+  "id": "guanabara-pdf-2026-11-24#1776",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "kit__bla-bla-bla__300ml",
@@ -15714,7 +19345,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1616",
+  "id": "guanabara-pdf-2026-11-24#1777",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "kit-shampoo-condicionador__tra-la-la__480ml",
@@ -15736,7 +19367,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1617",
+  "id": "guanabara-pdf-2026-11-24#1778",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "kit-shampoo-condicionador__palmolive__315ml",
@@ -15758,7 +19389,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1618",
+  "id": "guanabara-pdf-2026-11-24#1779",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "desodorante-roll-on__tra-la-la__65ml",
@@ -15780,7 +19411,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1619",
+  "id": "guanabara-pdf-2026-11-24#1780",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "hastes-flexiveis__topz__75un",
@@ -15809,7 +19440,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1620",
+  "id": "guanabara-pdf-2026-11-24#1781",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "enxaguante-bucal__carmed__250ml",
@@ -15832,7 +19463,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1621",
+  "id": "guanabara-pdf-2026-11-24#1782",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "gel-dental__carmed__70g",
@@ -15855,7 +19486,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1622",
+  "id": "guanabara-pdf-2026-11-24#1783",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "gel-dental-harry__colgate__100g",
@@ -15877,7 +19508,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1623",
+  "id": "guanabara-pdf-2026-11-24#1784",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "escova-dental-harry__colgate__4un",
@@ -15899,7 +19530,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1624",
+  "id": "guanabara-pdf-2026-11-24#1785",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "escova-dental-dr__sem-marca__sem-tamanho",
@@ -15918,7 +19549,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1625",
+  "id": "guanabara-pdf-2026-11-24#1786",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "toalhas-umedecidas__baby-limp__50un",
@@ -15947,7 +19578,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1626",
+  "id": "guanabara-pdf-2026-11-24#1787",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "toalhas-umedecidas-f__baby-limp__50un",
@@ -15970,7 +19601,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1627",
+  "id": "guanabara-pdf-2026-11-24#1788",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "toalhas-umedecidas__babysec__48un",
@@ -15993,7 +19624,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1628",
+  "id": "guanabara-pdf-2026-11-24#1789",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "toalhas-umedecidas__huggies__48un",
@@ -16016,7 +19647,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1629",
+  "id": "guanabara-pdf-2026-11-24#1790",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "creme-assaduras-amendoas__hipoglos__40g",
@@ -16038,7 +19669,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1630",
+  "id": "guanabara-pdf-2026-11-24#1791",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "creme-assaduras-regular__huggies__80g",
@@ -16062,7 +19693,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1631",
+  "id": "guanabara-pdf-2026-11-24#1792",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "creme-assaduras__lukinha__90g",
@@ -16086,7 +19717,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1632",
+  "id": "guanabara-pdf-2026-11-24#1793",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "fralda-confort-sec__pampers__70un",
@@ -16109,7 +19740,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1633",
+  "id": "guanabara-pdf-2026-11-24#1794",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "fralda-rapida-absorcao__huggies__sem-tamanho",
@@ -16129,7 +19760,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1634",
+  "id": "guanabara-pdf-2026-11-24#1795",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "fralda-baby-jumbo__turma-da-monica__sem-tamanho",
@@ -16150,7 +19781,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1635",
+  "id": "guanabara-pdf-2026-11-24#1796",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "fralda-premium-mega__babysec__sem-tamanho",
@@ -16170,7 +19801,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1636",
+  "id": "guanabara-pdf-2026-11-24#1797",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "fralda-premium-shortinho__babysec__sem-tamanho",
@@ -16190,7 +19821,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1637",
+  "id": "guanabara-pdf-2026-11-24#1798",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "fralda-maxima-protecao__huggies__sem-tamanho",
@@ -16210,7 +19841,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1638",
+  "id": "guanabara-pdf-2026-11-24#1799",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "fralda-looney-tunes__looping__sem-tamanho",
@@ -16230,7 +19861,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1639",
+  "id": "guanabara-pdf-2026-11-24#1800",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "fralda-ultra-sequinha__babysec__sem-tamanho",
@@ -16250,7 +19881,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1640",
+  "id": "guanabara-pdf-2026-11-24#1801",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "fralda-ultrasec-shortinho__babysec__sem-tamanho",
@@ -16270,7 +19901,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1641",
+  "id": "guanabara-pdf-2026-11-24#1802",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "fralda-looney-tunes__looping__sem-tamanho",
@@ -16290,7 +19921,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1642",
+  "id": "guanabara-pdf-2026-11-24#1803",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "amaciante-baby-care__ruth__1000ml",
@@ -16312,7 +19943,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1643",
+  "id": "guanabara-pdf-2026-11-24#1804",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "lava-roupas-liquido__ruth__1000ml",
@@ -16334,7 +19965,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1644",
+  "id": "guanabara-pdf-2026-11-24#1805",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "hamburguer-maturatta__friboi__180g",
@@ -16357,7 +19988,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1645",
+  "id": "guanabara-pdf-2026-11-24#1806",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "hamburguer-brasa__perdigao__150g",
@@ -16380,7 +20011,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1646",
+  "id": "guanabara-pdf-2026-11-24#1807",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "refrigerante__pepsi__200ml",
@@ -16405,7 +20036,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1647",
+  "id": "guanabara-pdf-2026-11-24#1808",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "refrigerante-guarana__antarctica__200ml",
@@ -16430,7 +20061,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1648",
+  "id": "guanabara-pdf-2026-11-24#1809",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "isotonico__gatorade__500ml",
@@ -16455,7 +20086,7 @@
   "revisado": false
  },
  {
-  "id": "guanabara-pdf-2026-11-24#1649",
+  "id": "guanabara-pdf-2026-11-24#1810",
   "mercado": "guanabara",
   "encarte": "guanabara-pdf-2026-11-24",
   "produto": "limpador-cloro-ativo__uau__500ml",
@@ -22940,7 +26571,7 @@
   "id": "mundial-site-2026-11-25#212",
   "mercado": "mundial",
   "encarte": "mundial-site-2026-11-25",
-  "produto": "pao-queijo-lanche__massa-leve__1000g",
+  "produto": "pao-queijo__massa-leve__1000g",
   "nome": "Pão de Queijo Lanche",
   "marca": "Massa Leve",
   "original": "Pão de Queijo MASSA LEVE Lanche Pacotão 1 kg",
@@ -32455,7 +36086,7 @@
   "id": "prezunic-encarte-8c6576b0-e267#835",
   "mercado": "prezunic",
   "encarte": "prezunic-encarte-8c6576b0-e267",
-  "produto": "carre-suino-pernil__seara__1000g",
+  "produto": "carre-suino__seara__1000g",
   "nome": "Carré Suíno Pernil",
   "marca": "Seara",
   "original": "CARRÉ SUÍNO OU PERNIL SEARA cong. kg",

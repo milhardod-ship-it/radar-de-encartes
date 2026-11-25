@@ -1,0 +1,329 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-25",
+ "itens": [
+  {
+   "nome": "Fralda Ultrasec",
+   "marcas": [
+    "Babysec"
+   ],
+   "tamanho": "pacote/tamanhos",
+   "preco": 42.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "preço cada pacote; tabela de preço por unidade por tamanho (XXG R$0,98, XG R$0,86, G R$0,80, M R$0,69)",
+   "duvida": "Tabela de quantidade por tamanho pequena, valores por unidade parcialmente legíveis"
+  },
+  {
+   "nome": "Fralda Descartável Giga Turma da Mônica",
+   "marcas": [
+    "Turma da Mônica"
+   ],
+   "tamanho": "pacote/tamanhos",
+   "preco": 43.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": "Marca inferida pela embalagem (Turma da Mônica); tabela por tamanho pequena"
+  },
+  {
+   "nome": "Fralda Descartável Máxima Proteção",
+   "marcas": [
+    "Huggies"
+   ],
+   "tamanho": "pacote/tamanhos",
+   "preco": 59.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Toalha Umedecida",
+   "marcas": [
+    "Puro Amor"
+   ],
+   "tamanho": "pacote com 40 unidades",
+   "preco": 2.29,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Lenços Umedecidos Tripla Proteção",
+   "marcas": [
+    "Huggies"
+   ],
+   "tamanho": "pacote com 88 unidades",
+   "preco": 7.49,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Shampoo Tipos",
+   "marcas": [
+    "Johnson's"
+   ],
+   "tamanho": "frasco 400ml",
+   "preco": 19.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Condicionador Regular Baby",
+   "marcas": [
+    "Johnsons"
+   ],
+   "tamanho": "frasco 400ml",
+   "preco": 24.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete Cheirinho de Bebê Fragrâncias",
+   "marcas": [],
+   "tamanho": "frasco 500ml",
+   "preco": 21.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": "Marca não legível"
+  },
+  {
+   "nome": "Sabonete Hidratante",
+   "marcas": [
+    "Pom Pom"
+   ],
+   "tamanho": "pack promocional 5x70g",
+   "preco": 14.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Composto Lácteo Primeira Infância 1 a 3 anos",
+   "marcas": [
+    "Ninho Nestlé"
+   ],
+   "tamanho": "lata 1,2kg",
+   "preco": 78.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Farinha Láctea",
+   "marcas": [
+    "Nestlé"
+   ],
+   "tamanho": "pacote 210g",
+   "preco": 6.79,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Mingau Tradicional Cremogema",
+   "marcas": [
+    "Mingau"
+   ],
+   "tamanho": "caixeta 380g",
+   "preco": 12.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": "Marca incerta"
+  },
+  {
+   "nome": "Neston 3 Cereais",
+   "marcas": [
+    "Nestlé"
+   ],
+   "tamanho": "lata",
+   "preco": 12.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": "Tamanho não legível"
+  },
+  {
+   "nome": "Cereal Infantil Mucilon Sabores",
+   "marcas": [
+    "Nestlé"
+   ],
+   "tamanho": "pacote 1kg",
+   "preco": 27.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Absorvente Gel com Abas Cobertura Seca ou Suave",
+   "marcas": [
+    "Intimus"
+   ],
+   "tamanho": "pacote com 42 unidades",
+   "preco": 12.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Desodorante em Creme Fragrâncias",
+   "marcas": [
+    "Herbíssimo"
+   ],
+   "tamanho": "embalagem 55g",
+   "preco": 8.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Desodorante Aerossol Fragrâncias",
+   "marcas": [
+    "Nivea"
+   ],
+   "tamanho": "frasco 200ml",
+   "preco": 12.49,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete Fragrâncias",
+   "marcas": [
+    "Johnson's"
+   ],
+   "tamanho": "embalagem 80g",
+   "preco": 1.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete Tipos",
+   "marcas": [
+    "Dove"
+   ],
+   "tamanho": "embalagem 4x90g",
+   "preco": 14.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Creme Dental Tipos",
+   "marcas": [
+    "Close Up"
+   ],
+   "tamanho": "caixeta 90g",
+   "preco": 4.69,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Shampoo Tipos",
+   "marcas": [
+    "Seda"
+   ],
+   "tamanho": "frasco 560ml",
+   "preco": 13.89,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Condicionador Tipos",
+   "marcas": [
+    "Seda"
+   ],
+   "tamanho": "frasco 560ml",
+   "preco": 13.89,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Kit Tipos Shampoo 300ml + Condicionador 300ml",
+   "marcas": [
+    "Novex"
+   ],
+   "tamanho": "",
+   "preco": 13.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Kit Tipos Shampoo 375ml + Condicionador 170ml",
+   "marcas": [
+    "OX"
+   ],
+   "tamanho": "",
+   "preco": 19.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Papel Higiênico Folha Dupla Familiar",
+   "marcas": [
+    "Familiar"
+   ],
+   "tamanho": "pacote leve 12 e pague 11 rolos de 30m",
+   "preco": 12.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "leve 12 e pague 11",
+   "duvida": null
+  }
+ ]
+}

@@ -1,0 +1,229 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-25",
+ "itens": [
+  {
+   "nome": "Laranja-Pera",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 2.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Abacate",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 3.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Maçãs",
+   "marcas": [
+    "Do Beni",
+    "Super K"
+   ],
+   "tamanho": "pacote 850g",
+   "preco": 4.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Manga-Palmer",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 3.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Melão Verde ou Amarelo",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 4.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Coco Seco",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 5.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Unidade do preço aparece como quilo, mas o produto costuma ser vendido por unidade; copiado como no encarte."
+  },
+  {
+   "nome": "Abacaxi",
+   "marcas": [],
+   "tamanho": "unidade",
+   "preco": 6.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Banana-Prata",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 5.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Maçã Nacional Fuji",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 7.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Mamão-Papaia",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 7.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Uva Crimson Benassi ou Uva Benitaka",
+   "marcas": [],
+   "tamanho": "bandeja 500g",
+   "preco": 6.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Ameixa",
+   "marcas": [],
+   "tamanho": "bandeja 500g",
+   "preco": 7.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Nozes com Casca",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 38.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Pepino Comum",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 2.95,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Chuchu",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 2.29,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Cenoura",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 2.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Batata-Doce Rosada",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 4.95,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Abobrinha Italiana",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 3.69,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Batata Monalisa Lavada",
+   "marcas": [],
+   "tamanho": "saco 10kg",
+   "preco": 49.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Alho a Granel",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 16.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "R$ 14,90 o kg a partir de 10kg",
+   "duvida": null
+  }
+ ]
+}

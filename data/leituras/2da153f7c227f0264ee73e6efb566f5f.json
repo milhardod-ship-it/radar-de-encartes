@@ -1,0 +1,267 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-25",
+ "itens": [
+  {
+   "nome": "Carne Bovina Moída Congelada",
+   "marcas": [
+    "Frimaster"
+   ],
+   "tamanho": "500g",
+   "preco": 13.5,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Picanha Bovina Fatiada Resfriada",
+   "marcas": [
+    "Bordon"
+   ],
+   "tamanho": "kg",
+   "preco": 48.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "preço por quilo na peça",
+   "duvida": null
+  },
+  {
+   "nome": "Frango a Passarinho Congelado",
+   "marcas": [
+    "Seara"
+   ],
+   "tamanho": "1kg",
+   "preco": 10.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Peito de Frango Sem Pele e Sem Osso Congelado",
+   "marcas": [
+    "Guibon"
+   ],
+   "tamanho": "kg",
+   "preco": 13.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "preço por quilo na peça",
+   "duvida": null
+  },
+  {
+   "nome": "Filé de Peito de Frango Congelado",
+   "marcas": [
+    "Aurora"
+   ],
+   "tamanho": "1kg",
+   "preco": 15.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Alcatra Suína Congelada a Vácuo",
+   "marcas": [
+    "Frimesa"
+   ],
+   "tamanho": "kg",
+   "preco": 19.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "preço por quilo na peça",
+   "duvida": null
+  },
+  {
+   "nome": "Costelinha Suína a Passarinho Congelada IQF",
+   "marcas": [
+    "Suinco"
+   ],
+   "tamanho": "1kg",
+   "preco": 14.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Filé de Polaca do Alasca Congelado",
+   "marcas": [
+    "Seara"
+   ],
+   "tamanho": "500g",
+   "preco": 17.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Postas de Tilápia Congeladas",
+   "marcas": [
+    "Copacol"
+   ],
+   "tamanho": "800g",
+   "preco": 17.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Peixe Salgado Polaca-do-Alasca Pedaços",
+   "marcas": [
+    "Se7e Mares"
+   ],
+   "tamanho": "500g",
+   "preco": 25.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Filé de Tilápia Congelado",
+   "marcas": [
+    "C.Vale"
+   ],
+   "tamanho": "800g",
+   "preco": 34.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Alho Inteiro Descascado",
+   "marcas": [
+    "Nutriz"
+   ],
+   "tamanho": "200g",
+   "preco": 13.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Mix de Legumes Clássico Congelado",
+   "marcas": [
+    "Grano"
+   ],
+   "tamanho": "1kg",
+   "preco": 16.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Pão de Queijo Massa Leve Tipos",
+   "marcas": [
+    "Massa Leve"
+   ],
+   "tamanho": "1kg",
+   "preco": 13.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Leite Fermentado Sabores",
+   "marcas": [
+    "Chamyto",
+    "Nestlé"
+   ],
+   "tamanho": "6x80g",
+   "preco": 4.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Manteiga com Sal",
+   "marcas": [
+    "Só Minas"
+   ],
+   "tamanho": "200g",
+   "preco": 8.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Requeijão Cremoso Tradicional ou Light",
+   "marcas": [
+    "Catupiry"
+   ],
+   "tamanho": "200g",
+   "preco": 7.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Queijo Tipo Minas Padrão ou Meia Cura",
+   "marcas": [
+    "Sertanorte"
+   ],
+   "tamanho": "kg",
+   "preco": 59.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "preço por quilo na peça",
+   "duvida": null
+  },
+  {
+   "nome": "Pão de Forma Integral ou 12 Grãos",
+   "marcas": [
+    "Seven Boys"
+   ],
+   "tamanho": "430g",
+   "preco": 5.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Waffle Tradicional Congelado",
+   "marcas": [
+    "Mr. Bey"
+   ],
+   "tamanho": "180g",
+   "preco": 7.49,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  }
+ ]
+}
