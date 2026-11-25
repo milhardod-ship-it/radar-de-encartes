@@ -1,0 +1,423 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-25",
+ "itens": [
+  {
+   "nome": "Água Mineral c/Gás PET",
+   "marcas": [
+    "Nestlé São Lourenço"
+   ],
+   "tamanho": "1,26 L",
+   "preco": 4.3,
+   "de": null,
+   "clube": 3.77,
+   "soClube": false,
+   "condicao": "Preço clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Água Mineral s/Gás PET",
+   "marcas": [
+    "Prata"
+   ],
+   "tamanho": "1,5 L",
+   "preco": 4.8,
+   "de": null,
+   "clube": 3.98,
+   "soClube": false,
+   "condicao": "Preço clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Água de Coco TP",
+   "marcas": [
+    "Sococo"
+   ],
+   "tamanho": "1 L",
+   "preco": 16.98,
+   "de": null,
+   "clube": 13.97,
+   "soClube": false,
+   "condicao": "Preço clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Refresco Trink Vários Sabores",
+   "marcas": [
+    "Parati"
+   ],
+   "tamanho": "15g",
+   "preco": 0.98,
+   "de": null,
+   "clube": 0.85,
+   "soClube": false,
+   "condicao": "Cada; preço clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Concentrado Líquido Caju",
+   "marcas": [
+    "Jandaia"
+   ],
+   "tamanho": "1 L",
+   "preco": 8.2,
+   "de": null,
+   "clube": 4.98,
+   "soClube": false,
+   "condicao": "Preço clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Néctar Vários Sabores TP",
+   "marcas": [
+    "Tial"
+   ],
+   "tamanho": "1 L",
+   "preco": 7.3,
+   "de": null,
+   "clube": 5.99,
+   "soClube": false,
+   "condicao": "Cada; preço clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Xarope Zero Açúcar Original",
+   "marcas": [
+    "Guaraplus"
+   ],
+   "tamanho": "1 L",
+   "preco": 6.9,
+   "de": null,
+   "clube": 5.5,
+   "soClube": false,
+   "condicao": "Preço clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Suco Vários Sabores",
+   "marcas": [
+    "Campo Largo"
+   ],
+   "tamanho": "900ml",
+   "preco": 13.5,
+   "de": null,
+   "clube": 9.95,
+   "soClube": false,
+   "condicao": "Cada; preço clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Suco de Uva",
+   "marcas": [
+    "Santa Fé"
+   ],
+   "tamanho": "1,35 L",
+   "preco": 21.5,
+   "de": null,
+   "clube": 19.8,
+   "soClube": false,
+   "condicao": "Cada; preço clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Suco de Tomate Integral",
+   "marcas": [
+    "Superbom"
+   ],
+   "tamanho": "1 L",
+   "preco": 27.5,
+   "de": null,
+   "clube": 25.98,
+   "soClube": false,
+   "condicao": "Cada; preço clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Chá Limão/Pêssego",
+   "marcas": [
+    "Lipton"
+   ],
+   "tamanho": "340ml",
+   "preco": 4.2,
+   "de": null,
+   "clube": 3.5,
+   "soClube": false,
+   "condicao": "Cada; preço clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Isotônico Vários Tipos",
+   "marcas": [
+    "Powerade"
+   ],
+   "tamanho": "500ml",
+   "preco": 5.5,
+   "de": null,
+   "clube": 3.98,
+   "soClube": false,
+   "condicao": "Cada; preço clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Energético Vários Tipos",
+   "marcas": [
+    "Red Bull"
+   ],
+   "tamanho": "355ml",
+   "preco": 14.69,
+   "de": null,
+   "clube": 9.95,
+   "soClube": false,
+   "condicao": "Cada; preço clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Cerveja Original Lata",
+   "marcas": [
+    "Antarctica"
+   ],
+   "tamanho": "269ml",
+   "preco": 3.49,
+   "de": null,
+   "clube": 2.49,
+   "soClube": false,
+   "condicao": "Preço clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Cerveja Pilsen",
+   "marcas": [
+    "Denker"
+   ],
+   "tamanho": "600ml",
+   "preco": 9.99,
+   "de": null,
+   "clube": 8.99,
+   "soClube": false,
+   "condicao": "Preço clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Cerveja Lata",
+   "marcas": [
+    "Heineken"
+   ],
+   "tamanho": "269ml",
+   "preco": 4.99,
+   "de": null,
+   "clube": 3.99,
+   "soClube": false,
+   "condicao": "Cada; preço clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Cerveja Lata",
+   "marcas": [
+    "Stella Artois"
+   ],
+   "tamanho": "350ml",
+   "preco": 5.59,
+   "de": null,
+   "clube": 3.99,
+   "soClube": false,
+   "condicao": "Cada; preço clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Cerveja Pure Gold Lata",
+   "marcas": [
+    "Stella Artois"
+   ],
+   "tamanho": "269ml",
+   "preco": 4.59,
+   "de": null,
+   "clube": 3.49,
+   "soClube": false,
+   "condicao": "Preço clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Cerveja Lager Long Neck",
+   "marcas": [
+    "Império"
+   ],
+   "tamanho": "275ml",
+   "preco": 3.99,
+   "de": null,
+   "clube": 3.29,
+   "soClube": false,
+   "condicao": "Preço clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Cerveja Ultra Long Neck",
+   "marcas": [
+    "Império"
+   ],
+   "tamanho": "275ml",
+   "preco": 4.49,
+   "de": null,
+   "clube": 3.99,
+   "soClube": false,
+   "condicao": "Preço clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Cerveja Gold Long Neck",
+   "marcas": [
+    "Império"
+   ],
+   "tamanho": "210ml",
+   "preco": 3.99,
+   "de": null,
+   "clube": 3.49,
+   "soClube": false,
+   "condicao": "Preço clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Cerveja Ultra Lata",
+   "marcas": [
+    "Petra"
+   ],
+   "tamanho": "269ml",
+   "preco": 3.69,
+   "de": null,
+   "clube": 2.99,
+   "soClube": false,
+   "condicao": "Preço clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Cerveja Estilos",
+   "marcas": [
+    "Hocus Pocus"
+   ],
+   "tamanho": "500ml",
+   "preco": 14.99,
+   "de": null,
+   "clube": 9.99,
+   "soClube": false,
+   "condicao": "Cada; preço clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Cerveja Interstellar/Magic Trap",
+   "marcas": [
+    "Hocus Pocus"
+   ],
+   "tamanho": "500ml",
+   "preco": 23.99,
+   "de": null,
+   "clube": 15.99,
+   "soClube": false,
+   "condicao": "Cada; preço clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Drink Ice Vários Tipos",
+   "marcas": [
+    "Kovak"
+   ],
+   "tamanho": "275ml",
+   "preco": 4.69,
+   "de": null,
+   "clube": 3.99,
+   "soClube": false,
+   "condicao": "Cada; preço clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Cachaça",
+   "marcas": [
+    "Fazenda Soledade"
+   ],
+   "tamanho": "750ml",
+   "preco": 54.9,
+   "de": null,
+   "clube": 44.9,
+   "soClube": false,
+   "condicao": "Preço clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Cachaça",
+   "marcas": [
+    "Sagatiba"
+   ],
+   "tamanho": "700ml",
+   "preco": 29.9,
+   "de": null,
+   "clube": 24.9,
+   "soClube": false,
+   "condicao": "Preço clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Gin",
+   "marcas": [
+    "Theros"
+   ],
+   "tamanho": "900ml",
+   "preco": 39.9,
+   "de": null,
+   "clube": 34.9,
+   "soClube": false,
+   "condicao": "Preço clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Gin Inglês",
+   "marcas": [
+    "Bombay Sapphire"
+   ],
+   "tamanho": "750ml",
+   "preco": 99.9,
+   "de": null,
+   "clube": 89.9,
+   "soClube": false,
+   "condicao": "Preço clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Vodka Tradicional",
+   "marcas": [
+    "Vorus",
+    "Kovak"
+   ],
+   "tamanho": "900ml/1 L",
+   "preco": 24.9,
+   "de": null,
+   "clube": 19.9,
+   "soClube": false,
+   "condicao": "Cada; preço clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Vodka Americana",
+   "marcas": [
+    "Skyy"
+   ],
+   "tamanho": "980ml",
+   "preco": 39.9,
+   "de": null,
+   "clube": 29.9,
+   "soClube": false,
+   "condicao": "Preço clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Whisky Americano Vários Tipos",
+   "marcas": [
+    "Jim Beam"
+   ],
+   "tamanho": "1 L",
+   "preco": 129.9,
+   "de": null,
+   "clube": 79.9,
+   "soClube": false,
+   "condicao": "Cada; preço clube: no app Mundial Total",
+   "duvida": null
+  }
+ ]
+}

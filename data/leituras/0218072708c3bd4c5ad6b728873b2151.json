@@ -1,0 +1,422 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-25",
+ "itens": [
+  {
+   "nome": "Escova Dental Infantil Ultramacia Harry Potter",
+   "marcas": [
+    "Colgate"
+   ],
+   "tamanho": "c/2 Unids.",
+   "preco": 21.98,
+   "de": null,
+   "clube": 18.99,
+   "soClube": false,
+   "condicao": "Clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Escova Dental Active Prevention/Limpeza Espumosa",
+   "marcas": [
+    "Colgate"
+   ],
+   "tamanho": "c/2 Unids.",
+   "preco": 22.89,
+   "de": null,
+   "clube": 19.99,
+   "soClube": false,
+   "condicao": "Clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Creme Dental Total Vários Tipos",
+   "marcas": [
+    "Colgate"
+   ],
+   "tamanho": "90g c/3 Unids.",
+   "preco": 25.39,
+   "de": null,
+   "clube": 22.99,
+   "soClube": false,
+   "condicao": "Clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Creme Dental Luminous White Vários Tipos",
+   "marcas": [
+    "Colgate"
+   ],
+   "tamanho": "70g",
+   "preco": 11.89,
+   "de": null,
+   "clube": 9.99,
+   "soClube": false,
+   "condicao": "Clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Creme Dental Infantil Harry Potter",
+   "marcas": [
+    "Colgate"
+   ],
+   "tamanho": "100g",
+   "preco": 18.49,
+   "de": null,
+   "clube": 14.99,
+   "soClube": false,
+   "condicao": "Clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Enxaguante Bucal Vários Tipos",
+   "marcas": [
+    "Colgate"
+   ],
+   "tamanho": "250ml",
+   "preco": 16.98,
+   "de": null,
+   "clube": 14.99,
+   "soClube": false,
+   "condicao": "Clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Enxaguante Bucal Vários Tipos",
+   "marcas": [
+    "Listerine"
+   ],
+   "tamanho": "500ml",
+   "preco": 20.98,
+   "de": null,
+   "clube": 18.98,
+   "soClube": false,
+   "condicao": "Clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Creme Dental Vários Tipos",
+   "marcas": [
+    "Oral-B"
+   ],
+   "tamanho": "70g c/3 Unids.",
+   "preco": 11.69,
+   "de": null,
+   "clube": 10.98,
+   "soClube": false,
+   "condicao": "Clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Escova Dental Iconic Ultramacia",
+   "marcas": [
+    "Oral-B"
+   ],
+   "tamanho": "",
+   "preco": 19.98,
+   "de": null,
+   "clube": 17.98,
+   "soClube": false,
+   "condicao": "Clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Escova Dental Indicator Plus 30/35/40",
+   "marcas": [
+    "Oral-B"
+   ],
+   "tamanho": "c/2 Unids.",
+   "preco": 17.89,
+   "de": null,
+   "clube": 15.98,
+   "soClube": false,
+   "condicao": "Clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Shampoo Vários Tipos",
+   "marcas": [
+    "Dove"
+   ],
+   "tamanho": "600ml",
+   "preco": 34.98,
+   "de": null,
+   "clube": 32.98,
+   "soClube": false,
+   "condicao": "Clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete Naturals Vários Tipos",
+   "marcas": [
+    "Palmolive"
+   ],
+   "tamanho": "85g c/3 Unids.",
+   "preco": 6.34,
+   "de": null,
+   "clube": 4.99,
+   "soClube": false,
+   "condicao": "Leve mais, pague menos (leve 3 pague 2); clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete Antibacteriano Vários Tipos",
+   "marcas": [
+    "Protex"
+   ],
+   "tamanho": "85g c/6 Unids.",
+   "preco": 18.89,
+   "de": null,
+   "clube": 16.89,
+   "soClube": false,
+   "condicao": "Leve mais, pague menos (leve 6 pague menos); clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete Alfazema Provençal/Limão Siciliano",
+   "marcas": [
+    "Phebo"
+   ],
+   "tamanho": "100g",
+   "preco": 5.29,
+   "de": null,
+   "clube": 4.89,
+   "soClube": false,
+   "condicao": "Clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete Vários Tipos",
+   "marcas": [
+    "Johnson's"
+   ],
+   "tamanho": "80g",
+   "preco": 2.29,
+   "de": null,
+   "clube": 1.98,
+   "soClube": false,
+   "condicao": "Clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete Líquido Bebê Vários Tipos",
+   "marcas": [
+    "Granado"
+   ],
+   "tamanho": "500ml",
+   "preco": 33.98,
+   "de": null,
+   "clube": 29.98,
+   "soClube": false,
+   "condicao": "Clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete Líquido Jasmim e Cacau Refil",
+   "marcas": [
+    "Palmolive"
+   ],
+   "tamanho": "900ml",
+   "preco": 18.98,
+   "de": null,
+   "clube": 17.89,
+   "soClube": false,
+   "condicao": "Clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete Líquido Vários Tipos Refil",
+   "marcas": [
+    "Lux"
+   ],
+   "tamanho": "900ml",
+   "preco": 23.98,
+   "de": null,
+   "clube": 20.98,
+   "soClube": false,
+   "condicao": "Clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete Vários Tipos",
+   "marcas": [
+    "Lux"
+   ],
+   "tamanho": "85g c/6 Unids.",
+   "preco": 13.97,
+   "de": null,
+   "clube": 12.9,
+   "soClube": false,
+   "condicao": "Leve mais, pague menos; clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Loção Hidratante Vários Tipos",
+   "marcas": [
+    "Neutrogena"
+   ],
+   "tamanho": "400ml",
+   "preco": 35.98,
+   "de": null,
+   "clube": 29.98,
+   "soClube": false,
+   "condicao": "Clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Loção Hidratante Vários Tipos",
+   "marcas": [
+    "Nivea"
+   ],
+   "tamanho": "400ml",
+   "preco": 22.98,
+   "de": null,
+   "clube": 19.98,
+   "soClube": false,
+   "condicao": "Clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Desodorante Aerossol Clinical Vários Tipos",
+   "marcas": [
+    "Rexona"
+   ],
+   "tamanho": "150ml",
+   "preco": 20.98,
+   "de": null,
+   "clube": 18.98,
+   "soClube": false,
+   "condicao": "Clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Desodorante Roll-on Vários Tipos",
+   "marcas": [
+    "Nivea"
+   ],
+   "tamanho": "50ml",
+   "preco": 9.29,
+   "de": null,
+   "clube": 8.49,
+   "soClube": false,
+   "condicao": "Clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Hastes Flexíveis",
+   "marcas": [
+    "Johnson's"
+   ],
+   "tamanho": "c/150 Unids.",
+   "preco": 12.39,
+   "de": null,
+   "clube": 10.98,
+   "soClube": false,
+   "condicao": "Clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Aparelho Depilatório Venus Pele Sensível",
+   "marcas": [
+    "Gillette"
+   ],
+   "tamanho": "",
+   "preco": 29.98,
+   "de": null,
+   "clube": 24.98,
+   "soClube": false,
+   "condicao": "Clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Carga Venus Pele Sensível",
+   "marcas": [
+    "Gillette"
+   ],
+   "tamanho": "c/2 Unids.",
+   "preco": 29.98,
+   "de": null,
+   "clube": 24.98,
+   "soClube": false,
+   "condicao": "Clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Aparelho Depilatório Soleil Color Collection",
+   "marcas": [
+    "BIC"
+   ],
+   "tamanho": "c/4 Unids.",
+   "preco": 19.89,
+   "de": null,
+   "clube": 17.98,
+   "soClube": false,
+   "condicao": "Leve mais, pague menos; clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Absorvente Noturno",
+   "marcas": [
+    "Sempre Livre"
+   ],
+   "tamanho": "c/16 Unids.",
+   "preco": 17.98,
+   "de": null,
+   "clube": 15.98,
+   "soClube": false,
+   "condicao": "Leve mais, pague menos; clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Absorvente Noturno c/Abas Seca/Suave",
+   "marcas": [
+    "Intimus"
+   ],
+   "tamanho": "c/28/30 Unids.",
+   "preco": 23.98,
+   "de": null,
+   "clube": 19.98,
+   "soClube": false,
+   "condicao": "Clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Absorvente Básico Seca/Suave c/Abas",
+   "marcas": [
+    "Always"
+   ],
+   "tamanho": "c/32 Unids.",
+   "preco": 16.89,
+   "de": null,
+   "clube": 14.98,
+   "soClube": false,
+   "condicao": "Leve mais, pague menos; clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Toalhas Umedecidas Max Clean",
+   "marcas": [
+    "Huggies"
+   ],
+   "tamanho": "4 pacotes c/48 Unids.",
+   "preco": 35.94,
+   "de": null,
+   "clube": 32.98,
+   "soClube": false,
+   "condicao": "Leve mais, pague menos; clube: no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Fralda SuperSequinha Vários Tamanhos",
+   "marcas": [
+    "Pampers"
+   ],
+   "tamanho": "",
+   "preco": 39.98,
+   "de": null,
+   "clube": 37.98,
+   "soClube": false,
+   "condicao": "Clube: no app Mundial Total",
+   "duvida": null
+  }
+ ]
+}

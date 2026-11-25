@@ -1,0 +1,333 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-25",
+ "itens": [
+  {
+   "nome": "Pernil Suíno Temperado",
+   "marcas": [
+    "Sulita"
+   ],
+   "tamanho": "kg",
+   "preco": 28,
+   "de": null,
+   "clube": 26.9,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Paleta Defumada Inteira/Pedaço",
+   "marcas": [
+    "Juliatto"
+   ],
+   "tamanho": "kg",
+   "preco": 49.9,
+   "de": null,
+   "clube": 46.9,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Assadeira Oval 7 L",
+   "marcas": [
+    "Wyda"
+   ],
+   "tamanho": "7 L",
+   "preco": 9.98,
+   "de": null,
+   "clube": 6.98,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Tender Bolinha",
+   "marcas": [
+    "Império"
+   ],
+   "tamanho": "kg",
+   "preco": 39.9,
+   "de": null,
+   "clube": 36.8,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Queijo Bola",
+   "marcas": [
+    "Vitória"
+   ],
+   "tamanho": "kg",
+   "preco": 66.9,
+   "de": null,
+   "clube": 58.8,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Azeite Chileno Extravirgem Premium",
+   "marcas": [
+    "Deleyda"
+   ],
+   "tamanho": "500ml",
+   "preco": 85.9,
+   "de": null,
+   "clube": 78.5,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Azeite Português Extravirgem",
+   "marcas": [
+    "EA"
+   ],
+   "tamanho": "500ml",
+   "preco": 85.9,
+   "de": null,
+   "clube": 67.8,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Azeite Espanhol Equilibrado/Frutado/Marcante Extravirgem",
+   "marcas": [
+    "Borges"
+   ],
+   "tamanho": "500ml",
+   "preco": 49.9,
+   "de": null,
+   "clube": 37.9,
+   "soClube": false,
+   "condicao": "preço cada",
+   "duvida": null
+  },
+  {
+   "nome": "Azeite Português Seleção Extravirgem",
+   "marcas": [
+    "Andorinha"
+   ],
+   "tamanho": "500ml",
+   "preco": 33.5,
+   "de": null,
+   "clube": 28.9,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Azeite Arbequina/Intenso Extravirgem",
+   "marcas": [
+    "Prosperato"
+   ],
+   "tamanho": "500ml",
+   "preco": 98.5,
+   "de": null,
+   "clube": 89.9,
+   "soClube": false,
+   "condicao": "preço cada",
+   "duvida": null
+  },
+  {
+   "nome": "Azeite Português Extravirgem Spray",
+   "marcas": [
+    "Andorinha"
+   ],
+   "tamanho": "200ml",
+   "preco": 35.98,
+   "de": null,
+   "clube": 26.9,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Bacalhau Desfiado Gadus Morhua",
+   "marcas": [
+    "Riberalves"
+   ],
+   "tamanho": "400g",
+   "preco": 69.9,
+   "de": null,
+   "clube": 63.8,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Panettone Frutas/Gotas",
+   "marcas": [
+    "Seven Boys"
+   ],
+   "tamanho": "400g",
+   "preco": 20.99,
+   "de": null,
+   "clube": 18.99,
+   "soClube": false,
+   "condicao": "preço cada",
+   "duvida": null
+  },
+  {
+   "nome": "Panettone Frutas/Gotas",
+   "marcas": [
+    "Plusvita"
+   ],
+   "tamanho": "400g",
+   "preco": 22.99,
+   "de": null,
+   "clube": 19.99,
+   "soClube": false,
+   "condicao": "preço cada",
+   "duvida": null
+  },
+  {
+   "nome": "Alimento à Base de Glicose de Milho",
+   "marcas": [
+    "Karo"
+   ],
+   "tamanho": "350g",
+   "preco": 22.9,
+   "de": null,
+   "clube": 19.8,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Biscoito Champagne",
+   "marcas": [
+    "Champmell"
+   ],
+   "tamanho": "300g",
+   "preco": 17.95,
+   "de": null,
+   "clube": 16.88,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Vodka Francesa",
+   "marcas": [
+    "Grey Goose"
+   ],
+   "tamanho": "750ml",
+   "preco": 159.9,
+   "de": null,
+   "clube": 139.9,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Whisky Escocês",
+   "marcas": [
+    "Grant's"
+   ],
+   "tamanho": "750ml",
+   "preco": 59.9,
+   "de": null,
+   "clube": 44.9,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Abacaxi/Ameixas/Figos em Calda",
+   "marcas": [
+    "Olé"
+   ],
+   "tamanho": "300g/330g",
+   "preco": 18.98,
+   "de": null,
+   "clube": 16.98,
+   "soClube": false,
+   "condicao": "preço cada",
+   "duvida": null
+  },
+  {
+   "nome": "Pêssegos em Calda",
+   "marcas": [
+    "GB",
+    "Olé"
+   ],
+   "tamanho": "450g",
+   "preco": 14.58,
+   "de": null,
+   "clube": 12.8,
+   "soClube": false,
+   "condicao": "preço cada",
+   "duvida": null
+  },
+  {
+   "nome": "Passas s/Sementes Importadas a Granel",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 69.9,
+   "de": null,
+   "clube": 55.8,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Nozes s/Casca Importadas a Granel",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 129.9,
+   "de": null,
+   "clube": 105.9,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Amêndoas s/Casca Importadas a Granel",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 129.8,
+   "de": null,
+   "clube": 105.9,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Ameixas Secas s/Caroço Importadas a Granel",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 79.9,
+   "de": null,
+   "clube": 69.8,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Passas Escuras s/Semente Importadas a Granel",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 39.8,
+   "de": null,
+   "clube": 37.5,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Tâmaras c/Caroço Jumbo Importadas a Granel",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 89.9,
+   "de": null,
+   "clube": 79.5,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  }
+ ]
+}

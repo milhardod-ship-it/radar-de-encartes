@@ -1,0 +1,368 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-25",
+ "itens": [
+  {
+   "nome": "Arroz",
+   "marcas": [
+    "Tio Mingote"
+   ],
+   "tamanho": "5kg",
+   "preco": 23.9,
+   "de": null,
+   "clube": 21.5,
+   "soClube": false,
+   "condicao": "Branco/Parboilizado",
+   "duvida": null
+  },
+  {
+   "nome": "Arroz Integral",
+   "marcas": [
+    "Prato Fino"
+   ],
+   "tamanho": "1kg",
+   "preco": 6.75,
+   "de": null,
+   "clube": 6.28,
+   "soClube": false,
+   "condicao": "Parboilizado",
+   "duvida": null
+  },
+  {
+   "nome": "Arroz Integral",
+   "marcas": [
+    "Fino Toque"
+   ],
+   "tamanho": "1kg",
+   "preco": 4.95,
+   "de": null,
+   "clube": 3.75,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Arroz Arboro p/Risoto",
+   "marcas": [
+    "Pilecco Nobre"
+   ],
+   "tamanho": "1kg",
+   "preco": 19.8,
+   "de": null,
+   "clube": 17.98,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Feijão Preto",
+   "marcas": [
+    "Caldo Bom"
+   ],
+   "tamanho": "1kg",
+   "preco": 6.98,
+   "de": null,
+   "clube": 6.49,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Feijão Fradinho",
+   "marcas": [
+    "Granfino"
+   ],
+   "tamanho": "500g",
+   "preco": 4.18,
+   "de": null,
+   "clube": 3.98,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Lentilha",
+   "marcas": [
+    "Chinezinho"
+   ],
+   "tamanho": "400g",
+   "preco": 6.5,
+   "de": null,
+   "clube": 5.95,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Ervilha",
+   "marcas": [
+    "Yoki"
+   ],
+   "tamanho": "400g",
+   "preco": 5.3,
+   "de": null,
+   "clube": 4.5,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Farinha de Mandioca",
+   "marcas": [
+    "Tipity"
+   ],
+   "tamanho": "500g",
+   "preco": 4.28,
+   "de": null,
+   "clube": 3.68,
+   "soClube": false,
+   "condicao": "Vários tipos",
+   "duvida": null
+  },
+  {
+   "nome": "Farinha de Trigo Tradicional",
+   "marcas": [
+    "Farina"
+   ],
+   "tamanho": "1kg",
+   "preco": 3.95,
+   "de": null,
+   "clube": 2.87,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Massa Italiana",
+   "marcas": [
+    "Granoro"
+   ],
+   "tamanho": "500g",
+   "preco": 10.95,
+   "de": null,
+   "clube": 8.95,
+   "soClube": false,
+   "condicao": "Vários tipos",
+   "duvida": null
+  },
+  {
+   "nome": "Massa Italiana Dedicato",
+   "marcas": [
+    "Granoro"
+   ],
+   "tamanho": "500g",
+   "preco": 16.9,
+   "de": null,
+   "clube": 15.9,
+   "soClube": false,
+   "condicao": "Vários tipos",
+   "duvida": null
+  },
+  {
+   "nome": "Massa p/Lasanha Italiana",
+   "marcas": [
+    "Granoro"
+   ],
+   "tamanho": "500g",
+   "preco": 16.9,
+   "de": null,
+   "clube": 14.9,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Sal Marinho Fino de Mossoró Integral",
+   "marcas": [
+    "BR Spices"
+   ],
+   "tamanho": "1kg",
+   "preco": 12.5,
+   "de": null,
+   "clube": 9.98,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Passata Italiana Rústica/Tradicional",
+   "marcas": [
+    "Cirio"
+   ],
+   "tamanho": "680g/700g",
+   "preco": 18.9,
+   "de": null,
+   "clube": 16.75,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Tomate s/Pele Italiano",
+   "marcas": [
+    "Cirio"
+   ],
+   "tamanho": "400g",
+   "preco": 12.5,
+   "de": null,
+   "clube": 10.99,
+   "soClube": false,
+   "condicao": "Lata",
+   "duvida": null
+  },
+  {
+   "nome": "Milho Verde Italiano",
+   "marcas": [
+    "Cirio"
+   ],
+   "tamanho": "285g",
+   "preco": 21.9,
+   "de": null,
+   "clube": 18.95,
+   "soClube": false,
+   "condicao": "Lata",
+   "duvida": null
+  },
+  {
+   "nome": "Molho pra Chuchar",
+   "marcas": [
+    "Hellmann's"
+   ],
+   "tamanho": "335g",
+   "preco": 16.9,
+   "de": null,
+   "clube": 10.9,
+   "soClube": false,
+   "condicao": "Cheddar/Cebola, Salsa e Limão",
+   "duvida": "Dois produtos na imagem; um preço só, pode haver separação entre Cheddar e Cebola/Salsa/Limão"
+  },
+  {
+   "nome": "Molho de Tomate Tradicional",
+   "marcas": [
+    "Knorr"
+   ],
+   "tamanho": "300g",
+   "preco": 2.89,
+   "de": null,
+   "clube": 2.68,
+   "soClube": false,
+   "condicao": "Sachê",
+   "duvida": null
+  },
+  {
+   "nome": "Mostarda Supreme",
+   "marcas": [
+    "Hellmann's"
+   ],
+   "tamanho": "250g",
+   "preco": 12.9,
+   "de": null,
+   "clube": 10.9,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Ketchup Supreme Zero/Tradicional",
+   "marcas": [
+    "Hellmann's"
+   ],
+   "tamanho": "355g/390g",
+   "preco": 14.9,
+   "de": null,
+   "clube": 11.9,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Maionese Original",
+   "marcas": [
+    "Cepêra"
+   ],
+   "tamanho": "320g",
+   "preco": 10.5,
+   "de": null,
+   "clube": 8.99,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Óleo de Canola",
+   "marcas": [
+    "Soya"
+   ],
+   "tamanho": "900ml",
+   "preco": 14.9,
+   "de": null,
+   "clube": 12.98,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Azeitona Verde",
+   "marcas": [
+    "Vale Fértil"
+   ],
+   "tamanho": "360g",
+   "preco": 19.5,
+   "de": null,
+   "clube": 16.99,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Azeitonas Verdes",
+   "marcas": [
+    "La Violetera"
+   ],
+   "tamanho": "120g/150g",
+   "preco": 5.45,
+   "de": null,
+   "clube": null,
+   "soClube": true,
+   "condicao": "Leve 4 pague 3, nesta promoção a unidade sai por 5,45; vários tipos sachê",
+   "duvida": "Há também uma versão fatiada a 7,27 que parece ser outro produto/preço"
+  },
+  {
+   "nome": "Pepinos",
+   "marcas": [
+    "Luca"
+   ],
+   "tamanho": "300g",
+   "preco": 12.9,
+   "de": null,
+   "clube": 10.99,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Azeitona Portuguesa",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 57.9,
+   "de": null,
+   "clube": 53.8,
+   "soClube": false,
+   "condicao": "a granel",
+   "duvida": null
+  },
+  {
+   "nome": "Vinagre Italiano Balsamico di Modena/Vinho Branco",
+   "marcas": [
+    "Ortalli"
+   ],
+   "tamanho": "500ml",
+   "preco": 34.9,
+   "de": null,
+   "clube": 28.5,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  }
+ ]
+}

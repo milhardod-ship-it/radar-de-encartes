@@ -1,0 +1,357 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-25",
+ "itens": [
+  {
+   "nome": "Flocos de Aveia Finos/Regulares ou Farinha de Aveia Integral",
+   "marcas": [
+    "Quaker"
+   ],
+   "tamanho": "450g",
+   "preco": 10.99,
+   "de": null,
+   "clube": 9.99,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Aveia s/Glúten Farelo/Farinha/Flocos Finos ou Grossos",
+   "marcas": [
+    "Vitalin"
+   ],
+   "tamanho": "200g",
+   "preco": 13.75,
+   "de": null,
+   "clube": 6.88,
+   "soClube": false,
+   "condicao": "50% de desconto na 2ª unidade no app; 2ª unidade sai por 6,88",
+   "duvida": "Preço do clube 6,88 é o da 2ª unidade na promoção de 50%"
+  },
+  {
+   "nome": "Semente de Chia s/Glúten",
+   "marcas": [
+    "Vitalin"
+   ],
+   "tamanho": "120g",
+   "preco": 15.8,
+   "de": null,
+   "clube": 14.49,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Açúcar Demerara",
+   "marcas": [
+    "Alloro"
+   ],
+   "tamanho": "1kg",
+   "preco": 5.49,
+   "de": null,
+   "clube": 5.1,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Granola Tradicional/Zero Açúcares",
+   "marcas": [
+    "Mãe Terra"
+   ],
+   "tamanho": "800g",
+   "preco": 39.9,
+   "de": null,
+   "clube": 33.9,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Barra Nuts Vários Tipos",
+   "marcas": [
+    "Banana Brasil"
+   ],
+   "tamanho": "50g",
+   "preco": 6.49,
+   "de": null,
+   "clube": 5.99,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Barra de Cereais Vários Sabores",
+   "marcas": [
+    "Nutry"
+   ],
+   "tamanho": "66g",
+   "preco": 4.9,
+   "de": null,
+   "clube": 3.68,
+   "soClube": false,
+   "condicao": "Leve 4 pague 3 no app; cada unidade sai por 3,68",
+   "duvida": null
+  },
+  {
+   "nome": "Barra Proteica 9g de Proteína Crispy Protein Vários Sabores",
+   "marcas": [
+    "Nutry"
+   ],
+   "tamanho": "30g",
+   "preco": 6.8,
+   "de": null,
+   "clube": 5.1,
+   "soClube": false,
+   "condicao": "Leve 4 pague 3 no app; cada unidade sai por 5,10",
+   "duvida": null
+  },
+  {
+   "nome": "Barra de Proteína 11g de Proteína Grego Dulce de Leche/Morango",
+   "marcas": [
+    "Nutrata"
+   ],
+   "tamanho": "40g",
+   "preco": 10.8,
+   "de": null,
+   "clube": 8.99,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Barra Proteica 15g de Proteína Cappuccino Vários Sabores",
+   "marcas": [
+    "3 Corações"
+   ],
+   "tamanho": "50g",
+   "preco": 10.9,
+   "de": null,
+   "clube": 9.9,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Crispies 30% Proteínas Protein Choco/Vanilla Crunchy",
+   "marcas": [
+    "Granosquare"
+   ],
+   "tamanho": "180g",
+   "preco": 39.9,
+   "de": null,
+   "clube": 34.9,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Chips de Proteína s/Glúten/16g de Proteínas Páprica/Alho Poró",
+   "marcas": [
+    "Irreal Snacks"
+   ],
+   "tamanho": "40g",
+   "preco": 15.8,
+   "de": null,
+   "clube": 11.9,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Pipoca Vários Sabores",
+   "marcas": [
+    "Do Johnny"
+   ],
+   "tamanho": "40g/75g",
+   "preco": 11.9,
+   "de": null,
+   "clube": 8.9,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Torrada Slim Tost Vários Tipos",
+   "marcas": [
+    "Fhom"
+   ],
+   "tamanho": "110g",
+   "preco": 15.9,
+   "de": null,
+   "clube": 10.9,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Pasta de Amendoim Integral Cremosa/Crocante",
+   "marcas": [
+    "Fit Food"
+   ],
+   "tamanho": "450g",
+   "preco": 19.9,
+   "de": null,
+   "clube": 15.99,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Vinagre de Maçã Orgânico",
+   "marcas": [
+    "Organobio"
+   ],
+   "tamanho": "500ml",
+   "preco": 29.9,
+   "de": null,
+   "clube": 25.9,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Bebida Proteica 23g de Proteínas Fit FlexForce Vários Tipos TP",
+   "marcas": [
+    "Parmalat"
+   ],
+   "tamanho": "250ml",
+   "preco": 8.99,
+   "de": null,
+   "clube": 6.74,
+   "soClube": false,
+   "condicao": "Leve 4 pague 3 no app; cada unidade sai por 6,74",
+   "duvida": null
+  },
+  {
+   "nome": "Óleo de Coco Extravirgem/Manteiga Spray",
+   "marcas": [
+    "Qualicoco"
+   ],
+   "tamanho": "100ml",
+   "preco": 34.9,
+   "de": null,
+   "clube": 29.9,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Isotônico Endurance/Low Carb Vários Sabores",
+   "marcas": [
+    "Jungle"
+   ],
+   "tamanho": "500ml",
+   "preco": 7.99,
+   "de": null,
+   "clube": 5.99,
+   "soClube": false,
+   "condicao": "Leve 4 pague 3 no app; cada unidade sai por 5,99",
+   "duvida": null
+  },
+  {
+   "nome": "Bebida Vegetal Vários Tipos TP",
+   "marcas": [
+    "Almond Breeze"
+   ],
+   "tamanho": "1L",
+   "preco": 18.9,
+   "de": null,
+   "clube": 14.9,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Bebida Vegetal Vários Tipos TP",
+   "marcas": [
+    "A Tal da Castanha"
+   ],
+   "tamanho": "1L",
+   "preco": 23.9,
+   "de": null,
+   "clube": 19.9,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Sobremesa Chocolate c/6 Unidades",
+   "marcas": [
+    "Chandelle"
+   ],
+   "tamanho": "540g",
+   "preco": 16.85,
+   "de": null,
+   "clube": 14.95,
+   "soClube": false,
+   "condicao": "Leve mais, pague menos",
+   "duvida": null
+  },
+  {
+   "nome": "Leite Fermentado",
+   "marcas": [
+    "Chamyto"
+   ],
+   "tamanho": "450g",
+   "preco": 8.98,
+   "de": null,
+   "clube": 6.98,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Iogurte Líquido Zero Lactose Vários Tipos",
+   "marcas": [
+    "Nestlé"
+   ],
+   "tamanho": "1,15kg",
+   "preco": 21.65,
+   "de": null,
+   "clube": 15.95,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Iogurte Natural Vários Tipos",
+   "marcas": [
+    "Nestlé"
+   ],
+   "tamanho": "160g/170g",
+   "preco": 4.99,
+   "de": null,
+   "clube": 3.99,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Iogurte Ninho Polpa",
+   "marcas": [
+    "Nestlé"
+   ],
+   "tamanho": "540g",
+   "preco": 10.6,
+   "de": null,
+   "clube": 8.99,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Iogurte Polpa Vários Sabores",
+   "marcas": [
+    "Nestlé"
+   ],
+   "tamanho": "510g",
+   "preco": 8.99,
+   "de": null,
+   "clube": 7.99,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  }
+ ]
+}

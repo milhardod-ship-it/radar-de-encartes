@@ -1,0 +1,293 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-25",
+ "itens": [
+  {
+   "nome": "Guarda-Sol Fashion várias cores",
+   "marcas": [
+    "Mor"
+   ],
+   "tamanho": "",
+   "preco": 54.9,
+   "de": null,
+   "clube": 44.9,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Cadeira de Praia de Aço Alta",
+   "marcas": [
+    "Mor"
+   ],
+   "tamanho": "",
+   "preco": 89.9,
+   "de": null,
+   "clube": 69.9,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Cadeira de Praia de Aço Reclinável 4 posições",
+   "marcas": [
+    "Mor"
+   ],
+   "tamanho": "",
+   "preco": 119.9,
+   "de": null,
+   "clube": 89.9,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Caixa Térmica várias cores",
+   "marcas": [
+    "Mor"
+   ],
+   "tamanho": "26 L",
+   "preco": 94.9,
+   "de": null,
+   "clube": 89.9,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Loção Repelente Kids",
+   "marcas": [
+    "OFF!"
+   ],
+   "tamanho": "200ml",
+   "preco": 19.9,
+   "de": null,
+   "clube": 18.89,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Protetor Solar Facial FPS 70",
+   "marcas": [
+    "Neutrogena"
+   ],
+   "tamanho": "40g",
+   "preco": 64.98,
+   "de": null,
+   "clube": 59.98,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Protetor Solar FPS 50 grátis FPS 50 100ml",
+   "marcas": [
+    "Sundown"
+   ],
+   "tamanho": "200ml",
+   "preco": 59.9,
+   "de": null,
+   "clube": 57.98,
+   "soClube": false,
+   "condicao": "grátis FPS 50 100ml",
+   "duvida": null
+  },
+  {
+   "nome": "Pilha Alcalina AA/AAA Palito/Pequena",
+   "marcas": [
+    "Panasonic"
+   ],
+   "tamanho": "c/4 unidades",
+   "preco": 21.9,
+   "de": null,
+   "clube": 19.9,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Filtro de Papel 102/103",
+   "marcas": [
+    "3 Corações"
+   ],
+   "tamanho": "c/30 unidades",
+   "preco": 3.99,
+   "de": null,
+   "clube": 3.59,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Filme de PVC",
+   "marcas": [
+    "Wyda"
+   ],
+   "tamanho": "Rolo 15m",
+   "preco": 5.49,
+   "de": null,
+   "clube": 4.79,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Folha de Alumínio",
+   "marcas": [
+    "Wyda"
+   ],
+   "tamanho": "Rolo 30cm x 7,5m",
+   "preco": 6.79,
+   "de": null,
+   "clube": 5.99,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Pano de Microfibra Sense",
+   "marcas": [
+    "Flash Limp"
+   ],
+   "tamanho": "c/20 unidades",
+   "preco": 35.9,
+   "de": null,
+   "clube": 29.9,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Pano Multiúso",
+   "marcas": [
+    "Furatto"
+   ],
+   "tamanho": "c/5 unidades",
+   "preco": 5.99,
+   "de": null,
+   "clube": 4.99,
+   "soClube": false,
+   "condicao": "leve mais, pague menos (leve 5 pague 4)",
+   "duvida": null
+  },
+  {
+   "nome": "Papel Higiênico Folha Tripla Toque das Ondas",
+   "marcas": [
+    "Neve"
+   ],
+   "tamanho": "20m c/12 unidades",
+   "preco": 24.98,
+   "de": null,
+   "clube": 21.98,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Papel Higiênico Folha Dupla Premium",
+   "marcas": [
+    "Carinho"
+   ],
+   "tamanho": "30m c/12 unidades",
+   "preco": 16.98,
+   "de": null,
+   "clube": 13.98,
+   "soClube": false,
+   "condicao": "leve mais, pague menos",
+   "duvida": null
+  },
+  {
+   "nome": "Toalha de Papel",
+   "marcas": [
+    "Coquetel"
+   ],
+   "tamanho": "c/120 folhas",
+   "preco": 5.99,
+   "de": null,
+   "clube": 4.99,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Pano Multiúso Toalex",
+   "marcas": [
+    "Limppano"
+   ],
+   "tamanho": "c/44 folhas",
+   "preco": 12.9,
+   "de": null,
+   "clube": 9.9,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Saco p/Lixo Reciclado 50 L c/20 ou 100 L c/10",
+   "marcas": [
+    "Dover Roll"
+   ],
+   "tamanho": "",
+   "preco": 29.9,
+   "de": null,
+   "clube": 24.9,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Saco p/Lixo Reciclado 15 L c/40 ou 30 L c/20",
+   "marcas": [
+    "Dover Roll"
+   ],
+   "tamanho": "",
+   "preco": 21.9,
+   "de": null,
+   "clube": 17.9,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Ração p/Cães ou Ração p/Gatos Sachê vários sabores",
+   "marcas": [
+    "Dog Chow",
+    "Friskies"
+   ],
+   "tamanho": "75g/80g/85g/100g",
+   "preco": 3.29,
+   "de": null,
+   "clube": 2.89,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Ração Seca p/Gatos Vários Sabores",
+   "marcas": [
+    "Friskies"
+   ],
+   "tamanho": "2,5 kg",
+   "preco": 49.9,
+   "de": null,
+   "clube": 44.9,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Ração Sabor Carne/Frango",
+   "marcas": [
+    "Dog Chow"
+   ],
+   "tamanho": "10,1 kg",
+   "preco": 129.9,
+   "de": null,
+   "clube": 99.9,
+   "soClube": false,
+   "condicao": "leve mais, pague menos (leve 10,1kg pague 9kg)",
+   "duvida": null
+  }
+ ]
+}

@@ -1,0 +1,331 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-25",
+ "itens": [
+  {
+   "nome": "Bombom Importado Lindor Ao Leite/Sortido",
+   "marcas": [
+    "Lindt"
+   ],
+   "tamanho": "75g",
+   "preco": 43.5,
+   "de": null,
+   "clube": 39.9,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Chocolate Tablete Vários Tipos",
+   "marcas": [
+    "Ferrero Rocher"
+   ],
+   "tamanho": "90g",
+   "preco": 29.9,
+   "de": null,
+   "clube": 22.99,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Chocolate Choco Trio Bono/Prestígio",
+   "marcas": [
+    "Garoto"
+   ],
+   "tamanho": "90g",
+   "preco": 8.9,
+   "de": null,
+   "clube": 7.95,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Chocolate Vários Tipos",
+   "marcas": [
+    "Hershey's"
+   ],
+   "tamanho": "77g/82g",
+   "preco": 8.95,
+   "de": null,
+   "clube": 6.99,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Choco Pipoca Netflix",
+   "marcas": [
+    "Bauducco"
+   ],
+   "tamanho": "70g",
+   "preco": 9.8,
+   "de": null,
+   "clube": 8.99,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Biscoito Choco Biscuit Vários Tipos",
+   "marcas": [
+    "Bauducco"
+   ],
+   "tamanho": "80g",
+   "preco": 7.97,
+   "de": null,
+   "clube": 5.98,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Biscoito Choco Biscuit Ao Leite",
+   "marcas": [
+    "Garoto"
+   ],
+   "tamanho": "78g",
+   "preco": 7.9,
+   "de": null,
+   "clube": 6.95,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Biscoito Zoo Cartoon Vários Sabores",
+   "marcas": [
+    "Parati"
+   ],
+   "tamanho": "85g",
+   "preco": 2.19,
+   "de": null,
+   "clube": 1.77,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Wafer Tronky",
+   "marcas": [
+    "Kinder"
+   ],
+   "tamanho": "18g",
+   "preco": 5.99,
+   "de": null,
+   "clube": 4.9,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Wafer Vários Sabores",
+   "marcas": [
+    "Trento"
+   ],
+   "tamanho": "29g",
+   "preco": 3.5,
+   "de": null,
+   "clube": 2.75,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Biscoito Wafer Vários Sabores",
+   "marcas": [
+    "Piraquê"
+   ],
+   "tamanho": "100g",
+   "preco": 3.5,
+   "de": null,
+   "clube": 2.97,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Biscoito Leite Maltado Vários Sabores",
+   "marcas": [
+    "Piraquê"
+   ],
+   "tamanho": "132g",
+   "preco": 3.6,
+   "de": null,
+   "clube": 2.98,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Biscoito Vários Tipos",
+   "marcas": [
+    "Club Social"
+   ],
+   "tamanho": "106g/141g/144g",
+   "preco": 6.68,
+   "de": null,
+   "clube": 5.5,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Biscoito Saltix",
+   "marcas": [
+    "Renata"
+   ],
+   "tamanho": "110g",
+   "preco": 2.5,
+   "de": null,
+   "clube": 1.95,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Biscoito de Polvilho Vários Sabores",
+   "marcas": [
+    "Mr. Frity"
+   ],
+   "tamanho": "80g",
+   "preco": 4.5,
+   "de": null,
+   "clube": 3.38,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Amendoim Vários Tipos",
+   "marcas": [
+    "Elma Chips"
+   ],
+   "tamanho": "100g/145g",
+   "preco": 8.9,
+   "de": null,
+   "clube": 6.98,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Snack de Azeitona Oliv Vários Sabores",
+   "marcas": [
+    "Vale Fértil"
+   ],
+   "tamanho": "50g",
+   "preco": 3.87,
+   "de": null,
+   "clube": 2.58,
+   "soClube": false,
+   "condicao": "leve 3 pague 2; no app Mundial Total, nesta promoção a unidade sai por 2,58",
+   "duvida": null
+  },
+  {
+   "nome": "Castanha-de-caju Salgada",
+   "marcas": [
+    "Amigos do Bem"
+   ],
+   "tamanho": "100g",
+   "preco": 21.95,
+   "de": null,
+   "clube": 19.8,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Salgadinho Cheetos Vários Tipos",
+   "marcas": [
+    "Elma Chips"
+   ],
+   "tamanho": "33g/35g/36g/40g/47g",
+   "preco": 4.1,
+   "de": null,
+   "clube": 3.08,
+   "soClube": false,
+   "condicao": "leve 4 pague 3; no app Mundial Total, nesta promoção a unidade sai por 3,08",
+   "duvida": null
+  },
+  {
+   "nome": "Salgadinho Fandangos Vários Sabores",
+   "marcas": [
+    "Elma Chips"
+   ],
+   "tamanho": "35g",
+   "preco": 3.95,
+   "de": null,
+   "clube": 2.96,
+   "soClube": false,
+   "condicao": "leve 4 pague 3; no app Mundial Total, nesta promoção a unidade sai por 2,96",
+   "duvida": null
+  },
+  {
+   "nome": "Salgadinho Doritos Vários Sabores",
+   "marcas": [
+    "Elma Chips"
+   ],
+   "tamanho": "75g/78g",
+   "preco": 9.8,
+   "de": null,
+   "clube": 7.35,
+   "soClube": false,
+   "condicao": "leve 4 pague 3; no app Mundial Total, nesta promoção a unidade sai por 7,35",
+   "duvida": null
+  },
+  {
+   "nome": "Batata Palha Tradicional/Extrafina",
+   "marcas": [
+    "Elma Chips"
+   ],
+   "tamanho": "90g/100g",
+   "preco": 10.99,
+   "de": null,
+   "clube": 7.8,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Batata Ruffles Tubo Original/Sour Cream e Cebola",
+   "marcas": [
+    "Elma Chips"
+   ],
+   "tamanho": "100g",
+   "preco": 11.9,
+   "de": null,
+   "clube": 9.9,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Batata Lay's Vários Tipos",
+   "marcas": [
+    "Elma Chips"
+   ],
+   "tamanho": "62g/68g",
+   "preco": 9.5,
+   "de": null,
+   "clube": 7.13,
+   "soClube": false,
+   "condicao": "leve 4 pague 3; no app Mundial Total, nesta promoção a unidade sai por 7,13",
+   "duvida": null
+  },
+  {
+   "nome": "Batata Ruffles Vários Sabores",
+   "marcas": [
+    "Elma Chips"
+   ],
+   "tamanho": "68g",
+   "preco": 8.99,
+   "de": null,
+   "clube": 6.74,
+   "soClube": false,
+   "condicao": "leve 4 pague 3; no app Mundial Total, nesta promoção a unidade sai por 6,74",
+   "duvida": null
+  }
+ ]
+}

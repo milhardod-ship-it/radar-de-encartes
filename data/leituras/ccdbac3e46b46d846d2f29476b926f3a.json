@@ -1,0 +1,240 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-25",
+ "itens": [
+  {
+   "nome": "Waffle Tipo Americano",
+   "marcas": [
+    "!WAAW!"
+   ],
+   "tamanho": "210g",
+   "preco": 12.9,
+   "de": null,
+   "clube": 9.9,
+   "soClube": false,
+   "condicao": "preço clube no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Requeijão Tradicional/Light Copo",
+   "marcas": [
+    "Polenghi"
+   ],
+   "tamanho": "200g",
+   "preco": 7.99,
+   "de": null,
+   "clube": 6.95,
+   "soClube": false,
+   "condicao": "cada; preço clube no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Requeijão Tradicional/Light Pote",
+   "marcas": [
+    "Itambé"
+   ],
+   "tamanho": "400g",
+   "preco": 16.99,
+   "de": null,
+   "clube": 14.8,
+   "soClube": false,
+   "condicao": "cada; preço clube no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Queijo Minas Padrão",
+   "marcas": [
+    "Cambuquira"
+   ],
+   "tamanho": "kg",
+   "preco": 63,
+   "de": null,
+   "clube": 58.8,
+   "soClube": false,
+   "condicao": "preço clube no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Lasanha Forno de Minas Quatro Queijos/à Bolonhesa",
+   "marcas": [
+    "Forno de Minas"
+   ],
+   "tamanho": "600g",
+   "preco": 11.98,
+   "de": null,
+   "clube": 9.9,
+   "soClube": false,
+   "condicao": "cada; preço clube no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Batata Congelada Air Fryer + Fininhas",
+   "marcas": [
+    "McCain"
+   ],
+   "tamanho": "1,2kg",
+   "preco": 29.9,
+   "de": null,
+   "clube": 26.9,
+   "soClube": false,
+   "condicao": "preço clube no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Linguiça Tipo Calabresa ou Fininha",
+   "marcas": [
+    "Sadia"
+   ],
+   "tamanho": "kg",
+   "preco": 19.9,
+   "de": null,
+   "clube": 18.9,
+   "soClube": false,
+   "condicao": "preço clube no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Mortadela Defumada",
+   "marcas": [
+    "Sadia"
+   ],
+   "tamanho": "kg",
+   "preco": 21.5,
+   "de": null,
+   "clube": 16.98,
+   "soClube": false,
+   "condicao": "preço clube no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Macarrão Hot Bowls ou Mac'n Cheese Cheddar, Bacon, Calabresa, Barbecue, Brócolis e Bacon, Mini Almôndegas, Carbonara, Nhoque com Molho, Nhoque Bolonhesa",
+   "marcas": [
+    "Sadia"
+   ],
+   "tamanho": "300g",
+   "preco": 11.95,
+   "de": null,
+   "clube": 9.98,
+   "soClube": false,
+   "condicao": "cada; preço clube no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Lasanha Bolonhesa • 4 Queijos",
+   "marcas": [
+    "Sadia"
+   ],
+   "tamanho": "350g",
+   "preco": 10.95,
+   "de": null,
+   "clube": 8.98,
+   "soClube": false,
+   "condicao": "cada; preço clube no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Salame Tipo Italiano ou Hamburguês",
+   "marcas": [
+    "Sadia"
+   ],
+   "tamanho": "kg",
+   "preco": 118,
+   "de": null,
+   "clube": 94.9,
+   "soClube": false,
+   "condicao": "preço clube no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Presunto Cozido",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "kg",
+   "preco": 31.9,
+   "de": null,
+   "clube": 25.98,
+   "soClube": false,
+   "condicao": "preço clube no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Margarina c/Creme de Leite c/Sal",
+   "marcas": [
+    "Delícia"
+   ],
+   "tamanho": "500g",
+   "preco": 9.5,
+   "de": null,
+   "clube": 8.99,
+   "soClube": false,
+   "condicao": "preço clube no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Empanado de Frango Tekitos Tradicional/Queijo Pacote",
+   "marcas": [
+    "Seara"
+   ],
+   "tamanho": "1 kg",
+   "preco": 21.98,
+   "de": null,
+   "clube": 19.98,
+   "soClube": false,
+   "condicao": "cada; preço clube no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Recheado de Frango Vários Tipos",
+   "marcas": [
+    "Seara"
+   ],
+   "tamanho": "110g",
+   "preco": 4.99,
+   "de": null,
+   "clube": 3.99,
+   "soClube": false,
+   "condicao": "cada; preço clube no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Linguiça p/Churrasco Vários Tipos Pacote",
+   "marcas": [
+    "Seara"
+   ],
+   "tamanho": "500g/600g",
+   "preco": 15.98,
+   "de": null,
+   "clube": 14.98,
+   "soClube": false,
+   "condicao": "cada; preço clube no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Mortadela Defumada Gourmet",
+   "marcas": [
+    "Seara"
+   ],
+   "tamanho": "kg",
+   "preco": 21.5,
+   "de": null,
+   "clube": 19.99,
+   "soClube": false,
+   "condicao": "preço clube no app Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Presunto Cozido",
+   "marcas": [
+    "Seara"
+   ],
+   "tamanho": "kg",
+   "preco": 35.9,
+   "de": null,
+   "clube": 33.99,
+   "soClube": false,
+   "condicao": "preço clube no app Mundial Total",
+   "duvida": null
+  }
+ ]
+}

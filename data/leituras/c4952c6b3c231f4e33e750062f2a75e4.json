@@ -1,0 +1,357 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-25",
+ "itens": [
+  {
+   "nome": "Café",
+   "marcas": [
+    "3 Corações"
+   ],
+   "tamanho": "Colômbia/Peru 250g",
+   "preco": 35.8,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "50% de desconto na 2ª unidade no app Mundial Total: 2ª unidade sai por 17,90",
+   "duvida": "Preço 35,80 aparece junto ao Peru; vale para Colômbia/Peru"
+  },
+  {
+   "nome": "Café Gourmet em Grãos Espresso",
+   "marcas": [
+    "3 Corações"
+   ],
+   "tamanho": "500g",
+   "preco": 52.9,
+   "de": null,
+   "clube": 46.9,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Café Solúvel Liofilizado Vidro",
+   "marcas": [
+    "3 Corações"
+   ],
+   "tamanho": "100g",
+   "preco": 27.8,
+   "de": null,
+   "clube": 19.9,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Café em Cápsula Vários Tipos",
+   "marcas": [
+    "Pilão"
+   ],
+   "tamanho": "c/10 unids.",
+   "preco": 22.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "No app Mundial Total: leve 3 pague 2, cada unidade sai por 15,26",
+   "duvida": null
+  },
+  {
+   "nome": "Café Solúvel Cafeteria Vários Tipos Sachê",
+   "marcas": [
+    "Pilão"
+   ],
+   "tamanho": "40g",
+   "preco": 7.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "50% de desconto na 2ª unidade no app Mundial Total: 2ª unidade sai por 3,99",
+   "duvida": null
+  },
+  {
+   "nome": "Café em Grãos Cafeteria/Espresso",
+   "marcas": [
+    "Pilão"
+   ],
+   "tamanho": "500g",
+   "preco": 49.98,
+   "de": null,
+   "clube": 38.9,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Café Instantâneo Vários Tipos Sachê",
+   "marcas": [
+    "Nescafé"
+   ],
+   "tamanho": "40g",
+   "preco": 9.58,
+   "de": null,
+   "clube": 5.99,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Café Premium Torrado e Moído",
+   "marcas": [
+    "Marques da Costa"
+   ],
+   "tamanho": "500g",
+   "preco": 33.9,
+   "de": null,
+   "clube": 29.9,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Leite Zero Lactose Integral/Semidesnatado/Desnatado TP",
+   "marcas": [
+    "Piracanjuba"
+   ],
+   "tamanho": "1L",
+   "preco": 7.35,
+   "de": null,
+   "clube": 6.55,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Cereal",
+   "marcas": [
+    "Snow Flakes"
+   ],
+   "tamanho": "620g",
+   "preco": 16.75,
+   "de": null,
+   "clube": 14.99,
+   "soClube": false,
+   "condicao": "Leve mais, pague menos",
+   "duvida": null
+  },
+  {
+   "nome": "Kit Cereal Matinal + Nescau",
+   "marcas": [
+    "Snow Flakes"
+   ],
+   "tamanho": "230g + 210g",
+   "preco": 15.98,
+   "de": null,
+   "clube": 12.99,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Farinha Láctea Pacote",
+   "marcas": [
+    "Nestlé"
+   ],
+   "tamanho": "600g",
+   "preco": 17.98,
+   "de": null,
+   "clube": 14.98,
+   "soClube": false,
+   "condicao": "Leve mais, pague menos",
+   "duvida": null
+  },
+  {
+   "nome": "Coco Ralado Tradicional/Sweet",
+   "marcas": [
+    "Sococo"
+   ],
+   "tamanho": "100g",
+   "preco": 7.19,
+   "de": null,
+   "clube": 6.89,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Leite de Coco Tradicional",
+   "marcas": [
+    "Copra"
+   ],
+   "tamanho": "500ml",
+   "preco": 8.99,
+   "de": null,
+   "clube": 7.99,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Leite de Coco Tradicional",
+   "marcas": [
+    "Sococo"
+   ],
+   "tamanho": "200ml",
+   "preco": 7.19,
+   "de": null,
+   "clube": 6.89,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Torrada Vários Tipos",
+   "marcas": [
+    "Adria"
+   ],
+   "tamanho": "142g",
+   "preco": 5.85,
+   "de": null,
+   "clube": 4.8,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Bolinho Pandoka Vários Sabores",
+   "marcas": [
+    "Grão Lev"
+   ],
+   "tamanho": "70g",
+   "preco": 2.95,
+   "de": null,
+   "clube": 2.19,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Bolo Vários Sabores",
+   "marcas": [
+    "Ana Maria"
+   ],
+   "tamanho": "70g",
+   "preco": 4.98,
+   "de": null,
+   "clube": 3.98,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Pão Vários Tipos",
+   "marcas": [
+    "Tenda Árabe"
+   ],
+   "tamanho": "300g",
+   "preco": 6.98,
+   "de": null,
+   "clube": 4.48,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Pão de Forma Tradicional",
+   "marcas": [
+    "Grão Lev"
+   ],
+   "tamanho": "420g",
+   "preco": 5.98,
+   "de": null,
+   "clube": 4.98,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Pão Integral Grão Sabor Vários Tipos",
+   "marcas": [
+    "Wickbold"
+   ],
+   "tamanho": "450g",
+   "preco": 16.98,
+   "de": null,
+   "clube": 14.48,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Iogurte Líquido Probio2 Tradicional/Zero Vários Sabores",
+   "marcas": [
+    "Batavo"
+   ],
+   "tamanho": "1,15kg",
+   "preco": 20.98,
+   "de": null,
+   "clube": 17.98,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Iogurte Pedaços/Grego Pense Zero Morango Potão",
+   "marcas": [
+    "Batavo"
+   ],
+   "tamanho": "450g",
+   "preco": 14.98,
+   "de": null,
+   "clube": 12.98,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Iogurte Natural Vários Tipos",
+   "marcas": [
+    "Batavo"
+   ],
+   "tamanho": "160g",
+   "preco": 4.99,
+   "de": null,
+   "clube": 3.99,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Sobremesa Brigadeiro/Manjar/Pudim",
+   "marcas": [
+    "Batavo"
+   ],
+   "tamanho": "180g/200g",
+   "preco": 10.98,
+   "de": null,
+   "clube": 8.79,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Sobremesa Flan Caramelo/Frutas Vermelhas",
+   "marcas": [
+    "Batavo"
+   ],
+   "tamanho": "200g",
+   "preco": 6.98,
+   "de": null,
+   "clube": 5.98,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Iogurte Líquido Pense Zero Vários Sabores",
+   "marcas": [
+    "Batavo"
+   ],
+   "tamanho": "1,15kg",
+   "preco": 19.95,
+   "de": null,
+   "clube": 17.98,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  }
+ ]
+}

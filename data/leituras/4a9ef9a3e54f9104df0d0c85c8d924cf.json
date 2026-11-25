@@ -1,0 +1,435 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-25",
+ "itens": [
+  {
+   "nome": "Lava-roupas Líquido Multi Power 5 em 1/Sensitive Skin",
+   "marcas": [
+    "ODD"
+   ],
+   "tamanho": "3 L",
+   "preco": 22.9,
+   "de": null,
+   "clube": 19.98,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Lava-roupas Líquido Coco/Maxx",
+   "marcas": [
+    "URCA"
+   ],
+   "tamanho": "3 L",
+   "preco": 16.98,
+   "de": null,
+   "clube": 14.98,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Lava-roupas Líquido Original/Bebê",
+   "marcas": [
+    "OLA"
+   ],
+   "tamanho": "1 L",
+   "preco": 19.18,
+   "de": null,
+   "clube": 17.99,
+   "soClube": false,
+   "condicao": "leve mais, pague menos",
+   "duvida": null
+  },
+  {
+   "nome": "Lava-roupas Líquido Ciclo Rápido Vários Tipos",
+   "marcas": [
+    "OMO"
+   ],
+   "tamanho": "750ml",
+   "preco": 15.7,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "30% de desconto na 2ª unidade no app Mundial Total; 2ª unidade sai por 10,99",
+   "duvida": null
+  },
+  {
+   "nome": "Lava-roupas Líquido Roupas Escuras",
+   "marcas": [
+    "MON BIJOU"
+   ],
+   "tamanho": "900ml",
+   "preco": 19.98,
+   "de": null,
+   "clube": 17.98,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Lava-roupas em Pó Todo Ciclo/Puro Cuidado",
+   "marcas": [
+    "OMO"
+   ],
+   "tamanho": "2 kg",
+   "preco": 27.98,
+   "de": null,
+   "clube": 25.98,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Lava-roupas em Pó Maciez/Primavera",
+   "marcas": [
+    "TIXAN Ypê"
+   ],
+   "tamanho": "2,2 kg",
+   "preco": 22.9,
+   "de": null,
+   "clube": 20.98,
+   "soClube": false,
+   "condicao": "leve mais, pague menos",
+   "duvida": null
+  },
+  {
+   "nome": "Amaciante Concentrado Clássico/Mistério",
+   "marcas": [
+    "MON BIJOU"
+   ],
+   "tamanho": "500ml",
+   "preco": 8.98,
+   "de": null,
+   "clube": 7.98,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Amaciante Concentrado Brisa de Verão/Brisa Intenso",
+   "marcas": [
+    "DOWNY"
+   ],
+   "tamanho": "1 L",
+   "preco": 21.96,
+   "de": null,
+   "clube": 19.96,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Alvejante Pink/White",
+   "marcas": [
+    "VANISH"
+   ],
+   "tamanho": "1,5 L",
+   "preco": 29.9,
+   "de": null,
+   "clube": 25.9,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Tira-manchas",
+   "marcas": [
+    "URCA"
+   ],
+   "tamanho": "2 L",
+   "preco": 15.9,
+   "de": null,
+   "clube": 14.79,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Desinfetante p/Roupas Sports",
+   "marcas": [
+    "UAU"
+   ],
+   "tamanho": "2 L",
+   "preco": 19.98,
+   "de": null,
+   "clube": 18.98,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Limpador p/Banheiro X-14 Tira-limo/Oxi Ativo",
+   "marcas": [
+    "VEJA"
+   ],
+   "tamanho": "500ml",
+   "preco": 12.98,
+   "de": null,
+   "clube": 11.9,
+   "soClube": false,
+   "condicao": "leve mais, pague menos",
+   "duvida": null
+  },
+  {
+   "nome": "Limpador Perfumado Concentrado Gotas de Perfume",
+   "marcas": [
+    "VEJA"
+   ],
+   "tamanho": "100ml",
+   "preco": 14.9,
+   "de": null,
+   "clube": 11.99,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Limpador Perfumado Vários Tipos",
+   "marcas": [
+    "VEJA"
+   ],
+   "tamanho": "2 L",
+   "preco": 14.98,
+   "de": null,
+   "clube": 13.9,
+   "soClube": false,
+   "condicao": "embalagem econômica",
+   "duvida": null
+  },
+  {
+   "nome": "Limpador p/Sanitário Cloro Forte/Power Plus Marine",
+   "marcas": [
+    "HARPIC"
+   ],
+   "tamanho": "750ml",
+   "preco": 14.98,
+   "de": null,
+   "clube": 12.9,
+   "soClube": false,
+   "condicao": "leve mais, pague menos",
+   "duvida": null
+  },
+  {
+   "nome": "Limpador Multiúso c/4 Unids.",
+   "marcas": [
+    "YPÊ"
+   ],
+   "tamanho": "500ml",
+   "preco": 13.9,
+   "de": null,
+   "clube": 12.89,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Limpa-vidros/Tira-limo Squeeze",
+   "marcas": [
+    "CIF"
+   ],
+   "tamanho": "500ml",
+   "preco": 13.98,
+   "de": null,
+   "clube": 11.98,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Lava-louças Líquido Concentrado Vários Tipos",
+   "marcas": [
+    "CIF"
+   ],
+   "tamanho": "420g",
+   "preco": 6.49,
+   "de": null,
+   "clube": 3.99,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Limpador Perfumado Chá Branco/Lavanda e Conforto",
+   "marcas": [
+    "UAU"
+   ],
+   "tamanho": "1 L",
+   "preco": 6.29,
+   "de": null,
+   "clube": 5.79,
+   "soClube": false,
+   "condicao": "leve mais, pague menos",
+   "duvida": null
+  },
+  {
+   "nome": "Limpa-box Blindex Gatilho",
+   "marcas": [
+    "UAU"
+   ],
+   "tamanho": "450ml",
+   "preco": 17.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "na compra de um limpa-box UAU, ganhe 50% de desconto na toalha de papel Kitchen Megarolo 200 folhas",
+   "duvida": null
+  },
+  {
+   "nome": "Desinfetante Floral/Natural Lavanda",
+   "marcas": [
+    "PINHO SOL"
+   ],
+   "tamanho": "1 L",
+   "preco": 14.98,
+   "de": null,
+   "clube": 13.89,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Desinfetante Vários Tipos",
+   "marcas": [
+    "LYSOFORM"
+   ],
+   "tamanho": "1 L",
+   "preco": 17.9,
+   "de": null,
+   "clube": 16.9,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Limpador Perfumado Menta e Orquídea/Flores de Lavanda",
+   "marcas": [
+    "AJAX"
+   ],
+   "tamanho": "1 L",
+   "preco": 9.89,
+   "de": null,
+   "clube": 7.99,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Cloro",
+   "marcas": [
+    "PRO WATER"
+   ],
+   "tamanho": "2 L",
+   "preco": 7.99,
+   "de": null,
+   "clube": 6.98,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Água Sanitária",
+   "marcas": [
+    "PRO WATER"
+   ],
+   "tamanho": "5 L",
+   "preco": 11.9,
+   "de": null,
+   "clube": 9.98,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Álcool Líquido Action 46º INPM",
+   "marcas": [
+    "PROTEGE"
+   ],
+   "tamanho": "1 L",
+   "preco": 7.9,
+   "de": null,
+   "clube": 6.99,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Vinagre de Álcool 6%",
+   "marcas": [
+    "CASTELO"
+   ],
+   "tamanho": "2 L",
+   "preco": 12.9,
+   "de": null,
+   "clube": 11.75,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Gotas Perfumadas Concentrado Vários Tipos",
+   "marcas": [
+    "GLADE"
+   ],
+   "tamanho": "120ml",
+   "preco": 13.98,
+   "de": null,
+   "clube": 12.98,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Desodorizador Pastilha Adesiva Vários Tipos c/3 Unids.",
+   "marcas": [
+    "PATO"
+   ],
+   "tamanho": "",
+   "preco": 7.98,
+   "de": null,
+   "clube": 6.98,
+   "soClube": false,
+   "condicao": "leve mais, pague menos",
+   "duvida": null
+  },
+  {
+   "nome": "Sabão Pastoso de Coco",
+   "marcas": [
+    "RUTH CARE"
+   ],
+   "tamanho": "500g",
+   "preco": 9.98,
+   "de": null,
+   "clube": 8.98,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Esponja Multiúso c/4 Unids./Antiaderente c/3 Unids.",
+   "marcas": [
+    "LIMPPANO"
+   ],
+   "tamanho": "",
+   "preco": 6.99,
+   "de": null,
+   "clube": 5.79,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Limpa-tênis Spray",
+   "marcas": [
+    "SEMORIN"
+   ],
+   "tamanho": "200ml",
+   "preco": 24.98,
+   "de": null,
+   "clube": 22.98,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  }
+ ]
+}

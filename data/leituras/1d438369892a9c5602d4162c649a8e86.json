@@ -1,0 +1,370 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-25",
+ "itens": [
+  {
+   "nome": "Filé de Coxa e Sobrecoxa de Frango",
+   "marcas": [
+    "Nat. Verde"
+   ],
+   "tamanho": "1kg",
+   "preco": 21.5,
+   "de": null,
+   "clube": 19.7,
+   "soClube": false,
+   "condicao": "Preço clube no App Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Costela Suína",
+   "marcas": [
+    "Rainha"
+   ],
+   "tamanho": "kg",
+   "preco": 27.5,
+   "de": null,
+   "clube": 24.9,
+   "soClube": false,
+   "condicao": "Preço clube no App Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Pão de Alho Tradicional",
+   "marcas": [
+    "Hiper"
+   ],
+   "tamanho": "310g",
+   "preco": 12.98,
+   "de": null,
+   "clube": 11.58,
+   "soClube": false,
+   "condicao": "Preço clube no App Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Linguiça de Pernil/Toscana Congelada",
+   "marcas": [
+    "Sulita"
+   ],
+   "tamanho": "800g",
+   "preco": 17.9,
+   "de": null,
+   "clube": 15.9,
+   "soClube": false,
+   "condicao": "Preço cada; clube no App Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Filé-mignon Suíno",
+   "marcas": [
+    "Aurora"
+   ],
+   "tamanho": "kg",
+   "preco": 24.7,
+   "de": null,
+   "clube": 22.6,
+   "soClube": false,
+   "condicao": "Preço clube no App Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Picanha Suína Congelada",
+   "marcas": [
+    "Seara"
+   ],
+   "tamanho": "kg",
+   "preco": 29.5,
+   "de": null,
+   "clube": 25.7,
+   "soClube": false,
+   "condicao": "Preço clube no App Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Galeto",
+   "marcas": [
+    "Seara"
+   ],
+   "tamanho": "kg",
+   "preco": 18.2,
+   "de": null,
+   "clube": 16.9,
+   "soClube": false,
+   "condicao": "Preço clube no App Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Coxas de Frango Assa Fácil",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "1,2kg",
+   "preco": 22.7,
+   "de": null,
+   "clube": 20.8,
+   "soClube": false,
+   "condicao": "Preço clube no App Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Frango a Passarinho",
+   "marcas": [
+    "C.Vale"
+   ],
+   "tamanho": "Pacote 1kg",
+   "preco": 13.3,
+   "de": null,
+   "clube": 11.98,
+   "soClube": false,
+   "condicao": "Preço cada; clube no App Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Ossobuco Bovino Congelado",
+   "marcas": [
+    "Bassi"
+   ],
+   "tamanho": "kg",
+   "preco": 69.9,
+   "de": null,
+   "clube": 59.9,
+   "soClube": false,
+   "condicao": "Preço clube no App Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Carne-seca Jerked Beef Dianteiro",
+   "marcas": [
+    "Perdigão Montana"
+   ],
+   "tamanho": "400g",
+   "preco": 25.9,
+   "de": null,
+   "clube": 22.9,
+   "soClube": false,
+   "condicao": "Preço clube no App Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Fígado de Frango",
+   "marcas": [
+    "Levida"
+   ],
+   "tamanho": "Bandeja 1kg",
+   "preco": 7.65,
+   "de": null,
+   "clube": 6.7,
+   "soClube": false,
+   "condicao": "Preço clube no App Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Moela de Frango",
+   "marcas": [
+    "Levida"
+   ],
+   "tamanho": "Bandeja 1kg",
+   "preco": 15.8,
+   "de": null,
+   "clube": 12.6,
+   "soClube": false,
+   "condicao": "Preço clube no App Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Costela Suína Premium Barbecue",
+   "marcas": [
+    "Aurora"
+   ],
+   "tamanho": "900g",
+   "preco": 69.8,
+   "de": null,
+   "clube": 63.9,
+   "soClube": false,
+   "condicao": "Preço clube no App Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Carpaccio de Carne Bovina",
+   "marcas": [
+    "Frisa"
+   ],
+   "tamanho": "200g",
+   "preco": 36.8,
+   "de": null,
+   "clube": 34.9,
+   "soClube": false,
+   "condicao": "Preço clube no App Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Pão de Queijo Assado Receita Caseira",
+   "marcas": [
+    "Forno de Minas"
+   ],
+   "tamanho": "400g",
+   "preco": 19.98,
+   "de": null,
+   "clube": 16.98,
+   "soClube": false,
+   "condicao": "Preço clube no App Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Pão de Queijo Pipoquinha",
+   "marcas": [
+    "Forno de Minas"
+   ],
+   "tamanho": "400g",
+   "preco": 23.98,
+   "de": null,
+   "clube": 17.98,
+   "soClube": false,
+   "condicao": "Preço clube no App Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Pão de Queijo Lanche Pacotão",
+   "marcas": [
+    "Massa Leve"
+   ],
+   "tamanho": "1kg",
+   "preco": 21.98,
+   "de": null,
+   "clube": 18.98,
+   "soClube": false,
+   "condicao": "Preço clube no App Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Camarão 30/60 Congelado Cozido e Descascado",
+   "marcas": [
+    "Bomar"
+   ],
+   "tamanho": "Pacote 400g",
+   "preco": 49.9,
+   "de": null,
+   "clube": 41.9,
+   "soClube": false,
+   "condicao": "Preço clube no App Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Filé de Tilápia Congelado",
+   "marcas": [
+    "Netuno"
+   ],
+   "tamanho": "Pacote 500g",
+   "preco": 26.9,
+   "de": null,
+   "clube": 23.9,
+   "soClube": false,
+   "condicao": "Preço clube no App Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Camarão 35/50 Congelado Cozido e Descascado",
+   "marcas": [
+    "Frescatto"
+   ],
+   "tamanho": "Pacote 400g",
+   "preco": 79.9,
+   "de": null,
+   "clube": 71.5,
+   "soClube": false,
+   "condicao": "Preço clube no App Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Filé de Piramutaba Congelado",
+   "marcas": [
+    "Buona Pesca"
+   ],
+   "tamanho": "Pacote 500g",
+   "preco": 19.9,
+   "de": null,
+   "clube": 17.98,
+   "soClube": false,
+   "condicao": "Preço clube no App Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Sardinha Eviscerada Congelada",
+   "marcas": [
+    "Costa Sul"
+   ],
+   "tamanho": "Pacote 800g",
+   "preco": 21.9,
+   "de": null,
+   "clube": 16.99,
+   "soClube": false,
+   "condicao": "Preço clube no App Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Camarão 7B/Ferrinho Congelado Descascado",
+   "marcas": [
+    "Costa Sul"
+   ],
+   "tamanho": "Pacote 400g",
+   "preco": 35.9,
+   "de": null,
+   "clube": 29.98,
+   "soClube": false,
+   "condicao": "Preço clube no App Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Filé de Linguado Congelado",
+   "marcas": [
+    "Costa Sul"
+   ],
+   "tamanho": "Pacote 500g",
+   "preco": 53.8,
+   "de": null,
+   "clube": 47.95,
+   "soClube": false,
+   "condicao": "Preço clube no App Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Kit Paella Congelado",
+   "marcas": [
+    "Costa Sul"
+   ],
+   "tamanho": "Pacote 300g",
+   "preco": 27.9,
+   "de": null,
+   "clube": 22.98,
+   "soClube": false,
+   "condicao": "Preço clube no App Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Filé de Polaca Congelado",
+   "marcas": [
+    "Costa Sul"
+   ],
+   "tamanho": "Pacote 500g",
+   "preco": 22.9,
+   "de": null,
+   "clube": 19.75,
+   "soClube": false,
+   "condicao": "Preço clube no App Mundial Total",
+   "duvida": null
+  },
+  {
+   "nome": "Bolinho de Tilápia Congelado",
+   "marcas": [
+    "Costa Sul"
+   ],
+   "tamanho": "Pacote 270g",
+   "preco": 12.9,
+   "de": null,
+   "clube": 10.99,
+   "soClube": false,
+   "condicao": "Preço clube no App Mundial Total",
+   "duvida": null
+  }
+ ]
+}
