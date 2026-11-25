@@ -21,7 +21,8 @@ export type ProgramaId =
   | 'guana-clube'
   | 'mundial-total'
   | 'meu-atacadao'
-  | 'cartao-atacadao';
+  | 'cartao-atacadao'
+  | 'meu-assai';
 
 /** Tamanho da embalagem já convertido para a unidade-base. */
 export interface Tamanho {

@@ -1,0 +1,14 @@
+{
+ "fonte": "ofertas_assai.json do site do Assaí, aberto pelo dono no celular em 25/11/2026. Só as campanhas do RJ (cluster 538 = as 41 lojas do RJ). O robô baixa as páginas (imagens no CloudFront, fora do escudo anti-robô) e lê com IA.",
+ "encartes": [
+  {"campanha": "176546-538", "inicio": "2026-11-23", "fim": "2026-11-26", "paginas": ["https://d2q57q7k4hzryv.cloudfront.net/RPA/v3/176546/campanha-176546-cluster-538-pagina-1.jpeg"]},
+  {"campanha": "176547-538", "inicio": "2026-11-23", "fim": "2026-11-26", "paginas": [
+   "https://d2q57q7k4hzryv.cloudfront.net/RPA/v3/176547/campanha-176547-cluster-538-pagina-1.jpeg",
+   "https://d2q57q7k4hzryv.cloudfront.net/RPA/v3/176547/campanha-176547-cluster-538-pagina-2.jpeg",
+   "https://d2q57q7k4hzryv.cloudfront.net/RPA/v3/176547/campanha-176547-cluster-538-pagina-3.jpeg",
+   "https://d2q57q7k4hzryv.cloudfront.net/RPA/v3/176547/campanha-176547-cluster-538-pagina-4.jpeg"]},
+  {"campanha": "176697-538", "inicio": "2026-11-25", "fim": "2026-11-26", "paginas": [
+   "https://d2q57q7k4hzryv.cloudfront.net/RPA/v3/176697/campanha-176697-cluster-538-pagina-1.jpeg",
+   "https://d2q57q7k4hzryv.cloudfront.net/RPA/v3/176697/campanha-176697-cluster-538-pagina-2.jpeg"]}
+ ]
+}

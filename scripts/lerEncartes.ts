@@ -132,6 +132,60 @@ async function guanabara(cliente: ReturnType<typeof criarCliente>, gastoAte: num
   }
 }
 
+/**
+ * Assaí: o site tem escudo anti-robô, então a lista de encartes vem de data/fontes/assai-encartes-rj.json (o dono abre
+ * o ofertas_assai.json no celular e manda). As páginas são imagens num servidor de arquivos (CloudFront) sem escudo.
+ * Cada campanha vira data/curadoria/assai-ia-<campanha>.json; campanha já lida ou vencida é pulada.
+ */
+async function assai(cliente: ReturnType<typeof criarCliente>, gastoAte: number): Promise<number> {
+  console.log('Assaí…');
+  const fonte = JSON.parse(readFileSync(join(RAIZ, 'data/fontes/assai-encartes-rj.json'), 'utf8'));
+  let gasto = gastoAte;
+  for (const e of fonte.encartes as { campanha: string; inicio: string; fim: string; paginas: string[] }[]) {
+    const id = `assai-ia-${e.campanha}`;
+    if (e.fim < hojeRio) { console.log(`  ${e.campanha}: venceu em ${e.fim}; pulei`); continue; }
+    if (existsSync(join(CURADORIA, `${id}.json`)) && !TESTE) { console.log(`  ${e.campanha}: já lido; pulei`); continue; }
+    const pasta = mkdtempSync(join(tmpdir(), 'assai-'));
+    try {
+      const itens: any[] = [];
+      const inicioGasto = gasto;
+      let completo = true;
+      const paginas = TESTE ? e.paginas.slice(0, 1) : e.paginas;
+      for (const [i, url] of paginas.entries()) {
+        if (gasto >= LIMITE_US) { console.log(`  ! parei: limite de gasto (US$ ${LIMITE_US})`); completo = false; break; }
+        const original = join(pasta, `p${i + 1}-original.jpg`);
+        const arq = join(pasta, `p${i + 1}.jpg`);
+        baixarArquivo(url, original);
+        // Mesmo tamanho das páginas do Guanabara (lado maior 1568 px): a IA lê bem e custa menos.
+        execFileSync('convert', [original, '-resize', '1568x1568>', '-quality', '85', arq]);
+        const r = await lerComReaproveitamento(cliente, arq, `Encarte do Assaí Atacadista (Rio de Janeiro), válido de ${e.inicio} a ${e.fim}, página ${i + 1} de ${e.paginas.length}. O app do Assaí se chama "Meu Assaí". Atacarejo: preços de atacado ("a partir de X unidades") são condição, não o preço normal.`);
+        gasto += r.custo;
+        console.log(`  ${e.campanha} página ${i + 1}: ${r.itens.length} ofertas · ${r.info}`);
+        for (const it of r.itens) itens.push({ pagina: i + 1, ...limpar(it) });
+      }
+      if (TESTE) {
+        for (const it of itens.slice(0, 80)) console.log(`  ${it.nome} | ${it.marcas.join(', ')} | ${it.tamanho} | ${it.preco}${it.clube ? ` app ${it.clube}` : ''}${it.condicao ? ` | ${it.condicao}` : ''}${it.duvida ? ` | DÚVIDA: ${it.duvida}` : ''}`);
+        return gasto;
+      }
+      if (!completo) return gasto; // não salva encarte pela metade
+      const arquivo = {
+        encarte: id,
+        mercado: 'assai',
+        programaClube: 'meu-assai',
+        nomeClube: 'app Meu Assaí',
+        encarteInfo: { id, mercado: 'assai', titulo: 'Encarte Assaí RJ', inicio: e.inicio, fim: e.fim, lojas: [], fonte: `imagens do encarte do Assaí (lista enviada pelo dono), lidas por IA (${modelo}) em ${hojeRio}` },
+        observacao: `Lido por IA (${modelo}); custo aproximado US$ ${(gasto - inicioGasto).toFixed(2)}. Não revisado.`,
+        itens,
+      };
+      writeFileSync(join(CURADORIA, `${id}.json`), JSON.stringify(arquivo, null, 1) + '\n');
+      console.log(`  salvo data/curadoria/${id}.json (${itens.length} ofertas, US$ ${(gasto - inicioGasto).toFixed(2)})`);
+    } finally {
+      rmSync(pasta, { recursive: true, force: true });
+    }
+  }
+  return gasto;
+}
+
 /** Formato da curadoria: só manda os campos preenchidos. */
 function limpar(it: any) {
   return {
@@ -210,7 +264,12 @@ const cliente = criarCliente();
 let gasto = 0;
 let falhas = 0;
 try {
-  gasto = process.argv.includes('--mundial') ? await compararMundial(cliente, gasto) : await guanabara(cliente, gasto);
+  if (process.argv.includes('--mundial')) gasto = await compararMundial(cliente, gasto);
+  else if (process.argv.includes('--assai')) gasto = await assai(cliente, gasto);
+  else {
+    gasto = await guanabara(cliente, gasto);
+    gasto = await assai(cliente, gasto);
+  }
 } catch (e) {
   falhas++;
   console.error(`  ERRO: ${(e as Error).message}`);
