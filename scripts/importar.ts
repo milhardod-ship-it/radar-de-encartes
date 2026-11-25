@@ -372,7 +372,7 @@ interface ArquivoCuradoria {
 /** "cada", "garrafa", "Pote 1kg", "Caixeta 672g", "preço cada pacote"… = só a embalagem, não é condição de compra. */
 function condicaoSoEmbalagem(t: string): boolean {
   if (/%|leve|pague|app|clube|cart[aã]o|r\$|a partir|gr[aá]tis|limite|desconto|unidade sai|kg sai/i.test(t)) return false;
-  return /^(pre[çc]o\s+)?(cada|unidade|garrafa|pacote|caixeta|sach[eê]|pote|bandeja|lata|frasco|gal[aã]o|embalagem)\b/i.test(t.trim());
+  return /^(pre[çc]o\s+)?(cada|unidade|garrafa|pacote|caixeta|sach[eê]|pote|bandeja|lata|frasco|gal[aã]o|embalagem)(?=$|[\s,;.])/i.test(t.trim());
 }
 
 for (const arq of readdirSync(join(RAIZ, 'data/curadoria')).filter((f) => f.endsWith('.json')).sort()) {

@@ -127,8 +127,7 @@
   "precos": [
    {
     "valor": 44.9,
-    "exige": [],
-    "condicao": "sachê"
+    "exige": []
    }
   ],
   "revisado": false
