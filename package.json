@@ -10,7 +10,8 @@
     "preview": "vite preview",
     "test": "vitest run",
     "coletar": "tsx scripts/coletar.ts",
-    "lojas": "tsx scripts/lojas.ts"
+    "lojas": "tsx scripts/lojas.ts",
+    "ler-encartes": "tsx scripts/lerEncartes.ts"
   },
   "dependencies": {
     "react": "^19.3.1",
@@ -24,7 +25,8 @@
     "tsx": "^4.23.15",
     "typescript": "~5.8.3",
     "vite": "^6.4.5",
-    "vitest": "^3.2.7"
+    "vitest": "^3.2.7",
+    "@anthropic-ai/sdk": "^1.14.0"
   },
   "engines": {
     "node": ">=20.11"

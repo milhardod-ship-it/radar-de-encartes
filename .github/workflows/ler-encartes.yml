@@ -1,0 +1,53 @@
+# Leitura de encartes em IMAGEM com a API do Claude (usa o segredo ANTHROPIC_API_KEY; gasta os créditos da API).
+# Por enquanto só manual: Actions → "Ler encartes com IA" → Run workflow.
+#   modo "teste": lê só a 1ª página do Guanabara, mostra o resultado e o custo no log, não salva nada.
+#   modo "ler":   lê o encarte inteiro (se ainda não foi lido) e publica no app. Trava: até US$ 1 por execução.
+name: Ler encartes com IA
+
+on:
+  workflow_dispatch:
+    inputs:
+      modo:
+        description: 'teste (1 página, não salva) ou ler (encarte inteiro)'
+        required: true
+        default: teste
+        type: choice
+        options: [teste, ler]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: coleta
+  cancel-in-progress: false
+
+jobs:
+  ler:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Leitor de PDF
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+      - name: Ler encartes
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: npm run ler-encartes -- ${{ inputs.modo == 'teste' && '--teste' || '' }}
+      - name: Importar, testar e conferir o build
+        if: inputs.modo == 'ler'
+        run: npm run build && npm test
+      - name: Salvar
+        if: inputs.modo == 'ler'
+        run: |
+          git config user.name "radar-robo"
+          git config user.email "radar-robo@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then echo "Nada novo."; exit 0; fi
+          git commit -m "Robô: encarte lido por IA em $(date -u +%Y-%m-%d)"
+          git pull --rebase origin main
+          git push

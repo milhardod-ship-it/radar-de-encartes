@@ -344,6 +344,8 @@ interface ItemCuradoria {
 }
 interface ArquivoCuradoria {
   encarte: string;
+  /** Encarte desta curadoria (leituras por IA registram o encarte aqui, não em encartes-manuais.json). */
+  encarteInfo?: Encarte;
   /** Se este arquivo de data/brutos existir, a curadoria é ignorada (a fonte automática chegou). */
   pularSeExistir?: string;
   mercado: MercadoId;
@@ -361,6 +363,7 @@ for (const arq of readdirSync(join(RAIZ, 'data/curadoria')).filter((f) => f.ends
     console.log(`Curadoria ${arq} ignorada: a fonte automática (${c.pularSeExistir}) já existe.`);
     continue;
   }
+  if (c.encarteInfo && !encartes.some((e) => e.id === c.encarteInfo!.id)) encartes.push(c.encarteInfo);
   for (const it of c.itens) {
     const precos: Preco[] =
       it.soClube && c.programaClube
