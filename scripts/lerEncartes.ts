@@ -78,7 +78,7 @@ async function guanabara(cliente: ReturnType<typeof criarCliente>, gastoAte: num
     }
     if (TESTE) {
       console.log('  --- amostra (teste, nada foi salvo) ---');
-      for (const it of itens.slice(0, 25)) console.log(`  ${it.nome} | ${it.marcas.join(', ')} | ${it.tamanho} | ${it.preco}${it.de ? ` (de ${it.de})` : ''}${it.clube ? ` clube ${it.clube}` : ''}${it.soClube ? ' SÓ CLUBE' : ''}${it.condicao ? ` | ${it.condicao}` : ''}${it.duvida ? ` | DÚVIDA: ${it.duvida}` : ''}`);
+      for (const it of itens.slice(0, 80)) console.log(`  ${it.nome} | ${it.marcas.join(', ')} | ${it.tamanho} | ${it.preco}${it.de ? ` (de ${it.de})` : ''}${it.clube ? ` clube ${it.clube}` : ''}${it.soClube ? ' SÓ CLUBE' : ''}${it.condicao ? ` | ${it.condicao}` : ''}${it.duvida ? ` | DÚVIDA: ${it.duvida}` : ''}`);
       return gasto;
     }
     const id = `guanabara-ia-${validade.inicio}`;
