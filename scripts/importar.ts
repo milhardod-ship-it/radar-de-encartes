@@ -17,7 +17,7 @@ import { idProduto, unificarProdutos } from '../src/core/canonico';
 import { categorizar } from '../src/core/categorias';
 import { idsDasLojas } from '../src/core/locais';
 import { MARCAS_CONHECIDAS, limparNome, separarMarca, separarMarcas } from '../src/core/marcas';
-import { extrairTamanho } from '../src/core/texto';
+import { extrairTamanho, formatarReais } from '../src/core/texto';
 import type { Encarte, Loja, MercadoId, Oferta, Preco, ProgramaId } from '../src/core/tipos';
 
 const RAIZ = join(dirname(fileURLToPath(import.meta.url)), '..');
@@ -114,20 +114,18 @@ const marcasConhecidas = new Set<string>(MARCAS_CONHECIDAS);
       const textoTamanho = o.measureUnit === 'KG' ? 'Quilo' : `${p.customWeight ?? ''} ${p.customName ?? ''}`;
       const preco = reais(o.price)!;
       const normal = reais(o.oldPrice);
-      // Promoção por quantidade: no site, `price` NÃO é o preço de 1 unidade.
+      // Promoção por quantidade (só no app Mundial Total): no site, `price` NÃO é o preço de 1 unidade.
       //   "leve 4, pague 3" → price = média por unidade levando 4 (9,80 → 7,35);
-      //   "2ª unidade com 30%" → price = preço só da 2ª unidade (Omo 14,66 → 10,26).
-      // O preço de 1 unidade é o `oldPrice`; a promoção vira só um aviso, e a oferta fica "a confirmar"
-      // até o dono conferir o padrão com o encarte (25/11: Omo 750ml = 14,66 + desconto na 2ª).
+      //   "30% na 2ª unidade" → price = preço só da 2ª unidade (Omo 14,66 → 10,26, confirmado pelo dono em 25/11).
+      // O preço de 1 unidade é o `oldPrice`; a promoção vira aviso com os valores.
       const promoQuantidade = o.quantity > 1 && normal;
       let limite: string | undefined;
       let duvida: string | undefined;
       let precos: Preco[];
       if (promoQuantidade) {
         limite = o.percent
-          ? `Promoção no app Mundial Total: ${o.percent}% de desconto na ${o.quantity}ª unidade`
-          : `Promoção no app Mundial Total: leve ${o.quantity}, pague ${o.quantity2}`;
-        duvida = 'promoção por quantidade lida do site do Mundial; o preço mostrado é o de 1 unidade';
+          ? `No app Mundial Total: a ${o.quantity}ª unidade sai por ${formatarReais(preco)} (${o.percent}% de desconto)`
+          : `No app Mundial Total: leve ${o.quantity}, pague ${o.quantity2} (sai por ${formatarReais(preco)} cada)`;
         precos = [{ valor: normal, exige: [] }];
       } else {
         precos = normal
