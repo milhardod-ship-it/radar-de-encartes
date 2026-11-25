@@ -1,0 +1,548 @@
+{
+ "fonte": "atacadao-api",
+ "coletadoEm": "2026-11-25T15:45:08.249Z",
+ "folheto": {
+  "id": "18A06tsNh1EDcwf7yE6icZxcwhkpiA9Sr",
+  "nome": "Quarta do Biscoito",
+  "inicio": "2026-11-25",
+  "fim": "2026-11-25",
+  "url": "https://apigw.cloud.carrefour.com.br/api-middleware-flyer-services/api/v2/Flyer/?id=18A06tsNh1EDcwf7yE6icZxcwhkpiA9Sr",
+  "lojas": [
+   {
+    "id": 679,
+    "nome": "Belford Roxo",
+    "bairro": "Centro",
+    "cidade": "Belford Roxo",
+    "lat": -22.77552679,
+    "lon": -43.39788906
+   },
+   {
+    "id": 336,
+    "nome": "Cabo Frio Tamoios 24hrs",
+    "bairro": "Unamar (Tamoios)",
+    "cidade": "Cabo Frio",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 102,
+    "nome": "Goytacazes Guarus",
+    "bairro": "Parque Guarus",
+    "cidade": "Campos dos Goytacazes",
+    "lat": -21.71022,
+    "lon": -41.30951
+   },
+   {
+    "id": 292,
+    "nome": "Goytacazes Santo Amaro",
+    "bairro": "Parque Santo Amaro",
+    "cidade": "Campos dos Goytacazes",
+    "lat": -21.7653,
+    "lon": -41.34492
+   },
+   {
+    "id": 174,
+    "nome": "Duque de Caxias",
+    "bairro": "Vila Actura",
+    "cidade": "Duque de Caxias",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 193,
+    "nome": "Itaboraí",
+    "bairro": "Manilha",
+    "cidade": "Itaboraí",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 130,
+    "nome": "Macaé",
+    "bairro": "São José do Barreto",
+    "cidade": "Macaé",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 319,
+    "nome": "Marica",
+    "bairro": "Flamego",
+    "cidade": "Maricá",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 259,
+    "nome": "Nova Friburgo",
+    "bairro": "Duas Pedras",
+    "cidade": "Nova Friburgo",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 291,
+    "nome": "Nova Iguaçu Comendador Soares",
+    "bairro": "Comendador Soares",
+    "cidade": "Nova Iguaçu",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 67,
+    "nome": "Nova Iguaçu Maria da Luz",
+    "bairro": "Maria da Luz",
+    "cidade": "Nova Iguaçu",
+    "lat": -22.75756013,
+    "lon": -43.43141051
+   },
+   {
+    "id": 207,
+    "nome": "Resende",
+    "bairro": "Jardim Aliança",
+    "cidade": "Resende",
+    "lat": -22.47413245,
+    "lon": -44.5078324
+   },
+   {
+    "id": 270,
+    "nome": "Rio das Ostras",
+    "bairro": "Atlantica",
+    "cidade": "Rio das Ostras",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 247,
+    "nome": "Realengo",
+    "bairro": "Realengo",
+    "cidade": "Rio de Janeiro",
+    "lat": -22.87611969,
+    "lon": -43.42760452
+   },
+   {
+    "id": 249,
+    "nome": "Benfica",
+    "bairro": "Manguinhos",
+    "cidade": "Rio de Janeiro",
+    "lat": -22.88012767,
+    "lon": -43.23904053
+   },
+   {
+    "id": 210,
+    "nome": "Jacarepaguá",
+    "bairro": "Jacarepaguá",
+    "cidade": "Rio de Janeiro",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 136,
+    "nome": "Santa Cruz",
+    "bairro": "Santa Cruz",
+    "cidade": "Rio de Janeiro",
+    "lat": -22.89213,
+    "lon": -43.67765
+   },
+   {
+    "id": 294,
+    "nome": "Barra",
+    "bairro": "Barra da Tijuca",
+    "cidade": "Rio de Janeiro",
+    "lat": -22.99032122,
+    "lon": -43.36344795
+   },
+   {
+    "id": 699,
+    "nome": "Bangu",
+    "bairro": "Bangu",
+    "cidade": "Rio de Janeiro",
+    "lat": -22.8765669,
+    "lon": -43.46765093
+   },
+   {
+    "id": 63,
+    "nome": "Automóvel Clube",
+    "bairro": "Vicente de Carvalho",
+    "cidade": "Rio de Janeiro",
+    "lat": -22.85385092,
+    "lon": -43.3106037
+   },
+   {
+    "id": 65,
+    "nome": "Guadalupe",
+    "bairro": "Guadalupe",
+    "cidade": "Rio de Janeiro",
+    "lat": -22.84202,
+    "lon": -43.37572
+   },
+   {
+    "id": 275,
+    "nome": "Bonsucesso",
+    "bairro": "Bonsucesso",
+    "cidade": "Rio de Janeiro",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 278,
+    "nome": "Mendanha",
+    "bairro": "Campo Grande",
+    "cidade": "Rio de Janeiro",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 691,
+    "nome": "Pilares",
+    "bairro": "Cachambi",
+    "cidade": "Rio de Janeiro",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 202,
+    "nome": "São Gonçalo",
+    "bairro": "Alcântara",
+    "cidade": "São Gonçalo",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 681,
+    "nome": "Manilha",
+    "bairro": "Neves",
+    "cidade": "São Gonçalo",
+    "lat": -22.85264227,
+    "lon": -43.10065268
+   },
+   {
+    "id": 157,
+    "nome": "Cabo Frio 24hrs",
+    "bairro": "Campo Redondo",
+    "cidade": "São Pedro da Aldeia",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 289,
+    "nome": "Volta Redonda Vila Rica",
+    "bairro": "Jardim Vila Rica",
+    "cidade": "Volta Redonda",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 815,
+    "nome": "Volta Redonda São Geraldo",
+    "bairro": "São Geraldo",
+    "cidade": "Volta Redonda",
+    "lat": null,
+    "lon": null
+   }
+  ]
+ },
+ "documento": "rj (QUA DOC BISC) 25 a 27 nov 26 A3 1P DIG OS 1770-B.indd",
+ "paginas": [
+  {
+   "pagina": 1,
+   "itens": [
+    {
+     "numero": 1,
+     "descricao": "Biscoito Tostines\nÁgua\nPacote com 200g",
+     "campos": {
+      "P": "R$0,99"
+     },
+     "skus": [
+      "77560"
+     ]
+    },
+    {
+     "numero": 2,
+     "descricao": "Biscoito Tortini Triunfo\nChocolate/ Morango\nPacote com 90g",
+     "campos": {
+      "P": "R$0,99"
+     },
+     "skus": [
+      "44345",
+      "59228",
+      "59229",
+      "67928"
+     ]
+    },
+    {
+     "numero": 3,
+     "descricao": "Biscoito Wafer Marilan\nVários sabores\nPacote com 70g",
+     "campos": {
+      "P": "R$0,99"
+     },
+     "skus": [
+      "12272"
+     ]
+    },
+    {
+     "numero": 4,
+     "descricao": "Biscoito Cookies Rancheiro\nChocolate/ Gotas de Chocolate\nPacote com 60g",
+     "campos": {
+      "P": "R$0,99"
+     },
+     "skus": [
+      "10391",
+      "12265",
+      "12277",
+      "95102"
+     ]
+    },
+    {
+     "numero": 5,
+     "descricao": "Biscoito Mucilon\nVários sabores\nPacote com 35g",
+     "campos": {
+      "P": "R$0,99"
+     },
+     "skus": [
+      "83880",
+      "83881",
+      "83887"
+     ]
+    },
+    {
+     "numero": 6,
+     "descricao": "Biscoito Recheado Tortuguita\nChocolate/ Morango\nPacote com 86g",
+     "campos": {
+      "P": "R$1,49"
+     },
+     "skus": [
+      "57811",
+      "57812"
+     ]
+    },
+    {
+     "numero": 7,
+     "descricao": "Biscoito Salgado Tuc’s\nVários sabores\nPacote com 100g",
+     "campos": {
+      "P": "R$1,49"
+     },
+     "skus": [
+      "14734"
+     ]
+    },
+    {
+     "numero": 8,
+     "descricao": "Rosquinha Recheada Rancheiro\nVários sabores\nPacote com 90g",
+     "campos": {
+      "P": "R$1,49"
+     },
+     "skus": [
+      "14748",
+      "14749",
+      "67965",
+      "67966",
+      "73979",
+      "86522"
+     ]
+    },
+    {
+     "numero": 9,
+     "descricao": "Biscoito Wafer Rancheiro\nVários sabores\nPacote com 78g",
+     "campos": {
+      "P": "R$1,49"
+     },
+     "skus": [
+      "69115",
+      "69116",
+      "69117"
+     ]
+    },
+    {
+     "numero": 10,
+     "descricao": "Biscoito Negresco/Bono Nestlé\nVários sabores\nPacote com 90g",
+     "campos": {
+      "P": "R$1,59"
+     },
+     "skus": [
+      "18551",
+      "18626",
+      "83722",
+      "83723",
+      "83724",
+      "83725",
+      "83727"
+     ]
+    },
+    {
+     "numero": 11,
+     "descricao": "Biscoito Recheado Panco\nVários sabores\nPacote com 140g",
+     "campos": {
+      "P": "R$1,79"
+     },
+     "skus": [
+      "87272",
+      "87274",
+      "87275"
+     ]
+    },
+    {
+     "numero": 12,
+     "descricao": "Biscoito Cookie Nestlé\nVários sabores\nPacote com 60g",
+     "campos": {
+      "P": "R$1,79"
+     },
+     "skus": [
+      "70910",
+      "70912",
+      "70913"
+     ]
+    },
+    {
+     "numero": 13,
+     "descricao": "Biscoito Kerus LeGusto\nCoberto de Chocolate\nPacote com 80g",
+     "campos": {
+      "P": "R$1,99"
+     },
+     "skus": [
+      "86522"
+     ]
+    },
+    {
+     "numero": 14,
+     "descricao": "Biscoito Tortinhas Marilan\nVários sabores\nPacote com 140g",
+     "campos": {
+      "P": "R$1,99"
+     },
+     "skus": [
+      "03443",
+      "72643",
+      "72644",
+      "72645"
+     ]
+    },
+    {
+     "numero": 15,
+     "descricao": "Biscoito Rosquinha Kerus\nVários sabores\nPacote com 300g",
+     "campos": {
+      "P": "R$2,19"
+     },
+     "skus": [
+      "17053",
+      "87701",
+      "87702"
+     ]
+    },
+    {
+     "numero": 16,
+     "descricao": "Biscoito Recheado Oreo\nVários sabores\nPacote com 90g",
+     "campos": {
+      "P": "R$2,49"
+     },
+     "skus": [
+      "17055",
+      "49265",
+      "52081",
+      "78115"
+     ]
+    },
+    {
+     "numero": 17,
+     "descricao": "Biscoito Piraquê Newafer\nVários sabores\nPacote com 100g",
+     "campos": {
+      "P": "R$2,50"
+     },
+     "skus": [
+      "53181",
+      "53182",
+      "53191"
+     ]
+    },
+    {
+     "numero": 18,
+     "descricao": "Biscoito Gameleira\nCoquinho\nPacote com 300g",
+     "campos": {
+      "P": "R$2,99"
+     },
+     "skus": [
+      "95635"
+     ]
+    },
+    {
+     "numero": 19,
+     "descricao": "Biscoito Rosquinha Rancheiro\nVários sabores\nPacote com 300g",
+     "campos": {
+      "P": "R$2,99"
+     },
+     "skus": [
+      "69119",
+      "81854",
+      "95012"
+     ]
+    },
+    {
+     "numero": 20,
+     "descricao": "Biscoito Recheado Supreme Piraquê\nVários sabores\nPacote com 80g",
+     "campos": {
+      "P": "R$2,99"
+     },
+     "skus": [
+      "85130",
+      "85131",
+      "85133"
+     ]
+    },
+    {
+     "numero": 21,
+     "descricao": "Biscoito Recheado Chocolícia\nPacote com 132g",
+     "campos": {
+      "P": "R$3,99"
+     },
+     "skus": [
+      "74952"
+     ]
+    },
+    {
+     "numero": 22,
+     "descricao": "Biscoito Club Social\nVários sabores\nPacote com 141g",
+     "campos": {
+      "P": "R$3,99"
+     },
+     "skus": [
+      "05522",
+      "54629",
+      "54630"
+     ]
+    },
+    {
+     "numero": 23,
+     "descricao": "Biscoito Porto Alegre\nChampagne\nPacote com 150g",
+     "campos": {
+      "P": "R$4,99"
+     },
+     "skus": [
+      "47406"
+     ]
+    },
+    {
+     "numero": 24,
+     "descricao": "Biscoito Panco\nDeliciosos Salgadinhos/ Salgado\nPacote com 500g",
+     "campos": {
+      "P": "R$4,99"
+     },
+     "skus": [
+      "26253",
+      "26257"
+     ]
+    },
+    {
+     "numero": 25,
+     "descricao": "Biscoito Amanteigado Marilan\nVários sabores\nPacote com 280g",
+     "campos": {
+      "P": "R$4,99"
+     },
+     "skus": [
+      "18192",
+      "72638",
+      "72639"
+     ]
+    }
+   ]
+  }
+ ]
+}
