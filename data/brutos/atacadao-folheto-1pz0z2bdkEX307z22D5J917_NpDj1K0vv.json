@@ -1,0 +1,248 @@
+{
+ "fonte": "atacadao-api",
+ "coletadoEm": "2026-11-25T01:28:35.128Z",
+ "folheto": {
+  "id": "1pz0z2bdkEX307z22D5J917_NpDj1K0vv",
+  "nome": "Hortifrúti",
+  "inicio": "2026-11-25",
+  "fim": "2026-11-26",
+  "url": "https://apigw.cloud.carrefour.com.br/api-middleware-flyer-services/api/v2/Flyer/?id=1pz0z2bdkEX307z22D5J917_NpDj1K0vv",
+  "lojas": [
+   {
+    "id": 207,
+    "nome": "Resende",
+    "bairro": "Jardim Aliança",
+    "cidade": "Resende",
+    "lat": -22.47413245,
+    "lon": -44.5078324
+   },
+   {
+    "id": 289,
+    "nome": "Volta Redonda Vila Rica",
+    "bairro": "Jardim Vila Rica",
+    "cidade": "Volta Redonda",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 815,
+    "nome": "Volta Redonda São Geraldo",
+    "bairro": "São Geraldo",
+    "cidade": "Volta Redonda",
+    "lat": null,
+    "lon": null
+   }
+  ]
+ },
+ "documento": "rj (resen volta re - HF) 25 e 26 nov 26 A4 2P DIG OS 1759-D.indd",
+ "paginas": [
+  {
+   "pagina": 1,
+   "itens": [
+    {
+     "numero": 1,
+     "descricao": "Abóbora Paulista/Jacaré/ Sergipana\nQuilo",
+     "campos": {
+      "D": "de:  R$ 5,99  por:",
+      "P": "R$3,99"
+     },
+     "skus": [
+      "02093"
+     ]
+    },
+    {
+     "numero": 2,
+     "descricao": "Cebola\nQuilo",
+     "campos": {
+      "D": "de:  R$ 9,98  por:",
+      "P": "R$8,99"
+     },
+     "skus": [
+      "14692"
+     ]
+    },
+    {
+     "numero": 3,
+     "descricao": "Coco Verde\nUnidade",
+     "campos": {
+      "D": "de:  R$ 5,99  por:",
+      "P": "R$3,99"
+     },
+     "skus": [
+      "01651"
+     ]
+    },
+    {
+     "numero": 4,
+     "descricao": "Laranja-pera\nGranel\nQuilo",
+     "campos": {
+      "D": "de:  R$ 4,99  por:",
+      "P": "R$2,99"
+     },
+     "skus": [
+      "11672"
+     ]
+    },
+    {
+     "numero": 5,
+     "descricao": "Abóbora Italiana\nQuilo",
+     "campos": {
+      "D": "de:  R$ 6,99  por:",
+      "P": "R$4,99"
+     },
+     "skus": [
+      "01888"
+     ]
+    },
+    {
+     "numero": 6,
+     "descricao": "Limão-taiti\nQuilo",
+     "campos": {
+      "D": "de:  R$ 9,98  por:",
+      "P": "R$7,99"
+     },
+     "skus": [
+      "01805"
+     ]
+    },
+    {
+     "numero": 7,
+     "descricao": "Batata Doce\nQuilo",
+     "campos": {
+      "D": "de:  R$ 5,99  por:",
+      "P": "R$4,99"
+     },
+     "skus": [
+      "01908"
+     ]
+    },
+    {
+     "numero": 8,
+     "descricao": "Alho Descascado\nPacote com 500g",
+     "campos": {
+      "D": "de:  R$ 14,90  por:",
+      "P": "R$9,90"
+     },
+     "skus": [
+      "82544"
+     ]
+    },
+    {
+     "numero": 9,
+     "descricao": "Mandioca-aipim\nQuilo",
+     "campos": {
+      "D": "de:  R$ 4,59  por:",
+      "P": "R$2,99"
+     },
+     "skus": [
+      "01506"
+     ]
+    }
+   ]
+  },
+  {
+   "pagina": 2,
+   "itens": [
+    {
+     "numero": 1,
+     "descricao": "Chuchu\nQuilo",
+     "campos": {
+      "D": "de:  R$ 3,99  por:",
+      "P": "R$2,99"
+     },
+     "skus": [
+      "01923"
+     ]
+    },
+    {
+     "numero": 2,
+     "descricao": "Cenoura\nQuilo",
+     "campos": {
+      "D": "de:  R$ 6,99  por:",
+      "P": "R$4,99"
+     },
+     "skus": [
+      "01920"
+     ]
+    },
+    {
+     "numero": 3,
+     "descricao": "Pepino Comum\nQuilo",
+     "campos": {
+      "D": "de:  R$ 5,99  por:",
+      "P": "R$3,99"
+     },
+     "skus": [
+      "01514"
+     ]
+    },
+    {
+     "numero": 4,
+     "descricao": "Melancia Baby\nQuilo",
+     "campos": {
+      "D": "de:  R$ 5,99  por:",
+      "P": "R$3,99"
+     },
+     "skus": [
+      "06294"
+     ]
+    },
+    {
+     "numero": 5,
+     "descricao": "Manga Tommy/ Laranja Importada\nQuilo",
+     "campos": {
+      "D": "de:  R$ 6,99  por:",
+      "P": "R$5,99"
+     },
+     "skus": [
+      "01808"
+     ]
+    },
+    {
+     "numero": 6,
+     "descricao": "Melão Amarelo\nQuilo",
+     "campos": {
+      "D": "de:  R$ 6,99  por:",
+      "P": "R$4,99"
+     },
+     "skus": [
+      "05181"
+     ]
+    },
+    {
+     "numero": 7,
+     "descricao": "Ameixa Nacional/ Kiwi\nBandeja com 500g/ 550g",
+     "campos": {
+      "D": "de:  R$ 14,90  por:",
+      "P": "R$9,90"
+     },
+     "skus": [
+      "67633"
+     ]
+    },
+    {
+     "numero": 8,
+     "descricao": "Uva Crimson/ Vitória/ Thompson\nBandeja com 500g/ 400g",
+     "campos": {
+      "D": "de:  R$ 8,99  por:",
+      "P": "R$5,99"
+     },
+     "skus": [
+      "36876"
+     ]
+    },
+    {
+     "numero": 9,
+     "descricao": "Maçã\nPacote com 850g",
+     "campos": {
+      "D": "de:  R$ 6,99  por:",
+      "P": "R$3,99"
+     },
+     "skus": [
+      "70377"
+     ]
+    }
+   ]
+  }
+ ]
+}

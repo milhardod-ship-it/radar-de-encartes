@@ -1,6 +1,6 @@
 {
  "fonte": "mundial-site",
- "coletadoEm": "2026-11-24T23:16:05.268Z",
+ "coletadoEm": "2026-11-25T01:27:40.700Z",
  "encartes": [
   {
    "id": "61",
@@ -346,46 +346,6 @@
    "percent": 0,
    "description": null,
    "price": "R$ 105,90",
-   "oldPrice": "R$ 129,90",
-   "unpublishedIn": "2026-12-02T23:59:00.000Z",
-   "product": {
-    "sku": "003126",
-    "customName": "Nozes s/Casca",
-    "customBrand": "",
-    "customType": "",
-    "customWeight": "a Granel kg",
-    "customDetail": "Importadas",
-    "customGroup": null,
-    "customUnit": null,
-    "description": "NOZES S/CASCA IMPORTADO  A GRANEL KG",
-    "group": {
-     "id": "600110001",
-     "section": {
-      "id": "8"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/003126/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "1",
-    "name": "Encarte",
-    "customTheme": {
-     "backgroundColor": "#f8f1da",
-     "textColor": "#ffa042"
-    }
-   },
-   "measureUnit": "KG",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 105,90",
    "oldPrice": "R$ 129,80",
    "unpublishedIn": "2026-12-02T23:59:00.000Z",
    "product": {
@@ -413,6 +373,46 @@
   },
   {
    "category": {
+    "id": "1",
+    "name": "Encarte",
+    "customTheme": {
+     "backgroundColor": "#f8f1da",
+     "textColor": "#ffa042"
+    }
+   },
+   "measureUnit": "KG",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 105,90",
+   "oldPrice": "R$ 129,90",
+   "unpublishedIn": "2026-12-02T23:59:00.000Z",
+   "product": {
+    "sku": "003126",
+    "customName": "Nozes s/Casca",
+    "customBrand": "",
+    "customType": "",
+    "customWeight": "a Granel kg",
+    "customDetail": "Importadas",
+    "customGroup": null,
+    "customUnit": null,
+    "description": "NOZES S/CASCA IMPORTADO  A GRANEL KG",
+    "group": {
+     "id": "600110001",
+     "section": {
+      "id": "8"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/003126/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
     "id": "3",
     "name": "Mundial Total",
     "customTheme": {
@@ -429,24 +429,24 @@
    "oldPrice": "R$ 129,90",
    "unpublishedIn": "2026-11-29T23:59:00.000Z",
    "product": {
-    "sku": "070687",
-    "customName": "Ração Premium",
-    "customBrand": "BALANCE",
-    "customType": "Cão Adulto Pequeno Carne/Frango",
-    "customWeight": "10,1 kg",
+    "sku": "071763",
+    "customName": "Licor",
+    "customBrand": "BALLENA",
+    "customType": "Morango c/Tequila",
+    "customWeight": "750ml",
     "customDetail": "",
     "customGroup": null,
     "customUnit": "Cada",
-    "description": "Ração Premium BALANCE Cão Adulto Pequeno Carne/Frango 10,1 kg",
+    "description": "Licor BALLENA Morango c/Tequila 750ml",
     "group": {
-     "id": "2100010001",
+     "id": "1800040001",
      "section": {
-      "id": "17"
+      "id": "13"
      }
     },
     "images": [
      {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/070687/300x300.webp"
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/071763/300x300.webp"
      }
     ]
    }
@@ -509,24 +509,24 @@
    "oldPrice": "R$ 129,90",
    "unpublishedIn": "2026-11-29T23:59:00.000Z",
    "product": {
-    "sku": "071763",
-    "customName": "Licor",
-    "customBrand": "BALLENA",
-    "customType": "Morango c/Tequila",
-    "customWeight": "750ml",
+    "sku": "070687",
+    "customName": "Ração Premium",
+    "customBrand": "BALANCE",
+    "customType": "Cão Adulto Pequeno Carne/Frango",
+    "customWeight": "10,1 kg",
     "customDetail": "",
     "customGroup": null,
     "customUnit": "Cada",
-    "description": "Licor BALLENA Morango c/Tequila 750ml",
+    "description": "Ração Premium BALANCE Cão Adulto Pequeno Carne/Frango 10,1 kg",
     "group": {
-     "id": "1800040001",
+     "id": "2100010001",
      "section": {
-      "id": "13"
+      "id": "17"
      }
     },
     "images": [
      {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/071763/300x300.webp"
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/070687/300x300.webp"
      }
     ]
    }
@@ -866,6 +866,86 @@
    "percent": 0,
    "description": null,
    "price": "R$ 89,90",
+   "oldPrice": "R$ 119,90",
+   "unpublishedIn": "2026-12-02T23:59:00.000Z",
+   "product": {
+    "sku": "015040",
+    "customName": "Cadeira de Praia de Aço",
+    "customBrand": "MOR",
+    "customType": "Reclinável 4 Posições",
+    "customWeight": "",
+    "customDetail": "",
+    "customGroup": null,
+    "customUnit": null,
+    "description": "CADEIRA DE PRAIA DE AÇO MOR RECLINÁVEL 4 POSIÇÕES",
+    "group": {
+     "id": "2100160001",
+     "section": {
+      "id": "17"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/015040/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "1",
+    "name": "Encarte",
+    "customTheme": {
+     "backgroundColor": "#f8f1da",
+     "textColor": "#ffa042"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 89,90",
+   "oldPrice": "R$ 98,50",
+   "unpublishedIn": "2026-12-02T23:59:00.000Z",
+   "product": {
+    "sku": "070664",
+    "customName": "Azeite",
+    "customBrand": "PROSPERATO",
+    "customType": "",
+    "customWeight": "500ml",
+    "customDetail": "",
+    "customGroup": "Arbequina/Intenso Extravirgem",
+    "customUnit": "Cada",
+    "description": "AZEITE BRASILEIRO PROSPERATO KORONEIKI/ARBEQUINA EXTRAVIRGEM 500ML",
+    "group": {
+     "id": "1200050003",
+     "section": {
+      "id": "10"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/070664/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "1",
+    "name": "Encarte",
+    "customTheme": {
+     "backgroundColor": "#f8f1da",
+     "textColor": "#ffa042"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 89,90",
    "oldPrice": "R$ 94,90",
    "unpublishedIn": "2026-12-02T23:59:00.000Z",
    "product": {
@@ -927,86 +1007,6 @@
     "images": [
      {
       "url": "https://mundial-api.supermercadosmundial.com.br/products/055479/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "1",
-    "name": "Encarte",
-    "customTheme": {
-     "backgroundColor": "#f8f1da",
-     "textColor": "#ffa042"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 89,90",
-   "oldPrice": "R$ 98,50",
-   "unpublishedIn": "2026-12-02T23:59:00.000Z",
-   "product": {
-    "sku": "070664",
-    "customName": "Azeite",
-    "customBrand": "PROSPERATO",
-    "customType": "",
-    "customWeight": "500ml",
-    "customDetail": "",
-    "customGroup": "Arbequina/Intenso Extravirgem",
-    "customUnit": "Cada",
-    "description": "AZEITE BRASILEIRO PROSPERATO KORONEIKI/ARBEQUINA EXTRAVIRGEM 500ML",
-    "group": {
-     "id": "1200050003",
-     "section": {
-      "id": "10"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/070664/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "1",
-    "name": "Encarte",
-    "customTheme": {
-     "backgroundColor": "#f8f1da",
-     "textColor": "#ffa042"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 89,90",
-   "oldPrice": "R$ 119,90",
-   "unpublishedIn": "2026-12-02T23:59:00.000Z",
-   "product": {
-    "sku": "015040",
-    "customName": "Cadeira de Praia de Aço",
-    "customBrand": "MOR",
-    "customType": "Reclinável 4 Posições",
-    "customWeight": "",
-    "customDetail": "",
-    "customGroup": null,
-    "customUnit": null,
-    "description": "CADEIRA DE PRAIA DE AÇO MOR RECLINÁVEL 4 POSIÇÕES",
-    "group": {
-     "id": "2100160001",
-     "section": {
-      "id": "17"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/015040/300x300.webp"
      }
     ]
    }
@@ -1093,46 +1093,6 @@
   },
   {
    "category": {
-    "id": "1",
-    "name": "Encarte",
-    "customTheme": {
-     "backgroundColor": "#f8f1da",
-     "textColor": "#ffa042"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 79,90",
-   "oldPrice": "R$ 129,90",
-   "unpublishedIn": "2026-12-02T23:59:00.000Z",
-   "product": {
-    "sku": "073006",
-    "customName": "Whisky",
-    "customBrand": "JIM BEAM",
-    "customType": "Vários Tipos",
-    "customWeight": "1 L",
-    "customDetail": "Americano",
-    "customGroup": null,
-    "customUnit": "Cada",
-    "description": "Whisky JIM BEAM Vários Tipos 1 L",
-    "group": {
-     "id": "1800050002",
-     "section": {
-      "id": "13"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/073006/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
     "id": "3",
     "name": "Mundial Total",
     "customTheme": {
@@ -1167,6 +1127,46 @@
     "images": [
      {
       "url": "https://mundial-api.supermercadosmundial.com.br/products/041613/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "1",
+    "name": "Encarte",
+    "customTheme": {
+     "backgroundColor": "#f8f1da",
+     "textColor": "#ffa042"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 79,90",
+   "oldPrice": "R$ 129,90",
+   "unpublishedIn": "2026-12-02T23:59:00.000Z",
+   "product": {
+    "sku": "073006",
+    "customName": "Whisky",
+    "customBrand": "JIM BEAM",
+    "customType": "Vários Tipos",
+    "customWeight": "1 L",
+    "customDetail": "Americano",
+    "customGroup": null,
+    "customUnit": "Cada",
+    "description": "Whisky JIM BEAM Vários Tipos 1 L",
+    "group": {
+     "id": "1800050002",
+     "section": {
+      "id": "13"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/073006/300x300.webp"
      }
     ]
    }
@@ -1266,46 +1266,6 @@
    "percent": 0,
    "description": null,
    "price": "R$ 78,50",
-   "oldPrice": "R$ 85,90",
-   "unpublishedIn": "2026-12-02T23:59:00.000Z",
-   "product": {
-    "sku": "062276",
-    "customName": "Azeite",
-    "customBrand": "DELEYDA",
-    "customType": "Extravirgem Premium",
-    "customWeight": "500ml",
-    "customDetail": "Chileno",
-    "customGroup": null,
-    "customUnit": null,
-    "description": "Azeite DELEYDA Extravirgem Premium 500ml",
-    "group": {
-     "id": "1200050003",
-     "section": {
-      "id": "10"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/062276/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "1",
-    "name": "Encarte",
-    "customTheme": {
-     "backgroundColor": "#f8f1da",
-     "textColor": "#ffa042"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 78,50",
    "oldPrice": "R$ 85,80",
    "unpublishedIn": "2026-12-02T23:59:00.000Z",
    "product": {
@@ -1327,6 +1287,46 @@
     "images": [
      {
       "url": "https://mundial-api.supermercadosmundial.com.br/products/042716/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "1",
+    "name": "Encarte",
+    "customTheme": {
+     "backgroundColor": "#f8f1da",
+     "textColor": "#ffa042"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 78,50",
+   "oldPrice": "R$ 85,90",
+   "unpublishedIn": "2026-12-02T23:59:00.000Z",
+   "product": {
+    "sku": "062276",
+    "customName": "Azeite",
+    "customBrand": "DELEYDA",
+    "customType": "Extravirgem Premium",
+    "customWeight": "500ml",
+    "customDetail": "Chileno",
+    "customGroup": null,
+    "customUnit": null,
+    "description": "Azeite DELEYDA Extravirgem Premium 500ml",
+    "group": {
+     "id": "1200050003",
+     "section": {
+      "id": "10"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/062276/300x300.webp"
      }
     ]
    }
@@ -1453,46 +1453,6 @@
   },
   {
    "category": {
-    "id": "1",
-    "name": "Encarte",
-    "customTheme": {
-     "backgroundColor": "#f8f1da",
-     "textColor": "#ffa042"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 69,90",
-   "oldPrice": "R$ 89,90",
-   "unpublishedIn": "2026-12-02T23:59:00.000Z",
-   "product": {
-    "sku": "015039",
-    "customName": "Cadeira de Praia de Aço",
-    "customBrand": "MOR",
-    "customType": "Alta",
-    "customWeight": "",
-    "customDetail": "",
-    "customGroup": null,
-    "customUnit": null,
-    "description": "Cadeira de Praia de Aço MOR Alta",
-    "group": {
-     "id": "2100160001",
-     "section": {
-      "id": "17"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/015039/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
     "id": "3",
     "name": "Mundial Total",
     "customTheme": {
@@ -1527,6 +1487,46 @@
     "images": [
      {
       "url": "https://mundial-api.supermercadosmundial.com.br/products/073487/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "1",
+    "name": "Encarte",
+    "customTheme": {
+     "backgroundColor": "#f8f1da",
+     "textColor": "#ffa042"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 69,90",
+   "oldPrice": "R$ 89,90",
+   "unpublishedIn": "2026-12-02T23:59:00.000Z",
+   "product": {
+    "sku": "015039",
+    "customName": "Cadeira de Praia de Aço",
+    "customBrand": "MOR",
+    "customType": "Alta",
+    "customWeight": "",
+    "customDetail": "",
+    "customGroup": null,
+    "customUnit": null,
+    "description": "Cadeira de Praia de Aço MOR Alta",
+    "group": {
+     "id": "2100160001",
+     "section": {
+      "id": "17"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/015039/300x300.webp"
      }
     ]
    }
@@ -1773,46 +1773,6 @@
   },
   {
    "category": {
-    "id": "3",
-    "name": "Mundial Total",
-    "customTheme": {
-     "backgroundColor": "#dff2ff",
-     "textColor": "#005dad"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 67,50",
-   "oldPrice": "R$ 74,90",
-   "unpublishedIn": "2026-11-29T23:59:00.000Z",
-   "product": {
-    "sku": "063963",
-    "customName": "Vinho Tinto",
-    "customBrand": "LA LINDA",
-    "customType": "",
-    "customWeight": "750ml",
-    "customDetail": "Argentino",
-    "customGroup": null,
-    "customUnit": "Cada",
-    "description": "Vinho Tinto Argentino LA LINDA Malbec 750ml",
-    "group": {
-     "id": "1800020005",
-     "section": {
-      "id": "14"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/063963/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
     "id": "1",
     "name": "Encarte",
     "customTheme": {
@@ -1847,6 +1807,46 @@
     "images": [
      {
       "url": "https://mundial-api.supermercadosmundial.com.br/products/061309/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "3",
+    "name": "Mundial Total",
+    "customTheme": {
+     "backgroundColor": "#dff2ff",
+     "textColor": "#005dad"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 67,50",
+   "oldPrice": "R$ 74,90",
+   "unpublishedIn": "2026-11-29T23:59:00.000Z",
+   "product": {
+    "sku": "063963",
+    "customName": "Vinho Tinto",
+    "customBrand": "LA LINDA",
+    "customType": "",
+    "customWeight": "750ml",
+    "customDetail": "Argentino",
+    "customGroup": null,
+    "customUnit": "Cada",
+    "description": "Vinho Tinto Argentino LA LINDA Malbec 750ml",
+    "group": {
+     "id": "1800020005",
+     "section": {
+      "id": "14"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/063963/300x300.webp"
      }
     ]
    }
@@ -2226,46 +2226,6 @@
    "percent": 0,
    "description": null,
    "price": "R$ 58,50",
-   "oldPrice": "R$ 62,90",
-   "unpublishedIn": "2026-11-29T23:59:00.000Z",
-   "product": {
-    "sku": "011791",
-    "customName": "Vinho",
-    "customBrand": "PERIQUITA",
-    "customType": "",
-    "customWeight": "750ml",
-    "customDetail": "Português",
-    "customGroup": null,
-    "customUnit": "Cada",
-    "description": "Vinho Português PERIQUITA  750ml",
-    "group": {
-     "id": "1800020005",
-     "section": {
-      "id": "14"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/011791/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "3",
-    "name": "Mundial Total",
-    "customTheme": {
-     "backgroundColor": "#dff2ff",
-     "textColor": "#005dad"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 58,50",
    "oldPrice": "R$ 63,90",
    "unpublishedIn": "2026-11-29T23:59:00.000Z",
    "product": {
@@ -2287,6 +2247,46 @@
     "images": [
      {
       "url": "https://mundial-api.supermercadosmundial.com.br/products/014557/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "3",
+    "name": "Mundial Total",
+    "customTheme": {
+     "backgroundColor": "#dff2ff",
+     "textColor": "#005dad"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 58,50",
+   "oldPrice": "R$ 62,90",
+   "unpublishedIn": "2026-11-29T23:59:00.000Z",
+   "product": {
+    "sku": "011791",
+    "customName": "Vinho",
+    "customBrand": "PERIQUITA",
+    "customType": "",
+    "customWeight": "750ml",
+    "customDetail": "Português",
+    "customGroup": null,
+    "customUnit": "Cada",
+    "description": "Vinho Português PERIQUITA  750ml",
+    "group": {
+     "id": "1800020005",
+     "section": {
+      "id": "14"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/011791/300x300.webp"
      }
     ]
    }
@@ -2546,6 +2546,46 @@
    "percent": 0,
    "description": null,
    "price": "R$ 49,90",
+   "oldPrice": "R$ 58,90",
+   "unpublishedIn": "2026-11-29T23:59:00.000Z",
+   "product": {
+    "sku": "074620",
+    "customName": "Pasta de Amendoim",
+    "customBrand": "DR. PEANUT",
+    "customType": "",
+    "customWeight": "600g",
+    "customDetail": "",
+    "customGroup": "Vários Sabores",
+    "customUnit": "Cada",
+    "description": "PASTA DE AMENDOIM DR.PEANUT AVELA 600G",
+    "group": {
+     "id": "2215030001",
+     "section": {
+      "id": "18"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/074620/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "3",
+    "name": "Mundial Total",
+    "customTheme": {
+     "backgroundColor": "#dff2ff",
+     "textColor": "#005dad"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 49,90",
    "oldPrice": "R$ 59,90",
    "unpublishedIn": "2026-11-29T23:59:00.000Z",
    "product": {
@@ -2607,46 +2647,6 @@
     "images": [
      {
       "url": "https://mundial-api.supermercadosmundial.com.br/products/069522/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "3",
-    "name": "Mundial Total",
-    "customTheme": {
-     "backgroundColor": "#dff2ff",
-     "textColor": "#005dad"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 49,90",
-   "oldPrice": "R$ 58,90",
-   "unpublishedIn": "2026-11-29T23:59:00.000Z",
-   "product": {
-    "sku": "074620",
-    "customName": "Pasta de Amendoim",
-    "customBrand": "DR. PEANUT",
-    "customType": "",
-    "customWeight": "600g",
-    "customDetail": "",
-    "customGroup": "Vários Sabores",
-    "customUnit": "Cada",
-    "description": "PASTA DE AMENDOIM DR.PEANUT AVELA 600G",
-    "group": {
-     "id": "2215030001",
-     "section": {
-      "id": "18"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/074620/300x300.webp"
      }
     ]
    }
@@ -2786,6 +2786,46 @@
    "percent": 0,
    "description": null,
    "price": "R$ 48,50",
+   "oldPrice": "R$ 53,80",
+   "unpublishedIn": "2026-12-02T23:59:00.000Z",
+   "product": {
+    "sku": "054546",
+    "customName": "Espumante",
+    "customBrand": "VEUVE NOIRE",
+    "customType": "",
+    "customWeight": "750ml",
+    "customDetail": "Francês",
+    "customGroup": "Brut/Rosé",
+    "customUnit": "Cada",
+    "description": "ESPUMANTE FRANCÊS VEUVE NOIRE  750ML",
+    "group": {
+     "id": "1800010002",
+     "section": {
+      "id": "14"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/054546/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "1",
+    "name": "Encarte",
+    "customTheme": {
+     "backgroundColor": "#f8f1da",
+     "textColor": "#ffa042"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 48,50",
    "oldPrice": "R$ 52,50",
    "unpublishedIn": "2026-12-02T23:59:00.000Z",
    "product": {
@@ -2847,46 +2887,6 @@
     "images": [
      {
       "url": "https://mundial-api.supermercadosmundial.com.br/products/058640/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "1",
-    "name": "Encarte",
-    "customTheme": {
-     "backgroundColor": "#f8f1da",
-     "textColor": "#ffa042"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 48,50",
-   "oldPrice": "R$ 53,80",
-   "unpublishedIn": "2026-12-02T23:59:00.000Z",
-   "product": {
-    "sku": "054546",
-    "customName": "Espumante",
-    "customBrand": "VEUVE NOIRE",
-    "customType": "",
-    "customWeight": "750ml",
-    "customDetail": "Francês",
-    "customGroup": "Brut/Rosé",
-    "customUnit": "Cada",
-    "description": "ESPUMANTE FRANCÊS VEUVE NOIRE  750ML",
-    "group": {
-     "id": "1800010002",
-     "section": {
-      "id": "14"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/054546/300x300.webp"
      }
     ]
    }
@@ -3093,46 +3093,6 @@
   },
   {
    "category": {
-    "id": "3",
-    "name": "Mundial Total",
-    "customTheme": {
-     "backgroundColor": "#dff2ff",
-     "textColor": "#005dad"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 44,90",
-   "oldPrice": "R$ 49,90",
-   "unpublishedIn": "2026-11-29T23:59:00.000Z",
-   "product": {
-    "sku": "032152",
-    "customName": "Pilha Alcalina Grande D",
-    "customBrand": "DURACELL",
-    "customType": "",
-    "customWeight": "",
-    "customDetail": "",
-    "customGroup": "c/2 Unids.",
-    "customUnit": "Cada",
-    "description": "PILHA DURACELL ALC.GRANDE D C/2",
-    "group": {
-     "id": "2100130002",
-     "section": {
-      "id": "17"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/032152/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
     "id": "1",
     "name": "Encarte",
     "customTheme": {
@@ -3146,27 +3106,27 @@
    "percent": 0,
    "description": null,
    "price": "R$ 44,90",
-   "oldPrice": "R$ 54,90",
+   "oldPrice": "R$ 59,90",
    "unpublishedIn": "2026-12-02T23:59:00.000Z",
    "product": {
-    "sku": "051023",
-    "customName": "Cachaça",
-    "customBrand": "FAZENDA SOLEDADE",
+    "sku": "074431",
+    "customName": "Whisky",
+    "customBrand": "GRANT'S",
     "customType": "",
     "customWeight": "750ml",
-    "customDetail": "",
+    "customDetail": "Escocês",
     "customGroup": null,
     "customUnit": null,
-    "description": "AGUARDENTE FAZENDA SOLEDADE GF 750ML",
+    "description": "WHISKY GRANT'S GF 750ML",
     "group": {
-     "id": "1800110002",
+     "id": "1800050002",
      "section": {
       "id": "13"
      }
     },
     "images": [
      {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/051023/300x300.webp"
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/074431/300x300.webp"
      }
     ]
    }
@@ -3226,27 +3186,67 @@
    "percent": 0,
    "description": null,
    "price": "R$ 44,90",
-   "oldPrice": "R$ 59,90",
+   "oldPrice": "R$ 54,90",
    "unpublishedIn": "2026-12-02T23:59:00.000Z",
    "product": {
-    "sku": "074431",
-    "customName": "Whisky",
-    "customBrand": "GRANT'S",
+    "sku": "051023",
+    "customName": "Cachaça",
+    "customBrand": "FAZENDA SOLEDADE",
     "customType": "",
     "customWeight": "750ml",
-    "customDetail": "Escocês",
+    "customDetail": "",
     "customGroup": null,
     "customUnit": null,
-    "description": "WHISKY GRANT'S GF 750ML",
+    "description": "AGUARDENTE FAZENDA SOLEDADE GF 750ML",
     "group": {
-     "id": "1800050002",
+     "id": "1800110002",
      "section": {
       "id": "13"
      }
     },
     "images": [
      {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/074431/300x300.webp"
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/051023/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "3",
+    "name": "Mundial Total",
+    "customTheme": {
+     "backgroundColor": "#dff2ff",
+     "textColor": "#005dad"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 44,90",
+   "oldPrice": "R$ 49,90",
+   "unpublishedIn": "2026-11-29T23:59:00.000Z",
+   "product": {
+    "sku": "032152",
+    "customName": "Pilha Alcalina Grande D",
+    "customBrand": "DURACELL",
+    "customType": "",
+    "customWeight": "",
+    "customDetail": "",
+    "customGroup": "c/2 Unids.",
+    "customUnit": "Cada",
+    "description": "PILHA DURACELL ALC.GRANDE D C/2",
+    "group": {
+     "id": "2100130002",
+     "section": {
+      "id": "17"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/032152/300x300.webp"
      }
     ]
    }
@@ -3346,6 +3346,86 @@
    "percent": 0,
    "description": null,
    "price": "R$ 39,90",
+   "oldPrice": "R$ 47,90",
+   "unpublishedIn": "2026-11-29T23:59:00.000Z",
+   "product": {
+    "sku": "073490",
+    "customName": "Panquequeira de Alumínio",
+    "customBrand": "TRAMONTINA",
+    "customType": "Turim Preta e Vermelha",
+    "customWeight": "22cm",
+    "customDetail": "",
+    "customGroup": null,
+    "customUnit": "Cada",
+    "description": "Panquequeira de Alumínio TRAMONTINA Turim Preta e Vermelha 22cm",
+    "group": {
+     "id": "2100080001",
+     "section": {
+      "id": "17"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/073490/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "3",
+    "name": "Mundial Total",
+    "customTheme": {
+     "backgroundColor": "#dff2ff",
+     "textColor": "#005dad"
+    }
+   },
+   "measureUnit": "KG",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 39,90",
+   "oldPrice": "R$ 59,90",
+   "unpublishedIn": "2026-11-29T23:59:00.000Z",
+   "product": {
+    "sku": "004417",
+    "customName": "Queijo Fresco",
+    "customBrand": "DUMONT",
+    "customType": "",
+    "customWeight": "kg",
+    "customDetail": "",
+    "customGroup": null,
+    "customUnit": null,
+    "description": "Queijo Fresco DUMONT  kg",
+    "group": {
+     "id": "600020001",
+     "section": {
+      "id": "5"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/004417/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "3",
+    "name": "Mundial Total",
+    "customTheme": {
+     "backgroundColor": "#dff2ff",
+     "textColor": "#005dad"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 39,90",
    "oldPrice": "R$ 49,90",
    "unpublishedIn": "2026-11-29T23:59:00.000Z",
    "product": {
@@ -3367,6 +3447,46 @@
     "images": [
      {
       "url": "https://mundial-api.supermercadosmundial.com.br/products/074316/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "1",
+    "name": "Encarte",
+    "customTheme": {
+     "backgroundColor": "#f8f1da",
+     "textColor": "#ffa042"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 39,90",
+   "oldPrice": "R$ 45,80",
+   "unpublishedIn": "2026-12-02T23:59:00.000Z",
+   "product": {
+    "sku": "065598",
+    "customName": "Vinho",
+    "customBrand": "TAPADA DOS GANHÕES",
+    "customType": "",
+    "customWeight": "750ml",
+    "customDetail": "Português",
+    "customGroup": null,
+    "customUnit": null,
+    "description": "VINHO PORTUGUÊS TAPADA DOS GANHÕES  750G",
+    "group": {
+     "id": "1800020004",
+     "section": {
+      "id": "14"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/065598/300x300.webp"
      }
     ]
    }
@@ -3426,86 +3546,6 @@
    "percent": 0,
    "description": null,
    "price": "R$ 39,90",
-   "oldPrice": "R$ 45,80",
-   "unpublishedIn": "2026-12-02T23:59:00.000Z",
-   "product": {
-    "sku": "065598",
-    "customName": "Vinho",
-    "customBrand": "TAPADA DOS GANHÕES",
-    "customType": "",
-    "customWeight": "750ml",
-    "customDetail": "Português",
-    "customGroup": null,
-    "customUnit": null,
-    "description": "VINHO PORTUGUÊS TAPADA DOS GANHÕES  750G",
-    "group": {
-     "id": "1800020004",
-     "section": {
-      "id": "14"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/065598/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "3",
-    "name": "Mundial Total",
-    "customTheme": {
-     "backgroundColor": "#dff2ff",
-     "textColor": "#005dad"
-    }
-   },
-   "measureUnit": "KG",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 39,90",
-   "oldPrice": "R$ 59,90",
-   "unpublishedIn": "2026-11-29T23:59:00.000Z",
-   "product": {
-    "sku": "004417",
-    "customName": "Queijo Fresco",
-    "customBrand": "DUMONT",
-    "customType": "",
-    "customWeight": "kg",
-    "customDetail": "",
-    "customGroup": null,
-    "customUnit": null,
-    "description": "Queijo Fresco DUMONT  kg",
-    "group": {
-     "id": "600020001",
-     "section": {
-      "id": "5"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/004417/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "1",
-    "name": "Encarte",
-    "customTheme": {
-     "backgroundColor": "#f8f1da",
-     "textColor": "#ffa042"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 39,90",
    "oldPrice": "R$ 43,50",
    "unpublishedIn": "2026-12-02T23:59:00.000Z",
    "product": {
@@ -3527,46 +3567,6 @@
     "images": [
      {
       "url": "https://mundial-api.supermercadosmundial.com.br/products/062827/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "3",
-    "name": "Mundial Total",
-    "customTheme": {
-     "backgroundColor": "#dff2ff",
-     "textColor": "#005dad"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 39,90",
-   "oldPrice": "R$ 47,90",
-   "unpublishedIn": "2026-11-29T23:59:00.000Z",
-   "product": {
-    "sku": "073490",
-    "customName": "Panquequeira de Alumínio",
-    "customBrand": "TRAMONTINA",
-    "customType": "Turim Preta e Vermelha",
-    "customWeight": "22cm",
-    "customDetail": "",
-    "customGroup": null,
-    "customUnit": "Cada",
-    "description": "Panquequeira de Alumínio TRAMONTINA Turim Preta e Vermelha 22cm",
-    "group": {
-     "id": "2100080001",
-     "section": {
-      "id": "17"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/073490/300x300.webp"
      }
     ]
    }
@@ -3973,6 +3973,86 @@
   },
   {
    "category": {
+    "id": "3",
+    "name": "Mundial Total",
+    "customTheme": {
+     "backgroundColor": "#dff2ff",
+     "textColor": "#005dad"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 36,80",
+   "oldPrice": "R$ 43,80",
+   "unpublishedIn": "2026-11-29T23:59:00.000Z",
+   "product": {
+    "sku": "061265",
+    "customName": "Espumante",
+    "customBrand": "GARIBALDI",
+    "customType": "Moscatel Rosé",
+    "customWeight": "750ml",
+    "customDetail": "Brasileiro",
+    "customGroup": null,
+    "customUnit": "Cada",
+    "description": "Espumante GARIBALDI Moscatel Rosé 750ml",
+    "group": {
+     "id": "1800010001",
+     "section": {
+      "id": "14"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/061265/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "1",
+    "name": "Encarte",
+    "customTheme": {
+     "backgroundColor": "#f8f1da",
+     "textColor": "#ffa042"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 36,80",
+   "oldPrice": "R$ 44,90",
+   "unpublishedIn": "2026-12-02T23:59:00.000Z",
+   "product": {
+    "sku": "067930",
+    "customName": "Vinho",
+    "customBrand": "VARANDA DOS REIS LOUREIRO",
+    "customType": "",
+    "customWeight": "750ml",
+    "customDetail": "Português",
+    "customGroup": null,
+    "customUnit": null,
+    "description": "Vinho Português VARANDA DOS REIS LOUREIRO  750ml",
+    "group": {
+     "id": "1800020004",
+     "section": {
+      "id": "14"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/067930/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
     "id": "1",
     "name": "Encarte",
     "customTheme": {
@@ -4065,86 +4145,6 @@
    "quantity2": 1,
    "percent": 0,
    "description": null,
-   "price": "R$ 36,80",
-   "oldPrice": "R$ 43,80",
-   "unpublishedIn": "2026-11-29T23:59:00.000Z",
-   "product": {
-    "sku": "061265",
-    "customName": "Espumante",
-    "customBrand": "GARIBALDI",
-    "customType": "Moscatel Rosé",
-    "customWeight": "750ml",
-    "customDetail": "Brasileiro",
-    "customGroup": null,
-    "customUnit": "Cada",
-    "description": "Espumante GARIBALDI Moscatel Rosé 750ml",
-    "group": {
-     "id": "1800010001",
-     "section": {
-      "id": "14"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/061265/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "1",
-    "name": "Encarte",
-    "customTheme": {
-     "backgroundColor": "#f8f1da",
-     "textColor": "#ffa042"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 36,80",
-   "oldPrice": "R$ 44,90",
-   "unpublishedIn": "2026-12-02T23:59:00.000Z",
-   "product": {
-    "sku": "067930",
-    "customName": "Vinho",
-    "customBrand": "VARANDA DOS REIS LOUREIRO",
-    "customType": "",
-    "customWeight": "750ml",
-    "customDetail": "Português",
-    "customGroup": null,
-    "customUnit": null,
-    "description": "Vinho Português VARANDA DOS REIS LOUREIRO  750ml",
-    "group": {
-     "id": "1800020004",
-     "section": {
-      "id": "14"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/067930/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "3",
-    "name": "Mundial Total",
-    "customTheme": {
-     "backgroundColor": "#dff2ff",
-     "textColor": "#005dad"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
    "price": "R$ 36,50",
    "oldPrice": "R$ 41,80",
    "unpublishedIn": "2026-11-29T23:59:00.000Z",
@@ -4189,15 +4189,15 @@
    "oldPrice": "R$ 41,80",
    "unpublishedIn": "2026-11-29T23:59:00.000Z",
    "product": {
-    "sku": "025973",
-    "customName": "Vinho Lambrusco",
+    "sku": "032525",
+    "customName": "Vinho Lambrusco Rosé",
     "customBrand": "MONTECCHIO",
     "customType": "",
     "customWeight": "750ml",
     "customDetail": "Italiano",
     "customGroup": null,
     "customUnit": "Cada",
-    "description": "VINHO TTO ITA LAMBRUSCO MONTECCHIO GF 750ML",
+    "description": "VINHO ROSE ITA LAMBRUSCO MONTECCHIO GF 750ML",
     "group": {
      "id": "1800020003",
      "section": {
@@ -4206,7 +4206,7 @@
     },
     "images": [
      {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/025973/300x300.webp"
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/032525/300x300.webp"
      }
     ]
    }
@@ -4229,15 +4229,15 @@
    "oldPrice": "R$ 41,80",
    "unpublishedIn": "2026-11-29T23:59:00.000Z",
    "product": {
-    "sku": "032525",
-    "customName": "Vinho Lambrusco Rosé",
+    "sku": "025973",
+    "customName": "Vinho Lambrusco",
     "customBrand": "MONTECCHIO",
     "customType": "",
     "customWeight": "750ml",
     "customDetail": "Italiano",
     "customGroup": null,
     "customUnit": "Cada",
-    "description": "VINHO ROSE ITA LAMBRUSCO MONTECCHIO GF 750ML",
+    "description": "VINHO TTO ITA LAMBRUSCO MONTECCHIO GF 750ML",
     "group": {
      "id": "1800020003",
      "section": {
@@ -4246,7 +4246,7 @@
     },
     "images": [
      {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/032525/300x300.webp"
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/025973/300x300.webp"
      }
     ]
    }
@@ -4373,6 +4373,46 @@
   },
   {
    "category": {
+    "id": "1",
+    "name": "Encarte",
+    "customTheme": {
+     "backgroundColor": "#f8f1da",
+     "textColor": "#ffa042"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 34,90",
+   "oldPrice": "R$ 38,90",
+   "unpublishedIn": "2026-12-02T23:59:00.000Z",
+   "product": {
+    "sku": "066809",
+    "customName": "Vinho",
+    "customBrand": "PONTE DI PAULINO",
+    "customType": "",
+    "customWeight": "750ml",
+    "customDetail": "Italiano",
+    "customGroup": null,
+    "customUnit": null,
+    "description": "VINHO ITALIANO PONTE DI PAULINO  750ML",
+    "group": {
+     "id": "1800020004",
+     "section": {
+      "id": "14"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/066809/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
     "id": "3",
     "name": "Mundial Total",
     "customTheme": {
@@ -4453,46 +4493,6 @@
   },
   {
    "category": {
-    "id": "1",
-    "name": "Encarte",
-    "customTheme": {
-     "backgroundColor": "#f8f1da",
-     "textColor": "#ffa042"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 34,90",
-   "oldPrice": "R$ 36,80",
-   "unpublishedIn": "2026-12-02T23:59:00.000Z",
-   "product": {
-    "sku": "071720",
-    "customName": "Carpaccio de Carne Bovina",
-    "customBrand": "FRISA",
-    "customType": "",
-    "customWeight": "200g",
-    "customDetail": "",
-    "customGroup": null,
-    "customUnit": null,
-    "description": "CARPACCIO FRISA CARNE BOVINA 200G",
-    "group": {
-     "id": "300020005",
-     "section": {
-      "id": "2"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/071720/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
     "id": "3",
     "name": "Mundial Total",
     "customTheme": {
@@ -4546,27 +4546,27 @@
    "percent": 0,
    "description": null,
    "price": "R$ 34,90",
-   "oldPrice": "R$ 38,90",
+   "oldPrice": "R$ 36,80",
    "unpublishedIn": "2026-12-02T23:59:00.000Z",
    "product": {
-    "sku": "066809",
-    "customName": "Vinho",
-    "customBrand": "PONTE DI PAULINO",
+    "sku": "071720",
+    "customName": "Carpaccio de Carne Bovina",
+    "customBrand": "FRISA",
     "customType": "",
-    "customWeight": "750ml",
-    "customDetail": "Italiano",
+    "customWeight": "200g",
+    "customDetail": "",
     "customGroup": null,
     "customUnit": null,
-    "description": "VINHO ITALIANO PONTE DI PAULINO  750ML",
+    "description": "CARPACCIO FRISA CARNE BOVINA 200G",
     "group": {
-     "id": "1800020004",
+     "id": "300020005",
      "section": {
-      "id": "14"
+      "id": "2"
      }
     },
     "images": [
      {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/066809/300x300.webp"
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/071720/300x300.webp"
      }
     ]
    }
@@ -4607,46 +4607,6 @@
     "images": [
      {
       "url": "https://mundial-api.supermercadosmundial.com.br/products/059087/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "1",
-    "name": "Encarte",
-    "customTheme": {
-     "backgroundColor": "#f8f1da",
-     "textColor": "#ffa042"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 32,98",
-   "oldPrice": "R$ 34,98",
-   "unpublishedIn": "2026-12-02T23:59:00.000Z",
-   "product": {
-    "sku": "074873",
-    "customName": "Shampoo",
-    "customBrand": "DOVE",
-    "customType": "",
-    "customWeight": "600ml",
-    "customDetail": "",
-    "customGroup": "Vários Tipos",
-    "customUnit": "Cada",
-    "description": "SH.DOVE BOND REPAIR+PEPTIDEO PUMP 600ML",
-    "group": {
-     "id": "1900070010",
-     "section": {
-      "id": "15"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/074873/300x300.webp"
      }
     ]
    }
@@ -4733,6 +4693,46 @@
   },
   {
    "category": {
+    "id": "1",
+    "name": "Encarte",
+    "customTheme": {
+     "backgroundColor": "#f8f1da",
+     "textColor": "#ffa042"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 32,98",
+   "oldPrice": "R$ 34,98",
+   "unpublishedIn": "2026-12-02T23:59:00.000Z",
+   "product": {
+    "sku": "074873",
+    "customName": "Shampoo",
+    "customBrand": "DOVE",
+    "customType": "",
+    "customWeight": "600ml",
+    "customDetail": "",
+    "customGroup": "Vários Tipos",
+    "customUnit": "Cada",
+    "description": "SH.DOVE BOND REPAIR+PEPTIDEO PUMP 600ML",
+    "group": {
+     "id": "1900070010",
+     "section": {
+      "id": "15"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/074873/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
     "id": "3",
     "name": "Mundial Total",
     "customTheme": {
@@ -4786,46 +4786,6 @@
    "percent": 0,
    "description": null,
    "price": "R$ 29,98",
-   "oldPrice": "R$ 35,90",
-   "unpublishedIn": "2026-12-02T23:59:00.000Z",
-   "product": {
-    "sku": "018373",
-    "customName": "Camarão 7B/Ferrinho Congelado",
-    "customBrand": "COSTA SUL",
-    "customType": "Descascado",
-    "customWeight": "Pacote 400g",
-    "customDetail": "",
-    "customGroup": null,
-    "customUnit": null,
-    "description": "Camarão 7B/Ferrinho Congelado COSTA SUL Descascado Pacote 400g",
-    "group": {
-     "id": "700010003",
-     "section": {
-      "id": "3"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/018373/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "1",
-    "name": "Encarte",
-    "customTheme": {
-     "backgroundColor": "#f8f1da",
-     "textColor": "#ffa042"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 29,98",
    "oldPrice": "R$ 35,98",
    "unpublishedIn": "2026-12-02T23:59:00.000Z",
    "product": {
@@ -4847,6 +4807,46 @@
     "images": [
      {
       "url": "https://mundial-api.supermercadosmundial.com.br/products/065492/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "1",
+    "name": "Encarte",
+    "customTheme": {
+     "backgroundColor": "#f8f1da",
+     "textColor": "#ffa042"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 29,98",
+   "oldPrice": "R$ 35,90",
+   "unpublishedIn": "2026-12-02T23:59:00.000Z",
+   "product": {
+    "sku": "018373",
+    "customName": "Camarão 7B/Ferrinho Congelado",
+    "customBrand": "COSTA SUL",
+    "customType": "Descascado",
+    "customWeight": "Pacote 400g",
+    "customDetail": "",
+    "customGroup": null,
+    "customUnit": null,
+    "description": "Camarão 7B/Ferrinho Congelado COSTA SUL Descascado Pacote 400g",
+    "group": {
+     "id": "700010003",
+     "section": {
+      "id": "3"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/018373/300x300.webp"
      }
     ]
    }
@@ -4906,46 +4906,6 @@
    "percent": 0,
    "description": null,
    "price": "R$ 29,90",
-   "oldPrice": "R$ 33,90",
-   "unpublishedIn": "2026-12-02T23:59:00.000Z",
-   "product": {
-    "sku": "069838",
-    "customName": "Café Premium",
-    "customBrand": "MARQUES DA COSTA",
-    "customType": "Torrado e Moído",
-    "customWeight": "500g",
-    "customDetail": "",
-    "customGroup": null,
-    "customUnit": null,
-    "description": "Café Premium MARQUES DA COSTA Torrado e Moído 500g",
-    "group": {
-     "id": "1300020006",
-     "section": {
-      "id": "9"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/069838/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "1",
-    "name": "Encarte",
-    "customTheme": {
-     "backgroundColor": "#f8f1da",
-     "textColor": "#ffa042"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 29,90",
    "oldPrice": "R$ 39,90",
    "unpublishedIn": "2026-12-02T23:59:00.000Z",
    "product": {
@@ -4985,28 +4945,28 @@
    "quantity2": 1,
    "percent": 0,
    "description": null,
-   "price": "R$ 29,80",
-   "oldPrice": "R$ 34,80",
+   "price": "R$ 29,90",
+   "oldPrice": "R$ 33,90",
    "unpublishedIn": "2026-12-02T23:59:00.000Z",
    "product": {
-    "sku": "061624",
-    "customName": "Vinho",
-    "customBrand": "ESTANCIA MENDOZA BIVARIETAL",
-    "customType": "",
-    "customWeight": "750ml",
-    "customDetail": "Argentino",
+    "sku": "069838",
+    "customName": "Café Premium",
+    "customBrand": "MARQUES DA COSTA",
+    "customType": "Torrado e Moído",
+    "customWeight": "500g",
+    "customDetail": "",
     "customGroup": null,
     "customUnit": null,
-    "description": "Vinho Argentino ESTANCIA MENDOZA Bivarietal 750ml",
+    "description": "Café Premium MARQUES DA COSTA Torrado e Moído 500g",
     "group": {
-     "id": "1800020005",
+     "id": "1300020006",
      "section": {
-      "id": "14"
+      "id": "9"
      }
     },
     "images": [
      {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/061624/300x300.webp"
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/069838/300x300.webp"
      }
     ]
    }
@@ -5026,67 +4986,27 @@
    "percent": 0,
    "description": null,
    "price": "R$ 29,80",
-   "oldPrice": "R$ 35,50",
+   "oldPrice": "R$ 32,90",
    "unpublishedIn": "2026-11-29T23:59:00.000Z",
    "product": {
-    "sku": "073665",
-    "customName": "Vinho Tinto",
-    "customBrand": "GUTTURNIO SUPERIORE DOC",
+    "sku": "057097",
+    "customName": "Espumante",
+    "customBrand": "GARIBALDI",
     "customType": "",
     "customWeight": "750ml",
-    "customDetail": "Italiano",
-    "customGroup": null,
+    "customDetail": "Brasileiro",
+    "customGroup": "Vero Brut Branco/Rosé",
     "customUnit": "Cada",
-    "description": "VINHO TTO ITA GUTTURNIO SUPERIORE DOC 750ML",
+    "description": "ESPUMANTE GARIBALDI ROSÉ VERO 750ML",
     "group": {
-     "id": "1800020005",
+     "id": "1800010001",
      "section": {
       "id": "14"
      }
     },
     "images": [
      {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/073665/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "3",
-    "name": "Mundial Total",
-    "customTheme": {
-     "backgroundColor": "#dff2ff",
-     "textColor": "#005dad"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 29,80",
-   "oldPrice": "R$ 35,50",
-   "unpublishedIn": "2026-11-29T23:59:00.000Z",
-   "product": {
-    "sku": "073665",
-    "customName": "Vinho Tinto",
-    "customBrand": "GUTTURNIO SUPERIORE DOC",
-    "customType": "",
-    "customWeight": "750ml",
-    "customDetail": "Italiano",
-    "customGroup": null,
-    "customUnit": "Cada",
-    "description": "VINHO TTO ITA GUTTURNIO SUPERIORE DOC 750ML",
-    "group": {
-     "id": "1800020005",
-     "section": {
-      "id": "14"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/073665/300x300.webp"
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/057097/300x300.webp"
      }
     ]
    }
@@ -5127,6 +5047,86 @@
     "images": [
      {
       "url": "https://mundial-api.supermercadosmundial.com.br/products/061624/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "1",
+    "name": "Encarte",
+    "customTheme": {
+     "backgroundColor": "#f8f1da",
+     "textColor": "#ffa042"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 29,80",
+   "oldPrice": "R$ 34,80",
+   "unpublishedIn": "2026-12-02T23:59:00.000Z",
+   "product": {
+    "sku": "061624",
+    "customName": "Vinho",
+    "customBrand": "ESTANCIA MENDOZA BIVARIETAL",
+    "customType": "",
+    "customWeight": "750ml",
+    "customDetail": "Argentino",
+    "customGroup": null,
+    "customUnit": null,
+    "description": "Vinho Argentino ESTANCIA MENDOZA Bivarietal 750ml",
+    "group": {
+     "id": "1800020005",
+     "section": {
+      "id": "14"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/061624/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "3",
+    "name": "Mundial Total",
+    "customTheme": {
+     "backgroundColor": "#dff2ff",
+     "textColor": "#005dad"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 29,80",
+   "oldPrice": "R$ 35,50",
+   "unpublishedIn": "2026-11-29T23:59:00.000Z",
+   "product": {
+    "sku": "073665",
+    "customName": "Vinho Tinto",
+    "customBrand": "GUTTURNIO SUPERIORE DOC",
+    "customType": "",
+    "customWeight": "750ml",
+    "customDetail": "Italiano",
+    "customGroup": null,
+    "customUnit": "Cada",
+    "description": "VINHO TTO ITA GUTTURNIO SUPERIORE DOC 750ML",
+    "group": {
+     "id": "1800020005",
+     "section": {
+      "id": "14"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/073665/300x300.webp"
      }
     ]
    }
@@ -5229,6 +5229,46 @@
    "oldPrice": "R$ 32,50",
    "unpublishedIn": "2026-11-29T23:59:00.000Z",
    "product": {
+    "sku": "070838",
+    "customName": "Vinho Tinto",
+    "customBrand": "VISCONDE DE CHANCELEIROS",
+    "customType": "",
+    "customWeight": "750ml",
+    "customDetail": "Português",
+    "customGroup": null,
+    "customUnit": "Cada",
+    "description": "VINHO PORTUGUÊS VISCONDE DE CHANCELEIROS  750ML",
+    "group": {
+     "id": "1800020005",
+     "section": {
+      "id": "14"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/070838/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "3",
+    "name": "Mundial Total",
+    "customTheme": {
+     "backgroundColor": "#dff2ff",
+     "textColor": "#005dad"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 28,90",
+   "oldPrice": "R$ 32,50",
+   "unpublishedIn": "2026-11-29T23:59:00.000Z",
+   "product": {
     "sku": "071439",
     "customName": "Vinho",
     "customBrand": "NUEVA HACIENDA",
@@ -5247,46 +5287,6 @@
     "images": [
      {
       "url": "https://mundial-api.supermercadosmundial.com.br/products/071439/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "1",
-    "name": "Encarte",
-    "customTheme": {
-     "backgroundColor": "#f8f1da",
-     "textColor": "#ffa042"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 28,90",
-   "oldPrice": "R$ 33,80",
-   "unpublishedIn": "2026-12-02T23:59:00.000Z",
-   "product": {
-    "sku": "068872",
-    "customName": "Vinho Tinto",
-    "customBrand": "HEROES",
-    "customType": "",
-    "customWeight": "750ml",
-    "customDetail": "Chileno",
-    "customGroup": null,
-    "customUnit": null,
-    "description": "VINHO TTO CHI HEROES MERLOT 750ML",
-    "group": {
-     "id": "1800020005",
-     "section": {
-      "id": "14"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/068872/300x300.webp"
      }
     ]
    }
@@ -5333,11 +5333,11 @@
   },
   {
    "category": {
-    "id": "3",
-    "name": "Mundial Total",
+    "id": "1",
+    "name": "Encarte",
     "customTheme": {
-     "backgroundColor": "#dff2ff",
-     "textColor": "#005dad"
+     "backgroundColor": "#f8f1da",
+     "textColor": "#ffa042"
     }
    },
    "measureUnit": "UN",
@@ -5346,18 +5346,18 @@
    "percent": 0,
    "description": null,
    "price": "R$ 28,90",
-   "oldPrice": "R$ 32,50",
-   "unpublishedIn": "2026-11-29T23:59:00.000Z",
+   "oldPrice": "R$ 33,80",
+   "unpublishedIn": "2026-12-02T23:59:00.000Z",
    "product": {
-    "sku": "070838",
+    "sku": "068872",
     "customName": "Vinho Tinto",
-    "customBrand": "VISCONDE DE CHANCELEIROS",
+    "customBrand": "HEROES",
     "customType": "",
     "customWeight": "750ml",
-    "customDetail": "Português",
+    "customDetail": "Chileno",
     "customGroup": null,
-    "customUnit": "Cada",
-    "description": "VINHO PORTUGUÊS VISCONDE DE CHANCELEIROS  750ML",
+    "customUnit": null,
+    "description": "VINHO TTO CHI HEROES MERLOT 750ML",
     "group": {
      "id": "1800020005",
      "section": {
@@ -5366,7 +5366,7 @@
     },
     "images": [
      {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/070838/300x300.webp"
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/068872/300x300.webp"
      }
     ]
    }
@@ -5626,46 +5626,6 @@
    "percent": 0,
    "description": null,
    "price": "R$ 27,80",
-   "oldPrice": "R$ 29,80",
-   "unpublishedIn": "2026-11-29T23:59:00.000Z",
-   "product": {
-    "sku": "074580",
-    "customName": "Goiabada",
-    "customBrand": "ZÉLIA",
-    "customType": "",
-    "customWeight": "Lata 400g",
-    "customDetail": "",
-    "customGroup": null,
-    "customUnit": "Cada",
-    "description": "GOIABADA ZELIA LT 400G",
-    "group": {
-     "id": "1500060003",
-     "section": {
-      "id": "10"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/074580/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "3",
-    "name": "Mundial Total",
-    "customTheme": {
-     "backgroundColor": "#dff2ff",
-     "textColor": "#005dad"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 27,80",
    "oldPrice": "R$ 35,50",
    "unpublishedIn": "2026-11-29T23:59:00.000Z",
    "product": {
@@ -5687,6 +5647,46 @@
     "images": [
      {
       "url": "https://mundial-api.supermercadosmundial.com.br/products/016521/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "3",
+    "name": "Mundial Total",
+    "customTheme": {
+     "backgroundColor": "#dff2ff",
+     "textColor": "#005dad"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 27,80",
+   "oldPrice": "R$ 29,80",
+   "unpublishedIn": "2026-11-29T23:59:00.000Z",
+   "product": {
+    "sku": "074580",
+    "customName": "Goiabada",
+    "customBrand": "ZÉLIA",
+    "customType": "",
+    "customWeight": "Lata 400g",
+    "customDetail": "",
+    "customGroup": null,
+    "customUnit": "Cada",
+    "description": "GOIABADA ZELIA LT 400G",
+    "group": {
+     "id": "1500060003",
+     "section": {
+      "id": "10"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/074580/300x300.webp"
      }
     ]
    }
@@ -5740,33 +5740,33 @@
      "textColor": "#005dad"
     }
    },
-   "measureUnit": "UN",
+   "measureUnit": "KG",
    "quantity": 1,
    "quantity2": 1,
    "percent": 0,
    "description": null,
    "price": "R$ 26,90",
-   "oldPrice": "R$ 32,98",
-   "unpublishedIn": "2026-11-29T23:59:00.000Z",
+   "oldPrice": null,
+   "unpublishedIn": "2026-11-25T23:59:00.000Z",
    "product": {
-    "sku": "042935",
-    "customName": "Shampoo",
-    "customBrand": "CLEAR",
+    "sku": "003448",
+    "customName": "Kiwi",
+    "customBrand": "",
     "customType": "",
-    "customWeight": "400ml",
+    "customWeight": "a Granel kg",
     "customDetail": "",
-    "customGroup": "Vários Tipos",
-    "customUnit": "Cada",
-    "description": "SH.CLEAR ANTICASPA MEN CONTROLE COCEIRA 400ML",
+    "customGroup": null,
+    "customUnit": null,
+    "description": "KIWI GRANEL KG",
     "group": {
-     "id": "1900070008",
+     "id": "900020010",
      "section": {
-      "id": "15"
+      "id": "8"
      }
     },
     "images": [
      {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/042935/300x300.webp"
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/003448/300x300.webp"
      }
     ]
    }
@@ -5820,46 +5820,6 @@
      "textColor": "#ffa042"
     }
    },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 26,90",
-   "oldPrice": "R$ 35,98",
-   "unpublishedIn": "2026-12-02T23:59:00.000Z",
-   "product": {
-    "sku": "049173",
-    "customName": "Azeite",
-    "customBrand": "ANDORINHA",
-    "customType": "Extravirgem",
-    "customWeight": "Spray 200ml",
-    "customDetail": "Português",
-    "customGroup": null,
-    "customUnit": null,
-    "description": "Azeite ANDORINHA Extravirgem Spray 200ml",
-    "group": {
-     "id": "1200050003",
-     "section": {
-      "id": "10"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/049173/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "1",
-    "name": "Encarte",
-    "customTheme": {
-     "backgroundColor": "#f8f1da",
-     "textColor": "#ffa042"
-    }
-   },
    "measureUnit": "KG",
    "quantity": 1,
    "quantity2": 1,
@@ -5887,6 +5847,46 @@
     "images": [
      {
       "url": "https://mundial-api.supermercadosmundial.com.br/products/008452/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "1",
+    "name": "Encarte",
+    "customTheme": {
+     "backgroundColor": "#f8f1da",
+     "textColor": "#ffa042"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 26,90",
+   "oldPrice": "R$ 35,98",
+   "unpublishedIn": "2026-12-02T23:59:00.000Z",
+   "product": {
+    "sku": "049173",
+    "customName": "Azeite",
+    "customBrand": "ANDORINHA",
+    "customType": "Extravirgem",
+    "customWeight": "Spray 200ml",
+    "customDetail": "Português",
+    "customGroup": null,
+    "customUnit": null,
+    "description": "Azeite ANDORINHA Extravirgem Spray 200ml",
+    "group": {
+     "id": "1200050003",
+     "section": {
+      "id": "10"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/049173/300x300.webp"
      }
     ]
    }
@@ -5986,46 +5986,6 @@
    "percent": 0,
    "description": null,
    "price": "R$ 25,90",
-   "oldPrice": "R$ 29,90",
-   "unpublishedIn": "2026-12-02T23:59:00.000Z",
-   "product": {
-    "sku": "002505",
-    "customName": "Alvejante",
-    "customBrand": "VANISH",
-    "customType": "",
-    "customWeight": "1,5 L",
-    "customDetail": "",
-    "customGroup": "Pink/White",
-    "customUnit": "Cada",
-    "description": "ALVEJANTE VANISH PINK 1500ML",
-    "group": {
-     "id": "2000010002",
-     "section": {
-      "id": "16"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/002505/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "1",
-    "name": "Encarte",
-    "customTheme": {
-     "backgroundColor": "#f8f1da",
-     "textColor": "#ffa042"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 25,90",
    "oldPrice": "R$ 28,90",
    "unpublishedIn": "2026-12-02T23:59:00.000Z",
    "product": {
@@ -6066,67 +6026,27 @@
    "percent": 0,
    "description": null,
    "price": "R$ 25,90",
-   "oldPrice": "R$ 28,50",
+   "oldPrice": "R$ 29,90",
    "unpublishedIn": "2026-12-02T23:59:00.000Z",
    "product": {
-    "sku": "060521",
-    "customName": "Vinho",
-    "customBrand": "LATITUDE",
-    "customType": "Alentejo",
-    "customWeight": "750ml",
-    "customDetail": "Português",
-    "customGroup": null,
-    "customUnit": null,
-    "description": "Vinho LATITUDE Alentejo 750ml",
-    "group": {
-     "id": "1800020005",
-     "section": {
-      "id": "14"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/060521/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "2",
-    "name": "Imperdível",
-    "customTheme": {
-     "backgroundColor": "#feeabf",
-     "textColor": "#7b6732"
-    }
-   },
-   "measureUnit": "KG",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 25,90",
-   "oldPrice": null,
-   "unpublishedIn": "2026-11-24T23:59:00.000Z",
-   "product": {
-    "sku": "000451",
-    "customName": "COSTELA SALGADA ",
-    "customBrand": "",
+    "sku": "002505",
+    "customName": "Alvejante",
+    "customBrand": "VANISH",
     "customType": "",
-    "customWeight": "KG",
+    "customWeight": "1,5 L",
     "customDetail": "",
-    "customGroup": null,
-    "customUnit": null,
-    "description": "COSTELA SALGADA KG",
+    "customGroup": "Pink/White",
+    "customUnit": "Cada",
+    "description": "ALVEJANTE VANISH PINK 1500ML",
     "group": {
-     "id": "400010001",
+     "id": "2000010002",
      "section": {
-      "id": "4"
+      "id": "16"
      }
     },
     "images": [
      {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/000451/300x300.webp"
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/002505/300x300.webp"
      }
     ]
    }
@@ -6167,6 +6087,46 @@
     "images": [
      {
       "url": "https://mundial-api.supermercadosmundial.com.br/products/071952/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "1",
+    "name": "Encarte",
+    "customTheme": {
+     "backgroundColor": "#f8f1da",
+     "textColor": "#ffa042"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 25,90",
+   "oldPrice": "R$ 28,50",
+   "unpublishedIn": "2026-12-02T23:59:00.000Z",
+   "product": {
+    "sku": "060521",
+    "customName": "Vinho",
+    "customBrand": "LATITUDE",
+    "customType": "Alentejo",
+    "customWeight": "750ml",
+    "customDetail": "Português",
+    "customGroup": null,
+    "customUnit": null,
+    "description": "Vinho LATITUDE Alentejo 750ml",
+    "group": {
+     "id": "1800020005",
+     "section": {
+      "id": "14"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/060521/300x300.webp"
      }
     ]
    }
@@ -6293,6 +6253,46 @@
   },
   {
    "category": {
+    "id": "1",
+    "name": "Encarte",
+    "customTheme": {
+     "backgroundColor": "#f8f1da",
+     "textColor": "#ffa042"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 24,98",
+   "oldPrice": "R$ 29,98",
+   "unpublishedIn": "2026-12-02T23:59:00.000Z",
+   "product": {
+    "sku": "074200",
+    "customName": "Aparelho Depilatório",
+    "customBrand": "GILLETTE",
+    "customType": "Venus Pele Sensível",
+    "customWeight": "",
+    "customDetail": "",
+    "customGroup": null,
+    "customUnit": null,
+    "description": "APAR.GILLETTE DEPILATORIO VENUS PELE SENSIVEL",
+    "group": {
+     "id": "1900140007",
+     "section": {
+      "id": "15"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/074200/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
     "id": "3",
     "name": "Mundial Total",
     "customTheme": {
@@ -6349,46 +6349,6 @@
    "oldPrice": "R$ 29,98",
    "unpublishedIn": "2026-12-02T23:59:00.000Z",
    "product": {
-    "sku": "074200",
-    "customName": "Aparelho Depilatório",
-    "customBrand": "GILLETTE",
-    "customType": "Venus Pele Sensível",
-    "customWeight": "",
-    "customDetail": "",
-    "customGroup": null,
-    "customUnit": null,
-    "description": "APAR.GILLETTE DEPILATORIO VENUS PELE SENSIVEL",
-    "group": {
-     "id": "1900140007",
-     "section": {
-      "id": "15"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/074200/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "1",
-    "name": "Encarte",
-    "customTheme": {
-     "backgroundColor": "#f8f1da",
-     "textColor": "#ffa042"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 24,98",
-   "oldPrice": "R$ 29,98",
-   "unpublishedIn": "2026-12-02T23:59:00.000Z",
-   "product": {
     "sku": "074199",
     "customName": "Carga",
     "customBrand": "GILLETTE",
@@ -6420,33 +6380,33 @@
      "textColor": "#ffa042"
     }
    },
-   "measureUnit": "KG",
+   "measureUnit": "UN",
    "quantity": 1,
    "quantity2": 1,
    "percent": 0,
    "description": null,
    "price": "R$ 24,90",
-   "oldPrice": "R$ 27,50",
+   "oldPrice": "R$ 29,90",
    "unpublishedIn": "2026-12-02T23:59:00.000Z",
    "product": {
-    "sku": "008154",
-    "customName": "Costela Suína",
-    "customBrand": "RAINHA",
+    "sku": "045142",
+    "customName": "Saco p/Lixo",
+    "customBrand": "DOVER ROLL",
     "customType": "",
-    "customWeight": "kg",
+    "customWeight": "",
     "customDetail": "",
-    "customGroup": null,
-    "customUnit": null,
-    "description": "COSTELA SUÍNA RAINHA  KG",
+    "customGroup": "Preto Reciclado 50 L c/20 ou 100 L c/10",
+    "customUnit": "Cada",
+    "description": "SACO P/LIXO DOVER ROLL PRETO RECICLADO 50 L C/20 OU 100 L C/10",
     "group": {
-     "id": "200040003",
+     "id": "2100040002",
      "section": {
-      "id": "1"
+      "id": "16"
      }
     },
     "images": [
      {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/008154/300x300.webp"
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/045142/300x300.webp"
      }
     ]
    }
@@ -6533,11 +6493,11 @@
   },
   {
    "category": {
-    "id": "1",
-    "name": "Encarte",
+    "id": "3",
+    "name": "Mundial Total",
     "customTheme": {
-     "backgroundColor": "#f8f1da",
-     "textColor": "#ffa042"
+     "backgroundColor": "#dff2ff",
+     "textColor": "#005dad"
     }
    },
    "measureUnit": "UN",
@@ -6546,27 +6506,27 @@
    "percent": 0,
    "description": null,
    "price": "R$ 24,90",
-   "oldPrice": "R$ 29,90",
-   "unpublishedIn": "2026-12-02T23:59:00.000Z",
+   "oldPrice": "R$ 29,98",
+   "unpublishedIn": "2026-11-29T23:59:00.000Z",
    "product": {
-    "sku": "024852",
-    "customName": "Cachaça",
-    "customBrand": "SAGATIBA",
+    "sku": "070788",
+    "customName": "Café Gourmet",
+    "customBrand": "PRIMA QUALITÀ",
     "customType": "",
-    "customWeight": "700ml",
+    "customWeight": "250g",
     "customDetail": "",
     "customGroup": null,
-    "customUnit": null,
-    "description": "Aguardente  SAGATIBA  700ml",
+    "customUnit": "Cada",
+    "description": "CAFÉ GOURMET PRIMA QUALITÀ  250G",
     "group": {
-     "id": "1800110002",
+     "id": "1300020006",
      "section": {
-      "id": "13"
+      "id": "9"
      }
     },
     "images": [
      {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/024852/300x300.webp"
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/070788/300x300.webp"
      }
     ]
    }
@@ -6869,7 +6829,7 @@
    "oldPrice": "R$ 35,90",
    "unpublishedIn": "2026-12-02T23:59:00.000Z",
    "product": {
-    "sku": "067931",
+    "sku": "067929",
     "customName": "Vinho",
     "customBrand": "VARANDA DOS REIS",
     "customType": "",
@@ -6877,16 +6837,16 @@
     "customDetail": "Português",
     "customGroup": null,
     "customUnit": null,
-    "description": "Vinho Português VARANDA DOS REIS  750ml",
+    "description": "VINHO PORTUGUÊS VARANDA DOS REIS  750ML",
     "group": {
-     "id": "1800020002",
+     "id": "1800020004",
      "section": {
       "id": "14"
      }
     },
     "images": [
      {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/067931/300x300.webp"
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/067929/300x300.webp"
      }
     ]
    }
@@ -6909,7 +6869,7 @@
    "oldPrice": "R$ 35,90",
    "unpublishedIn": "2026-12-02T23:59:00.000Z",
    "product": {
-    "sku": "067929",
+    "sku": "067931",
     "customName": "Vinho",
     "customBrand": "VARANDA DOS REIS",
     "customType": "",
@@ -6917,16 +6877,16 @@
     "customDetail": "Português",
     "customGroup": null,
     "customUnit": null,
-    "description": "VINHO PORTUGUÊS VARANDA DOS REIS  750ML",
+    "description": "Vinho Português VARANDA DOS REIS  750ml",
     "group": {
-     "id": "1800020004",
+     "id": "1800020002",
      "section": {
       "id": "14"
      }
     },
     "images": [
      {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/067929/300x300.webp"
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/067931/300x300.webp"
      }
     ]
    }
@@ -6973,46 +6933,6 @@
   },
   {
    "category": {
-    "id": "3",
-    "name": "Mundial Total",
-    "customTheme": {
-     "backgroundColor": "#dff2ff",
-     "textColor": "#005dad"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 22,98",
-   "oldPrice": "R$ 27,89",
-   "unpublishedIn": "2026-11-29T23:59:00.000Z",
-   "product": {
-    "sku": "045565",
-    "customName": "Protetor Diário",
-    "customBrand": "ALWAYS",
-    "customType": "c/Perfume",
-    "customWeight": "c/80 Unids.",
-    "customDetail": "",
-    "customGroup": null,
-    "customUnit": "Cada",
-    "description": "Protetor Diário ALWAYS c/Perfume c/80 Unids.",
-    "group": {
-     "id": "1900110001",
-     "section": {
-      "id": "15"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/045565/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
     "id": "1",
     "name": "Encarte",
     "customTheme": {
@@ -7047,6 +6967,46 @@
     "images": [
      {
       "url": "https://mundial-api.supermercadosmundial.com.br/products/074325/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "3",
+    "name": "Mundial Total",
+    "customTheme": {
+     "backgroundColor": "#dff2ff",
+     "textColor": "#005dad"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 22,98",
+   "oldPrice": "R$ 27,89",
+   "unpublishedIn": "2026-11-29T23:59:00.000Z",
+   "product": {
+    "sku": "045565",
+    "customName": "Protetor Diário",
+    "customBrand": "ALWAYS",
+    "customType": "c/Perfume",
+    "customWeight": "c/80 Unids.",
+    "customDetail": "",
+    "customGroup": null,
+    "customUnit": "Cada",
+    "description": "Protetor Diário ALWAYS c/Perfume c/80 Unids.",
+    "group": {
+     "id": "1900110001",
+     "section": {
+      "id": "15"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/045565/300x300.webp"
      }
     ]
    }
@@ -7333,6 +7293,46 @@
   },
   {
    "category": {
+    "id": "3",
+    "name": "Mundial Total",
+    "customTheme": {
+     "backgroundColor": "#dff2ff",
+     "textColor": "#005dad"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 19,98",
+   "oldPrice": "R$ 21,98",
+   "unpublishedIn": "2026-11-29T23:59:00.000Z",
+   "product": {
+    "sku": "037655",
+    "customName": "Espuma de Barbear",
+    "customBrand": "BOZZANO",
+    "customType": "Hidratante/Pele Sensível",
+    "customWeight": "193g",
+    "customDetail": "",
+    "customGroup": null,
+    "customUnit": "Cada",
+    "description": "Espuma de Barbear BOZZANO Hidratante/Pele Sensível 193g",
+    "group": {
+     "id": "1900140002",
+     "section": {
+      "id": "15"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/037655/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
     "id": "1",
     "name": "Encarte",
     "customTheme": {
@@ -7389,64 +7389,24 @@
    "oldPrice": "R$ 21,98",
    "unpublishedIn": "2026-11-29T23:59:00.000Z",
    "product": {
-    "sku": "037655",
-    "customName": "Espuma de Barbear",
-    "customBrand": "BOZZANO",
-    "customType": "Hidratante/Pele Sensível",
-    "customWeight": "193g",
+    "sku": "016916",
+    "customName": "Tintura",
+    "customBrand": "KOLESTON",
+    "customType": "",
+    "customWeight": "",
     "customDetail": "",
-    "customGroup": null,
+    "customGroup": "Vários Tipos",
     "customUnit": "Cada",
-    "description": "Espuma de Barbear BOZZANO Hidratante/Pele Sensível 193g",
+    "description": "TINT.KOLESTON CASTANHO CLARO 50",
     "group": {
-     "id": "1900140002",
+     "id": "1900070001",
      "section": {
       "id": "15"
      }
     },
     "images": [
      {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/037655/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "3",
-    "name": "Mundial Total",
-    "customTheme": {
-     "backgroundColor": "#dff2ff",
-     "textColor": "#005dad"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 19,98",
-   "oldPrice": "R$ 22,95",
-   "unpublishedIn": "2026-11-29T23:59:00.000Z",
-   "product": {
-    "sku": "064873",
-    "customName": "Amendoim",
-    "customBrand": "AGTAL",
-    "customType": "Salgado",
-    "customWeight": "400g",
-    "customDetail": "",
-    "customGroup": null,
-    "customUnit": "Cada",
-    "description": "Amendoim AGTAL Salgado 400g",
-    "group": {
-     "id": "1600070002",
-     "section": {
-      "id": "12"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/064873/300x300.webp"
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/016916/300x300.webp"
      }
     ]
    }
@@ -7546,86 +7506,6 @@
    "percent": 0,
    "description": null,
    "price": "R$ 19,98",
-   "oldPrice": "R$ 22,90",
-   "unpublishedIn": "2026-12-02T23:59:00.000Z",
-   "product": {
-    "sku": "067008",
-    "customName": "Lava-roupas Líquido",
-    "customBrand": "ODD",
-    "customType": "",
-    "customWeight": "3 L",
-    "customDetail": "",
-    "customGroup": "Vários Tipos",
-    "customUnit": "Cada",
-    "description": "LAVA-ROUPAS LÍQUIDO ODD LIMPEZA COMPLETA/COCO 3 L",
-    "group": {
-     "id": "2000010004",
-     "section": {
-      "id": "16"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/067008/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "3",
-    "name": "Mundial Total",
-    "customTheme": {
-     "backgroundColor": "#dff2ff",
-     "textColor": "#005dad"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 19,98",
-   "oldPrice": "R$ 21,98",
-   "unpublishedIn": "2026-11-29T23:59:00.000Z",
-   "product": {
-    "sku": "016916",
-    "customName": "Tintura",
-    "customBrand": "KOLESTON",
-    "customType": "",
-    "customWeight": "",
-    "customDetail": "",
-    "customGroup": "Vários Tipos",
-    "customUnit": "Cada",
-    "description": "TINT.KOLESTON CASTANHO CLARO 50",
-    "group": {
-     "id": "1900070001",
-     "section": {
-      "id": "15"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/016916/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "1",
-    "name": "Encarte",
-    "customTheme": {
-     "backgroundColor": "#f8f1da",
-     "textColor": "#ffa042"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 19,98",
    "oldPrice": "R$ 21,98",
    "unpublishedIn": "2026-12-02T23:59:00.000Z",
    "product": {
@@ -7647,6 +7527,86 @@
     "images": [
      {
       "url": "https://mundial-api.supermercadosmundial.com.br/products/069337/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "3",
+    "name": "Mundial Total",
+    "customTheme": {
+     "backgroundColor": "#dff2ff",
+     "textColor": "#005dad"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 19,98",
+   "oldPrice": "R$ 22,95",
+   "unpublishedIn": "2026-11-29T23:59:00.000Z",
+   "product": {
+    "sku": "064873",
+    "customName": "Amendoim",
+    "customBrand": "AGTAL",
+    "customType": "Salgado",
+    "customWeight": "400g",
+    "customDetail": "",
+    "customGroup": null,
+    "customUnit": "Cada",
+    "description": "Amendoim AGTAL Salgado 400g",
+    "group": {
+     "id": "1600070002",
+     "section": {
+      "id": "12"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/064873/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "1",
+    "name": "Encarte",
+    "customTheme": {
+     "backgroundColor": "#f8f1da",
+     "textColor": "#ffa042"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 19,98",
+   "oldPrice": "R$ 22,90",
+   "unpublishedIn": "2026-12-02T23:59:00.000Z",
+   "product": {
+    "sku": "067008",
+    "customName": "Lava-roupas Líquido",
+    "customBrand": "ODD",
+    "customType": "",
+    "customWeight": "3 L",
+    "customDetail": "",
+    "customGroup": "Vários Tipos",
+    "customUnit": "Cada",
+    "description": "LAVA-ROUPAS LÍQUIDO ODD LIMPEZA COMPLETA/COCO 3 L",
+    "group": {
+     "id": "2000010004",
+     "section": {
+      "id": "16"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/067008/300x300.webp"
      }
     ]
    }
@@ -7706,6 +7666,86 @@
    "percent": 0,
    "description": null,
    "price": "R$ 19,90",
+   "oldPrice": "R$ 21,50",
+   "unpublishedIn": "2026-11-29T23:59:00.000Z",
+   "product": {
+    "sku": "071963",
+    "customName": "Batata Congelada",
+    "customBrand": "BEM BRASIL",
+    "customType": "Fininhas",
+    "customWeight": "1,5 kg",
+    "customDetail": "",
+    "customGroup": null,
+    "customUnit": "Cada",
+    "description": "Batata Congelada BEM BRASIL Fininhas 1,5 kg",
+    "group": {
+     "id": "300030001",
+     "section": {
+      "id": "2"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/071963/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "3",
+    "name": "Mundial Total",
+    "customTheme": {
+     "backgroundColor": "#dff2ff",
+     "textColor": "#005dad"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 19,90",
+   "oldPrice": "R$ 22,50",
+   "unpublishedIn": "2026-11-29T23:59:00.000Z",
+   "product": {
+    "sku": "058687",
+    "customName": "Vinho Tinto",
+    "customBrand": "SAINT GERMAIN",
+    "customType": "Cabernet",
+    "customWeight": "750ml",
+    "customDetail": "",
+    "customGroup": null,
+    "customUnit": "Cada",
+    "description": "Vinho Tinto SAINT GERMAIN Cabernet 750ml",
+    "group": {
+     "id": "1800030003",
+     "section": {
+      "id": "14"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/058687/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "3",
+    "name": "Mundial Total",
+    "customTheme": {
+     "backgroundColor": "#dff2ff",
+     "textColor": "#005dad"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 19,90",
    "oldPrice": "R$ 29,90",
    "unpublishedIn": "2026-11-29T23:59:00.000Z",
    "product": {
@@ -7727,6 +7767,206 @@
     "images": [
      {
       "url": "https://mundial-api.supermercadosmundial.com.br/products/056760/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "3",
+    "name": "Mundial Total",
+    "customTheme": {
+     "backgroundColor": "#dff2ff",
+     "textColor": "#005dad"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 19,90",
+   "oldPrice": "R$ 24,90",
+   "unpublishedIn": "2026-11-29T23:59:00.000Z",
+   "product": {
+    "sku": "019447",
+    "customName": "Feijão Branco",
+    "customBrand": "BONDUELLE",
+    "customType": "",
+    "customWeight": "250g",
+    "customDetail": "Importado",
+    "customGroup": null,
+    "customUnit": "Cada",
+    "description": "FEIJAO BRANCO IMP.BONDUELLE 250G",
+    "group": {
+     "id": "1200010005",
+     "section": {
+      "id": "10"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/019447/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "1",
+    "name": "Encarte",
+    "customTheme": {
+     "backgroundColor": "#f8f1da",
+     "textColor": "#ffa042"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 19,90",
+   "oldPrice": "R$ 27,80",
+   "unpublishedIn": "2026-12-02T23:59:00.000Z",
+   "product": {
+    "sku": "061238",
+    "customName": "Café Solúvel",
+    "customBrand": "3 CORAÇÕES",
+    "customType": "Liofilizado",
+    "customWeight": "Vidro 100g",
+    "customDetail": "",
+    "customGroup": null,
+    "customUnit": null,
+    "description": "Café Solúvel 3 CORAÇÕES Liofilizado Vidro 100g",
+    "group": {
+     "id": "1300020001",
+     "section": {
+      "id": "9"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/061238/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "3",
+    "name": "Mundial Total",
+    "customTheme": {
+     "backgroundColor": "#dff2ff",
+     "textColor": "#005dad"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 19,90",
+   "oldPrice": "R$ 22,50",
+   "unpublishedIn": "2026-11-29T23:59:00.000Z",
+   "product": {
+    "sku": "027851",
+    "customName": "Vinho",
+    "customBrand": "SAINT GERMAIN",
+    "customType": "",
+    "customWeight": "750ml",
+    "customDetail": "Brasileiro",
+    "customGroup": null,
+    "customUnit": "Cada",
+    "description": "Vinho Brasileiro SAINT GERMAIN  750ml",
+    "group": {
+     "id": "1800030004",
+     "section": {
+      "id": "14"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/027851/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "1",
+    "name": "Encarte",
+    "customTheme": {
+     "backgroundColor": "#f8f1da",
+     "textColor": "#ffa042"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 19,90",
+   "oldPrice": "R$ 21,90",
+   "unpublishedIn": "2026-12-02T23:59:00.000Z",
+   "product": {
+    "sku": "070589",
+    "customName": "Pilha Alcalina AA/AAA",
+    "customBrand": "PANASONIC",
+    "customType": "Palito/Pequena",
+    "customWeight": "c/4 Unids.",
+    "customDetail": "",
+    "customGroup": null,
+    "customUnit": "Cada",
+    "description": "Pilha Alcalina AA/AAA PANASONIC Palito/Pequena c/4 Unids.",
+    "group": {
+     "id": "2100130001",
+     "section": {
+      "id": "17"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/070589/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "1",
+    "name": "Encarte",
+    "customTheme": {
+     "backgroundColor": "#f8f1da",
+     "textColor": "#ffa042"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 19,90",
+   "oldPrice": "R$ 21,90",
+   "unpublishedIn": "2026-12-02T23:59:00.000Z",
+   "product": {
+    "sku": "070589",
+    "customName": "Pilha Alcalina AA/AAA",
+    "customBrand": "PANASONIC",
+    "customType": "Palito/Pequena",
+    "customWeight": "c/4 Unids.",
+    "customDetail": "",
+    "customGroup": null,
+    "customUnit": "Cada",
+    "description": "Pilha Alcalina AA/AAA PANASONIC Palito/Pequena c/4 Unids.",
+    "group": {
+     "id": "2100130001",
+     "section": {
+      "id": "17"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/070589/300x300.webp"
      }
     ]
    }
@@ -7786,86 +8026,6 @@
    "percent": 0,
    "description": null,
    "price": "R$ 19,90",
-   "oldPrice": "R$ 23,90",
-   "unpublishedIn": "2026-11-29T23:59:00.000Z",
-   "product": {
-    "sku": "065889",
-    "customName": "Vinho Tinto",
-    "customBrand": "VERZA",
-    "customType": "Suave",
-    "customWeight": "1 L",
-    "customDetail": "",
-    "customGroup": null,
-    "customUnit": "Cada",
-    "description": "Vinho Tinto VERZA Suave 1 L",
-    "group": {
-     "id": "1800030004",
-     "section": {
-      "id": "14"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/065889/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "3",
-    "name": "Mundial Total",
-    "customTheme": {
-     "backgroundColor": "#dff2ff",
-     "textColor": "#005dad"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 19,90",
-   "oldPrice": "R$ 21,50",
-   "unpublishedIn": "2026-11-29T23:59:00.000Z",
-   "product": {
-    "sku": "071963",
-    "customName": "Batata Congelada",
-    "customBrand": "BEM BRASIL",
-    "customType": "Fininhas",
-    "customWeight": "1,5 kg",
-    "customDetail": "",
-    "customGroup": null,
-    "customUnit": "Cada",
-    "description": "Batata Congelada BEM BRASIL Fininhas 1,5 kg",
-    "group": {
-     "id": "300030001",
-     "section": {
-      "id": "2"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/071963/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "3",
-    "name": "Mundial Total",
-    "customTheme": {
-     "backgroundColor": "#dff2ff",
-     "textColor": "#005dad"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 19,90",
    "oldPrice": "R$ 24,90",
    "unpublishedIn": "2026-11-29T23:59:00.000Z",
    "product": {
@@ -7887,206 +8047,6 @@
     "images": [
      {
       "url": "https://mundial-api.supermercadosmundial.com.br/products/019447/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "1",
-    "name": "Encarte",
-    "customTheme": {
-     "backgroundColor": "#f8f1da",
-     "textColor": "#ffa042"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 19,90",
-   "oldPrice": "R$ 27,80",
-   "unpublishedIn": "2026-12-02T23:59:00.000Z",
-   "product": {
-    "sku": "061238",
-    "customName": "Café Solúvel",
-    "customBrand": "3 CORAÇÕES",
-    "customType": "Liofilizado",
-    "customWeight": "Vidro 100g",
-    "customDetail": "",
-    "customGroup": null,
-    "customUnit": null,
-    "description": "Café Solúvel 3 CORAÇÕES Liofilizado Vidro 100g",
-    "group": {
-     "id": "1300020001",
-     "section": {
-      "id": "9"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/061238/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "3",
-    "name": "Mundial Total",
-    "customTheme": {
-     "backgroundColor": "#dff2ff",
-     "textColor": "#005dad"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 19,90",
-   "oldPrice": "R$ 23,90",
-   "unpublishedIn": "2026-11-29T23:59:00.000Z",
-   "product": {
-    "sku": "065889",
-    "customName": "Vinho Tinto",
-    "customBrand": "VERZA",
-    "customType": "Suave",
-    "customWeight": "1 L",
-    "customDetail": "",
-    "customGroup": null,
-    "customUnit": "Cada",
-    "description": "Vinho Tinto VERZA Suave 1 L",
-    "group": {
-     "id": "1800030004",
-     "section": {
-      "id": "14"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/065889/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "3",
-    "name": "Mundial Total",
-    "customTheme": {
-     "backgroundColor": "#dff2ff",
-     "textColor": "#005dad"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 19,90",
-   "oldPrice": "R$ 21,50",
-   "unpublishedIn": "2026-11-29T23:59:00.000Z",
-   "product": {
-    "sku": "071963",
-    "customName": "Batata Congelada",
-    "customBrand": "BEM BRASIL",
-    "customType": "Fininhas",
-    "customWeight": "1,5 kg",
-    "customDetail": "",
-    "customGroup": null,
-    "customUnit": "Cada",
-    "description": "Batata Congelada BEM BRASIL Fininhas 1,5 kg",
-    "group": {
-     "id": "300030001",
-     "section": {
-      "id": "2"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/071963/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "3",
-    "name": "Mundial Total",
-    "customTheme": {
-     "backgroundColor": "#dff2ff",
-     "textColor": "#005dad"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 19,90",
-   "oldPrice": "R$ 24,90",
-   "unpublishedIn": "2026-11-29T23:59:00.000Z",
-   "product": {
-    "sku": "019447",
-    "customName": "Feijão Branco",
-    "customBrand": "BONDUELLE",
-    "customType": "",
-    "customWeight": "250g",
-    "customDetail": "Importado",
-    "customGroup": null,
-    "customUnit": "Cada",
-    "description": "FEIJAO BRANCO IMP.BONDUELLE 250G",
-    "group": {
-     "id": "1200010005",
-     "section": {
-      "id": "10"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/019447/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "1",
-    "name": "Encarte",
-    "customTheme": {
-     "backgroundColor": "#f8f1da",
-     "textColor": "#ffa042"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 19,90",
-   "oldPrice": "R$ 27,80",
-   "unpublishedIn": "2026-12-02T23:59:00.000Z",
-   "product": {
-    "sku": "061238",
-    "customName": "Café Solúvel",
-    "customBrand": "3 CORAÇÕES",
-    "customType": "Liofilizado",
-    "customWeight": "Vidro 100g",
-    "customDetail": "",
-    "customGroup": null,
-    "customUnit": null,
-    "description": "Café Solúvel 3 CORAÇÕES Liofilizado Vidro 100g",
-    "group": {
-     "id": "1300020001",
-     "section": {
-      "id": "9"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/061238/300x300.webp"
      }
     ]
    }
@@ -8127,46 +8087,6 @@
     "images": [
      {
       "url": "https://mundial-api.supermercadosmundial.com.br/products/018269/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "3",
-    "name": "Mundial Total",
-    "customTheme": {
-     "backgroundColor": "#dff2ff",
-     "textColor": "#005dad"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 19,80",
-   "oldPrice": "R$ 23,80",
-   "unpublishedIn": "2026-11-29T23:59:00.000Z",
-   "product": {
-    "sku": "014997",
-    "customName": "Vinho Tinto",
-    "customBrand": "SALTON",
-    "customType": "Classic",
-    "customWeight": "750ml",
-    "customDetail": "Brasileiro",
-    "customGroup": null,
-    "customUnit": "Cada",
-    "description": "Vinho Tinto SALTON Classic 750ml",
-    "group": {
-     "id": "1800030004",
-     "section": {
-      "id": "14"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/014997/300x300.webp"
      }
     ]
    }
@@ -8247,6 +8167,46 @@
     "images": [
      {
       "url": "https://mundial-api.supermercadosmundial.com.br/products/036950/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "3",
+    "name": "Mundial Total",
+    "customTheme": {
+     "backgroundColor": "#dff2ff",
+     "textColor": "#005dad"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 19,80",
+   "oldPrice": "R$ 23,80",
+   "unpublishedIn": "2026-11-29T23:59:00.000Z",
+   "product": {
+    "sku": "014997",
+    "customName": "Vinho Tinto",
+    "customBrand": "SALTON",
+    "customType": "Classic",
+    "customWeight": "750ml",
+    "customDetail": "Brasileiro",
+    "customGroup": null,
+    "customUnit": "Cada",
+    "description": "Vinho Tinto SALTON Classic 750ml",
+    "group": {
+     "id": "1800030004",
+     "section": {
+      "id": "14"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/014997/300x300.webp"
      }
     ]
    }
@@ -8346,46 +8306,6 @@
    "percent": 0,
    "description": null,
    "price": "R$ 18,98",
-   "oldPrice": "R$ 20,98",
-   "unpublishedIn": "2026-12-02T23:59:00.000Z",
-   "product": {
-    "sku": "070435",
-    "customName": "Enxaguante Bucal",
-    "customBrand": "LISTERINE",
-    "customType": "",
-    "customWeight": "500ml",
-    "customDetail": "",
-    "customGroup": "Vários Tipos",
-    "customUnit": "Cada",
-    "description": "Enxaguante Bucal Zero LISTERINE Melancia & Hortelã 500ml",
-    "group": {
-     "id": "1900020004",
-     "section": {
-      "id": "15"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/070435/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "1",
-    "name": "Encarte",
-    "customTheme": {
-     "backgroundColor": "#f8f1da",
-     "textColor": "#ffa042"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 18,98",
    "oldPrice": "R$ 21,98",
    "unpublishedIn": "2026-12-02T23:59:00.000Z",
    "product": {
@@ -8413,11 +8333,11 @@
   },
   {
    "category": {
-    "id": "3",
-    "name": "Mundial Total",
+    "id": "1",
+    "name": "Encarte",
     "customTheme": {
-     "backgroundColor": "#dff2ff",
-     "textColor": "#005dad"
+     "backgroundColor": "#f8f1da",
+     "textColor": "#ffa042"
     }
    },
    "measureUnit": "UN",
@@ -8425,28 +8345,28 @@
    "quantity2": 1,
    "percent": 0,
    "description": null,
-   "price": "R$ 18,90",
-   "oldPrice": "R$ 19,90",
-   "unpublishedIn": "2026-11-29T23:59:00.000Z",
+   "price": "R$ 18,98",
+   "oldPrice": "R$ 20,98",
+   "unpublishedIn": "2026-12-02T23:59:00.000Z",
    "product": {
-    "sku": "066784",
-    "customName": "Batata Congelada",
-    "customBrand": "BEM BRASIL",
-    "customType": "Uai Tradicional",
-    "customWeight": "Pacote 2 kg",
+    "sku": "070435",
+    "customName": "Enxaguante Bucal",
+    "customBrand": "LISTERINE",
+    "customType": "",
+    "customWeight": "500ml",
     "customDetail": "",
-    "customGroup": null,
+    "customGroup": "Vários Tipos",
     "customUnit": "Cada",
-    "description": "Batata Congelada BEM BRASIL Uai Tradicional Pacote 2 kg",
+    "description": "Enxaguante Bucal Zero LISTERINE Melancia & Hortelã 500ml",
     "group": {
-     "id": "300030001",
+     "id": "1900020004",
      "section": {
-      "id": "2"
+      "id": "15"
      }
     },
     "images": [
      {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/066784/300x300.webp"
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/070435/300x300.webp"
      }
     ]
    }
@@ -8487,6 +8407,46 @@
     "images": [
      {
       "url": "https://mundial-api.supermercadosmundial.com.br/products/056301/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "3",
+    "name": "Mundial Total",
+    "customTheme": {
+     "backgroundColor": "#dff2ff",
+     "textColor": "#005dad"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 18,90",
+   "oldPrice": "R$ 19,90",
+   "unpublishedIn": "2026-11-29T23:59:00.000Z",
+   "product": {
+    "sku": "066784",
+    "customName": "Batata Congelada",
+    "customBrand": "BEM BRASIL",
+    "customType": "Uai Tradicional",
+    "customWeight": "Pacote 2 kg",
+    "customDetail": "",
+    "customGroup": null,
+    "customUnit": "Cada",
+    "description": "Batata Congelada BEM BRASIL Uai Tradicional Pacote 2 kg",
+    "group": {
+     "id": "300030001",
+     "section": {
+      "id": "2"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/066784/300x300.webp"
      }
     ]
    }
@@ -8573,46 +8533,6 @@
   },
   {
    "category": {
-    "id": "1",
-    "name": "Encarte",
-    "customTheme": {
-     "backgroundColor": "#f8f1da",
-     "textColor": "#ffa042"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 17,99",
-   "oldPrice": "R$ 19,18",
-   "unpublishedIn": "2026-12-02T23:59:00.000Z",
-   "product": {
-    "sku": "074397",
-    "customName": "Lava-roupas Líquido",
-    "customBrand": "OLA",
-    "customType": "Original/Bebê",
-    "customWeight": "1 L",
-    "customDetail": "",
-    "customGroup": null,
-    "customUnit": "Cada",
-    "description": "Lava-roupas Líquido OLA Original/Bebê 1 L",
-    "group": {
-     "id": "2000010004",
-     "section": {
-      "id": "16"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/074397/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
     "id": "3",
     "name": "Mundial Total",
     "customTheme": {
@@ -8665,28 +8585,68 @@
    "quantity2": 1,
    "percent": 0,
    "description": null,
-   "price": "R$ 17,98",
-   "oldPrice": "R$ 19,80",
+   "price": "R$ 17,99",
+   "oldPrice": "R$ 19,18",
    "unpublishedIn": "2026-12-02T23:59:00.000Z",
    "product": {
-    "sku": "065717",
-    "customName": "Arroz Arborio p/Risoto",
-    "customBrand": "PILECCO NOBRE",
-    "customType": "",
-    "customWeight": "1 kg",
+    "sku": "074397",
+    "customName": "Lava-roupas Líquido",
+    "customBrand": "OLA",
+    "customType": "Original/Bebê",
+    "customWeight": "1 L",
     "customDetail": "",
     "customGroup": null,
-    "customUnit": null,
-    "description": "ARROZ ARBORIO PILECCO NOBRE P/RISOTO 1 KG",
+    "customUnit": "Cada",
+    "description": "Lava-roupas Líquido OLA Original/Bebê 1 L",
     "group": {
-     "id": "1000010003",
+     "id": "2000010004",
      "section": {
-      "id": "10"
+      "id": "16"
      }
     },
     "images": [
      {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/065717/300x300.webp"
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/074397/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "1",
+    "name": "Encarte",
+    "customTheme": {
+     "backgroundColor": "#f8f1da",
+     "textColor": "#ffa042"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 17,98",
+   "oldPrice": "R$ 19,89",
+   "unpublishedIn": "2026-12-02T23:59:00.000Z",
+   "product": {
+    "sku": "069200",
+    "customName": "Aparelho Depilatório",
+    "customBrand": "BIC",
+    "customType": "Soleil Color Collection",
+    "customWeight": "c/4 Unids.",
+    "customDetail": "",
+    "customGroup": null,
+    "customUnit": null,
+    "description": "Aparelho Depilatório BIC Soleil Color Collection c/4 Unids.",
+    "group": {
+     "id": "1900140005",
+     "section": {
+      "id": "15"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/069200/300x300.webp"
      }
     ]
    }
@@ -8727,6 +8687,46 @@
     "images": [
      {
       "url": "https://mundial-api.supermercadosmundial.com.br/products/074847/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "1",
+    "name": "Encarte",
+    "customTheme": {
+     "backgroundColor": "#f8f1da",
+     "textColor": "#ffa042"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 17,98",
+   "oldPrice": "R$ 19,80",
+   "unpublishedIn": "2026-12-02T23:59:00.000Z",
+   "product": {
+    "sku": "065717",
+    "customName": "Arroz Arborio p/Risoto",
+    "customBrand": "PILECCO NOBRE",
+    "customType": "",
+    "customWeight": "1 kg",
+    "customDetail": "",
+    "customGroup": null,
+    "customUnit": null,
+    "description": "ARROZ ARBORIO PILECCO NOBRE P/RISOTO 1 KG",
+    "group": {
+     "id": "1000010003",
+     "section": {
+      "id": "10"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/065717/300x300.webp"
      }
     ]
    }
@@ -8789,46 +8789,6 @@
    "oldPrice": "R$ 20,98",
    "unpublishedIn": "2026-12-02T23:59:00.000Z",
    "product": {
-    "sku": "073801",
-    "customName": "Iogurte Líquido",
-    "customBrand": "BATAVO",
-    "customType": "",
-    "customWeight": "1,15 kg",
-    "customDetail": "",
-    "customGroup": "ProBio2 Vários Sabores",
-    "customUnit": "Cada",
-    "description": "IOG.LIQ.GFE BATAVO PROBIO TRADICIONAL 1150G",
-    "group": {
-     "id": "600030004",
-     "section": {
-      "id": "5"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/073801/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "1",
-    "name": "Encarte",
-    "customTheme": {
-     "backgroundColor": "#f8f1da",
-     "textColor": "#ffa042"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 17,98",
-   "oldPrice": "R$ 20,98",
-   "unpublishedIn": "2026-12-02T23:59:00.000Z",
-   "product": {
     "sku": "073240",
     "customName": "Iogurte Líquido",
     "customBrand": "BATAVO",
@@ -8847,46 +8807,6 @@
     "images": [
      {
       "url": "https://mundial-api.supermercadosmundial.com.br/products/073240/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "2",
-    "name": "Imperdível",
-    "customTheme": {
-     "backgroundColor": "#feeabf",
-     "textColor": "#7b6732"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 17,95",
-   "oldPrice": null,
-   "unpublishedIn": "2026-11-24T23:59:00.000Z",
-   "product": {
-    "sku": "057734",
-    "customName": "PAPEL HIGIÊNICO",
-    "customBrand": "COTTON",
-    "customType": "",
-    "customWeight": "",
-    "customDetail": "",
-    "customGroup": null,
-    "customUnit": null,
-    "description": "Papel Higiênico COTTON Folha Dupla 30m",
-    "group": {
-     "id": "1900120004",
-     "section": {
-      "id": "15"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/057734/300x300.webp"
      }
     ]
    }
@@ -8973,86 +8893,6 @@
   },
   {
    "category": {
-    "id": "1",
-    "name": "Encarte",
-    "customTheme": {
-     "backgroundColor": "#f8f1da",
-     "textColor": "#ffa042"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 16,99",
-   "oldPrice": "R$ 19,50",
-   "unpublishedIn": "2026-12-02T23:59:00.000Z",
-   "product": {
-    "sku": "010304",
-    "customName": "Azeitona Verde",
-    "customBrand": "VALE FÉRTIL",
-    "customType": "",
-    "customWeight": "360g",
-    "customDetail": "",
-    "customGroup": null,
-    "customUnit": "Cada",
-    "description": "AZEITONAS VALE FERTIL VDE 360G",
-    "group": {
-     "id": "1200010001",
-     "section": {
-      "id": "10"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/010304/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "3",
-    "name": "Mundial Total",
-    "customTheme": {
-     "backgroundColor": "#dff2ff",
-     "textColor": "#005dad"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 16,99",
-   "oldPrice": "R$ 19,95",
-   "unpublishedIn": "2026-11-29T23:59:00.000Z",
-   "product": {
-    "sku": "071649",
-    "customName": "Condimento",
-    "customBrand": "KITANO",
-    "customType": "Dry-Rub Churrasquear Carne Bovina/Suína",
-    "customWeight": "115g",
-    "customDetail": "",
-    "customGroup": null,
-    "customUnit": "Cada",
-    "description": "Condimento KITANO Dry-Rub Churrasquear Carne Bovina/Suína 115g",
-    "group": {
-     "id": "1200030001",
-     "section": {
-      "id": "10"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/071649/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
     "id": "3",
     "name": "Mundial Total",
     "customTheme": {
@@ -9093,11 +8933,11 @@
   },
   {
    "category": {
-    "id": "3",
-    "name": "Mundial Total",
+    "id": "1",
+    "name": "Encarte",
     "customTheme": {
-     "backgroundColor": "#dff2ff",
-     "textColor": "#005dad"
+     "backgroundColor": "#f8f1da",
+     "textColor": "#ffa042"
     }
    },
    "measureUnit": "UN",
@@ -9106,27 +8946,27 @@
    "percent": 0,
    "description": null,
    "price": "R$ 16,99",
-   "oldPrice": "R$ 18,99",
-   "unpublishedIn": "2026-11-29T23:59:00.000Z",
+   "oldPrice": "R$ 19,50",
+   "unpublishedIn": "2026-12-02T23:59:00.000Z",
    "product": {
-    "sku": "064986",
-    "customName": "Bebida Vegetal",
-    "customBrand": "A TAL DA CASTANHA",
+    "sku": "010304",
+    "customName": "Azeitona Verde",
+    "customBrand": "VALE FÉRTIL",
     "customType": "",
-    "customWeight": "TP 1 L",
+    "customWeight": "360g",
     "customDetail": "",
-    "customGroup": "Tradicional/Barista",
+    "customGroup": null,
     "customUnit": "Cada",
-    "description": "Bebida Vegetal A TAL DA CASTANHA Aveia Vários Sabores TP 1 L",
+    "description": "AZEITONAS VALE FERTIL VDE 360G",
     "group": {
-     "id": "2217110001",
+     "id": "1200010001",
      "section": {
-      "id": "18"
+      "id": "10"
      }
     },
     "images": [
      {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/064986/300x300.webp"
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/010304/300x300.webp"
      }
     ]
    }
@@ -9185,39 +9025,39 @@
    "quantity2": 1,
    "percent": 0,
    "description": null,
-   "price": "R$ 16,98",
-   "oldPrice": "R$ 17,95",
+   "price": "R$ 16,99",
+   "oldPrice": "R$ 18,99",
    "unpublishedIn": "2026-11-29T23:59:00.000Z",
    "product": {
-    "sku": "056852",
-    "customName": "Azeitonas Pretas",
-    "customBrand": "LA VIOLETERA",
-    "customType": "Azapa",
-    "customWeight": "200g",
+    "sku": "064986",
+    "customName": "Bebida Vegetal",
+    "customBrand": "A TAL DA CASTANHA",
+    "customType": "",
+    "customWeight": "TP 1 L",
     "customDetail": "",
-    "customGroup": null,
+    "customGroup": "Tradicional/Barista",
     "customUnit": "Cada",
-    "description": "Azeitonas Pretas LA VIOLETERA Azapa 200g",
+    "description": "Bebida Vegetal A TAL DA CASTANHA Aveia Vários Sabores TP 1 L",
     "group": {
-     "id": "1200010001",
+     "id": "2217110001",
      "section": {
-      "id": "10"
+      "id": "18"
      }
     },
     "images": [
      {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/056852/300x300.webp"
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/064986/300x300.webp"
      }
     ]
    }
   },
   {
    "category": {
-    "id": "1",
-    "name": "Encarte",
+    "id": "3",
+    "name": "Mundial Total",
     "customTheme": {
-     "backgroundColor": "#f8f1da",
-     "textColor": "#ffa042"
+     "backgroundColor": "#dff2ff",
+     "textColor": "#005dad"
     }
    },
    "measureUnit": "UN",
@@ -9225,28 +9065,28 @@
    "quantity2": 1,
    "percent": 0,
    "description": null,
-   "price": "R$ 16,98",
-   "oldPrice": "R$ 19,98",
-   "unpublishedIn": "2026-12-02T23:59:00.000Z",
+   "price": "R$ 16,99",
+   "oldPrice": "R$ 19,95",
+   "unpublishedIn": "2026-11-29T23:59:00.000Z",
    "product": {
-    "sku": "070449",
-    "customName": "Pão de Queijo Assado",
-    "customBrand": "FORNO DE MINAS",
-    "customType": "Receita Caseira",
-    "customWeight": "400g",
+    "sku": "071649",
+    "customName": "Condimento",
+    "customBrand": "KITANO",
+    "customType": "Dry-Rub Churrasquear Carne Bovina/Suína",
+    "customWeight": "115g",
     "customDetail": "",
     "customGroup": null,
-    "customUnit": null,
-    "description": "Pão de Queijo Assado FORNO DE MINAS Receita Caseira 400g",
+    "customUnit": "Cada",
+    "description": "Condimento KITANO Dry-Rub Churrasquear Carne Bovina/Suína 115g",
     "group": {
-     "id": "300020001",
+     "id": "1200030001",
      "section": {
-      "id": "2"
+      "id": "10"
      }
     },
     "images": [
      {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/070449/300x300.webp"
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/071649/300x300.webp"
      }
     ]
    }
@@ -9305,28 +9145,108 @@
    "quantity2": 1,
    "percent": 0,
    "description": null,
-   "price": "R$ 16,90",
-   "oldPrice": "R$ 17,90",
+   "price": "R$ 16,98",
+   "oldPrice": "R$ 19,98",
    "unpublishedIn": "2026-12-02T23:59:00.000Z",
    "product": {
-    "sku": "060874",
-    "customName": "Desinfetante",
-    "customBrand": "LYSOFORM",
-    "customType": "",
-    "customWeight": "1 L",
+    "sku": "070449",
+    "customName": "Pão de Queijo Assado",
+    "customBrand": "FORNO DE MINAS",
+    "customType": "Receita Caseira",
+    "customWeight": "400g",
     "customDetail": "",
-    "customGroup": "Vários Tipos",
-    "customUnit": "Cada",
-    "description": "DESINFETANTE LYSOFORM VÁRIOS TIPOS 1 L",
+    "customGroup": null,
+    "customUnit": null,
+    "description": "Pão de Queijo Assado FORNO DE MINAS Receita Caseira 400g",
     "group": {
-     "id": "2000050001",
+     "id": "300020001",
      "section": {
-      "id": "16"
+      "id": "2"
      }
     },
     "images": [
      {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/060874/300x300.webp"
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/070449/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "3",
+    "name": "Mundial Total",
+    "customTheme": {
+     "backgroundColor": "#dff2ff",
+     "textColor": "#005dad"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 16,98",
+   "oldPrice": "R$ 17,95",
+   "unpublishedIn": "2026-11-29T23:59:00.000Z",
+   "product": {
+    "sku": "056852",
+    "customName": "Azeitonas Pretas",
+    "customBrand": "LA VIOLETERA",
+    "customType": "Azapa",
+    "customWeight": "200g",
+    "customDetail": "",
+    "customGroup": null,
+    "customUnit": "Cada",
+    "description": "Azeitonas Pretas LA VIOLETERA Azapa 200g",
+    "group": {
+     "id": "1200010001",
+     "section": {
+      "id": "10"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/056852/300x300.webp"
+     }
+    ]
+   }
+  },
+  {
+   "category": {
+    "id": "3",
+    "name": "Mundial Total",
+    "customTheme": {
+     "backgroundColor": "#dff2ff",
+     "textColor": "#005dad"
+    }
+   },
+   "measureUnit": "UN",
+   "quantity": 1,
+   "quantity2": 1,
+   "percent": 0,
+   "description": null,
+   "price": "R$ 16,90",
+   "oldPrice": "R$ 21,90",
+   "unpublishedIn": "2026-11-29T23:59:00.000Z",
+   "product": {
+    "sku": "018985",
+    "customName": "Leite de Cabra",
+    "customBrand": "CAPRILAT",
+    "customType": "",
+    "customWeight": "TP 1 L",
+    "customDetail": "Integral",
+    "customGroup": null,
+    "customUnit": "Cada",
+    "description": "LEITE CABRA CAPRILAT INTEGRAL 1L",
+    "group": {
+     "id": "600060004",
+     "section": {
+      "id": "5"
+     }
+    },
+    "images": [
+     {
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/018985/300x300.webp"
      }
     ]
    }
@@ -9426,27 +9346,27 @@
    "percent": 0,
    "description": null,
    "price": "R$ 16,90",
-   "oldPrice": "R$ 21,90",
+   "oldPrice": "R$ 19,80",
    "unpublishedIn": "2026-11-29T23:59:00.000Z",
    "product": {
-    "sku": "018985",
-    "customName": "Leite de Cabra",
-    "customBrand": "CAPRILAT",
-    "customType": "",
-    "customWeight": "TP 1 L",
-    "customDetail": "Integral",
+    "sku": "062575",
+    "customName": "Empanado de Frango",
+    "customBrand": "C.VALE",
+    "customType": "Chicken/Tirinhas",
+    "customWeight": "1 kg",
+    "customDetail": "",
     "customGroup": null,
     "customUnit": "Cada",
-    "description": "LEITE CABRA CAPRILAT INTEGRAL 1L",
+    "description": "Empanado de Frango C.VALE Chicken/Tirinhas 1 kg",
     "group": {
-     "id": "600060004",
+     "id": "300010004",
      "section": {
-      "id": "5"
+      "id": "2"
      }
     },
     "images": [
      {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/018985/300x300.webp"
+      "url": "https://mundial-api.supermercadosmundial.com.br/products/062575/300x300.webp"
      }
     ]
    }
@@ -10533,46 +10453,6 @@
   },
   {
    "category": {
-    "id": "2",
-    "name": "Imperdível",
-    "customTheme": {
-     "backgroundColor": "#feeabf",
-     "textColor": "#7b6732"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 14,90",
-   "oldPrice": null,
-   "unpublishedIn": "2026-11-24T23:59:00.000Z",
-   "product": {
-    "sku": "021667",
-    "customName": "FILEZINHO DE FRANGO",
-    "customBrand": "C.VALE",
-    "customType": "",
-    "customWeight": "PACOTE 1 KG",
-    "customDetail": "",
-    "customGroup": null,
-    "customUnit": "CADA",
-    "description": "FILEZINHO PEITO FGO C.VALE PCT 1KG",
-    "group": {
-     "id": "200020014",
-     "section": {
-      "id": "1"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/021667/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
     "id": "3",
     "name": "Mundial Total",
     "customTheme": {
@@ -10733,46 +10613,6 @@
   },
   {
    "category": {
-    "id": "2",
-    "name": "Imperdível",
-    "customTheme": {
-     "backgroundColor": "#feeabf",
-     "textColor": "#7b6732"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 13,99",
-   "oldPrice": null,
-   "unpublishedIn": "2026-11-24T23:59:00.000Z",
-   "product": {
-    "sku": "059806",
-    "customName": "OVOS BRANCOS ",
-    "customBrand": "",
-    "customType": "",
-    "customWeight": "C/30 UNIDADES",
-    "customDetail": "",
-    "customGroup": null,
-    "customUnit": "CADA",
-    "description": "OVOS MANTIQUEIRA BRANCO C/30",
-    "group": {
-     "id": "900020013",
-     "section": {
-      "id": "8"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/059806/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
     "id": "3",
     "name": "Mundial Total",
     "customTheme": {
@@ -10847,46 +10687,6 @@
     "images": [
      {
       "url": "https://mundial-api.supermercadosmundial.com.br/products/041805/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "2",
-    "name": "Imperdível",
-    "customTheme": {
-     "backgroundColor": "#feeabf",
-     "textColor": "#7b6732"
-    }
-   },
-   "measureUnit": "UN",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 13,98",
-   "oldPrice": null,
-   "unpublishedIn": "2026-11-24T23:59:00.000Z",
-   "product": {
-    "sku": "043703",
-    "customName": "FILÉ DE POLACA CONGELADO",
-    "customBrand": "BACALANOR",
-    "customType": "",
-    "customWeight": "PACOTE 500G",
-    "customDetail": "",
-    "customGroup": null,
-    "customUnit": "CADA",
-    "description": "FILÉ DE POLACA CONGELADO BACALANOR  500G",
-    "group": {
-     "id": "700010001",
-     "section": {
-      "id": "3"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/043703/300x300.webp"
      }
     ]
    }
@@ -13007,46 +12807,6 @@
     "images": [
      {
       "url": "https://mundial-api.supermercadosmundial.com.br/products/071245/300x300.webp"
-     }
-    ]
-   }
-  },
-  {
-   "category": {
-    "id": "2",
-    "name": "Imperdível",
-    "customTheme": {
-     "backgroundColor": "#feeabf",
-     "textColor": "#7b6732"
-    }
-   },
-   "measureUnit": "KG",
-   "quantity": 1,
-   "quantity2": 1,
-   "percent": 0,
-   "description": null,
-   "price": "R$ 9,50",
-   "oldPrice": null,
-   "unpublishedIn": "2026-11-24T23:59:00.000Z",
-   "product": {
-    "sku": "000377",
-    "customName": "PERNIL SUÍNO CONGELADO",
-    "customBrand": "",
-    "customType": "",
-    "customWeight": "KG",
-    "customDetail": "",
-    "customGroup": null,
-    "customUnit": null,
-    "description": "Pernil Suíno LANGUIRU  kg",
-    "group": {
-     "id": "200040004",
-     "section": {
-      "id": "1"
-     }
-    },
-    "images": [
-     {
-      "url": "https://mundial-api.supermercadosmundial.com.br/products/000377/300x300.webp"
      }
     ]
    }

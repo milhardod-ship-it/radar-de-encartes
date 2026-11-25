@@ -1,0 +1,369 @@
+{
+ "fonte": "atacadao-api",
+ "coletadoEm": "2026-11-25T01:28:34.457Z",
+ "folheto": {
+  "id": "1MUJDGolCkSBVju5onoTvEyEFnOg4DkCq",
+  "nome": "Hortifrúti",
+  "inicio": "2026-11-25",
+  "fim": "2026-11-26",
+  "url": "https://apigw.cloud.carrefour.com.br/api-middleware-flyer-services/api/v2/Flyer/?id=1MUJDGolCkSBVju5onoTvEyEFnOg4DkCq",
+  "lojas": [
+   {
+    "id": 679,
+    "nome": "Belford Roxo",
+    "bairro": "Centro",
+    "cidade": "Belford Roxo",
+    "lat": -22.77552679,
+    "lon": -43.39788906
+   },
+   {
+    "id": 174,
+    "nome": "Duque de Caxias",
+    "bairro": "Vila Actura",
+    "cidade": "Duque de Caxias",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 193,
+    "nome": "Itaboraí",
+    "bairro": "Manilha",
+    "cidade": "Itaboraí",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 319,
+    "nome": "Marica",
+    "bairro": "Flamego",
+    "cidade": "Maricá",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 291,
+    "nome": "Nova Iguaçu Comendador Soares",
+    "bairro": "Comendador Soares",
+    "cidade": "Nova Iguaçu",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 67,
+    "nome": "Nova Iguaçu Maria da Luz",
+    "bairro": "Maria da Luz",
+    "cidade": "Nova Iguaçu",
+    "lat": -22.75756013,
+    "lon": -43.43141051
+   },
+   {
+    "id": 247,
+    "nome": "Realengo",
+    "bairro": "Realengo",
+    "cidade": "Rio de Janeiro",
+    "lat": -22.87611969,
+    "lon": -43.42760452
+   },
+   {
+    "id": 63,
+    "nome": "Automóvel Clube",
+    "bairro": "Vicente de Carvalho",
+    "cidade": "Rio de Janeiro",
+    "lat": -22.85385092,
+    "lon": -43.3106037
+   },
+   {
+    "id": 249,
+    "nome": "Benfica",
+    "bairro": "Manguinhos",
+    "cidade": "Rio de Janeiro",
+    "lat": -22.88012767,
+    "lon": -43.23904053
+   },
+   {
+    "id": 699,
+    "nome": "Bangu",
+    "bairro": "Bangu",
+    "cidade": "Rio de Janeiro",
+    "lat": -22.8765669,
+    "lon": -43.46765093
+   },
+   {
+    "id": 65,
+    "nome": "Guadalupe",
+    "bairro": "Guadalupe",
+    "cidade": "Rio de Janeiro",
+    "lat": -22.84202,
+    "lon": -43.37572
+   },
+   {
+    "id": 294,
+    "nome": "Barra",
+    "bairro": "Barra da Tijuca",
+    "cidade": "Rio de Janeiro",
+    "lat": -22.99032122,
+    "lon": -43.36344795
+   },
+   {
+    "id": 136,
+    "nome": "Santa Cruz",
+    "bairro": "Santa Cruz",
+    "cidade": "Rio de Janeiro",
+    "lat": -22.89213,
+    "lon": -43.67765
+   },
+   {
+    "id": 691,
+    "nome": "Pilares",
+    "bairro": "Cachambi",
+    "cidade": "Rio de Janeiro",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 275,
+    "nome": "Bonsucesso",
+    "bairro": "Bonsucesso",
+    "cidade": "Rio de Janeiro",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 278,
+    "nome": "Mendanha",
+    "bairro": "Campo Grande",
+    "cidade": "Rio de Janeiro",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 210,
+    "nome": "Jacarepaguá",
+    "bairro": "Jacarepaguá",
+    "cidade": "Rio de Janeiro",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 681,
+    "nome": "Manilha",
+    "bairro": "Neves",
+    "cidade": "São Gonçalo",
+    "lat": -22.85264227,
+    "lon": -43.10065268
+   },
+   {
+    "id": 202,
+    "nome": "São Gonçalo",
+    "bairro": "Alcântara",
+    "cidade": "São Gonçalo",
+    "lat": null,
+    "lon": null
+   }
+  ]
+ },
+ "documento": "rj (HF) 25 e 26 nov 26 A4 2P DIG OS 1759-B.indd",
+ "paginas": [
+  {
+   "pagina": 1,
+   "itens": [
+    {
+     "numero": 1,
+     "descricao": "Ameixa Nacional\nQuilo",
+     "campos": {},
+     "skus": [
+      "01637"
+     ]
+    },
+    {
+     "numero": 2,
+     "descricao": "Nozes com Casca/ Cereja\nQuilo",
+     "campos": {
+      "D": "de:  R$ 35,90  por:",
+      "P": "R$29,98"
+     },
+     "skus": [
+      "69508",
+      "71003"
+     ]
+    },
+    {
+     "numero": 3,
+     "descricao": "Pêssego Nacional/ Pera Importada\nQuilo",
+     "campos": {
+      "D": "de:  R$ 12,99  por:",
+      "P": "R$8,99"
+     },
+     "skus": [
+      "01854"
+     ]
+    },
+    {
+     "numero": 4,
+     "descricao": "Banana Nanica/ Coco Verde\nQuilo",
+     "campos": {
+      "D": "de:  R$ 4,99  por:",
+      "P": "R$3,99"
+     },
+     "skus": [
+      "01643"
+     ]
+    },
+    {
+     "numero": 5,
+     "descricao": "Beterraba/ Cenoura/ Chuchu/ Pepino Japonês/ Batata Doce\nBandeja com 500/600g",
+     "campos": {},
+     "skus": []
+    },
+    {
+     "numero": 6,
+     "descricao": "Maçã\nPacote com 850g",
+     "campos": {
+      "D": "de:  R$ 6,99  por:",
+      "P": "R$4,99"
+     },
+     "skus": [
+      "70377"
+     ]
+    },
+    {
+     "numero": 7,
+     "descricao": "Laranja-pera\nGranel\nQuilo",
+     "campos": {
+      "D": "de:  R$ 3,99  por:",
+      "P": "R$2,99"
+     },
+     "skus": [
+      "11672"
+     ]
+    },
+    {
+     "numero": 8,
+     "descricao": "Cebola\nQuilo",
+     "campos": {
+      "D": "de:  R$ 12,99  por:",
+      "P": "R$8,99"
+     },
+     "skus": [
+      "14692"
+     ]
+    },
+    {
+     "numero": 9,
+     "descricao": "Limão-taiti\nQuilo",
+     "campos": {
+      "D": "de:  R$ 7,99  por:",
+      "P": "R$4,99"
+     },
+     "skus": [
+      "01805"
+     ]
+    }
+   ]
+  },
+  {
+   "pagina": 2,
+   "itens": [
+    {
+     "numero": 1,
+     "descricao": "Abóbora Italiana\nQuilo",
+     "campos": {
+      "D": "de:  R$ 6,99  por:",
+      "P": "R$4,99"
+     },
+     "skus": [
+      "01888"
+     ]
+    },
+    {
+     "numero": 2,
+     "descricao": "Mandioca-aipim/ Pepino Comum\nQuilo",
+     "campos": {
+      "D": "de:  R$ 4,59  por:",
+      "P": "R$2,98"
+     },
+     "skus": [
+      "01506"
+     ]
+    },
+    {
+     "numero": 3,
+     "descricao": "Repolho Branco\nQuilo",
+     "campos": {
+      "D": "de:  R$ 4,99  por:",
+      "P": "R$3,99"
+     },
+     "skus": [
+      "01677"
+     ]
+    },
+    {
+     "numero": 4,
+     "descricao": "Manga Tommy/ Manga Palmer\nQuilo",
+     "campos": {
+      "D": "de:  R$ 6,99  por:",
+      "P": "R$5,99"
+     },
+     "skus": [
+      "01808"
+     ]
+    },
+    {
+     "numero": 5,
+     "descricao": "Melão Amarelo/ Melão Pele-de-Sapo/ Melancia Baby\nQuilo",
+     "campos": {
+      "D": "de:  R$ 6,99  por:",
+      "P": "R$4,99"
+     },
+     "skus": [
+      "05181"
+     ]
+    },
+    {
+     "numero": 6,
+     "descricao": "Chuchu\nQuilo",
+     "campos": {
+      "D": "de:  R$ 3,99  por:",
+      "P": "R$1,99"
+     },
+     "skus": [
+      "01923"
+     ]
+    },
+    {
+     "numero": 7,
+     "descricao": "Mandioquinha/ Milho Verde\nBandeja com 500g",
+     "campos": {
+      "D": "de:  R$ 6,99  por:",
+      "P": "R$3,99"
+     },
+     "skus": [
+      "05370"
+     ]
+    },
+    {
+     "numero": 8,
+     "descricao": "Morango\nUnidade",
+     "campos": {
+      "D": "de:  R$ 8,99  por:",
+      "P": "R$5,99"
+     },
+     "skus": [
+      "02500"
+     ]
+    },
+    {
+     "numero": 9,
+     "descricao": "Uva Thompson/ Uva Vitória\nBandeja com 500g",
+     "campos": {
+      "D": "de:  R$ 8,99  por:",
+      "P": "R$7,99"
+     },
+     "skus": [
+      "36877"
+     ]
+    }
+   ]
+  }
+ ]
+}

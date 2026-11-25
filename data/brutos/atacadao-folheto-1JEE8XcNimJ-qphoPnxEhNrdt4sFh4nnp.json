@@ -121,28 +121,20 @@
     "lon": -43.42760452
    },
    {
+    "id": 63,
+    "nome": "Automóvel Clube",
+    "bairro": "Vicente de Carvalho",
+    "cidade": "Rio de Janeiro",
+    "lat": -22.85385092,
+    "lon": -43.3106037
+   },
+   {
     "id": 249,
     "nome": "Benfica",
     "bairro": "Manguinhos",
     "cidade": "Rio de Janeiro",
     "lat": -22.88012767,
     "lon": -43.23904053
-   },
-   {
-    "id": 210,
-    "nome": "Jacarepaguá",
-    "bairro": "Jacarepaguá",
-    "cidade": "Rio de Janeiro",
-    "lat": null,
-    "lon": null
-   },
-   {
-    "id": 294,
-    "nome": "Barra",
-    "bairro": "Barra da Tijuca",
-    "cidade": "Rio de Janeiro",
-    "lat": -22.99032122,
-    "lon": -43.36344795
    },
    {
     "id": 699,
@@ -153,12 +145,20 @@
     "lon": -43.46765093
    },
    {
-    "id": 275,
-    "nome": "Bonsucesso",
-    "bairro": "Bonsucesso",
+    "id": 65,
+    "nome": "Guadalupe",
+    "bairro": "Guadalupe",
     "cidade": "Rio de Janeiro",
-    "lat": null,
-    "lon": null
+    "lat": -22.84202,
+    "lon": -43.37572
+   },
+   {
+    "id": 294,
+    "nome": "Barra",
+    "bairro": "Barra da Tijuca",
+    "cidade": "Rio de Janeiro",
+    "lat": -22.99032122,
+    "lon": -43.36344795
    },
    {
     "id": 136,
@@ -177,12 +177,12 @@
     "lon": null
    },
    {
-    "id": 63,
-    "nome": "Automóvel Clube",
-    "bairro": "Vicente de Carvalho",
+    "id": 275,
+    "nome": "Bonsucesso",
+    "bairro": "Bonsucesso",
     "cidade": "Rio de Janeiro",
-    "lat": -22.85385092,
-    "lon": -43.3106037
+    "lat": null,
+    "lon": null
    },
    {
     "id": 278,
@@ -193,18 +193,10 @@
     "lon": null
    },
    {
-    "id": 65,
-    "nome": "Guadalupe",
-    "bairro": "Guadalupe",
+    "id": 210,
+    "nome": "Jacarepaguá",
+    "bairro": "Jacarepaguá",
     "cidade": "Rio de Janeiro",
-    "lat": -22.84202,
-    "lon": -43.37572
-   },
-   {
-    "id": 202,
-    "nome": "São Gonçalo",
-    "bairro": "Alcântara",
-    "cidade": "São Gonçalo",
     "lat": null,
     "lon": null
    },
@@ -215,6 +207,14 @@
     "cidade": "São Gonçalo",
     "lat": -22.85264227,
     "lon": -43.10065268
+   },
+   {
+    "id": 202,
+    "nome": "São Gonçalo",
+    "bairro": "Alcântara",
+    "cidade": "São Gonçalo",
+    "lat": null,
+    "lon": null
    },
    {
     "id": 157,
