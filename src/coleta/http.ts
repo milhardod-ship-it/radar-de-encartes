@@ -30,7 +30,6 @@ function dormir(ms: number) {
   Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, ms);
 }
 
-/** Baixa um arquivo binário (PDF) para o disco. */
 /**
  * Baixa um arquivo. `comoNavegador` manda os cabeçalhos de um navegador comum vindo da página indicada; só usado no
  * Assaí, por decisão do dono (25/11), porque o servidor de imagens recusa o robô identificado. Poucas imagens por vez.
