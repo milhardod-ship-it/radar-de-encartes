@@ -5,7 +5,7 @@
 // Trava de gasto: para quando a execução passa de LIMITE_US (padrão US$ 1,00).
 import { execFileSync } from 'node:child_process';
 import { createHash } from 'node:crypto';
-import { existsSync, mkdirSync, mkdtempSync, readFileSync, readdirSync, rmSync, writeFileSync } from 'node:fs';
+import { copyFileSync, existsSync, mkdirSync, mkdtempSync, readFileSync, readdirSync, rmSync, writeFileSync } from 'node:fs';
 import { tmpdir } from 'node:os';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -155,7 +155,11 @@ async function assai(cliente: ReturnType<typeof criarCliente>, gastoAte: number)
         if (gasto >= LIMITE_US) { console.log(`  ! parei: limite de gasto (US$ ${LIMITE_US})`); completo = false; break; }
         const original = join(pasta, `p${i + 1}-original.jpg`);
         const arq = join(pasta, `p${i + 1}.jpg`);
-        baixarArquivo(url, original, { pagina: 'https://www.assai.com.br/ofertas/rio-de-janeiro' });
+        // O servidor de imagens só entrega para acessos do Brasil (25/11: abre no celular do dono, 403 no GitHub).
+        // Por isso o dono pode subir as imagens em data/recebidos/ com o nome original do link; se estiverem lá, usa elas.
+        const recebida = join(RAIZ, 'data/recebidos', url.split('/').pop()!);
+        if (existsSync(recebida)) copyFileSync(recebida, original);
+        else baixarArquivo(url, original, { pagina: 'https://www.assai.com.br/ofertas/rio-de-janeiro' });
         // Mesmo tamanho das páginas do Guanabara (lado maior 1568 px): a IA lê bem e custa menos.
         execFileSync('convert', [original, '-resize', '1568x1568>', '-quality', '85', arq]);
         const r = await lerComReaproveitamento(cliente, arq, `Encarte do Assaí Atacadista (Rio de Janeiro), válido de ${e.inicio} a ${e.fim}, página ${i + 1} de ${e.paginas.length}. O app do Assaí se chama "Meu Assaí". Atacarejo: preços de atacado ("a partir de X unidades") são condição, não o preço normal.`);
