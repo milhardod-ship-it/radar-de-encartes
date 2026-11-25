@@ -3,7 +3,7 @@
 import Anthropic from '@anthropic-ai/sdk';
 
 /** Modelo usado na leitura. Pode trocar sem mexer no código: variável LEITOR_MODELO. */
-export const MODELO_PADRAO = 'claude-opus-5-5';
+export const MODELO_PADRAO = 'claude-sonnet-5-5'; // testado em 25/11: acerta como o Opus pela metade do preço
 
 /** Preço em US$ por milhão de tokens (entrada, saída), para estimar o gasto de cada leitura. */
 const PRECOS: Record<string, [number, number]> = {

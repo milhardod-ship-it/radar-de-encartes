@@ -34,6 +34,14 @@ jobs:
       - name: Coletar (segue mesmo se um mercado falhar)
         id: coleta
         run: npm run coletar || echo "falhou=1" >> "$GITHUB_OUTPUT"
+      - name: Ler encartes em imagem com IA (Guanabara; só se houver encarte novo)
+        id: leitura
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          LEITOR_MODELO: claude-sonnet-5-5
+        run: |
+          if [ -z "$ANTHROPIC_API_KEY" ]; then echo "Sem chave da API: pulei."; exit 0; fi
+          npm run ler-encartes || echo "falhou=1" >> "$GITHUB_OUTPUT"
       - name: Importar, testar e conferir o build
         run: npm run build && npm test
       - name: Salvar dados novos
@@ -45,7 +53,7 @@ jobs:
           git commit -m "Robô: encartes atualizados em $(date -u +%Y-%m-%d)"
           git push
       - name: Avisar falha de coleta
-        if: steps.coleta.outputs.falhou == '1'
+        if: steps.coleta.outputs.falhou == '1' || steps.leitura.outputs.falhou == '1'
         run: |
-          echo "::error::Algum mercado falhou na coleta. Veja o passo 'Coletar' acima (o site pode ter mudado)."
+          echo "::error::Algum mercado falhou na coleta ou na leitura por IA. Veja os passos acima (o site pode ter mudado)."
           exit 1

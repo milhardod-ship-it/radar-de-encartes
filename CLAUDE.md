@@ -51,6 +51,15 @@ Carro-chefe: **lista de compras** (total por mercado, melhor mercado, quando val
   até o robots.txt). Mesma decisão do Assaí: NÃO contornar. Caminho: dono manda o encarte + leitor por IA,
   ou parceria.
 
+## Leitura por IA (encartes só imagem)
+- `src/coleta/leitorIA.ts` + `scripts/lerEncartes.ts`, rodando no GitHub com o segredo `ANTHROPIC_API_KEY`
+  (créditos pré-pagos do dono, sem recarga automática). Trava: US$ 1 por execução.
+- Modelo padrão **Sonnet 5.5** (teste 25/11, pág. 1 Guanabara: Sonnet US$ 0,037/pág, acertou tudo; Opus US$ 0,073,
+  acertou tudo; Haiku US$ 0,002, inventou preço do Omo "Oferta Especial" e errou marcas → descartado).
+- Páginas idênticas a uma já lida são reaproveitadas de `data/leituras/<hash>.json` (custo zero).
+- Encarte já lido (ou cadastrado à mão) não é relido. Workflow manual "Ler encartes com IA" (teste/ler/mundial);
+  a leitura automática roda dentro do robô de coleta.
+
 ## Lojas e localização
 - `data/lojas.json` (112 lojas): Guanabara (página /lojas, coordenada do link do Google Maps), Mundial (JSON de
   /nossas-lojas), Prezunic (11 exatas via `/api/checkout/pub/pickup-points`; demais pelo centro do bairro, marcadas
