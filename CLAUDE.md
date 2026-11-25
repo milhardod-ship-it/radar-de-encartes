@@ -32,6 +32,9 @@ Carro-chefe: **lista de compras** (total por mercado, melhor mercado, quando val
   Encarte novo às 2as e no meio da semana. Itens "Oferta Especial" sem preço NÃO entram.
 - **Mundial**: robô lê o JSON `__NEXT_DATA__` de `/departamentos/categoria/ofertas?page=N` + `/encarte`.
   No site, `price` = preço no app Mundial Total e `oldPrice` = preço sem app.
+  Conferido em 25/11 (encarte 19/11–02/12 lido por IA): 328 de 333 ofertas do encarte estão na lista com o mesmo
+  preço; a lista tem +216 ofertas "Mundial Total" e +6 "Imperdível" (validade própria em `unpublishedIn`). Decisão do
+  dono: a lista basta (preço confiável + data de fim); não ler o encarte do Mundial com IA.
 - **Atacadão**: robô usa a API pública de folhetos do site ("Folhetos" → `apigw.cloud.carrefour.com.br/
   api-middleware-flyer-services`: `/api/v2/Store/city/uf?uf=RJ`, `/api/v2/Store/city?uf=&city=`, PDF em
   `/api/v2/Flyer/?id=`). Os PDFs trazem dados embutidos (metadado "TABLOIDI-DADOS", lido com `pdfinfo`):
