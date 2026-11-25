@@ -848,5 +848,15 @@
   "lojas": [],
   "lojasIds": [],
   "fonte": "encartes do site do Prezunic (robô, 2026-11-24)"
+ },
+ {
+  "id": "prezunic-encarte-fffc2168-dfca",
+  "mercado": "prezunic",
+  "titulo": "MISSÃO PREÇO BAIXO",
+  "inicio": "2026-12-03",
+  "fim": "2026-12-06",
+  "lojas": [],
+  "lojasIds": [],
+  "fonte": "encartes do site do Prezunic (robô, 2026-11-25)"
  }
 ]
