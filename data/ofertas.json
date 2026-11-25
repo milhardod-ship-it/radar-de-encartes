@@ -16651,6 +16651,7 @@
   ],
   "fim": "2026-11-25",
   "imagem": "https://mundial-api.supermercadosmundial.com.br/products/009020/300x300.webp",
+  "duvida": "oferta relâmpago só no site do Mundial, fora do encarte",
   "revisado": false
  },
  {
@@ -18458,6 +18459,7 @@
   ],
   "fim": "2026-11-26",
   "imagem": "https://mundial-api.supermercadosmundial.com.br/products/006583/300x300.webp",
+  "duvida": "oferta relâmpago só no site do Mundial, fora do encarte",
   "revisado": false
  },
  {
@@ -18575,6 +18577,7 @@
   ],
   "fim": "2026-11-26",
   "imagem": "https://mundial-api.supermercadosmundial.com.br/products/003568/300x300.webp",
+  "duvida": "oferta relâmpago só no site do Mundial, fora do encarte",
   "revisado": false
  },
  {
@@ -20106,6 +20109,7 @@
   ],
   "fim": "2026-11-26",
   "imagem": "https://mundial-api.supermercadosmundial.com.br/products/000209/300x300.webp",
+  "duvida": "oferta relâmpago só no site do Mundial, fora do encarte",
   "revisado": false
  },
  {
@@ -22433,6 +22437,7 @@
   ],
   "fim": "2026-11-26",
   "imagem": "https://mundial-api.supermercadosmundial.com.br/products/005268/300x300.webp",
+  "duvida": "oferta relâmpago só no site do Mundial, fora do encarte",
   "revisado": false
  },
  {
@@ -24124,17 +24129,12 @@
    {
     "valor": 22.31,
     "exige": []
-   },
-   {
-    "valor": 15.62,
-    "exige": [
-     "mundial-total"
-    ],
-    "condicao": "levando 2, 30% off (app Mundial Total)"
    }
   ],
   "fim": "2026-11-29",
+  "limite": "Promoção no app Mundial Total: 30% de desconto na 2ª unidade",
   "imagem": "https://mundial-api.supermercadosmundial.com.br/products/040267/300x300.webp",
+  "duvida": "promoção por quantidade lida do site do Mundial; o preço mostrado é o de 1 unidade",
   "revisado": false
  },
  {
@@ -24155,17 +24155,12 @@
    {
     "valor": 22.89,
     "exige": []
-   },
-   {
-    "valor": 15.26,
-    "exige": [
-     "mundial-total"
-    ],
-    "condicao": "leve 3, pague 2 (app Mundial Total)"
    }
   ],
   "fim": "2026-12-02",
+  "limite": "Promoção no app Mundial Total: leve 3, pague 2",
   "imagem": "https://mundial-api.supermercadosmundial.com.br/products/073831/300x300.webp",
+  "duvida": "promoção por quantidade lida do site do Mundial; o preço mostrado é o de 1 unidade",
   "revisado": false
  },
  {
@@ -24655,6 +24650,7 @@
   ],
   "fim": "2026-11-26",
   "imagem": "https://mundial-api.supermercadosmundial.com.br/products/049235/300x300.webp",
+  "duvida": "oferta relâmpago só no site do Mundial, fora do encarte",
   "revisado": false
  },
  {
@@ -26033,17 +26029,12 @@
    {
     "valor": 14.66,
     "exige": []
-   },
-   {
-    "valor": 10.26,
-    "exige": [
-     "mundial-total"
-    ],
-    "condicao": "levando 2, 30% off (app Mundial Total)"
    }
   ],
   "fim": "2026-12-02",
+  "limite": "Promoção no app Mundial Total: 30% de desconto na 2ª unidade",
   "imagem": "https://mundial-api.supermercadosmundial.com.br/products/074549/300x300.webp",
+  "duvida": "promoção por quantidade lida do site do Mundial; o preço mostrado é o de 1 unidade",
   "revisado": false
  },
  {
@@ -27301,17 +27292,12 @@
    {
     "valor": 9.8,
     "exige": []
-   },
-   {
-    "valor": 7.35,
-    "exige": [
-     "mundial-total"
-    ],
-    "condicao": "leve 4, pague 3 (app Mundial Total)"
    }
   ],
   "fim": "2026-12-02",
+  "limite": "Promoção no app Mundial Total: leve 4, pague 3",
   "imagem": "https://mundial-api.supermercadosmundial.com.br/products/068036/300x300.webp",
+  "duvida": "promoção por quantidade lida do site do Mundial; o preço mostrado é o de 1 unidade",
   "revisado": false
  },
  {
@@ -27332,17 +27318,12 @@
    {
     "valor": 9.49,
     "exige": []
-   },
-   {
-    "valor": 7.12,
-    "exige": [
-     "mundial-total"
-    ],
-    "condicao": "leve 4, pague 3 (app Mundial Total)"
    }
   ],
   "fim": "2026-12-02",
+  "limite": "Promoção no app Mundial Total: leve 4, pague 3",
   "imagem": "https://mundial-api.supermercadosmundial.com.br/products/068476/300x300.webp",
+  "duvida": "promoção por quantidade lida do site do Mundial; o preço mostrado é o de 1 unidade",
   "revisado": false
  },
  {
@@ -27828,17 +27809,12 @@
    {
     "valor": 13.74,
     "exige": []
-   },
-   {
-    "valor": 6.87,
-    "exige": [
-     "mundial-total"
-    ],
-    "condicao": "levando 2, 50% off (app Mundial Total)"
    }
   ],
   "fim": "2026-12-02",
+  "limite": "Promoção no app Mundial Total: 50% de desconto na 2ª unidade",
   "imagem": "https://mundial-api.supermercadosmundial.com.br/products/071657/300x300.webp",
+  "duvida": "promoção por quantidade lida do site do Mundial; o preço mostrado é o de 1 unidade",
   "revisado": false
  },
  {
@@ -27859,17 +27835,12 @@
    {
     "valor": 13.74,
     "exige": []
-   },
-   {
-    "valor": 6.87,
-    "exige": [
-     "mundial-total"
-    ],
-    "condicao": "levando 2, 50% off (app Mundial Total)"
    }
   ],
   "fim": "2026-12-02",
+  "limite": "Promoção no app Mundial Total: 50% de desconto na 2ª unidade",
   "imagem": "https://mundial-api.supermercadosmundial.com.br/products/071658/300x300.webp",
+  "duvida": "promoção por quantidade lida do site do Mundial; o preço mostrado é o de 1 unidade",
   "revisado": false
  },
  {
@@ -27890,17 +27861,12 @@
    {
     "valor": 8.99,
     "exige": []
-   },
-   {
-    "valor": 6.74,
-    "exige": [
-     "mundial-total"
-    ],
-    "condicao": "leve 4, pague 3 (app Mundial Total)"
    }
   ],
   "fim": "2026-12-02",
+  "limite": "Promoção no app Mundial Total: leve 4, pague 3",
   "imagem": "https://mundial-api.supermercadosmundial.com.br/products/053780/300x300.webp",
+  "duvida": "promoção por quantidade lida do site do Mundial; o preço mostrado é o de 1 unidade",
   "revisado": false
  },
  {
@@ -28600,17 +28566,12 @@
    {
     "valor": 7.27,
     "exige": []
-   },
-   {
-    "valor": 5.45,
-    "exige": [
-     "mundial-total"
-    ],
-    "condicao": "leve 4, pague 3 (app Mundial Total)"
    }
   ],
   "fim": "2026-12-02",
+  "limite": "Promoção no app Mundial Total: leve 4, pague 3",
   "imagem": "https://mundial-api.supermercadosmundial.com.br/products/070599/300x300.webp",
+  "duvida": "promoção por quantidade lida do site do Mundial; o preço mostrado é o de 1 unidade",
   "revisado": false
  },
  {
@@ -28662,17 +28623,12 @@
    {
     "valor": 6.8,
     "exige": []
-   },
-   {
-    "valor": 5.1,
-    "exige": [
-     "mundial-total"
-    ],
-    "condicao": "leve 4, pague 3 (app Mundial Total)"
    }
   ],
   "fim": "2026-12-02",
+  "limite": "Promoção no app Mundial Total: leve 4, pague 3",
   "imagem": "https://mundial-api.supermercadosmundial.com.br/products/073091/300x300.webp",
+  "duvida": "promoção por quantidade lida do site do Mundial; o preço mostrado é o de 1 unidade",
   "revisado": false
  },
  {
@@ -29059,17 +29015,12 @@
    {
     "valor": 9.88,
     "exige": []
-   },
-   {
-    "valor": 4.94,
-    "exige": [
-     "mundial-total"
-    ],
-    "condicao": "leve 2, pague 1 (app Mundial Total)"
    }
   ],
   "fim": "2026-11-29",
+  "limite": "Promoção no app Mundial Total: leve 2, pague 1",
   "imagem": "https://mundial-api.supermercadosmundial.com.br/products/067837/300x300.webp",
+  "duvida": "promoção por quantidade lida do site do Mundial; o preço mostrado é o de 1 unidade",
   "revisado": false
  },
  {
@@ -29273,17 +29224,12 @@
    {
     "valor": 5.37,
     "exige": []
-   },
-   {
-    "valor": 4.03,
-    "exige": [
-     "mundial-total"
-    ],
-    "condicao": "leve 4, pague 3 (app Mundial Total)"
    }
   ],
   "fim": "2026-11-29",
+  "limite": "Promoção no app Mundial Total: leve 4, pague 3",
   "imagem": "https://mundial-api.supermercadosmundial.com.br/products/020056/300x300.webp",
+  "duvida": "promoção por quantidade lida do site do Mundial; o preço mostrado é o de 1 unidade",
   "revisado": false
  },
  {
@@ -29521,17 +29467,12 @@
    {
     "valor": 7.98,
     "exige": []
-   },
-   {
-    "valor": 3.99,
-    "exige": [
-     "mundial-total"
-    ],
-    "condicao": "levando 2, 50% off (app Mundial Total)"
    }
   ],
   "fim": "2026-12-02",
+  "limite": "Promoção no app Mundial Total: 50% de desconto na 2ª unidade",
   "imagem": "https://mundial-api.supermercadosmundial.com.br/products/068577/300x300.webp",
+  "duvida": "promoção por quantidade lida do site do Mundial; o preço mostrado é o de 1 unidade",
   "revisado": false
  },
  {
@@ -29983,17 +29924,12 @@
    {
     "valor": 4.89,
     "exige": []
-   },
-   {
-    "valor": 3.91,
-    "exige": [
-     "mundial-total"
-    ],
-    "condicao": "leve 5, pague 4 (app Mundial Total)"
    }
   ],
   "fim": "2026-11-29",
+  "limite": "Promoção no app Mundial Total: leve 5, pague 4",
   "imagem": "https://mundial-api.supermercadosmundial.com.br/products/030798/300x300.webp",
+  "duvida": "promoção por quantidade lida do site do Mundial; o preço mostrado é o de 1 unidade",
   "revisado": false
  },
  {
@@ -30014,17 +29950,12 @@
    {
     "valor": 5.75,
     "exige": []
-   },
-   {
-    "valor": 3.83,
-    "exige": [
-     "mundial-total"
-    ],
-    "condicao": "leve 3, pague 2 (app Mundial Total)"
    }
   ],
   "fim": "2026-11-29",
+  "limite": "Promoção no app Mundial Total: leve 3, pague 2",
   "imagem": "https://mundial-api.supermercadosmundial.com.br/products/070274/300x300.webp",
+  "duvida": "promoção por quantidade lida do site do Mundial; o preço mostrado é o de 1 unidade",
   "revisado": false
  },
  {
@@ -30076,17 +30007,12 @@
    {
     "valor": 5.69,
     "exige": []
-   },
-   {
-    "valor": 3.79,
-    "exige": [
-     "mundial-total"
-    ],
-    "condicao": "leve 3, pague 2 (app Mundial Total)"
    }
   ],
   "fim": "2026-11-29",
+  "limite": "Promoção no app Mundial Total: leve 3, pague 2",
   "imagem": "https://mundial-api.supermercadosmundial.com.br/products/056454/300x300.webp",
+  "duvida": "promoção por quantidade lida do site do Mundial; o preço mostrado é o de 1 unidade",
   "revisado": false
  },
  {
@@ -30200,17 +30126,12 @@
    {
     "valor": 4.89,
     "exige": []
-   },
-   {
-    "valor": 3.67,
-    "exige": [
-     "mundial-total"
-    ],
-    "condicao": "leve 4, pague 3 (app Mundial Total)"
    }
   ],
   "fim": "2026-12-02",
+  "limite": "Promoção no app Mundial Total: leve 4, pague 3",
   "imagem": "https://mundial-api.supermercadosmundial.com.br/products/051291/300x300.webp",
+  "duvida": "promoção por quantidade lida do site do Mundial; o preço mostrado é o de 1 unidade",
   "revisado": false
  },
  {
@@ -30386,17 +30307,12 @@
    {
     "valor": 6.88,
     "exige": []
-   },
-   {
-    "valor": 3.44,
-    "exige": [
-     "mundial-total"
-    ],
-    "condicao": "levando 2, 50% off (app Mundial Total)"
    }
   ],
   "fim": "2026-12-02",
+  "limite": "Promoção no app Mundial Total: 50% de desconto na 2ª unidade",
   "imagem": "https://mundial-api.supermercadosmundial.com.br/products/004665/300x300.webp",
+  "duvida": "promoção por quantidade lida do site do Mundial; o preço mostrado é o de 1 unidade",
   "revisado": false
  },
  {
@@ -30417,17 +30333,12 @@
    {
     "valor": 6.88,
     "exige": []
-   },
-   {
-    "valor": 3.44,
-    "exige": [
-     "mundial-total"
-    ],
-    "condicao": "levando 2, 50% off (app Mundial Total)"
    }
   ],
   "fim": "2026-12-02",
+  "limite": "Promoção no app Mundial Total: 50% de desconto na 2ª unidade",
   "imagem": "https://mundial-api.supermercadosmundial.com.br/products/017304/300x300.webp",
+  "duvida": "promoção por quantidade lida do site do Mundial; o preço mostrado é o de 1 unidade",
   "revisado": false
  },
  {
@@ -30510,17 +30421,12 @@
    {
     "valor": 4.09,
     "exige": []
-   },
-   {
-    "valor": 3.07,
-    "exige": [
-     "mundial-total"
-    ],
-    "condicao": "leve 4, pague 3 (app Mundial Total)"
    }
   ],
   "fim": "2026-12-02",
+  "limite": "Promoção no app Mundial Total: leve 4, pague 3",
   "imagem": "https://mundial-api.supermercadosmundial.com.br/products/037706/300x300.webp",
+  "duvida": "promoção por quantidade lida do site do Mundial; o preço mostrado é o de 1 unidade",
   "revisado": false
  },
  {
@@ -30789,17 +30695,12 @@
    {
     "valor": 3.95,
     "exige": []
-   },
-   {
-    "valor": 2.96,
-    "exige": [
-     "mundial-total"
-    ],
-    "condicao": "leve 4, pague 3 (app Mundial Total)"
    }
   ],
   "fim": "2026-12-02",
+  "limite": "Promoção no app Mundial Total: leve 4, pague 3",
   "imagem": "https://mundial-api.supermercadosmundial.com.br/products/044132/300x300.webp",
+  "duvida": "promoção por quantidade lida do site do Mundial; o preço mostrado é o de 1 unidade",
   "revisado": false
  },
  {
@@ -31037,17 +30938,12 @@
    {
     "valor": 2.99,
     "exige": []
-   },
-   {
-    "valor": 2.24,
-    "exige": [
-     "mundial-total"
-    ],
-    "condicao": "leve 4, pague 3 (app Mundial Total)"
    }
   ],
   "fim": "2026-11-29",
+  "limite": "Promoção no app Mundial Total: leve 4, pague 3",
   "imagem": "https://mundial-api.supermercadosmundial.com.br/products/046803/300x300.webp",
+  "duvida": "promoção por quantidade lida do site do Mundial; o preço mostrado é o de 1 unidade",
   "revisado": false
  },
  {

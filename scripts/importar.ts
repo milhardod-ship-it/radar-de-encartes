@@ -114,18 +114,32 @@ const marcasConhecidas = new Set<string>(MARCAS_CONHECIDAS);
       const textoTamanho = o.measureUnit === 'KG' ? 'Quilo' : `${p.customWeight ?? ''} ${p.customName ?? ''}`;
       const preco = reais(o.price)!;
       const normal = reais(o.oldPrice);
-      let condicao = 'no app Mundial Total';
-      if (o.quantity > 1) {
-        condicao = o.percent
-          ? `levando ${o.quantity}, ${o.percent}% off (app Mundial Total)`
-          : `leve ${o.quantity}, pague ${o.quantity2} (app Mundial Total)`;
+      // Promoção por quantidade: no site, `price` NÃO é o preço de 1 unidade.
+      //   "leve 4, pague 3" → price = média por unidade levando 4 (9,80 → 7,35);
+      //   "2ª unidade com 30%" → price = preço só da 2ª unidade (Omo 14,66 → 10,26).
+      // O preço de 1 unidade é o `oldPrice`; a promoção vira só um aviso, e a oferta fica "a confirmar"
+      // até o dono conferir o padrão com o encarte (25/11: Omo 750ml = 14,66 + desconto na 2ª).
+      const promoQuantidade = o.quantity > 1 && normal;
+      let limite: string | undefined;
+      let duvida: string | undefined;
+      let precos: Preco[];
+      if (promoQuantidade) {
+        limite = o.percent
+          ? `Promoção no app Mundial Total: ${o.percent}% de desconto na ${o.quantity}ª unidade`
+          : `Promoção no app Mundial Total: leve ${o.quantity}, pague ${o.quantity2}`;
+        duvida = 'promoção por quantidade lida do site do Mundial; o preço mostrado é o de 1 unidade';
+        precos = [{ valor: normal, exige: [] }];
+      } else {
+        precos = normal
+          ? [
+              { valor: normal, exige: [] },
+              { valor: preco, exige: ['mundial-total'], condicao: 'no app Mundial Total' },
+            ]
+          : [{ valor: preco, exige: [] }];
       }
-      const precos: Preco[] = normal
-        ? [
-            { valor: normal, exige: [] },
-            { valor: preco, exige: ['mundial-total'], condicao },
-          ]
-        : [{ valor: preco, exige: [] }];
+      // "Imperdível" = oferta relâmpago que só aparece no site. Em 25/11 o Filé-mignon Suíno Aurora saiu a 19,95 aqui,
+      // enquanto o encarte dizia 24,70 (22,60 no app) — o dono considera erro do mercado. Entra como "a confirmar".
+      if (o.category?.name === 'Imperdível') duvida = 'oferta relâmpago só no site do Mundial, fora do encarte';
       const fim = dataLocal(o.unpublishedIn);
       fins.push(fim);
       adicionar({
@@ -137,6 +151,8 @@ const marcasConhecidas = new Set<string>(MARCAS_CONHECIDAS);
         textoTamanho,
         precos,
         fim,
+        limite,
+        duvida,
         imagem: p.images?.[0]?.url,
       });
     }

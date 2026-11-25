@@ -35,6 +35,10 @@ Carro-chefe: **lista de compras** (total por mercado, melhor mercado, quando val
   Conferido em 25/11 (encarte 19/11–02/12 lido por IA): 328 de 333 ofertas do encarte estão na lista com o mesmo
   preço; a lista tem +216 ofertas "Mundial Total" e +6 "Imperdível" (validade própria em `unpublishedIn`). Decisão do
   dono: a lista basta (preço confiável + data de fim); não ler o encarte do Mundial com IA.
+  Promoção por quantidade no site (`quantity` > 1): `price` NÃO é o preço de 1 unidade ("leve 4 pague 3" = média
+  levando 4; "30% na 2ª" = preço só da 2ª). O importador usa `oldPrice` como preço, a promoção vira aviso e a oferta
+  fica "a confirmar" até o dono conferir o padrão. Categoria "Imperdível" (relâmpago, fora do encarte) também fica
+  "a confirmar" (Filé-mignon Suíno Aurora 19,95 no site × 24,70 no encarte = provável erro do mercado).
 - **Atacadão**: robô usa a API pública de folhetos do site ("Folhetos" → `apigw.cloud.carrefour.com.br/
   api-middleware-flyer-services`: `/api/v2/Store/city/uf?uf=RJ`, `/api/v2/Store/city?uf=&city=`, PDF em
   `/api/v2/Flyer/?id=`). Os PDFs trazem dados embutidos (metadado "TABLOIDI-DADOS", lido com `pdfinfo`):
