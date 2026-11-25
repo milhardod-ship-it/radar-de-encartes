@@ -16,8 +16,7 @@
   "precos": [
    {
     "valor": 21.99,
-    "exige": [],
-    "condicao": "caixeta"
+    "exige": []
    }
   ],
   "revisado": false
@@ -39,8 +38,7 @@
   "precos": [
    {
     "valor": 19.9,
-    "exige": [],
-    "condicao": "garrafa"
+    "exige": []
    }
   ],
   "revisado": false
@@ -62,8 +60,7 @@
   "precos": [
    {
     "valor": 2.99,
-    "exige": [],
-    "condicao": "pacote"
+    "exige": []
    }
   ],
   "duvida": "Marca provavelmente Protein, mas não está clara no texto",
@@ -86,8 +83,7 @@
   "precos": [
    {
     "valor": 17.9,
-    "exige": [],
-    "condicao": "pote"
+    "exige": []
    }
   ],
   "revisado": false
@@ -109,8 +105,7 @@
   "precos": [
    {
     "valor": 17.9,
-    "exige": [],
-    "condicao": "pote"
+    "exige": []
    }
   ],
   "revisado": false
@@ -155,8 +150,7 @@
   "precos": [
    {
     "valor": 249.9,
-    "exige": [],
-    "condicao": "unidade"
+    "exige": []
    }
   ],
   "revisado": false
@@ -178,8 +172,7 @@
   "precos": [
    {
     "valor": 349.9,
-    "exige": [],
-    "condicao": "unidade"
+    "exige": []
    }
   ],
   "revisado": false
@@ -198,8 +191,7 @@
   "precos": [
    {
     "valor": 259.9,
-    "exige": [],
-    "condicao": "unidade"
+    "exige": []
    }
   ],
   "duvida": "Marca ambígua: Bivolt é a tensão, marca provavelmente Mondial",
@@ -219,8 +211,7 @@
   "precos": [
    {
     "valor": 259.9,
-    "exige": [],
-    "condicao": "unidade"
+    "exige": []
    }
   ],
   "duvida": "Marca ambígua: Bivolt é a tensão, marca provavelmente Mondial",
@@ -240,8 +231,7 @@
   "precos": [
    {
     "valor": 139.9,
-    "exige": [],
-    "condicao": "unidade"
+    "exige": []
    }
   ],
   "revisado": false
@@ -260,8 +250,7 @@
   "precos": [
    {
     "valor": 259.9,
-    "exige": [],
-    "condicao": "unidade"
+    "exige": []
    }
   ],
   "revisado": false
@@ -409,15 +398,14 @@
   "precos": [
    {
     "valor": 7.49,
-    "exige": [],
-    "condicao": "Preço clube no app Meu Assaí, válido até 1260un; 6% de desconto"
+    "exige": []
    },
    {
     "valor": 6.99,
     "exige": [
      "meu-assai"
     ],
-    "condicao": "no app Meu Assaí"
+    "condicao": "Preço clube no app Meu Assaí, válido até 1260un; 6% de desconto"
    }
   ],
   "duvida": "O preço 7,49 aparece com 'De' em formato de etiqueta, mas sem preço riscado claro",
@@ -594,15 +582,14 @@
   "precos": [
    {
     "valor": 59.9,
-    "exige": [],
-    "condicao": "Preço por quilo na peça; preço clube no app Meu Assaí, válido até 25kg; 3% de desconto"
+    "exige": []
    },
    {
     "valor": 57.9,
     "exige": [
      "meu-assai"
     ],
-    "condicao": "no app Meu Assaí"
+    "condicao": "Preço por quilo na peça; preço clube no app Meu Assaí, válido até 25kg; 3% de desconto"
    }
   ],
   "revisado": false
@@ -647,8 +634,7 @@
   "precos": [
    {
     "valor": 15.98,
-    "exige": [],
-    "condicao": "Bandeja 1kg"
+    "exige": []
    }
   ],
   "revisado": false
@@ -761,15 +747,14 @@
   "precos": [
    {
     "valor": 7.49,
-    "exige": [],
-    "condicao": "Preço clube no app Meu Assaí, válido até 50un; 33% de desconto"
+    "exige": []
    },
    {
     "valor": 4.99,
     "exige": [
      "meu-assai"
     ],
-    "condicao": "no app Meu Assaí"
+    "condicao": "Preço clube no app Meu Assaí, válido até 50un; 33% de desconto"
    }
   ],
   "revisado": false
@@ -813,15 +798,14 @@
   "precos": [
    {
     "valor": 15.99,
-    "exige": [],
-    "condicao": "Caixeta 672g; preço clube no app Meu Assaí, válido até 200un; 18% de desconto"
+    "exige": []
    },
    {
     "valor": 12.99,
     "exige": [
      "meu-assai"
     ],
-    "condicao": "no app Meu Assaí"
+    "condicao": "Caixeta 672g; preço clube no app Meu Assaí, válido até 200un; 18% de desconto"
    }
   ],
   "revisado": false
@@ -866,8 +850,7 @@
   "precos": [
    {
     "valor": 7.99,
-    "exige": [],
-    "condicao": "Pote 1kg"
+    "exige": []
    }
   ],
   "revisado": false
@@ -889,15 +872,14 @@
   "precos": [
    {
     "valor": 99.9,
-    "exige": [],
-    "condicao": "No app Meu Assaí, válido para até 2un"
+    "exige": []
    },
    {
     "valor": 89.9,
     "exige": [
      "meu-assai"
     ],
-    "condicao": "no app Meu Assaí"
+    "condicao": "No app Meu Assaí, válido para até 2un"
    }
   ],
   "revisado": false
@@ -919,15 +901,14 @@
   "precos": [
    {
     "valor": 3.29,
-    "exige": [],
-    "condicao": "No app Meu Assaí, válido para até 60un"
+    "exige": []
    },
    {
     "valor": 2.59,
     "exige": [
      "meu-assai"
     ],
-    "condicao": "no app Meu Assaí"
+    "condicao": "No app Meu Assaí, válido para até 60un"
    }
   ],
   "revisado": false
@@ -949,15 +930,14 @@
   "precos": [
    {
     "valor": 4.99,
-    "exige": [],
-    "condicao": "No app Meu Assaí, válido para até 24un"
+    "exige": []
    },
    {
     "valor": 3.99,
     "exige": [
      "meu-assai"
     ],
-    "condicao": "no app Meu Assaí"
+    "condicao": "No app Meu Assaí, válido para até 24un"
    }
   ],
   "duvida": "Texto indica 'Suco concentrado de caju Dafruta ou Jandaia'; marcas ambíguas",
@@ -980,15 +960,14 @@
   "precos": [
    {
     "valor": 15.99,
-    "exige": [],
-    "condicao": "No app Meu Assaí, válido para até 24un"
+    "exige": []
    },
    {
     "valor": 11.99,
     "exige": [
      "meu-assai"
     ],
-    "condicao": "no app Meu Assaí"
+    "condicao": "No app Meu Assaí, válido para até 24un"
    }
   ],
   "revisado": false
@@ -1209,15 +1188,14 @@
   "precos": [
    {
     "valor": 14.9,
-    "exige": [],
-    "condicao": "No app Meu Assaí, válido para até 200un"
+    "exige": []
    },
    {
     "valor": 11.99,
     "exige": [
      "meu-assai"
     ],
-    "condicao": "no app Meu Assaí"
+    "condicao": "No app Meu Assaí, válido para até 200un"
    }
   ],
   "revisado": false
@@ -1239,15 +1217,14 @@
   "precos": [
    {
     "valor": 14.99,
-    "exige": [],
-    "condicao": "No app Meu Assaí, válido para até 200un"
+    "exige": []
    },
    {
     "valor": 12.99,
     "exige": [
      "meu-assai"
     ],
-    "condicao": "no app Meu Assaí"
+    "condicao": "No app Meu Assaí, válido para até 200un"
    }
   ],
   "revisado": false
@@ -1596,8 +1573,7 @@
   "precos": [
    {
     "valor": 43.99,
-    "exige": [],
-    "condicao": "cada"
+    "exige": []
    }
   ],
   "duvida": "Marca inferida pela embalagem (Turma da Mônica); tabela por tamanho pequena",
@@ -1617,8 +1593,7 @@
   "precos": [
    {
     "valor": 59.99,
-    "exige": [],
-    "condicao": "cada"
+    "exige": []
    }
   ],
   "revisado": false
@@ -1640,8 +1615,7 @@
   "precos": [
    {
     "valor": 2.29,
-    "exige": [],
-    "condicao": "cada"
+    "exige": []
    }
   ],
   "revisado": false
@@ -1663,8 +1637,7 @@
   "precos": [
    {
     "valor": 7.49,
-    "exige": [],
-    "condicao": "cada"
+    "exige": []
    }
   ],
   "revisado": false
@@ -1686,8 +1659,7 @@
   "precos": [
    {
     "valor": 19.99,
-    "exige": [],
-    "condicao": "cada"
+    "exige": []
    }
   ],
   "revisado": false
@@ -1709,8 +1681,7 @@
   "precos": [
    {
     "valor": 24.99,
-    "exige": [],
-    "condicao": "cada"
+    "exige": []
    }
   ],
   "revisado": false
@@ -1732,8 +1703,7 @@
   "precos": [
    {
     "valor": 21.99,
-    "exige": [],
-    "condicao": "cada"
+    "exige": []
    }
   ],
   "duvida": "Marca não legível",
@@ -1756,8 +1726,7 @@
   "precos": [
    {
     "valor": 14.99,
-    "exige": [],
-    "condicao": "cada"
+    "exige": []
    }
   ],
   "revisado": false
@@ -1779,8 +1748,7 @@
   "precos": [
    {
     "valor": 78.9,
-    "exige": [],
-    "condicao": "cada"
+    "exige": []
    }
   ],
   "revisado": false
@@ -1802,8 +1770,7 @@
   "precos": [
    {
     "valor": 6.79,
-    "exige": [],
-    "condicao": "cada"
+    "exige": []
    }
   ],
   "revisado": false
@@ -1825,8 +1792,7 @@
   "precos": [
    {
     "valor": 12.9,
-    "exige": [],
-    "condicao": "cada"
+    "exige": []
    }
   ],
   "duvida": "Marca incerta",
@@ -1846,8 +1812,7 @@
   "precos": [
    {
     "valor": 12.99,
-    "exige": [],
-    "condicao": "cada"
+    "exige": []
    }
   ],
   "duvida": "Tamanho não legível",
@@ -1870,8 +1835,7 @@
   "precos": [
    {
     "valor": 27.9,
-    "exige": [],
-    "condicao": "cada"
+    "exige": []
    }
   ],
   "revisado": false
@@ -1893,8 +1857,7 @@
   "precos": [
    {
     "valor": 12.99,
-    "exige": [],
-    "condicao": "cada"
+    "exige": []
    }
   ],
   "revisado": false
@@ -1916,8 +1879,7 @@
   "precos": [
    {
     "valor": 8.99,
-    "exige": [],
-    "condicao": "cada"
+    "exige": []
    }
   ],
   "revisado": false
@@ -1939,8 +1901,7 @@
   "precos": [
    {
     "valor": 12.49,
-    "exige": [],
-    "condicao": "cada"
+    "exige": []
    }
   ],
   "revisado": false
@@ -1962,8 +1923,7 @@
   "precos": [
    {
     "valor": 1.98,
-    "exige": [],
-    "condicao": "cada"
+    "exige": []
    }
   ],
   "revisado": false
@@ -1985,8 +1945,7 @@
   "precos": [
    {
     "valor": 14.99,
-    "exige": [],
-    "condicao": "cada"
+    "exige": []
    }
   ],
   "revisado": false
@@ -2008,8 +1967,7 @@
   "precos": [
    {
     "valor": 4.69,
-    "exige": [],
-    "condicao": "cada"
+    "exige": []
    }
   ],
   "revisado": false
@@ -2031,8 +1989,7 @@
   "precos": [
    {
     "valor": 13.89,
-    "exige": [],
-    "condicao": "cada"
+    "exige": []
    }
   ],
   "revisado": false
@@ -2054,8 +2011,7 @@
   "precos": [
    {
     "valor": 13.89,
-    "exige": [],
-    "condicao": "cada"
+    "exige": []
    }
   ],
   "revisado": false
@@ -2074,8 +2030,7 @@
   "precos": [
    {
     "valor": 13.99,
-    "exige": [],
-    "condicao": "cada"
+    "exige": []
    }
   ],
   "revisado": false
@@ -2094,8 +2049,7 @@
   "precos": [
    {
     "valor": 19.99,
-    "exige": [],
-    "condicao": "cada"
+    "exige": []
    }
   ],
   "revisado": false

@@ -369,6 +369,12 @@ interface ArquivoCuradoria {
   itens: ItemCuradoria[];
 }
 
+/** "cada", "garrafa", "Pote 1kg", "Caixeta 672g", "preço cada pacote"… = só a embalagem, não é condição de compra. */
+function condicaoSoEmbalagem(t: string): boolean {
+  if (/%|leve|pague|app|clube|cart[aã]o|r\$|a partir|gr[aá]tis|limite|desconto|unidade sai|kg sai/i.test(t)) return false;
+  return /^(pre[çc]o\s+)?(cada|unidade|garrafa|pacote|caixeta|sach[eê]|pote|bandeja|lata|frasco|gal[aã]o|embalagem)\b/i.test(t.trim());
+}
+
 for (const arq of readdirSync(join(RAIZ, 'data/curadoria')).filter((f) => f.endsWith('.json')).sort()) {
   const c = ler(`data/curadoria/${arq}`) as ArquivoCuradoria;
   if (c.pularSeExistir && existsSync(join(RAIZ, c.pularSeExistir))) {
@@ -379,12 +385,16 @@ for (const arq of readdirSync(join(RAIZ, 'data/curadoria')).filter((f) => f.ends
   }
   if (c.encarteInfo && !encartes.some((e) => e.id === c.encarteInfo!.id)) encartes.push(c.encarteInfo);
   for (const it of c.itens) {
+    // A leitura por IA às vezes põe na "condição" só a embalagem ("cada", "Pote 1kg", "garrafa"): isso não é condição.
+    const condicao = it.condicao && !condicaoSoEmbalagem(it.condicao) ? it.condicao : undefined;
+    // Se a condição fala do clube/app, ela vale para o preço do clube, não para o preço de todo mundo.
+    const doClube = !!condicao && /\b(app|clube)\b/i.test(condicao);
     const precos: Preco[] =
       it.soClube && c.programaClube
-        ? [{ valor: it.preco, exige: [c.programaClube], condicao: it.condicao ?? `no ${c.nomeClube ?? 'clube'}` }]
-        : [{ valor: it.preco, exige: [], ...(it.condicao ? { condicao: it.condicao } : {}) }];
+        ? [{ valor: it.preco, exige: [c.programaClube], condicao: condicao ?? `no ${c.nomeClube ?? 'clube'}` }]
+        : [{ valor: it.preco, exige: [], ...(condicao && !(it.clube && doClube) ? { condicao } : {}) }];
     if (it.clube && c.programaClube)
-      precos.push({ valor: it.clube, exige: [c.programaClube], condicao: `no ${c.nomeClube ?? 'clube'}` });
+      precos.push({ valor: it.clube, exige: [c.programaClube], condicao: doClube ? condicao! : `no ${c.nomeClube ?? 'clube'}` });
     if (it.app && c.programaApp)
       precos.push({ valor: it.app, exige: [c.programaApp], condicao: 'ativando a oferta no app' });
     adicionar({
