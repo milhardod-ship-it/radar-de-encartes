@@ -243,8 +243,13 @@ for (const arquivo of brutos.filter((f) => f.startsWith('atacadao-folheto-'))) {
   importarTabloideAtacadao(c.paginas, idEncarte);
 }
 
-// ---------------------------------------------------------------- Guanabara (robô; encartes das últimas 2 semanas)
-{
+// ---------------------------------------------------------------- Guanabara (DESLIGADO)
+// A lista /produtos do site NÃO é o encarte: em 25/11 só ~40% batia com o PDF, com preços diferentes
+// (Camil 5kg 28,95 no site × 27,95 no encarte) e itens fora do encarte. Regra do dono: só entra o que
+// está no encarte. O robô continua coletando a lista (para referência), mas ela não vai para o app.
+// O Guanabara entra pela leitura do PDF do encarte (data/curadoria; futuramente, leitor por IA).
+const USAR_LISTA_DO_SITE_GUANABARA = false;
+if (USAR_LISTA_DO_SITE_GUANABARA) {
   const coletas = brutos
     .filter((f) => f.startsWith('guanabara-site-'))
     .map((f) => ({ arquivo: f, c: ler(`data/brutos/${f}`) as ColetaGuanabara }));

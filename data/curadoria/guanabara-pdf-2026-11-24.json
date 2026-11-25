@@ -3,8 +3,7 @@
  "mercado": "guanabara",
  "programaClube": "guana-clube",
  "nomeClube": "Guana Clube",
- "pularSeExistir": "data/brutos/guanabara-site-ate-2026-11-25.json",
- "observacao": "Lido das 12 páginas (imagem) do PDF do encarte 24–25/11/2026 baixado do site do Guanabara, porque a lista do site ainda não tinha sido publicada. Se o robô coletar a lista oficial deste encarte, este arquivo é ignorado. Ficaram de fora itens sem preço ('Oferta Especial') e promoções sem o preço normal. Não revisado. Etiquetas 'nesta embalagem… sai por' são só referência para o cliente (não são preço de produto): não entram.",
+ "observacao": "Lido das 12 páginas (imagem) do PDF do encarte 24–25/11/2026 baixado do site do Guanabara, porque a lista do site ainda não tinha sido publicada. Ficaram de fora itens sem preço ('Oferta Especial') e promoções sem o preço normal. Não revisado. Etiquetas 'nesta embalagem… sai por' são só referência para o cliente (não são preço de produto): não entram.",
  "itens": [
   {
    "pagina": 1,

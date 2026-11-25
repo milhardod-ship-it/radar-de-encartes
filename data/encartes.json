@@ -574,22 +574,13 @@
   "fonte": "folhetos do site do Atacadão (robô, 2026-11-25)"
  },
  {
-  "id": "guanabara-site-ate-2026-11-23",
+  "id": "guanabara-pdf-2026-11-24",
   "mercado": "guanabara",
-  "titulo": "Encarte Guanabara",
-  "inicio": "2026-11-18",
-  "fim": "2026-11-23",
-  "lojas": [],
-  "fonte": "site do Guanabara (robô, 2026-11-24)"
- },
- {
-  "id": "guanabara-site-ate-2026-11-25",
-  "mercado": "guanabara",
-  "titulo": "Encarte Guanabara",
+  "titulo": "Aniversário Guanabara + Black Fralda",
   "inicio": "2026-11-24",
   "fim": "2026-11-25",
   "lojas": [],
-  "fonte": "site do Guanabara (robô, 2026-11-25)"
+  "fonte": "PDF do encarte no site do Guanabara (lido por imagem, revisão pendente)"
  },
  {
   "id": "mundial-site-2026-11-25",

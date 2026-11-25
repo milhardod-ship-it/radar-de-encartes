@@ -20,12 +20,16 @@ Carro-chefe: **lista de compras** (total por mercado, melhor mercado, quando val
   Clube fechado → futuro: parceria com o mercado.
 - Honestidade: oferta vencida some; "não compensa a viagem" quando dividir economiza pouco; sem truques.
 - Etiquetas "nesta embalagem X sai por R$ Y" nos encartes são só referência para o cliente: NÃO viram oferta.
+- Só entra no app o que está **no encarte**. "Oferta Especial" sem preço no encarte não entra, mesmo que outra
+  fonte (site, app) mostre um valor.
 - Sem logos/cores das redes na interface (marcas registradas). Dados `revisado: false` até o painel de revisão.
 
 ## Fontes de dados (situação em 23/11/2026)
-- **Guanabara**: robô lê `/produtos/<id>` (14 categorias). A validade vem da LISTA ("Validade: dd/mm/aaaa"),
-  não da página `/encarte`: as duas não mudam juntas (em 23/11 à noite o encarte já dizia 24–25/11 e a
-  lista ainda era a antiga). Lista vencida = nada novo (não é erro). Datas sempre no horário do Rio.
+- **Guanabara**: a lista `/produtos/<id>` do site NÃO é o encarte (em 25/11 só ~40% batia com o PDF; preços
+  e itens diferentes). Decisão do dono: **só entra o que está no encarte**. O robô ainda coleta a lista, mas o
+  importador não usa (`USAR_LISTA_DO_SITE_GUANABARA = false`). Fonte: PDF do encarte em `/encarte/baixe`
+  (12 páginas, SÓ IMAGEM) → leitura manual em `data/curadoria/` até existir o leitor por IA (chave da API).
+  Encarte novo às 2as e no meio da semana. Itens "Oferta Especial" sem preço NÃO entram.
 - **Mundial**: robô lê o JSON `__NEXT_DATA__` de `/departamentos/categoria/ofertas?page=N` + `/encarte`.
   No site, `price` = preço no app Mundial Total e `oldPrice` = preço sem app.
 - **Atacadão**: robô usa a API pública de folhetos do site ("Folhetos" → `apigw.cloud.carrefour.com.br/
