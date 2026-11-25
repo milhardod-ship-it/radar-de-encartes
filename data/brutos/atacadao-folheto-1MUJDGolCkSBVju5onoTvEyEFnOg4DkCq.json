@@ -41,20 +41,20 @@
     "lon": null
    },
    {
-    "id": 291,
-    "nome": "Nova Iguaçu Comendador Soares",
-    "bairro": "Comendador Soares",
-    "cidade": "Nova Iguaçu",
-    "lat": null,
-    "lon": null
-   },
-   {
     "id": 67,
     "nome": "Nova Iguaçu Maria da Luz",
     "bairro": "Maria da Luz",
     "cidade": "Nova Iguaçu",
     "lat": -22.75756013,
     "lon": -43.43141051
+   },
+   {
+    "id": 291,
+    "nome": "Nova Iguaçu Comendador Soares",
+    "bairro": "Comendador Soares",
+    "cidade": "Nova Iguaçu",
+    "lat": null,
+    "lon": null
    },
    {
     "id": 247,
@@ -73,9 +73,33 @@
     "lon": -43.23904053
    },
    {
+    "id": 699,
+    "nome": "Bangu",
+    "bairro": "Bangu",
+    "cidade": "Rio de Janeiro",
+    "lat": -22.8765669,
+    "lon": -43.46765093
+   },
+   {
     "id": 210,
     "nome": "Jacarepaguá",
     "bairro": "Jacarepaguá",
+    "cidade": "Rio de Janeiro",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 275,
+    "nome": "Bonsucesso",
+    "bairro": "Bonsucesso",
+    "cidade": "Rio de Janeiro",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 278,
+    "nome": "Mendanha",
+    "bairro": "Campo Grande",
     "cidade": "Rio de Janeiro",
     "lat": null,
     "lon": null
@@ -87,22 +111,6 @@
     "cidade": "Rio de Janeiro",
     "lat": -22.89213,
     "lon": -43.67765
-   },
-   {
-    "id": 294,
-    "nome": "Barra",
-    "bairro": "Barra da Tijuca",
-    "cidade": "Rio de Janeiro",
-    "lat": -22.99032122,
-    "lon": -43.36344795
-   },
-   {
-    "id": 699,
-    "nome": "Bangu",
-    "bairro": "Bangu",
-    "cidade": "Rio de Janeiro",
-    "lat": -22.8765669,
-    "lon": -43.46765093
    },
    {
     "id": 63,
@@ -121,20 +129,12 @@
     "lon": -43.37572
    },
    {
-    "id": 275,
-    "nome": "Bonsucesso",
-    "bairro": "Bonsucesso",
+    "id": 294,
+    "nome": "Barra",
+    "bairro": "Barra da Tijuca",
     "cidade": "Rio de Janeiro",
-    "lat": null,
-    "lon": null
-   },
-   {
-    "id": 278,
-    "nome": "Mendanha",
-    "bairro": "Campo Grande",
-    "cidade": "Rio de Janeiro",
-    "lat": null,
-    "lon": null
+    "lat": -22.99032122,
+    "lon": -43.36344795
    },
    {
     "id": 691,

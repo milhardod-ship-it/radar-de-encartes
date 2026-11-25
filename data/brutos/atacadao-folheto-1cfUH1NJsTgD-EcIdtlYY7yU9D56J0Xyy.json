@@ -17,20 +17,20 @@
     "lon": null
    },
    {
-    "id": 102,
-    "nome": "Goytacazes Guarus",
-    "bairro": "Parque Guarus",
-    "cidade": "Campos dos Goytacazes",
-    "lat": -21.71022,
-    "lon": -41.30951
-   },
-   {
     "id": 292,
     "nome": "Goytacazes Santo Amaro",
     "bairro": "Parque Santo Amaro",
     "cidade": "Campos dos Goytacazes",
     "lat": -21.7653,
     "lon": -41.34492
+   },
+   {
+    "id": 102,
+    "nome": "Goytacazes Guarus",
+    "bairro": "Parque Guarus",
+    "cidade": "Campos dos Goytacazes",
+    "lat": -21.71022,
+    "lon": -41.30951
    },
    {
     "id": 130,
