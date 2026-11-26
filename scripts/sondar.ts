@@ -110,6 +110,7 @@ for (const url of urls) {
       console.log(`  js: …${js.slice(Math.max(0, p.index! - 200), p.index! + 300).replace(/\s+/g, ' ')}…`);
     }
   }
+  for (const m of corpo.matchAll(/([A-Z_]{4,})\s*=\s*(\[[^\]]{0,4000}\])/g)) console.log(`lista ${m[1]}: ${m[2].replace(/\s+/g, ' ').slice(0, 3000)}`);
   const apis = [...new Set([...corpo.matchAll(/https?:\/\/[^"'\s<>]*(?:api|graphql|json)[^"'\s<>]*/gi)].map((m) => m[0]))];
   if (apis.length) console.log(`endereços de API/JSON: ${apis.slice(0, 20).join(' | ')}`);
 }

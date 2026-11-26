@@ -30,27 +30,34 @@ function limparRua(endereco: string): { rua: string; numero: string } {
   return { rua: m[1].replace(/,$/, '').trim(), numero: m[2].replace(/\./g, '') };
 }
 
-function consultar(params: Record<string, string>): any | null {
-  const qs = new URLSearchParams({ ...params, country: 'Brasil', format: 'jsonv2', limit: '1' }).toString();
+const semAcento = (t: string) => t.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+
+/** Consulta e só aceita resultado que esteja MESMO na cidade esperada (evita rua de mesmo nome em outra cidade). */
+function consultar(params: Record<string, string>, cidade: string): any | null {
+  const qs = new URLSearchParams({ ...params, country: 'Brasil', format: 'jsonv2', limit: '5', addressdetails: '1' }).toString();
   dormir(1100);
   const saida = execFileSync('curl', ['-sS', '-m', '30', '-A', AGENTE, `https://nominatim.openstreetmap.org/search?${qs}`]).toString();
-  const r = JSON.parse(saida);
-  return r[0] ?? null;
+  const alvo = semAcento(cidade);
+  return (JSON.parse(saida) as any[]).find((r) => {
+    const a = r.address ?? {};
+    return [a.city, a.town, a.municipality, a.village, a.city_district].some((c) => c && semAcento(c) === alvo);
+  }) ?? null;
 }
 
 const fonte = JSON.parse(readFileSync(join(RAIZ, 'data/fontes/dom-lojas-rj.json'), 'utf8'));
 const doSite: any[] = JSON.parse(readFileSync(join(RAIZ, 'data/brutos/dom-lojas.json'), 'utf8'));
 for (const s of doSite) {
-  const cidade = CIDADES[s.cidade.toLowerCase()] ?? s.cidade.replace(/\b(\p{L})/gu, (c: string) => c.toUpperCase());
+  const cidade = CIDADES[s.cidade.toLowerCase()] ?? s.cidade.toLowerCase().replace(/(^|\s)(\p{L})/gu, (_: string, e: string, c: string) => e + c.toUpperCase()).replace(/ (De|Da|Do|Dos) /g, (m: string) => m.toLowerCase());
   const { rua, numero } = limparRua(s.endereco);
+  // Sem o número, o centro do BAIRRO é mais confiável que um ponto qualquer da rua (avenidas longas, como a Av. Brasil).
   const tentativas: [string, Record<string, string>][] = [
-    ['endereço exato', { street: `${numero} ${rua}`.trim(), city: cidade, state: 'Rio de Janeiro' }],
-    ['rua', { street: rua, city: cidade, state: 'Rio de Janeiro' }],
+    ...(numero ? [['endereço exato', { street: `${numero} ${rua}`, city: cidade, state: 'Rio de Janeiro' }] as [string, Record<string, string>]] : []),
     ['bairro', { q: `${s.bairro}, ${cidade}, Rio de Janeiro` }],
+    ['rua', { street: rua, city: cidade, state: 'Rio de Janeiro' }],
   ];
   let achou: { lat: number; lon: number; precisao: string } | null = null;
   for (const [precisao, p] of tentativas) {
-    const r = consultar(p);
+    const r = consultar(p, cidade);
     if (r) {
       achou = { lat: Number(Number(r.lat).toFixed(5)), lon: Number(Number(r.lon).toFixed(5)), precisao };
       break;
