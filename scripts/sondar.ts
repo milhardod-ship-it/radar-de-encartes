@@ -30,6 +30,33 @@ function baixar(url: string): { status: string; cabecalhos: string; corpo: strin
   }
 }
 
+// Comparação especial: os encartes de TODAS as lojas do Dom Atacadista são iguais?
+if (urls[0] === 'dom-lojas') {
+  const dadosDe = (url: string) => {
+    const { corpo } = baixar(url);
+    const m = corpo.match(/<script id="__NEXT_DATA__"[^>]*>([\s\S]*?)<\/script>/);
+    return m ? JSON.parse(m[1]).props.pageProps : null;
+  };
+  const lojas: { name: string; store: string }[] = dadosDe('https://domatacadista.net/hub-encartes')?.stores ?? [];
+  console.log(`${lojas.length} lojas`);
+  const porConjunto = new Map<string, string[]>();
+  const descricao = new Map<string, string>();
+  for (const l of lojas) {
+    const pp = dadosDe(`https://domatacadista.net/encartes/lojas/${encodeURIComponent(l.store)}`);
+    const encartes: { id: string; description: string; pages: { url: string }[] }[] = pp?.store?.encartes ?? [];
+    for (const e of encartes) descricao.set(e.id, `${e.description} (${e.pages.length} pág.)`);
+    const chave = encartes.map((e) => `${e.id}:${e.pages.map((p) => p.url.split('/').pop()).join(',')}`).sort().join(' | ') || '(nenhum)';
+    porConjunto.set(chave, [...(porConjunto.get(chave) ?? []), l.name]);
+  }
+  console.log(`conjuntos diferentes de encartes: ${porConjunto.size}`);
+  for (const [chave, nomes] of porConjunto) {
+    const ids = chave === '(nenhum)' ? [] : chave.split(' | ').map((c) => c.split(':')[0]);
+    console.log(`\n${nomes.length} lojas: ${nomes.join(', ')}`);
+    console.log(`  encartes: ${ids.map((i) => `${i} ${descricao.get(i)}`).join('; ') || 'nenhum'}`);
+  }
+  process.exit(0);
+}
+
 for (const url of urls) {
   console.log(`\n================ ${url}`);
   const { status, cabecalhos, corpo } = baixar(url);
