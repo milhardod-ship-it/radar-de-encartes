@@ -35,10 +35,18 @@ const semAcento = (t: string) => t.normalize('NFD').replace(/[\u0300-\u036f]/g, 
 /** Consulta e só aceita resultado que esteja MESMO na cidade esperada (evita rua de mesmo nome em outra cidade). */
 function consultar(params: Record<string, string>, cidade: string): any | null {
   const qs = new URLSearchParams({ ...params, country: 'Brasil', format: 'jsonv2', limit: '5', addressdetails: '1' }).toString();
-  dormir(1100);
-  const saida = execFileSync('curl', ['-sS', '-m', '30', '-A', AGENTE, `https://nominatim.openstreetmap.org/search?${qs}`]).toString();
+  let lista: any = null;
+  for (let tentativa = 1; tentativa <= 3 && !Array.isArray(lista); tentativa++) {
+    dormir(1500 * tentativa);
+    try {
+      lista = JSON.parse(execFileSync('curl', ['-sS', '-m', '30', '-A', AGENTE, `https://nominatim.openstreetmap.org/search?${qs}`]).toString());
+    } catch {
+      lista = null;
+    }
+  }
+  if (!Array.isArray(lista)) return null;
   const alvo = semAcento(cidade);
-  return (JSON.parse(saida) as any[]).find((r) => {
+  return (lista as any[]).find((r) => {
     const a = r.address ?? {};
     return [a.city, a.town, a.municipality, a.village, a.city_district].some((c) => c && semAcento(c) === alvo);
   }) ?? null;
@@ -55,13 +63,24 @@ for (const s of doSite) {
     ['bairro', { q: `${s.bairro}, ${cidade}, Rio de Janeiro` }],
     ['rua', { street: rua, city: cidade, state: 'Rio de Janeiro' }],
   ];
+  // O número na rua nem sempre está certo no mapa (ex.: Av. Brasil, 32238 caía em Santa Cruz, não em Bangu).
+  // Então o endereço exato só vale se ficar a até 3 km do centro do bairro informado pelo site.
+  const ponto = (r: any) => ({ lat: Number(Number(r.lat).toFixed(5)), lon: Number(Number(r.lon).toFixed(5)) });
+  const km = (a: { lat: number; lon: number }, b: { lat: number; lon: number }) =>
+    Math.hypot((a.lat - b.lat) * 111, (a.lon - b.lon) * 111 * Math.cos((a.lat * Math.PI) / 180));
+  const rBairro = consultar(tentativas.find(([p]) => p === 'bairro')![1], cidade);
+  const bairro = rBairro ? ponto(rBairro) : null;
   let achou: { lat: number; lon: number; precisao: string } | null = null;
   for (const [precisao, p] of tentativas) {
-    const r = consultar(p, cidade);
-    if (r) {
-      achou = { lat: Number(Number(r.lat).toFixed(5)), lon: Number(Number(r.lon).toFixed(5)), precisao };
-      break;
+    const r = precisao === 'bairro' ? rBairro : consultar(p, cidade);
+    if (!r) continue;
+    const pt = ponto(r);
+    if (precisao !== 'bairro' && bairro && km(pt, bairro) > 3) {
+      console.log(`  (${s.nome}: ${precisao} caiu a ${km(pt, bairro).toFixed(1)} km do bairro; descartado)`);
+      continue;
     }
+    achou = { ...pt, precisao };
+    break;
   }
   const l = fonte.lojas.find((x: any) => x.slug === s.slug);
   const registro = { slug: s.slug, nome: l?.nome ?? s.nome, endereco: `${s.endereco}${s.bairro ? ` - ${s.bairro}` : ''}`, cidade };
