@@ -324,15 +324,17 @@ if (USAR_LISTA_DO_SITE_GUANABARA) {
       fonte: `encartes do site do Prezunic (robô, ${c.coletadoEm.slice(0, 10)})`,
     });
     for (const it of c.itens) {
-      const texto = capitalizar(it.nome);
+      // Alguns encartes põem o rodapé ("LOJAS…, NO PERÍODO DE…, ENQUANTO DURAREM NOSSOS ESTOQUES.") colado no nome.
+      const nomeLimpo = it.nome.replace(/^.*ENQUANTO DURAREM NOSSOS ESTOQUES\.?\s*/i, '').trim() || it.nome;
+      const texto = capitalizar(nomeLimpo);
       const { marcas, nome } = separarMarcas(texto, listaMarcas);
       adicionar({
         mercado: 'prezunic',
         encarte: idEncarte,
         nome: limparNome(nome) || nome || texto,
         marcas,
-        original: `${it.nome} ${it.detalhe}`.trim(),
-        textoTamanho: `${it.detalhe} ${it.nome}`,
+        original: `${nomeLimpo} ${it.detalhe}`.trim(),
+        textoTamanho: `${it.detalhe} ${nomeLimpo}`,
         precos: [{ valor: it.preco, exige: [] }],
         precoDe: it.precoDe ?? undefined,
         limite: it.limite ? it.limite.replace(/^Limite/, 'limite') : undefined,

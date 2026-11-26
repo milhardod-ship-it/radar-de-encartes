@@ -90,6 +90,14 @@ Carro-chefe: **lista de compras** (total por mercado, melhor mercado, quando val
 - Imagens das páginas: `public/paginas/<encarte>/p<n>.jpg` (salvas pelo leitor; apagadas quando o encarte vence).
 - Fora do painel por enquanto: ofertas de robô (Mundial "Imperdível", Prezunic, Atacadão).
 
+## Junção de produtos (`src/core/canonico.ts`)
+- Id = até 5 palavras do nome (sem marca/embalagem; plural→singular; sinônimos: chopp→cerveja, sabão→lava-roupa)
+  + marca + tamanho; sem tamanho, os números do nome entram ("Pneu Aro 14" × "15"). "s/ X"/"sem X" vira "sem-X".
+- `unificarProdutos`: mesma marca + tamanho; nunca junta dois nomes do MESMO encarte (encartes diferentes do mesmo
+  mercado podem juntar: velho × novo); nomes contidos um no outro; palavra de VARIAÇÃO só de um lado bloqueia;
+  nome de 1 palavra só junta com até 1 palavra a mais. 26/11: 1588 produtos, 101 em 2+ mercados, 71 unificados.
+- Pendente: tela no painel para o dono juntar/separar à mão (a curadoria já aceita `produto` fixo).
+
 ## Lojas e localização
 - `data/lojas.json` (112 lojas): Guanabara (página /lojas, coordenada do link do Google Maps), Mundial (JSON de
   /nossas-lojas), Prezunic (11 exatas via `/api/checkout/pub/pickup-points`; demais pelo centro do bairro, marcadas

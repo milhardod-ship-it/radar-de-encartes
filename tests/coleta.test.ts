@@ -82,7 +82,7 @@ describe('unificarProdutos', () => {
   function o(mercado: Oferta['mercado'], nome: string, marca: string, ml: number): Oferta {
     const tamanho = { valor: ml, unidade: 'ml' as const };
     return {
-      id: `${mercado}-${nome}`, mercado, encarte: 'e', produto: idProduto(nome, marca, tamanho, false), nome, marca,
+      id: `${mercado}-${nome}`, mercado, encarte: `encarte-${mercado}`, produto: idProduto(nome, marca, tamanho, false), nome, marca,
       original: nome, categoria: 'Mercearia', tamanho, porKg: false, precos: [{ valor: 1, exige: [] }], revisado: false,
     };
   }
@@ -104,6 +104,24 @@ describe('unificarProdutos', () => {
     ]);
     expect(r[0].produto).not.toBe(r[1].produto);
     expect(r[2].produto).not.toBe(r[3].produto);
+  });
+
+  it('junta o mesmo produto em encartes diferentes do mesmo mercado (encarte velho × novo)', () => {
+    const velho = o('guanabara', 'Achocolatado em Pó', 'Nescau', 350);
+    const novo = { ...o('guanabara', 'Achocolatado Lata', 'Nescau', 350), encarte: 'guanabara-novo' };
+    const r = unificarProdutos([velho, novo]);
+    expect(r[0].produto).toBe(r[1].produto);
+  });
+
+  it('entende plural e sinônimos simples', () => {
+    const r = unificarProdutos([
+      o('guanabara', 'Bombons Sortidos', 'Garoto', 220),
+      o('prezunic', 'Bombom Sortido', 'Garoto', 220),
+      o('guanabara', 'Lava-Roupas Líquido', 'Omo', 3000),
+      o('mundial', 'Sabão Líquido', 'Omo', 3000),
+    ]);
+    expect(r[0].produto).toBe(r[1].produto);
+    expect(r[2].produto).toBe(r[3].produto);
   });
 });
 

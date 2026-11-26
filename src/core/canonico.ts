@@ -9,7 +9,8 @@ const IGNORADAS = new Set([
   'caixeta', 'caixa', 'garrafa', 'pet', 'frasco', 'tp', 'unidade', 'unidades', 'unids', 'preco', 'por', 'quilo',
   'na', 'no', 'peca', 'sache', 'vidro', 'tubo', 'pack', 'refil', 'kg', 'g', 'ml', 'l', 'un', 'cada', 'litro',
   'longa', 'vida', 'pct', 'iqf', 'vacuo', 'inst', 'instantaneo', 'tradicional', 'trad', 'leve', 'pague',
-  'carne', 'bovina', 'bovino', 'bov', 'exc', 'und', 'unid',
+  'carne', 'bovina', 'bovino', 'bov', 'exc', 'und', 'unid', 'peixe', 'barril', 'tp', 'doypack', 'pouch', 'envelopado',
+  'envelopada', 'embalagem', 'kit', 'hot', 'dog',
 ]);
 
 // Grafias diferentes da mesma coisa entre os encartes.
@@ -23,16 +24,44 @@ const SINONIMOS: Record<string, string> = {
   contrafile: 'contra-file',
   moida: 'moida',
   parb: 'parboilizado',
+  bombon: 'bombom',
+  chopp: 'cerveja',
+  chope: 'cerveja',
+  sabao: 'lava-roupa',
+  capsula: 'capsula',
 };
+
+/**
+ * Plural → singular, só para comparar ("bombons" = "bombom", "coxinhas" = "coxinha", "corações" = "coração").
+ * Regras simples do português; palavras curtas ficam como estão.
+ */
+export function singular(w: string): string {
+  if (w.length <= 3) return w;
+  if (w.endsWith('oes') || w.endsWith('aes')) return w.slice(0, -3) + 'ao';
+  if (w.endsWith('ais')) return w.slice(0, -3) + 'al';
+  if (w.endsWith('ns')) return w.slice(0, -2) + 'm';
+  if (/[rz]es$/.test(w)) return w.slice(0, -2);
+  if (/[^s]s$/.test(w) && !/(is|us)$/.test(w)) return w.slice(0, -1);
+  return w;
+}
 
 /** Palavras que identificam o produto (sem marca, sem embalagem, sem números). */
 export function palavrasDoProduto(nome: string, marca: string): string[] {
-  const daMarca = new Set(normalizar(marca).split(' '));
-  const t = normalizar(nome).replace(/\bextra virgem\b/g, 'extra-virgem').replace(/\bcontra file\b/g, 'contra-file');
-  return t
+  const daMarca = new Set(normalizar(marca).split(' ').flatMap((w) => [w, singular(w)]));
+  const t = normalizar(nome)
+    .replace(/\bextra virgem\b/g, 'extra-virgem')
+    .replace(/\bcontra file\b/g, 'contra-file')
+    .replace(/\blava roupas?\b/g, 'lava-roupas')
+    // "s/ casca", "sem pele" → "sem-casca", "sem-pele": "com casca" e "sem casca" são produtos diferentes.
+    .replace(/\bs (?=[a-z])/g, 'sem ')
+    .replace(/\bsem (\w+)/g, 'sem-$1');
+  const lista = t
     .split(' ')
+    .filter((w) => !IGNORADAS.has(w))
+    .map((w) => singular(w))
     .map((w) => SINONIMOS[w] ?? w)
     .filter((w) => w && !IGNORADAS.has(w) && !daMarca.has(w) && !/^\d/.test(w));
+  return [...new Set(lista)];
 }
 
 /**
@@ -52,7 +81,10 @@ export function etiquetaTamanho(tamanho: Tamanho | null, porKg: boolean): string
  * Quando a regra automática erra, a curadoria define o id à mão.
  */
 export function idProduto(nome: string, marca: string, tamanho: Tamanho | null, porKg: boolean): string {
-  const palavras = palavrasDoProduto(nome, marca).slice(0, 3);
+  // Até 5 palavras (com 3, "Leite Fermentado Desnatado Zero" e "… Zero Lactose" viravam o mesmo produto).
+  // Sem tamanho, os números do nome também contam ("Pneu Aro 14" × "Pneu Aro 15").
+  const numeros = tamanho || porKg ? [] : (normalizar(nome).match(/\b\d+\b/g) ?? []).filter((n) => n !== '1');
+  const palavras = [...palavrasDoProduto(nome, marca).slice(0, 5), ...numeros];
   return [palavras.join('-') || 'produto', normalizar(marca).replace(/ /g, '-') || 'sem-marca', etiquetaTamanho(tamanho, porKg)].join('__');
 }
 
@@ -60,14 +92,15 @@ export function idProduto(nome: string, marca: string, tamanho: Tamanho | null, 
  * Junta produtos que são o mesmo em mercados diferentes, mas que cada encarte escreveu de um jeito
  * ("Leite UHT Integral Italac 1L" × "Leite Longa Vida Italac Integral TP 1L").
  * Regra conservadora: mesma marca (não vazia), mesmo tamanho, ids que não aparecem juntos
- * no mesmo mercado, as palavras de um nome todas contidas no outro e nenhuma palavra de
+ * no mesmo encarte, as palavras de um nome todas contidas no outro e nenhuma palavra de
  * variação (integral, desnatado, zero, spray…) só de um lado.
  * Devolve as ofertas com o `produto` trocado pelo id escolhido (o mais curto).
  */
 export function unificarProdutos(ofertas: Oferta[]): Oferta[] {
   interface Info {
     id: string;
-    mercados: Set<string>;
+    /** Encartes onde o produto aparece: dois nomes diferentes no MESMO encarte são produtos diferentes. */
+    encartes: Set<string>;
     palavras: Set<string>;
     grupo: string;
   }
@@ -79,13 +112,13 @@ export function unificarProdutos(ofertas: Oferta[]): Oferta[] {
       const marca = normalizar(o.marca);
       i = {
         id: o.produto,
-        mercados: new Set(),
+        encartes: new Set(),
         palavras: new Set(palavras),
         grupo: marca && (o.tamanho || o.porKg) ? `${marca}|${etiquetaTamanho(o.tamanho, o.porKg)}` : '',
       };
       infos.set(o.produto, i);
     }
-    i.mercados.add(o.mercado);
+    i.encartes.add(o.encarte);
   }
 
   // union-find simples
@@ -112,16 +145,16 @@ export function unificarProdutos(ofertas: Oferta[]): Oferta[] {
         const ra = raiz(a.id);
         const rb = raiz(b.id);
         if (ra === rb) continue;
-        const mercadosA = mercadosDoConjunto(ra);
-        const mercadosB = mercadosDoConjunto(rb);
-        if ([...mercadosA].some((m) => mercadosB.has(m))) continue;
+        const encartesA = encartesDoConjunto(ra);
+        const encartesB = encartesDoConjunto(rb);
+        if ([...encartesA].some((m) => encartesB.has(m))) continue;
         if (compativeis(a.palavras, b.palavras)) pai.set(rb, ra);
       }
     }
   }
-  function mercadosDoConjunto(r: string): Set<string> {
+  function encartesDoConjunto(r: string): Set<string> {
     const s = new Set<string>();
-    for (const i of infos.values()) if (raiz(i.id) === r) for (const m of i.mercados) s.add(m);
+    for (const i of infos.values()) if (raiz(i.id) === r) for (const m of i.encartes) s.add(m);
     return s;
   }
 
@@ -136,13 +169,17 @@ export function unificarProdutos(ofertas: Oferta[]): Oferta[] {
 const VARIACOES = new Set([
   'integral', 'desnatado', 'semidesnatado', 'zero', 'light', 'diet', 'lactose', 'spray', 'refil', 'parboilizado',
   'branco', 'preto', 'carioca', 'vermelho', 'extra', 'forte', 'gourmet', 'premium', 'kids', 'infantil', 'baby',
-  'masculino', 'feminino', 'noturno', 'concentrado', 'liquido', 'po', 'pastoso', 'gel', 'aerossol', 'roll',
+  'masculino', 'feminino', 'noturno', 'concentrado', 'liquido', 'pastoso', 'gel', 'aerossol', 'roll',
   'morango', 'chocolate', 'baunilha', 'limao', 'laranja', 'uva', 'coco', 'sem', 'mini', 'max', 'plus',
+  'defumado', 'defumada', 'waffle', 'pipoquinha', 'lanche', 'levinho', 'ovinho', 'condicionador', 'supreme', 'maltado',
 ]);
 
 function compativeis(a: Set<string>, b: Set<string>): boolean {
   const [menor, maior] = a.size <= b.size ? [a, b] : [b, a];
   if (menor.size === 0) return false;
+  // Nome genérico de uma palavra ("Biscoito") só junta com outro que tenha no máximo uma palavra a mais
+  // ("Biscoito" × "Biscoito Maltado Recheado" não; "Sabonete" × "Sabonete em Barra" sim).
+  if (menor.size === 1 && maior.size - menor.size >= 2) return false;
   for (const w of menor) if (!maior.has(w)) return false;
   for (const w of maior) if (!menor.has(w) && VARIACOES.has(w)) return false;
   return true;
