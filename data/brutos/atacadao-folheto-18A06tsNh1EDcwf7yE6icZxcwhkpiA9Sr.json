@@ -5,7 +5,7 @@
   "id": "18A06tsNh1EDcwf7yE6icZxcwhkpiA9Sr",
   "nome": "Quarta do Biscoito",
   "inicio": "2026-11-25",
-  "fim": "2026-11-25",
+  "fim": "2026-11-26",
   "url": "https://apigw.cloud.carrefour.com.br/api-middleware-flyer-services/api/v2/Flyer/?id=18A06tsNh1EDcwf7yE6icZxcwhkpiA9Sr",
   "lojas": [
    {
@@ -25,20 +25,20 @@
     "lon": null
    },
    {
-    "id": 292,
-    "nome": "Goytacazes Santo Amaro",
-    "bairro": "Parque Santo Amaro",
-    "cidade": "Campos dos Goytacazes",
-    "lat": -21.7653,
-    "lon": -41.34492
-   },
-   {
     "id": 102,
     "nome": "Goytacazes Guarus",
     "bairro": "Parque Guarus",
     "cidade": "Campos dos Goytacazes",
     "lat": -21.71022,
     "lon": -41.30951
+   },
+   {
+    "id": 292,
+    "nome": "Goytacazes Santo Amaro",
+    "bairro": "Parque Santo Amaro",
+    "cidade": "Campos dos Goytacazes",
+    "lat": -21.7653,
+    "lon": -41.34492
    },
    {
     "id": 174,
@@ -81,20 +81,20 @@
     "lon": null
    },
    {
-    "id": 67,
-    "nome": "Nova Iguaçu Maria da Luz",
-    "bairro": "Maria da Luz",
-    "cidade": "Nova Iguaçu",
-    "lat": -22.75756013,
-    "lon": -43.43141051
-   },
-   {
     "id": 291,
     "nome": "Nova Iguaçu Comendador Soares",
     "bairro": "Comendador Soares",
     "cidade": "Nova Iguaçu",
     "lat": null,
     "lon": null
+   },
+   {
+    "id": 67,
+    "nome": "Nova Iguaçu Maria da Luz",
+    "bairro": "Maria da Luz",
+    "cidade": "Nova Iguaçu",
+    "lat": -22.75756013,
+    "lon": -43.43141051
    },
    {
     "id": 207,
@@ -121,6 +121,14 @@
     "lon": -43.42760452
    },
    {
+    "id": 699,
+    "nome": "Bangu",
+    "bairro": "Bangu",
+    "cidade": "Rio de Janeiro",
+    "lat": -22.8765669,
+    "lon": -43.46765093
+   },
+   {
     "id": 249,
     "nome": "Benfica",
     "bairro": "Manguinhos",
@@ -129,12 +137,12 @@
     "lon": -43.23904053
    },
    {
-    "id": 699,
-    "nome": "Bangu",
-    "bairro": "Bangu",
+    "id": 691,
+    "nome": "Pilares",
+    "bairro": "Cachambi",
     "cidade": "Rio de Janeiro",
-    "lat": -22.8765669,
-    "lon": -43.46765093
+    "lat": null,
+    "lon": null
    },
    {
     "id": 210,
@@ -145,28 +153,12 @@
     "lon": null
    },
    {
-    "id": 275,
-    "nome": "Bonsucesso",
-    "bairro": "Bonsucesso",
+    "id": 294,
+    "nome": "Barra",
+    "bairro": "Barra da Tijuca",
     "cidade": "Rio de Janeiro",
-    "lat": null,
-    "lon": null
-   },
-   {
-    "id": 278,
-    "nome": "Mendanha",
-    "bairro": "Campo Grande",
-    "cidade": "Rio de Janeiro",
-    "lat": null,
-    "lon": null
-   },
-   {
-    "id": 136,
-    "nome": "Santa Cruz",
-    "bairro": "Santa Cruz",
-    "cidade": "Rio de Janeiro",
-    "lat": -22.89213,
-    "lon": -43.67765
+    "lat": -22.99032122,
+    "lon": -43.36344795
    },
    {
     "id": 63,
@@ -185,17 +177,25 @@
     "lon": -43.37572
    },
    {
-    "id": 294,
-    "nome": "Barra",
-    "bairro": "Barra da Tijuca",
+    "id": 136,
+    "nome": "Santa Cruz",
+    "bairro": "Santa Cruz",
     "cidade": "Rio de Janeiro",
-    "lat": -22.99032122,
-    "lon": -43.36344795
+    "lat": -22.89213,
+    "lon": -43.67765
    },
    {
-    "id": 691,
-    "nome": "Pilares",
-    "bairro": "Cachambi",
+    "id": 275,
+    "nome": "Bonsucesso",
+    "bairro": "Bonsucesso",
+    "cidade": "Rio de Janeiro",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 278,
+    "nome": "Mendanha",
+    "bairro": "Campo Grande",
     "cidade": "Rio de Janeiro",
     "lat": null,
     "lon": null

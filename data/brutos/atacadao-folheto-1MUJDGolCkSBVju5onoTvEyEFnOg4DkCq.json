@@ -65,12 +65,28 @@
     "lon": -43.42760452
    },
    {
+    "id": 699,
+    "nome": "Bangu",
+    "bairro": "Bangu",
+    "cidade": "Rio de Janeiro",
+    "lat": -22.8765669,
+    "lon": -43.46765093
+   },
+   {
     "id": 249,
     "nome": "Benfica",
     "bairro": "Manguinhos",
     "cidade": "Rio de Janeiro",
     "lat": -22.88012767,
     "lon": -43.23904053
+   },
+   {
+    "id": 691,
+    "nome": "Pilares",
+    "bairro": "Cachambi",
+    "cidade": "Rio de Janeiro",
+    "lat": null,
+    "lon": null
    },
    {
     "id": 210,
@@ -89,14 +105,6 @@
     "lon": -43.36344795
    },
    {
-    "id": 136,
-    "nome": "Santa Cruz",
-    "bairro": "Santa Cruz",
-    "cidade": "Rio de Janeiro",
-    "lat": -22.89213,
-    "lon": -43.67765
-   },
-   {
     "id": 63,
     "nome": "Automóvel Clube",
     "bairro": "Vicente de Carvalho",
@@ -113,6 +121,14 @@
     "lon": -43.37572
    },
    {
+    "id": 136,
+    "nome": "Santa Cruz",
+    "bairro": "Santa Cruz",
+    "cidade": "Rio de Janeiro",
+    "lat": -22.89213,
+    "lon": -43.67765
+   },
+   {
     "id": 275,
     "nome": "Bonsucesso",
     "bairro": "Bonsucesso",
@@ -127,22 +143,6 @@
     "cidade": "Rio de Janeiro",
     "lat": null,
     "lon": null
-   },
-   {
-    "id": 691,
-    "nome": "Pilares",
-    "bairro": "Cachambi",
-    "cidade": "Rio de Janeiro",
-    "lat": null,
-    "lon": null
-   },
-   {
-    "id": 699,
-    "nome": "Bangu",
-    "bairro": "Bangu",
-    "cidade": "Rio de Janeiro",
-    "lat": -22.8765669,
-    "lon": -43.46765093
    },
    {
     "id": 202,
