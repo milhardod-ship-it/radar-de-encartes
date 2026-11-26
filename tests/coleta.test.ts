@@ -113,6 +113,14 @@ describe('unificarProdutos', () => {
     expect(r[0].produto).toBe(r[1].produto);
   });
 
+  it('não junta cortes diferentes (Alcatra × Coração da Alcatra)', () => {
+    const r = unificarProdutos([
+      { ...o('guanabara', 'Alcatra Bovina a Vácuo (Peça)', 'Friboi', 1000), porKg: true },
+      { ...o('dom', 'Coração da Alcatra (Peça)', 'Friboi', 1000), porKg: true },
+    ]);
+    expect(r[0].produto).not.toBe(r[1].produto);
+  });
+
   it('entende plural e sinônimos simples', () => {
     const r = unificarProdutos([
       o('guanabara', 'Bombons Sortidos', 'Garoto', 220),

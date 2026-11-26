@@ -171,6 +171,9 @@ const VARIACOES = new Set([
   'branco', 'preto', 'carioca', 'vermelho', 'extra', 'forte', 'gourmet', 'premium', 'kids', 'infantil', 'baby',
   'masculino', 'feminino', 'noturno', 'concentrado', 'liquido', 'pastoso', 'gel', 'aerossol', 'roll',
   'morango', 'chocolate', 'baunilha', 'limao', 'laranja', 'uva', 'coco', 'sem', 'mini', 'max', 'plus',
+  // Cortes e partes: "Alcatra" × "Coração da Alcatra", "Peito" × "Filé de Peito" são produtos diferentes (dono, 26/11).
+  'coracao', 'miolo', 'ponta', 'file', 'filezinho', 'maminha', 'fraldinha', 'bife', 'isca', 'cubo', 'moida', 'posta',
+  'asa', 'coxinha', 'coxa', 'sobrecoxa', 'peito', 'lombo', 'costela', 'pernil', 'paleta', 'mignon', 'contra-file',
   'defumado', 'defumada', 'waffle', 'pipoquinha', 'lanche', 'levinho', 'ovinho', 'condicionador', 'supreme', 'maltado',
 ]);
 
