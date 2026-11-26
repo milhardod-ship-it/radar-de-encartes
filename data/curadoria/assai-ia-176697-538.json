@@ -57,8 +57,7 @@
    "nome": "Coco Seco",
    "marcas": [],
    "tamanho": "kg",
-   "preco": 5.99,
-   "duvida": "Unidade do preço aparece como quilo, mas o produto costuma ser vendido por unidade; copiado como no encarte."
+   "preco": 5.99
   },
   {
    "pagina": 1,

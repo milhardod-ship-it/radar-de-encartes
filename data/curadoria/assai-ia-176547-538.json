@@ -32,8 +32,7 @@
    "tamanho": "900ml",
    "preco": 7.49,
    "clube": 6.99,
-   "condicao": "Preço clube no app Meu Assaí, válido até 1260un; 6% de desconto",
-   "duvida": "O preço 7,49 aparece com 'De' em formato de etiqueta, mas sem preço riscado claro"
+   "condicao": "Preço clube no app Meu Assaí, válido até 1260un; 6% de desconto"
   },
   {
    "pagina": 1,
@@ -227,15 +226,15 @@
   },
   {
    "pagina": 2,
-   "nome": "Suco Concentrado de Caju ou Jandaia",
+   "nome": "Suco Concentrado de Caju",
    "marcas": [
-    "Dafruta"
+    "Dafruta",
+    "Jandaia"
    ],
    "tamanho": "Garrafa 1L",
    "preco": 4.99,
    "clube": 3.99,
-   "condicao": "No app Meu Assaí, válido para até 24un",
-   "duvida": "Texto indica 'Suco concentrado de caju Dafruta ou Jandaia'; marcas ambíguas"
+   "condicao": "No app Meu Assaí, válido para até 24un"
   },
   {
    "pagina": 2,
@@ -381,11 +380,13 @@
   },
   {
    "pagina": 2,
-   "nome": "Pão de Forma os Primos ou Q Pão",
-   "marcas": [],
+   "nome": "Pão de Forma",
+   "marcas": [
+    "Os Primos",
+    "Q Pão"
+   ],
    "tamanho": "Pacote 375g",
-   "preco": 3.99,
-   "duvida": "Os Primos e Q Pão podem ser as marcas"
+   "preco": 3.99
   },
   {
    "pagina": 2,
@@ -479,25 +480,83 @@
   },
   {
    "pagina": 3,
-   "nome": "Fralda Ultrasec",
+   "nome": "Fralda Ultrasec M",
    "marcas": [
     "Babysec"
    ],
-   "tamanho": "pacote/tamanhos",
+   "tamanho": "pacote com 62 unidades",
    "preco": 42.99,
-   "condicao": "preço cada pacote; tabela de preço por unidade por tamanho (XXG R$0,98, XG R$0,86, G R$0,80, M R$0,69)",
-   "duvida": "Tabela de quantidade por tamanho pequena, valores por unidade parcialmente legíveis"
+   "condicao": "cada fralda sai por R$ 0,69"
   },
   {
    "pagina": 3,
-   "nome": "Fralda Descartável Giga Turma da Mônica",
+   "nome": "Fralda Ultrasec G",
+   "marcas": [
+    "Babysec"
+   ],
+   "tamanho": "pacote com 54 unidades",
+   "preco": 42.99,
+   "condicao": "cada fralda sai por R$ 0,80"
+  },
+  {
+   "pagina": 3,
+   "nome": "Fralda Ultrasec XG",
+   "marcas": [
+    "Babysec"
+   ],
+   "tamanho": "pacote com 50 unidades",
+   "preco": 42.99,
+   "condicao": "cada fralda sai por R$ 0,86"
+  },
+  {
+   "pagina": 3,
+   "nome": "Fralda Ultrasec XXG",
+   "marcas": [
+    "Babysec"
+   ],
+   "tamanho": "pacote com 44 unidades",
+   "preco": 42.99,
+   "condicao": "cada fralda sai por R$ 0,98"
+  },
+  {
+   "pagina": 3,
+   "nome": "Fralda Descartável Giga M",
    "marcas": [
     "Turma da Mônica"
    ],
-   "tamanho": "pacote/tamanhos",
+   "tamanho": "pacote com 80 unidades",
    "preco": 43.99,
-   "condicao": "cada",
-   "duvida": "Marca inferida pela embalagem (Turma da Mônica); tabela por tamanho pequena"
+   "condicao": "cada fralda sai por R$ 0,55"
+  },
+  {
+   "pagina": 3,
+   "nome": "Fralda Descartável Giga G",
+   "marcas": [
+    "Turma da Mônica"
+   ],
+   "tamanho": "pacote com 68 unidades",
+   "preco": 43.99,
+   "condicao": "cada fralda sai por R$ 0,65"
+  },
+  {
+   "pagina": 3,
+   "nome": "Fralda Descartável Giga XG",
+   "marcas": [
+    "Turma da Mônica"
+   ],
+   "tamanho": "pacote com 60 unidades",
+   "preco": 43.99,
+   "condicao": "cada fralda sai por R$ 0,73"
+  },
+  {
+   "pagina": 3,
+   "nome": "Fralda Descartável Giga XXG",
+   "marcas": [
+    "Turma da Mônica"
+   ],
+   "tamanho": "pacote com 50 unidades",
+   "preco": 43.99,
+   "condicao": "cada fralda sai por R$ 0,88"
   },
   {
    "pagina": 3,
@@ -551,12 +610,13 @@
   },
   {
    "pagina": 3,
-   "nome": "Sabonete Cheirinho de Bebê Fragrâncias",
-   "marcas": [],
+   "nome": "Sabonete Líquido Infantil",
+   "marcas": [
+    "Cheirinho de Bebê"
+   ],
    "tamanho": "frasco 500ml",
    "preco": 21.99,
-   "condicao": "cada",
-   "duvida": "Marca não legível"
+   "condicao": "cada"
   },
   {
    "pagina": 3,
@@ -590,14 +650,13 @@
   },
   {
    "pagina": 3,
-   "nome": "Mingau Tradicional Cremogema",
+   "nome": "Mingau Tradicional",
    "marcas": [
-    "Mingau"
+    "Cremogema"
    ],
    "tamanho": "caixeta 380g",
    "preco": 12.9,
-   "condicao": "cada",
-   "duvida": "Marca incerta"
+   "condicao": "cada"
   },
   {
    "pagina": 3,
@@ -605,10 +664,9 @@
    "marcas": [
     "Nestlé"
    ],
-   "tamanho": "lata",
+   "tamanho": "lata 360g",
    "preco": 12.99,
-   "condicao": "cada",
-   "duvida": "Tamanho não legível"
+   "condicao": "cada"
   },
   {
    "pagina": 3,
@@ -939,8 +997,7 @@
    ],
    "tamanho": "caixeta 900g ou 765g",
    "preco": 16.99,
-   "condicao": "leve 9 pague 7; nesta unidade, 85gr saem por R$ 1,89",
-   "duvida": "Etiqueta de 1,89 é referência por unidade, não incluída como preço"
+   "condicao": "leve 9 pague 7; nesta unidade, 85gr saem por R$ 1,89"
   },
   {
    "pagina": 4,
