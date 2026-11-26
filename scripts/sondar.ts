@@ -54,6 +54,8 @@ for (const url of urls) {
   const interessa = links.filter((l) => /encarte|oferta|tabloide|folheto|promo|loja|unidade|\.pdf|issuu|flip|catalog/i.test(l));
   console.log(`links interessantes (${interessa.length}):`);
   for (const l of interessa.slice(0, 60)) console.log(`  ${l}`);
+  const todasImagens = links.filter((l) => /\.(jpe?g|png|webp)(\?|$)/i.test(l));
+  console.log(`imagens na página (${todasImagens.length}): ${todasImagens.slice(0, 40).join(' | ')}`);
   const imagens = links.filter((l) => /\.(jpe?g|png|webp)(\?|$)/i.test(l) && /encarte|oferta|tabloide|folheto|promo/i.test(l));
   if (imagens.length) console.log(`imagens de encarte: ${imagens.slice(0, 15).join(' | ')}`);
   const next = corpo.match(/<script id="__NEXT_DATA__"[^>]*>([\s\S]*?)<\/script>/);
@@ -61,7 +63,8 @@ for (const url of urls) {
     const dados = JSON.parse(next[1]);
     const pp = dados.props?.pageProps ?? {};
     console.log(`__NEXT_DATA__ pageProps: ${Object.keys(pp).join(', ')}`);
-    console.log(`  amostra: ${JSON.stringify(pp).slice(0, 2500)}`);
+    const semIcones = JSON.stringify(pp, (k, v) => (k === 'icon' ? undefined : v));
+    console.log(`  amostra: ${semIcones.slice(0, 6000)}`);
   }
   const textoVisivel = corpo.replace(/<script[\s\S]*?<\/script>|<style[\s\S]*?<\/style>/gi, ' ').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ');
   console.log(`texto (início): ${textoVisivel.slice(0, 600)}`);
