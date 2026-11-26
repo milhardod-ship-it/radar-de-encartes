@@ -35,7 +35,7 @@
    "cidade": "Rio de Janeiro",
    "lat": -22.87257,
    "lon": -43.6063,
-   "precisao": "endereço exato"
+   "precisao": "a conferir (endereço exato caiu longe do esperado)"
   },
   {
    "slug": "bellford-roxo",
@@ -44,7 +44,7 @@
    "cidade": "Belford Roxo",
    "lat": -22.71481,
    "lon": -43.32565,
-   "precisao": "endereço exato"
+   "precisao": "a conferir (endereço exato caiu longe do esperado)"
   },
   {
    "slug": "buzios",
@@ -89,7 +89,7 @@
    "cidade": "Duque de Caxias",
    "lat": -22.63705,
    "lon": -43.28419,
-   "precisao": "endereço exato"
+   "precisao": "a conferir (endereço exato caiu longe do esperado)"
   },
   {
    "slug": "duque-de-caxias-santa-cruz-da-serra",

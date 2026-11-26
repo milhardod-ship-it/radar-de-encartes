@@ -104,6 +104,12 @@ for (const url of urls) {
   const scripts = [...corpo.matchAll(/<script\b([^>]*)>([\s\S]*?)<\/script>/gi)];
   const externos = scripts.map((m) => (m[1].match(/src=["']([^"']+)/) ?? [])[1]).filter(Boolean);
   console.log(`scripts externos (${externos.length}): ${externos.join(' | ')}`);
+  for (const src of externos) {
+    const abs = new URL(src.replace(/&#038;/g, '&'), url).toString();
+    if (new URL(abs).host !== new URL(url).host) continue;
+    const js = baixar(abs).corpo;
+    for (const m of js.matchAll(/ENCARTE_PAGES|encarte/gi)) console.log(`  [${abs.slice(0, 90)}] …${js.slice(Math.max(0, m.index! - 200), m.index! + 600).replace(/\s+/g, ' ')}…`);
+  }
   for (const m of scripts) {
     const js = m[2];
     for (const p of js.matchAll(/fetch\(|\$\.(ajax|get|post)\(|XMLHttpRequest|admin-ajax|wp-json|\.json|encarte/gi)) {

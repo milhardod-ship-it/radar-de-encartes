@@ -1569,7 +1569,8 @@
   "bairro": "Bangu",
   "cidade": "Rio de Janeiro",
   "lat": -22.87257,
-  "lon": -43.6063
+  "lon": -43.6063,
+  "aproximada": true
  },
  {
   "id": "dom-bellford-roxo",
@@ -1579,7 +1580,8 @@
   "bairro": "Belford Roxo",
   "cidade": "Belford Roxo",
   "lat": -22.71481,
-  "lon": -43.32565
+  "lon": -43.32565,
+  "aproximada": true
  },
  {
   "id": "dom-buzios",
@@ -1630,7 +1632,8 @@
   "bairro": "Duque de Caxias",
   "cidade": "Duque de Caxias",
   "lat": -22.63705,
-  "lon": -43.28419
+  "lon": -43.28419,
+  "aproximada": true
  },
  {
   "id": "dom-duque-de-caxias-santa-cruz-da-serra",
