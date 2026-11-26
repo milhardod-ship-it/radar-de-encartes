@@ -140,9 +140,9 @@ try {
 {
   const fonte = JSON.parse(readFileSync(join(RAIZ, 'data/fontes/dom-lojas-rj.json'), 'utf8'));
   for (const l of fonte.lojas) {
-    lojas.push({ id: `dom-${l.slug}`, mercado: 'dom', nome: l.nome, endereco: l.endereco, bairro: l.nome, cidade: l.cidade, lat: l.lat, lon: l.lon, aproximada: true });
+    lojas.push({ id: `dom-${l.slug}`, mercado: 'dom', nome: l.nome, endereco: l.endereco, bairro: l.nome, cidade: l.cidade, lat: l.lat, lon: l.lon, ...(l.precisao === 'endereço exato' ? {} : { aproximada: true }) });
   }
-  console.log(`Dom: ${fonte.lojas.length} lojas (posição aproximada)`);
+  console.log(`Dom: ${fonte.lojas.length} lojas (coordenadas de npm run geocodificar)`);
 }
 
 // ---------------------------------------------------------------- Assaí (lista fixa, sem robô)

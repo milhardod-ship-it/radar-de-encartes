@@ -12,7 +12,8 @@
     "coletar": "tsx scripts/coletar.ts",
     "lojas": "tsx scripts/lojas.ts",
     "ler-encartes": "tsx scripts/lerEncartes.ts",
-    "sondar": "tsx scripts/sondar.ts"
+    "sondar": "tsx scripts/sondar.ts",
+    "geocodificar": "tsx scripts/geocodificar.ts"
   },
   "dependencies": {
     "react": "^19.3.1",

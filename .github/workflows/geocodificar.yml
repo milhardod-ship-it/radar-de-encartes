@@ -1,0 +1,31 @@
+# Coordenadas das lojas pelo endereço (OpenStreetMap/Nominatim). Rodar à mão quando a lista de lojas mudar.
+name: Geocodificar lojas
+on:
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: coleta
+  cancel-in-progress: false
+jobs:
+  geocodificar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run geocodificar
+      - run: npm run build && npm test
+      - name: Salvar
+        run: |
+          git config user.name "radar-robo"
+          git config user.email "radar-robo@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then echo "Sem novidades."; exit 0; fi
+          git commit -m "Robô: coordenadas das lojas do Dom pelo endereço"
+          git pull --rebase origin main
+          git push
