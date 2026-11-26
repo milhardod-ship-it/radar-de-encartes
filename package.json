@@ -11,7 +11,8 @@
     "test": "vitest run",
     "coletar": "tsx scripts/coletar.ts",
     "lojas": "tsx scripts/lojas.ts",
-    "ler-encartes": "tsx scripts/lerEncartes.ts"
+    "ler-encartes": "tsx scripts/lerEncartes.ts",
+    "sondar": "tsx scripts/sondar.ts"
   },
   "dependencies": {
     "react": "^19.3.1",
