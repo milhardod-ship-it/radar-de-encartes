@@ -1568,8 +1568,8 @@
   "endereco": "Av. Brasil, 32238 - Bangu",
   "bairro": "Bangu",
   "cidade": "Rio de Janeiro",
-  "lat": -22.88772,
-  "lon": -43.65558,
+  "lat": -22.86218,
+  "lon": -43.55512,
   "aproximada": true
  },
  {
@@ -1620,8 +1620,8 @@
   "endereco": "Av. Senador José Carlos Pereira Pinto, 532 - Parque Calabouço",
   "bairro": "Campos | Parque Calabouço",
   "cidade": "Campos Dos Goytacazes",
-  "lat": -21.74927,
-  "lon": -41.31093
+  "lat": -21.75009,
+  "lon": -41.31066
  },
  {
   "id": "dom-duque-de-caxias",
@@ -1651,8 +1651,8 @@
   "endereco": "Av. Itaóca, 2.650 - Bonsucesso",
   "bairro": "Inhaúma",
   "cidade": "Rio De Janeiro",
-  "lat": -22.87251,
-  "lon": -43.27728
+  "lat": -22.87317,
+  "lon": -43.278
  },
  {
   "id": "dom-itaperuna",
@@ -1671,8 +1671,8 @@
   "endereco": "Rod. Amaral Peixoto, 2.885 - Macaé",
   "bairro": "Macaé",
   "cidade": "MacaÉ",
-  "lat": -22.40632,
-  "lon": -41.8229
+  "lat": -22.29687,
+  "lon": -41.71754
  },
  {
   "id": "dom-marica",
@@ -1702,8 +1702,8 @@
   "endereco": "Av. Jansen de Melo, 42 - Niterói",
   "bairro": "Niterói",
   "cidade": "NiterÓI",
-  "lat": -22.88535,
-  "lon": -43.11531
+  "lat": -22.8853,
+  "lon": -43.1155
  },
  {
   "id": "dom-nova-iguaçu",
@@ -1712,8 +1712,8 @@
   "endereco": "Rodovia Presidente Dutra, 13.900 - Jardim Tropical (na Cidade da Moda) - Jardim Tropical",
   "bairro": "Nova Iguaçu",
   "cidade": "Nova IguaÇU",
-  "lat": -22.74309,
-  "lon": -43.5155
+  "lat": -22.74024,
+  "lon": -43.45685
  },
  {
   "id": "dom-petropolis",
@@ -1722,8 +1722,8 @@
   "endereco": "Hipershopping | Rua Teresa 1415, Alto da Serra - Alto da Serra",
   "bairro": "Petrópolis",
   "cidade": "PetrÓPolis",
-  "lat": -22.52469,
-  "lon": -43.17139
+  "lat": -22.52623,
+  "lon": -43.17185
  },
  {
   "id": "dom-realengo",
@@ -1752,8 +1752,8 @@
   "endereco": "R. Cap. Juvenal Figueiredo, 570 - Colubandê - Colubandê",
   "bairro": "São Gonçalo",
   "cidade": "SÃO GonÇAlo",
-  "lat": -22.83314,
-  "lon": -43.005
+  "lat": -22.84457,
+  "lon": -43.01795
  },
  {
   "id": "dom-sao-joao-de-meriti",
@@ -1772,8 +1772,8 @@
   "endereco": "Rodovia RJ-140, 5.971 - Flexeira",
   "bairro": "São Pedro da Aldeia",
   "cidade": "SÃO Pedro Da Aldeia",
-  "lat": -22.84178,
-  "lon": -42.06999
+  "lat": -22.83312,
+  "lon": -42.09593
  },
  {
   "id": "dom-taquara",
