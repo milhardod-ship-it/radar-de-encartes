@@ -1,0 +1,179 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-26",
+ "validade": {
+  "inicio": "2026-11-17",
+  "fim": "2026-11-30"
+ },
+ "itens": [
+  {
+   "nome": "Desodorante Aerosol 250ml",
+   "marcas": [
+    "Super"
+   ],
+   "tamanho": "250ml",
+   "preco": 20,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "2 por 20,00; a un. sai a 10,00",
+   "duvida": null
+  },
+  {
+   "nome": "Repelente Gel Inseto 100ml Baby Icaridina",
+   "marcas": [
+    "Xô"
+   ],
+   "tamanho": "100ml",
+   "preco": 20,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "2 por 20,00; a un. sai a 10,00",
+   "duvida": null
+  },
+  {
+   "nome": "Repelente Spray Inseto 200ml 15% Desc. / Repelente Loção Inseto 100ml Kids",
+   "marcas": [
+    "Xô"
+   ],
+   "tamanho": "200ml / 100ml",
+   "preco": 20,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "2 por 20,00; a un. sai a 10,00",
+   "duvida": null
+  },
+  {
+   "nome": "Toalha Umedecida Bebê Limpinho",
+   "marcas": [
+    "Bebê Limpinho"
+   ],
+   "tamanho": "c/140",
+   "preco": 20,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "3 por 20,00; a un. sai a 6,66",
+   "duvida": null
+  },
+  {
+   "nome": "Toalha Umedecida Bebê Limpinho Premium",
+   "marcas": [
+    "Bebê Limpinho"
+   ],
+   "tamanho": "c/140",
+   "preco": 20,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "3 por 20,00; a un. sai a 6,66",
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete Líquido Íntimo 200ml c/2",
+   "marcas": [
+    "Dermafeme"
+   ],
+   "tamanho": "200ml c/2",
+   "preco": 20,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "2 por 20,00; a un. sai a 10,00",
+   "duvida": null
+  },
+  {
+   "nome": "Hidratante Labial 10g",
+   "marcas": [
+    "Carmed"
+   ],
+   "tamanho": "10g",
+   "preco": 20,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "3 por 20,00; a un. sai a 6,66",
+   "duvida": null
+  },
+  {
+   "nome": "Hidratante Labial 10g c/2 Esfoliante/Ultra",
+   "marcas": [
+    "Carmed"
+   ],
+   "tamanho": "10g c/2",
+   "preco": 20,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "2 por 20,00; a un. sai a 10,00",
+   "duvida": null
+  },
+  {
+   "nome": "Hidratante Labial 10g Glitter 3x1",
+   "marcas": [
+    "Carmed"
+   ],
+   "tamanho": "10g",
+   "preco": 20,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "2 por 20,00; a un. sai a 10,00",
+   "duvida": null
+  },
+  {
+   "nome": "Creme Dental Gel (sabores)",
+   "marcas": [
+    "Carmed"
+   ],
+   "tamanho": "70g",
+   "preco": 20,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "3 por 20,00; a un. sai a 6,66",
+   "duvida": null
+  },
+  {
+   "nome": "Creme Dental Melão Menta/Frutas Trop/Frutas Verm",
+   "marcas": [
+    "Super"
+   ],
+   "tamanho": "90g",
+   "preco": 20,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "4 por 20,00; a un. sai a 5,00",
+   "duvida": null
+  },
+  {
+   "nome": "Antisséptico Bucal",
+   "marcas": [
+    "Super"
+   ],
+   "tamanho": "500ml",
+   "preco": 20,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "3 por 20,00; a un. sai a 6,66",
+   "duvida": null
+  },
+  {
+   "nome": "Antisséptico Bucal",
+   "marcas": [
+    "Carmed"
+   ],
+   "tamanho": "250ml",
+   "preco": 20,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "4 por 20,00; a un. sai a 5,00",
+   "duvida": null
+  }
+ ]
+}

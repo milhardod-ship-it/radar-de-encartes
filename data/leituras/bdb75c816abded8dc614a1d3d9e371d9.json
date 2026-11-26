@@ -1,0 +1,76 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-26",
+ "validade": {
+  "inicio": "2026-11-26",
+  "fim": "2026-11-29"
+ },
+ "itens": [
+  {
+   "nome": "Alho à Granel",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 15.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "acima de 10kg, kg sai a 14,90",
+   "duvida": null
+  },
+  {
+   "nome": "Batata Bolinha / Laranja Pera Rio / Abóbora Jacaré",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 1.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Um único preço para três produtos diferentes (batata bolinha, laranja pera rio, abóbora jacaré)."
+  },
+  {
+   "nome": "Batata Doce Roxa / Banana Dagua / Maçã 850g PCT",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 5.99,
+   "de": null,
+   "clube": 4.99,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Um único preço para vários produtos; maçã é pacote de 850g, os demais por kg."
+  },
+  {
+   "nome": "Banana Prata Extra / Uva Tompson sem semente / Uva Crimson sem semente",
+   "marcas": [],
+   "tamanho": "kg / 500g",
+   "preco": 7.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Um único preço para três produtos; banana por kg, uvas 500g."
+  },
+  {
+   "nome": "Abacate / Cenoura",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 4.99,
+   "de": null,
+   "clube": 3.99,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Um único preço para dois produtos."
+  },
+  {
+   "nome": "Ovos Vermelhos",
+   "marcas": [],
+   "tamanho": "c/20",
+   "preco": 14.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  }
+ ]
+}

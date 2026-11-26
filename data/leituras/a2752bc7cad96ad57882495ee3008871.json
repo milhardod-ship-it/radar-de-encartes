@@ -1,0 +1,166 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-26",
+ "validade": {
+  "inicio": "2026-11-26",
+  "fim": "2026-11-30"
+ },
+ "itens": [
+  {
+   "nome": "Pote Nadir 540ml Vert VD",
+   "marcas": [
+    "Nadir"
+   ],
+   "tamanho": "540ml",
+   "preco": 16.99,
+   "de": 17.99,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Pote Nadir 750ml Vert VD",
+   "marcas": [
+    "Nadir"
+   ],
+   "tamanho": "750ml",
+   "preco": 17.99,
+   "de": 19.99,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Preço 'De' parcialmente coberto pelo risco (19,99 ou 18,99)."
+  },
+  {
+   "nome": "Pote Nadir 1,2L Vert VD",
+   "marcas": [
+    "Nadir"
+   ],
+   "tamanho": "1,2L",
+   "preco": 19.99,
+   "de": 22.99,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Preço 'De' parcialmente coberto pelo risco."
+  },
+  {
+   "nome": "Pote Nadir 500ml Buriti c/Tampa PQ",
+   "marcas": [
+    "Nadir"
+   ],
+   "tamanho": "500ml",
+   "preco": 9.99,
+   "de": 10.99,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Preço 'De' parcialmente coberto pelo risco."
+  },
+  {
+   "nome": "Pote Nadir 1L Buriti VD Med",
+   "marcas": [
+    "Nadir"
+   ],
+   "tamanho": "1L",
+   "preco": 10.99,
+   "de": 12.99,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Preço 'De' parcialmente coberto pelo risco."
+  },
+  {
+   "nome": "Pote Nadir 1,5L Buriti VD",
+   "marcas": [
+    "Nadir"
+   ],
+   "tamanho": "1,5L",
+   "preco": 12.99,
+   "de": 16.99,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Preço 'De' parcialmente coberto pelo risco."
+  },
+  {
+   "nome": "Pote NF Vedda Quad 540ml",
+   "marcas": [
+    "Marinex"
+   ],
+   "tamanho": "540ml",
+   "preco": 9.99,
+   "de": 19.99,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Preço 'De' parcialmente coberto pelo risco."
+  },
+  {
+   "nome": "Pote NF Vedda Ret 660ml",
+   "marcas": [
+    "Marinex"
+   ],
+   "tamanho": "660ml",
+   "preco": 9.99,
+   "de": 22.99,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Preço 'De' parcialmente coberto pelo risco."
+  },
+  {
+   "nome": "Pote Nadir 1,045L Vedda Ret",
+   "marcas": [
+    "Marinex"
+   ],
+   "tamanho": "1,045L",
+   "preco": 12.99,
+   "de": 26.99,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Preço 'De' parcialmente coberto pelo risco."
+  },
+  {
+   "nome": "Taça p/ Chopp Nadir 300ml Paulista",
+   "marcas": [
+    "Nadir"
+   ],
+   "tamanho": "300ml",
+   "preco": 5.99,
+   "de": 7.99,
+   "clube": null,
+   "soClube": false,
+   "condicao": "unidade",
+   "duvida": "Preço 'De' parcialmente coberto pelo risco."
+  },
+  {
+   "nome": "Taça Cerv Chop Nadir 300ml Floripa",
+   "marcas": [
+    "Nadir"
+   ],
+   "tamanho": "300ml",
+   "preco": 6.99,
+   "de": 14.99,
+   "clube": null,
+   "soClube": false,
+   "condicao": "unidade",
+   "duvida": "Preço 'De' parcialmente coberto pelo risco."
+  },
+  {
+   "nome": "Caneca Nadir 600ml Taberna",
+   "marcas": [
+    "Nadir"
+   ],
+   "tamanho": "600ml",
+   "preco": 19.99,
+   "de": 23.99,
+   "clube": null,
+   "soClube": false,
+   "condicao": "unidade",
+   "duvida": "Preço 'De' parcialmente coberto pelo risco (pode ser 23,99 ou 28,99)."
+  }
+ ]
+}

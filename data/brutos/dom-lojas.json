@@ -1,0 +1,210 @@
+[
+ {
+  "id": "2",
+  "nome": "Angra | Japuíba",
+  "slug": "angra-japuiba",
+  "endereco": "Rua Francelino Alves De Lima, 63",
+  "bairro": "Japuíba",
+  "cidade": "Angra"
+ },
+ {
+  "id": "3",
+  "nome": "Angra | Praia da Chácara",
+  "slug": "angra-praia-da-chacara",
+  "endereco": "Av. Almirante Jair Carneiro Toscano de Brito, 531",
+  "bairro": "Praia da Chácara",
+  "cidade": "Angra"
+ },
+ {
+  "id": "4",
+  "nome": "Araruama",
+  "slug": "araruama",
+  "endereco": "Estrada Rio Bonito, 120",
+  "bairro": "Parque Hotel",
+  "cidade": "Araruama"
+ },
+ {
+  "id": "5",
+  "nome": "Bangu",
+  "slug": "bangu",
+  "endereco": "Av. Brasil, 32238",
+  "bairro": "Bangu",
+  "cidade": "Bangu"
+ },
+ {
+  "id": "6",
+  "nome": "Belford Roxo",
+  "slug": "bellford-roxo",
+  "endereco": "Av. Joaquim da Costa Lima, 2009 - Piam",
+  "bairro": "Piam",
+  "cidade": "Belford Roxo"
+ },
+ {
+  "id": "7",
+  "nome": "Búzios",
+  "slug": "buzios",
+  "endereco": "Av. Doze de Novembro, SN - Caravelas",
+  "bairro": "Armação dos búzios",
+  "cidade": "Búzios"
+ },
+ {
+  "id": "8",
+  "nome": "Campo Grande",
+  "slug": "campo-grande",
+  "endereco": "Av. de Santa Cruz, 12.516",
+  "bairro": "Campo Grande",
+  "cidade": "Campo Grande"
+ },
+ {
+  "id": "9",
+  "nome": "Campos dos Goytacazes | Parque Pecuária",
+  "slug": "campos-dos-goytacazes-parque-pecuária",
+  "endereco": "Av. Presidente Vargas, 263",
+  "bairro": "Parque Pecuária",
+  "cidade": "Campos dos Goytacazes"
+ },
+ {
+  "id": "10",
+  "nome": "Campos dos Goytacazes | Parque Calabouço",
+  "slug": "campos-dos-goytacazes-parque-calabouço",
+  "endereco": "Av. Senador José Carlos Pereira Pinto, 532",
+  "bairro": "Parque Calabouço",
+  "cidade": "Campos dos Goytacazes"
+ },
+ {
+  "id": "11",
+  "nome": "Duque de Caxias",
+  "slug": "duque-de-caxias",
+  "endereco": "Rodovia Washington Luíz, 3853",
+  "bairro": "Duque de Caxias",
+  "cidade": "Duque de caxias"
+ },
+ {
+  "id": "12",
+  "nome": "Duque de Caxias | Santa Cruz da Serra",
+  "slug": "duque-de-caxias-santa-cruz-da-serra",
+  "endereco": "Av. Automóvel Club S/N - Quadra 37 Lote 489",
+  "bairro": "Santa Cruz da Serra",
+  "cidade": "Duque de caxias"
+ },
+ {
+  "id": "13",
+  "nome": "Inhaúma",
+  "slug": "inhauma",
+  "endereco": "Av. Itaóca, 2.650",
+  "bairro": "Bonsucesso",
+  "cidade": "Rio de janeiro"
+ },
+ {
+  "id": "14",
+  "nome": "Itaperuna",
+  "slug": "itaperuna",
+  "endereco": "Av. Presidente Dutra, 1.125 - Cidade Nova",
+  "bairro": "Cidade Nova",
+  "cidade": "Itaperuna"
+ },
+ {
+  "id": "15",
+  "nome": "Macaé",
+  "slug": "macae",
+  "endereco": "Rod. Amaral Peixoto, 2.885",
+  "bairro": "Macaé",
+  "cidade": "Macaé"
+ },
+ {
+  "id": "16",
+  "nome": "Maricá",
+  "slug": "marica",
+  "endereco": "Rodovia Ernani do Amaral Peixoto, S/N - São José do Imbassai",
+  "bairro": "São José do Imbassai",
+  "cidade": "Maricá"
+ },
+ {
+  "id": "17",
+  "nome": "Mesquita",
+  "slug": "mesquita",
+  "endereco": "Rodovia Presidente Dutra, 10201 B, Industrial",
+  "bairro": "Mesquita",
+  "cidade": "Mesquita"
+ },
+ {
+  "id": "18",
+  "nome": "Niterói",
+  "slug": "niteroi",
+  "endereco": "Av. Jansen de Melo, 42",
+  "bairro": "Niterói",
+  "cidade": "Niterói"
+ },
+ {
+  "id": "19",
+  "nome": "Nova Iguaçu",
+  "slug": "nova-iguaçu",
+  "endereco": "Rodovia Presidente Dutra, 13.900 - Jardim Tropical (na Cidade da Moda)",
+  "bairro": "Jardim Tropical",
+  "cidade": "Nova Iguaçu"
+ },
+ {
+  "id": "20",
+  "nome": "Petrópolis",
+  "slug": "petropolis",
+  "endereco": "Hipershopping | Rua Teresa 1415, Alto da Serra",
+  "bairro": "Alto da Serra",
+  "cidade": "Petrópolis"
+ },
+ {
+  "id": "21",
+  "nome": "Realengo",
+  "slug": "realengo",
+  "endereco": "Estr. Gen. Canrobert Pereira da Costa, 203",
+  "bairro": "Realengo",
+  "cidade": "Rio de Janeiro"
+ },
+ {
+  "id": "22",
+  "nome": "Resende",
+  "slug": "resende",
+  "endereco": "Av. Francisco Fortes Filho, 200 - Jardim Aliança",
+  "bairro": "Jardim Aliança",
+  "cidade": "Resende"
+ },
+ {
+  "id": "23",
+  "nome": "São Gonçalo",
+  "slug": "sao-gonçalo",
+  "endereco": "R. Cap. Juvenal Figueiredo, 570 - Colubandê",
+  "bairro": "Colubandê",
+  "cidade": "São Gonçalo"
+ },
+ {
+  "id": "24",
+  "nome": "São João de Meriti",
+  "slug": "sao-joao-de-meriti",
+  "endereco": "Rua Maria Soares Sendas, 4.200",
+  "bairro": "Parque Barreto",
+  "cidade": "São joão de Meriti"
+ },
+ {
+  "id": "25",
+  "nome": "São Pedro da Aldeia",
+  "slug": "sao-pedro-da-aldeia",
+  "endereco": "Rodovia RJ-140, 5.971",
+  "bairro": "Flexeira",
+  "cidade": "São Pedro da Aldeia"
+ },
+ {
+  "id": "26",
+  "nome": "Taquara",
+  "slug": "taquara",
+  "endereco": "Estrada dos Bandeirantes, 175",
+  "bairro": "Taquara",
+  "cidade": "Rio de Janeiro"
+ },
+ {
+  "id": "27",
+  "nome": "Teresópolis",
+  "slug": "teresopolis",
+  "endereco": "Av. Almirante Lúcio Meira, 1095",
+  "bairro": "Teresópolis",
+  "cidade": "Teresópolis"
+ }
+]

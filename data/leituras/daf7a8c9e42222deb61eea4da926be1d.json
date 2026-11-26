@@ -1,0 +1,671 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-26",
+ "validade": null,
+ "itens": [
+  {
+   "nome": "Queijo Mussarela Gran Filata (peça)",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 32.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Arroz Tipo 1 2 Palmares/Blue Patna",
+   "marcas": [
+    "Palmares",
+    "Blue Patna"
+   ],
+   "tamanho": "5kg",
+   "preco": 19.79,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Arroz Rizzito LF",
+   "marcas": [
+    "Rizzito"
+   ],
+   "tamanho": "5kg",
+   "preco": 18.49,
+   "de": null,
+   "clube": 17.98,
+   "soClube": false,
+   "condicao": "Limite de 120 un. por CPF; preço clube Meu Dom",
+   "duvida": null
+  },
+  {
+   "nome": "Farinha de Trigo Farina",
+   "marcas": [
+    "Farina"
+   ],
+   "tamanho": "1kg",
+   "preco": 2.89,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Azeite Extra Virgem Cocinero",
+   "marcas": [
+    "Cocinero"
+   ],
+   "tamanho": "500ml",
+   "preco": 22.99,
+   "de": null,
+   "clube": 19.99,
+   "soClube": false,
+   "condicao": "Limite de 12 un. por CPF; preço clube Meu Dom",
+   "duvida": null
+  },
+  {
+   "nome": "Mac Inst Nissin Lamen (sabores)",
+   "marcas": [
+    "Nissin"
+   ],
+   "tamanho": "85g",
+   "preco": 2.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "Leve 6 pague 5, nesta promo a un. sai a 2,49",
+   "duvida": null
+  },
+  {
+   "nome": "Massas Sacciali Ovos Tagliatelle/Talharim e Pappardelle",
+   "marcas": [
+    "Sacciali"
+   ],
+   "tamanho": "500g e 400g",
+   "preco": 7.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Molho de Tomate Trad.",
+   "marcas": [
+    "Fugini"
+   ],
+   "tamanho": "300g",
+   "preco": 1.59,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Ketchup Predilecta Trad./Picante",
+   "marcas": [
+    "Predilecta"
+   ],
+   "tamanho": "400g",
+   "preco": 4.49,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Maionese",
+   "marcas": [
+    "Hellmann's"
+   ],
+   "tamanho": "1kg",
+   "preco": 17.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "Nesta emb. 500g sai a 8,99",
+   "duvida": null
+  },
+  {
+   "nome": "Tempero (sabores) Meu Segredo",
+   "marcas": [
+    "Maggi"
+   ],
+   "tamanho": "49g",
+   "preco": 2.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "unidade",
+   "duvida": null
+  },
+  {
+   "nome": "Caldo Carne/Galinha",
+   "marcas": [
+    "Maggi"
+   ],
+   "tamanho": "152g",
+   "preco": 3.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "unidade",
+   "duvida": null
+  },
+  {
+   "nome": "Leite Coco",
+   "marcas": [
+    "Jandaia"
+   ],
+   "tamanho": "500ml",
+   "preco": 4.49,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Leite Coco",
+   "marcas": [
+    "Jandaia"
+   ],
+   "tamanho": "200ml",
+   "preco": 2.29,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Leite em Pó Camponesa ou Petit Formaggio",
+   "marcas": [
+    "Camponesa",
+    "Petit Formaggio"
+   ],
+   "tamanho": "360g",
+   "preco": 10.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Café em Pó Almof Trad/Ext Forte",
+   "marcas": [
+    "Rancheiro"
+   ],
+   "tamanho": "500g",
+   "preco": 16.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Café",
+   "marcas": [
+    "União"
+   ],
+   "tamanho": "500g",
+   "preco": 18.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Cápsula Café União (tipos)",
+   "marcas": [
+    "União"
+   ],
+   "tamanho": "52g c/10",
+   "preco": 9.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Achocolatado em Pó",
+   "marcas": [
+    "Nescau"
+   ],
+   "tamanho": "730g",
+   "preco": 17.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "Nesta emb. 350g sai a 8,63",
+   "duvida": null
+  },
+  {
+   "nome": "Cereal em Pó Mucilon Multicereais",
+   "marcas": [
+    "Mucilon"
+   ],
+   "tamanho": "600g",
+   "preco": 14.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "Leve 600g pague 500g; nesta emb. 180g sai a 4,50",
+   "duvida": null
+  },
+  {
+   "nome": "Cereal Snow Flakes",
+   "marcas": [
+    "Nestlé"
+   ],
+   "tamanho": "700g",
+   "preco": 17.49,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "Leve 600g, grátis 100g",
+   "duvida": "Tamanho no encarte: L800P700G"
+  },
+  {
+   "nome": "Pêssego",
+   "marcas": [
+    "Schramm"
+   ],
+   "tamanho": "450g",
+   "preco": 10.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Bisc Rosq (sabores)",
+   "marcas": [
+    "Mabel"
+   ],
+   "tamanho": "300g",
+   "preco": 3.49,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Bisc Cr Cracker",
+   "marcas": [
+    "Mabel"
+   ],
+   "tamanho": "300g",
+   "preco": 5.49,
+   "de": null,
+   "clube": 3.39,
+   "soClube": false,
+   "condicao": "preço clube Meu Dom",
+   "duvida": null
+  },
+  {
+   "nome": "Bisc Maizena",
+   "marcas": [
+    "Rancheiro"
+   ],
+   "tamanho": "150g",
+   "preco": 1.59,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Bisc Wafer (sabores)",
+   "marcas": [
+    "Mabel"
+   ],
+   "tamanho": "79g",
+   "preco": 1.59,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Biscoito Recheado (sabores)",
+   "marcas": [
+    "Panco"
+   ],
+   "tamanho": "140g",
+   "preco": 1.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Bisc Cob (sabores) Chocobiscuit",
+   "marcas": [
+    "Garoto"
+   ],
+   "tamanho": "78g",
+   "preco": 4.69,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Chocolate (sabores)",
+   "marcas": [
+    "Kit Kat"
+   ],
+   "tamanho": "41,5g",
+   "preco": 2.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "unidade",
+   "duvida": null
+  },
+  {
+   "nome": "Batata Pringles sabores",
+   "marcas": [
+    "Pringles"
+   ],
+   "tamanho": "109g e 104g",
+   "preco": 8.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Salg Batata Orig",
+   "marcas": [
+    "Bella Chips"
+   ],
+   "tamanho": "90g",
+   "preco": 6.49,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Suco Conc Caju PET",
+   "marcas": [
+    "Jandaia"
+   ],
+   "tamanho": "1L",
+   "preco": 3.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "Nesta emb. 500ml sai a 1,99",
+   "duvida": null
+  },
+  {
+   "nome": "Chá Ice Tea",
+   "marcas": [
+    "Lipton"
+   ],
+   "tamanho": "1,5L",
+   "preco": 4.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Refrigerante (sabores)",
+   "marcas": [
+    "Guaraplus"
+   ],
+   "tamanho": "2L",
+   "preco": 2.79,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Refrigerante Guaraná",
+   "marcas": [
+    "Antarctica"
+   ],
+   "tamanho": "1,5L",
+   "preco": 4.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Cerveja Lata",
+   "marcas": [
+    "Stella Artois"
+   ],
+   "tamanho": "473ml",
+   "preco": 5.49,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "unidade",
+   "duvida": null
+  },
+  {
+   "nome": "Energ LT (sabores)",
+   "marcas": [
+    "Red Bull"
+   ],
+   "tamanho": "250ml",
+   "preco": 7.79,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Energético",
+   "marcas": [
+    "Energyplus",
+    "Black Belt"
+   ],
+   "tamanho": "2L",
+   "preco": 3.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Ice",
+   "marcas": [
+    "Kovak"
+   ],
+   "tamanho": "275ml",
+   "preco": 3.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "VH Nac Tto SV / Rose SV",
+   "marcas": [
+    "Pergola"
+   ],
+   "tamanho": "1L",
+   "preco": 23.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Vinho Nacional Tinto Suave/Rosé",
+   "marcas": [
+    "Dom Bosco"
+   ],
+   "tamanho": "750ml",
+   "preco": 16.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "unidade",
+   "duvida": null
+  },
+  {
+   "nome": "Vinho Chileno",
+   "marcas": [
+    "AS3"
+   ],
+   "tamanho": "750ml",
+   "preco": 19.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "VH Chi Reservado",
+   "marcas": [
+    "Concha y Toro"
+   ],
+   "tamanho": "750ml",
+   "preco": 21.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Espum",
+   "marcas": [
+    "Casa Perini"
+   ],
+   "tamanho": "750ml",
+   "preco": 47.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Aperitivo",
+   "marcas": [
+    "Aperol"
+   ],
+   "tamanho": "750ml",
+   "preco": 49.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Coq Alc Dulce de Leche",
+   "marcas": [
+    "Don Cream"
+   ],
+   "tamanho": "750ml",
+   "preco": 59.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Gin Dry",
+   "marcas": [
+    "Oky"
+   ],
+   "tamanho": "900ml",
+   "preco": 22.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Vodka",
+   "marcas": [
+    "Absolut"
+   ],
+   "tamanho": "750ml",
+   "preco": 62.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Whisky (sabores)",
+   "marcas": [
+    "Jim Beam"
+   ],
+   "tamanho": "1L",
+   "preco": 79.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Whisky Black",
+   "marcas": [
+    "Johnnie Walker"
+   ],
+   "tamanho": "1L",
+   "preco": 139.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Whisky Gold Label",
+   "marcas": [
+    "Johnnie Walker"
+   ],
+   "tamanho": "750ml",
+   "preco": 199.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  }
+ ]
+}

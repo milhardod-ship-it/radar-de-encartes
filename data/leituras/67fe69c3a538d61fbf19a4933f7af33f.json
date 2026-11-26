@@ -1,0 +1,649 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-26",
+ "validade": null,
+ "itens": [
+  {
+   "nome": "Banana Prata KG Extra / Uva Tompson S/Sem 500g / Uva Crinson S/Sem 500g",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 7.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Preço único para vários produtos; tamanho varia"
+  },
+  {
+   "nome": "Manga Palmer / Manga Tommy / Melão Amarelo",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 4.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Abacate / Cenoura",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 4.99,
+   "de": null,
+   "clube": 3.99,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Ovos Brancos",
+   "marcas": [],
+   "tamanho": "c/20",
+   "preco": 9.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Ovos Brancos",
+   "marcas": [],
+   "tamanho": "c/30",
+   "preco": 14.97,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Ovos Vermelhos",
+   "marcas": [],
+   "tamanho": "c/20",
+   "preco": 14.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Batata Doce Roxa / Banana Dagua / Maçã 850g",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 5.99,
+   "de": null,
+   "clube": 4.99,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Abacaxi Un / Maçã Gala",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 9.99,
+   "de": null,
+   "clube": 8.99,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Coração da Alcatra (Peça)",
+   "marcas": [
+    "Friboi"
+   ],
+   "tamanho": "kg",
+   "preco": 48.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Bife Ancho Bovino (Peça)",
+   "marcas": [
+    "Maturatta"
+   ],
+   "tamanho": "kg",
+   "preco": 54.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Fígado Bovino Peça",
+   "marcas": [
+    "Friboi"
+   ],
+   "tamanho": "kg",
+   "preco": 14.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Coxinha da Asa de Frango PCT",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 11.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Peito de Frango C/Osso",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 11.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Asa de Frango Congelada",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 13.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Filé de Peito de Frango BDJ",
+   "marcas": [
+    "Seara"
+   ],
+   "tamanho": "1kg",
+   "preco": 16.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "File Coxa Sobrecoxa Frango BDJ Congelado",
+   "marcas": [
+    "Seara"
+   ],
+   "tamanho": "1kg",
+   "preco": 17.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Coxinha Asa Frango IQF Congelada",
+   "marcas": [
+    "Seara"
+   ],
+   "tamanho": "1kg",
+   "preco": 12.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Frango Pass Pioneiro IQF",
+   "marcas": [
+    "Pioneiro"
+   ],
+   "tamanho": "2kg",
+   "preco": 23.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "nesta embalagem 1kg sai a 11,99",
+   "duvida": null
+  },
+  {
+   "nome": "Coração de Frango BDJ",
+   "marcas": [
+    "Copacol"
+   ],
+   "tamanho": "1kg",
+   "preco": 38.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Preço parece alto para 1kg de coração de frango, mas é o que está impresso"
+  },
+  {
+   "nome": "Bisteca Suína IQF",
+   "marcas": [
+    "Sadia"
+   ],
+   "tamanho": "800g",
+   "preco": 12.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Charque Jerked Beef Suíno",
+   "marcas": [
+    "Seara"
+   ],
+   "tamanho": "400g",
+   "preco": 13.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Filé Mignon Suíno Temperado Congelado",
+   "marcas": [
+    "Sulita"
+   ],
+   "tamanho": "kg",
+   "preco": 29.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Peixe Posta Tilápia Congelada",
+   "marcas": [
+    "Seara"
+   ],
+   "tamanho": "500g",
+   "preco": 15.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Peixe File Polaca 500g Congelado / Peixe File Polaca IQF Congelado",
+   "marcas": [
+    "Seara",
+    "Do Chef"
+   ],
+   "tamanho": "500g",
+   "preco": 16.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Peixe Filé Panga",
+   "marcas": [
+    "Buona Pesca"
+   ],
+   "tamanho": "800g",
+   "preco": 21.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Peixe Salgado Saithe",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 84.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Linguiça Congelada Suína ou Frango",
+   "marcas": [
+    "Aurora"
+   ],
+   "tamanho": "2,5kg",
+   "preco": 37.48,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "nesta embalagem 1kg sai a 14,99",
+   "duvida": null
+  },
+  {
+   "nome": "Linguiça (Toscana / Pernil)",
+   "marcas": [
+    "Seara"
+   ],
+   "tamanho": "600g",
+   "preco": 15.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "Ganhe 50% na 2ª un.; nesta promo, a 2ª un. sai a 7,99",
+   "duvida": null
+  },
+  {
+   "nome": "Lasanha (Sabores)",
+   "marcas": [
+    "Seara"
+   ],
+   "tamanho": "600g",
+   "preco": 16.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "Ganhe 50% na 2ª un.; nesta promo, a 2ª un. sai a 8,49",
+   "duvida": null
+  },
+  {
+   "nome": "Pizza (Sabores)",
+   "marcas": [
+    "Seara"
+   ],
+   "tamanho": "440g/460g",
+   "preco": 18.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "Ganhe 50% na 2ª un.; nesta promo, a 2ª un. sai a 9,49",
+   "duvida": null
+  },
+  {
+   "nome": "Almôndega Bovina",
+   "marcas": [
+    "Friboi"
+   ],
+   "tamanho": "500g",
+   "preco": 16.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Empanado de Frango em Tirinhas",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "1kg",
+   "preco": 15.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Morango Congelado",
+   "marcas": [
+    "Captain Foods"
+   ],
+   "tamanho": "1,02kg",
+   "preco": 14.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Batata Congelada",
+   "marcas": [
+    "Império",
+    "Uai"
+   ],
+   "tamanho": "2kg",
+   "preco": 18.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Tamanho 9mm - 2kg"
+  },
+  {
+   "nome": "Bolinho de Bacalhau",
+   "marcas": [
+    "Saboreah!"
+   ],
+   "tamanho": "600g",
+   "preco": 23.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Sorvete Cremosissimo (Sabores)",
+   "marcas": [
+    "Kibon"
+   ],
+   "tamanho": "1,5L",
+   "preco": 18.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Pão de Alho Trad.",
+   "marcas": [
+    "Maturatta"
+   ],
+   "tamanho": "300g",
+   "preco": 12.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Massa Pastel Massa Leve",
+   "marcas": [
+    "Ingrid"
+   ],
+   "tamanho": "400g",
+   "preco": 5.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Marca pode ser Massa Leve/Ingrid"
+  },
+  {
+   "nome": "Leite LV UHT Desn / Semi Desn",
+   "marcas": [
+    "Italac",
+    "Tirol"
+   ],
+   "tamanho": "1L",
+   "preco": 4.29,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Requeijão Cremoso Trad./Light",
+   "marcas": [
+    "Elegê"
+   ],
+   "tamanho": "200g",
+   "preco": 7.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Margarina 500g 50% Lip C/Sal / Sab Manteiga",
+   "marcas": [
+    "Claybom"
+   ],
+   "tamanho": "500g",
+   "preco": 3.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Manteiga Tab C/Sal / PT C/Sal / PT S/Sal",
+   "marcas": [
+    "President"
+   ],
+   "tamanho": "200g",
+   "preco": 12.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Manteiga C/Sal",
+   "marcas": [
+    "Italac"
+   ],
+   "tamanho": "500g",
+   "preco": 19.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Queijo Muss Fat Trad",
+   "marcas": [
+    "Italac"
+   ],
+   "tamanho": "150g",
+   "preco": 8.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Queijo Muss Fat",
+   "marcas": [
+    "Italac"
+   ],
+   "tamanho": "300g",
+   "preco": 15.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Queijo Muss Fat Trad",
+   "marcas": [
+    "Italac"
+   ],
+   "tamanho": "500g",
+   "preco": 24.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Bolo Ana Maria (Sabores)",
+   "marcas": [
+    "Ana Maria"
+   ],
+   "tamanho": "70g",
+   "preco": 2.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Leite Fermentado (Sabores)",
+   "marcas": [
+    "Chamyto"
+   ],
+   "tamanho": "480g",
+   "preco": 4.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Petit Suisse",
+   "marcas": [
+    "Danoninho"
+   ],
+   "tamanho": "480g",
+   "preco": 11.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "nesta embalagem 320g sai a 7,99",
+   "duvida": "Tamanho do preço principal aparenta ser 480g"
+  },
+  {
+   "nome": "Iogurte Líquido (Sabores) GF",
+   "marcas": [
+    "Itambé"
+   ],
+   "tamanho": "1150g",
+   "preco": 10.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Iogurte Líquido Pense Zero",
+   "marcas": [
+    "Batavo"
+   ],
+   "tamanho": "1150g",
+   "preco": 15.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  }
+ ]
+}

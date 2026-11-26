@@ -1,0 +1,98 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-26",
+ "validade": {
+  "inicio": "2026-11-26",
+  "fim": "2026-11-29"
+ },
+ "itens": [
+  {
+   "nome": "Abacaxi",
+   "marcas": [],
+   "tamanho": "un",
+   "preco": 9.99,
+   "de": null,
+   "clube": 8.99,
+   "soClube": false,
+   "condicao": "preço do clube Meu Dom",
+   "duvida": "Abacaxi (un) e Maçã Gala (kg) dividem o mesmo preço na imagem; o encarte não separa."
+  },
+  {
+   "nome": "Maçã Gala",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 9.99,
+   "de": null,
+   "clube": 8.99,
+   "soClube": false,
+   "condicao": "preço do clube Meu Dom",
+   "duvida": "Abacaxi (un) e Maçã Gala (kg) dividem o mesmo preço na imagem; o encarte não separa."
+  },
+  {
+   "nome": "Manga Palmer, Manga Tommy ou Melão Amarelo",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 4.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Uva Vitória",
+   "marcas": [],
+   "tamanho": "500g",
+   "preco": 7.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Mamão Formosa",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 11.99,
+   "de": null,
+   "clube": 10.98,
+   "soClube": false,
+   "condicao": "preço do clube Meu Dom",
+   "duvida": null
+  },
+  {
+   "nome": "Pêssego Importado",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 10.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Ovos Brancos",
+   "marcas": [],
+   "tamanho": "c/20",
+   "preco": 9.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Ovos Brancos",
+   "marcas": [],
+   "tamanho": "c/30",
+   "preco": 14.97,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  }
+ ]
+}

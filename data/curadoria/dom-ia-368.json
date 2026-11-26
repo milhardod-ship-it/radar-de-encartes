@@ -1,0 +1,131 @@
+{
+ "encarte": "dom-ia-368",
+ "mercado": "dom",
+ "programaClube": "meu-dom",
+ "nomeClube": "app Meu Dom",
+ "encarteInfo": {
+  "id": "dom-ia-368",
+  "mercado": "dom",
+  "titulo": "Feirinha",
+  "inicio": "2026-11-26",
+  "fim": "2026-11-29",
+  "lojas": [],
+  "fonte": "site do Dom Atacadista (imagens do encarte), lido por IA (claude-sonnet-5-5) em 2026-11-26"
+ },
+ "observacao": "Lido por IA (claude-sonnet-5-5); custo aproximado US$ 0.03. Não revisado.",
+ "itens": [
+  {
+   "pagina": 1,
+   "nome": "Alho à Granel",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 15.9,
+   "condicao": "acima de 10kg, kg sai a 14,90"
+  },
+  {
+   "pagina": 1,
+   "nome": "Batata Bolinha / Laranja Pera Rio / Abóbora Jacaré",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 1.99,
+   "duvida": "Um único preço para três produtos diferentes (batata bolinha, laranja pera rio, abóbora jacaré)."
+  },
+  {
+   "pagina": 1,
+   "nome": "Batata Doce Roxa / Banana Dagua / Maçã 850g PCT",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 5.99,
+   "clube": 4.99,
+   "duvida": "Um único preço para vários produtos; maçã é pacote de 850g, os demais por kg."
+  },
+  {
+   "pagina": 1,
+   "nome": "Banana Prata Extra / Uva Tompson sem semente / Uva Crimson sem semente",
+   "marcas": [],
+   "tamanho": "kg / 500g",
+   "preco": 7.99,
+   "duvida": "Um único preço para três produtos; banana por kg, uvas 500g."
+  },
+  {
+   "pagina": 1,
+   "nome": "Abacate / Cenoura",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 4.99,
+   "clube": 3.99,
+   "duvida": "Um único preço para dois produtos."
+  },
+  {
+   "pagina": 1,
+   "nome": "Ovos Vermelhos",
+   "marcas": [],
+   "tamanho": "c/20",
+   "preco": 14.98
+  },
+  {
+   "pagina": 2,
+   "nome": "Abacaxi",
+   "marcas": [],
+   "tamanho": "un",
+   "preco": 9.99,
+   "clube": 8.99,
+   "condicao": "preço do clube Meu Dom",
+   "duvida": "Abacaxi (un) e Maçã Gala (kg) dividem o mesmo preço na imagem; o encarte não separa."
+  },
+  {
+   "pagina": 2,
+   "nome": "Maçã Gala",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 9.99,
+   "clube": 8.99,
+   "condicao": "preço do clube Meu Dom",
+   "duvida": "Abacaxi (un) e Maçã Gala (kg) dividem o mesmo preço na imagem; o encarte não separa."
+  },
+  {
+   "pagina": 2,
+   "nome": "Manga Palmer, Manga Tommy ou Melão Amarelo",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 4.99
+  },
+  {
+   "pagina": 2,
+   "nome": "Uva Vitória",
+   "marcas": [],
+   "tamanho": "500g",
+   "preco": 7.99
+  },
+  {
+   "pagina": 2,
+   "nome": "Mamão Formosa",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 11.99,
+   "clube": 10.98,
+   "condicao": "preço do clube Meu Dom"
+  },
+  {
+   "pagina": 2,
+   "nome": "Pêssego Importado",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 10.98
+  },
+  {
+   "pagina": 2,
+   "nome": "Ovos Brancos",
+   "marcas": [],
+   "tamanho": "c/20",
+   "preco": 9.98
+  },
+  {
+   "pagina": 2,
+   "nome": "Ovos Brancos",
+   "marcas": [],
+   "tamanho": "c/30",
+   "preco": 14.97
+  }
+ ]
+}

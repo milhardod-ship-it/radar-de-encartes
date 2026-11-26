@@ -1,0 +1,499 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-26",
+ "validade": {
+  "inicio": "2026-11-26",
+  "fim": "2026-11-29"
+ },
+ "itens": [
+  {
+   "nome": "Batata Bolinha / Laranja Pera Rio / Abobora Jacare",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 1.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Alho à Granel",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 15.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "acima de 10kg, kg sai a 14,90",
+   "duvida": null
+  },
+  {
+   "nome": "Filé de Peito de Frango",
+   "marcas": [
+    "Jaguá"
+   ],
+   "tamanho": "2kg",
+   "preco": 31.96,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "nesta embalagem 1kg sai a 15,98",
+   "duvida": null
+  },
+  {
+   "nome": "Empanado de Frango Trad. Mini Chicken",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "1kg",
+   "preco": 14.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Hambúrguer Misto",
+   "marcas": [
+    "Friboi"
+   ],
+   "tamanho": "36x56g",
+   "preco": 28.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "nesta embalagem a un. sai a 0,80",
+   "duvida": null
+  },
+  {
+   "nome": "Ling Suína",
+   "marcas": [
+    "Seara"
+   ],
+   "tamanho": "600g",
+   "preco": 14.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "ganhe 50% na 2ª un.; nesta promo, a un. sai a 6,75",
+   "duvida": null
+  },
+  {
+   "nome": "Manteiga",
+   "marcas": [
+    "Aurora"
+   ],
+   "tamanho": "200g",
+   "preco": 7.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Nome cortado no encarte (pote c/sal)"
+  },
+  {
+   "nome": "Pão de Forma",
+   "marcas": [
+    "Panco"
+   ],
+   "tamanho": "500g",
+   "preco": 7.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Bolinho Rancheiro",
+   "marcas": [
+    "Rancheiro"
+   ],
+   "tamanho": "35g",
+   "preco": 1.49,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "levando a caixa, a un. sai a 0,99",
+   "duvida": "Sabores"
+  },
+  {
+   "nome": "Sorvete Nestlé Trad. (sabores)",
+   "marcas": [
+    "Nestlé"
+   ],
+   "tamanho": "1,5L",
+   "preco": 17.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Leite LV UHT Integral",
+   "marcas": [
+    "Tirol"
+   ],
+   "tamanho": "1L",
+   "preco": 4.49,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Leite em Pó Lata",
+   "marcas": [
+    "Ninho"
+   ],
+   "tamanho": "380g",
+   "preco": 14.79,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "grátis 10%",
+   "duvida": null
+  },
+  {
+   "nome": "Leite Condensado Semidesnatado",
+   "marcas": [
+    "Italac"
+   ],
+   "tamanho": "395g",
+   "preco": 4.77,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Arroz",
+   "marcas": [
+    "Tchê"
+   ],
+   "tamanho": "5kg",
+   "preco": 15.49,
+   "de": null,
+   "clube": 13.99,
+   "soClube": false,
+   "condicao": "limite de 120 un. por CPF",
+   "duvida": "Preço Meu Dom 13,99"
+  },
+  {
+   "nome": "Ervilha Sache",
+   "marcas": [
+    "Quero"
+   ],
+   "tamanho": "170g",
+   "preco": 1.69,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Café Tradicional / Extra Forte",
+   "marcas": [
+    "Bom Dia"
+   ],
+   "tamanho": "500g",
+   "preco": 14.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Cápsula Café Dolce Gusto (sabores)",
+   "marcas": [
+    "Nescafé"
+   ],
+   "tamanho": "",
+   "preco": 16.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Gramaturas variadas"
+  },
+  {
+   "nome": "Bisc Rech Oreo (sabores)",
+   "marcas": [
+    "Oreo"
+   ],
+   "tamanho": "90g",
+   "preco": 3.69,
+   "de": null,
+   "clube": 2.99,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Preço Meu Dom 2,99"
+  },
+  {
+   "nome": "Bombom Sort",
+   "marcas": [
+    "Garoto"
+   ],
+   "tamanho": "220g",
+   "preco": 9.79,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Doce de Leite",
+   "marcas": [
+    "Italac"
+   ],
+   "tamanho": "350g",
+   "preco": 7.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Néctar (sabores)",
+   "marcas": [
+    "Dafruta"
+   ],
+   "tamanho": "1L",
+   "preco": 2.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Suco Integral Uva ou Pera/Manga",
+   "marcas": [
+    "Santa Fé"
+   ],
+   "tamanho": "1,35L",
+   "preco": 13.99,
+   "de": null,
+   "clube": 11.99,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Preço Meu Dom 11,99"
+  },
+  {
+   "nome": "Refrig Coca Cola Trad/Zero",
+   "marcas": [
+    "Coca-Cola"
+   ],
+   "tamanho": "350ml c/12",
+   "preco": 39.48,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "nesta embalagem a un. sai a 3,29",
+   "duvida": null
+  },
+  {
+   "nome": "Cerveja Lata",
+   "marcas": [
+    "Brahma"
+   ],
+   "tamanho": "550ml",
+   "preco": 4.69,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Vinho Port Anta da Serra / Port Vinha D'Ossa / Port Castelo Juromenha",
+   "marcas": [],
+   "tamanho": "750ml",
+   "preco": 18.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Espumante Chandon Branco Brut",
+   "marcas": [
+    "Chandon"
+   ],
+   "tamanho": "750ml",
+   "preco": 89.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Vh Frisante Pink Moon",
+   "marcas": [
+    "Pink Moon"
+   ],
+   "tamanho": "275ml",
+   "preco": 3.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Gin (sabores)",
+   "marcas": [
+    "Tanqueray"
+   ],
+   "tamanho": "750ml",
+   "preco": 89.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Whisky Red Label",
+   "marcas": [
+    "Johnnie Walker"
+   ],
+   "tamanho": "1L",
+   "preco": 79.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Marca inferida pelo rótulo"
+  },
+  {
+   "nome": "Desod Aer",
+   "marcas": [
+    "Dove"
+   ],
+   "tamanho": "200ml",
+   "preco": 15.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "nesta embalagem 150ml sai a 11,93",
+   "duvida": "Preços do encarte estão deslocados entre produtos"
+  },
+  {
+   "nome": "Desod Aer",
+   "marcas": [
+    "Rexona"
+   ],
+   "tamanho": "200ml",
+   "preco": 12.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "nesta embalagem 150ml sai a 9,68",
+   "duvida": "Associação de preço ambígua"
+  },
+  {
+   "nome": "Sabonete Tab",
+   "marcas": [
+    "Dove"
+   ],
+   "tamanho": "90g c/8",
+   "preco": 27.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "pack; nesta embalagem a un. sai a 3,49",
+   "duvida": null
+  },
+  {
+   "nome": "Papel Higiênico Carinho Premium",
+   "marcas": [
+    "Carinho"
+   ],
+   "tamanho": "20m L12P11",
+   "preco": 9.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Fralda",
+   "marcas": [
+    "Cremer",
+    "Turma da Mônica"
+   ],
+   "tamanho": "",
+   "preco": 39.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Preço por tamanho variável"
+  },
+  {
+   "nome": "Vassoura Girassol Brilhex c/ Cabo",
+   "marcas": [
+    "Brilhex"
+   ],
+   "tamanho": "",
+   "preco": 4.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Lava Roupa em Pó Sachê",
+   "marcas": [
+    "Tixan Ypê"
+   ],
+   "tamanho": "4kg",
+   "preco": 29.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "nesta embalagem 1,6kg sai a 11,99",
+   "duvida": null
+  },
+  {
+   "nome": "Ração p/ Cão Adulto Carne",
+   "marcas": [
+    "Champ"
+   ],
+   "tamanho": "18kg",
+   "preco": 89.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Fralda",
+   "marcas": [
+    "Cremer"
+   ],
+   "tamanho": "G 60",
+   "preco": 39.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Possível duplicação com o item de fralda acima"
+  }
+ ]
+}

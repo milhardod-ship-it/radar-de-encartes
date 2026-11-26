@@ -1,0 +1,64 @@
+{
+ "encarte": "dom-ia-370",
+ "mercado": "dom",
+ "programaClube": "meu-dom",
+ "nomeClube": "app Meu Dom",
+ "encarteInfo": {
+  "id": "dom-ia-370",
+  "mercado": "dom",
+  "titulo": "Diageo Friday",
+  "inicio": "2026-11-26",
+  "fim": "2026-11-29",
+  "lojas": [],
+  "fonte": "site do Dom Atacadista (imagens do encarte), lido por IA (claude-sonnet-5-5) em 2026-11-26"
+ },
+ "observacao": "Lido por IA (claude-sonnet-5-5); custo aproximado US$ 0.02. Não revisado.",
+ "itens": [
+  {
+   "pagina": 1,
+   "nome": "Gin",
+   "marcas": [
+    "Tanqueray"
+   ],
+   "tamanho": "750ml",
+   "preco": 89.9,
+   "de": 109.99,
+   "condicao": "sabores",
+   "duvida": "Preço \"De\" riscado parcialmente coberto, lido como 109,99."
+  },
+  {
+   "pagina": 1,
+   "nome": "Whisky Red Label",
+   "marcas": [
+    "Johnnie Walker"
+   ],
+   "tamanho": "1L",
+   "preco": 79.9,
+   "de": 109.99,
+   "condicao": "unidade",
+   "duvida": "Preço \"De\" riscado, lido como 109,99."
+  },
+  {
+   "pagina": 1,
+   "nome": "Whisky Black",
+   "marcas": [
+    "Johnnie Walker"
+   ],
+   "tamanho": "1L",
+   "preco": 139.9,
+   "de": 189.99,
+   "duvida": "Preço \"De\" riscado, lido como 189,99."
+  },
+  {
+   "pagina": 1,
+   "nome": "Whisky Gold Label",
+   "marcas": [
+    "Johnnie Walker"
+   ],
+   "tamanho": "750ml",
+   "preco": 199.9,
+   "de": 319.9,
+   "duvida": "Preço \"De\" riscado, lido como 319,90."
+  }
+ ]
+}

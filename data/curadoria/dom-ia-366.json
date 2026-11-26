@@ -1,0 +1,295 @@
+{
+ "encarte": "dom-ia-366",
+ "mercado": "dom",
+ "programaClube": "meu-dom",
+ "nomeClube": "app Meu Dom",
+ "encarteInfo": {
+  "id": "dom-ia-366",
+  "mercado": "dom",
+  "titulo": "Casa & Utilidades do Lar na Black",
+  "inicio": "2026-11-26",
+  "fim": "2026-11-30",
+  "lojas": [],
+  "fonte": "site do Dom Atacadista (imagens do encarte), lido por IA (claude-sonnet-5-5) em 2026-11-26"
+ },
+ "observacao": "Lido por IA (claude-sonnet-5-5); custo aproximado US$ 0.04. Não revisado.",
+ "itens": [
+  {
+   "pagina": 1,
+   "nome": "Pote Nadir 540ml Vert VD",
+   "marcas": [
+    "Nadir"
+   ],
+   "tamanho": "540ml",
+   "preco": 16.99,
+   "de": 17.99
+  },
+  {
+   "pagina": 1,
+   "nome": "Pote Nadir 750ml Vert VD",
+   "marcas": [
+    "Nadir"
+   ],
+   "tamanho": "750ml",
+   "preco": 17.99,
+   "de": 19.99,
+   "duvida": "Preço 'De' parcialmente coberto pelo risco (19,99 ou 18,99)."
+  },
+  {
+   "pagina": 1,
+   "nome": "Pote Nadir 1,2L Vert VD",
+   "marcas": [
+    "Nadir"
+   ],
+   "tamanho": "1,2L",
+   "preco": 19.99,
+   "de": 22.99,
+   "duvida": "Preço 'De' parcialmente coberto pelo risco."
+  },
+  {
+   "pagina": 1,
+   "nome": "Pote Nadir 500ml Buriti c/Tampa PQ",
+   "marcas": [
+    "Nadir"
+   ],
+   "tamanho": "500ml",
+   "preco": 9.99,
+   "de": 10.99,
+   "duvida": "Preço 'De' parcialmente coberto pelo risco."
+  },
+  {
+   "pagina": 1,
+   "nome": "Pote Nadir 1L Buriti VD Med",
+   "marcas": [
+    "Nadir"
+   ],
+   "tamanho": "1L",
+   "preco": 10.99,
+   "de": 12.99,
+   "duvida": "Preço 'De' parcialmente coberto pelo risco."
+  },
+  {
+   "pagina": 1,
+   "nome": "Pote Nadir 1,5L Buriti VD",
+   "marcas": [
+    "Nadir"
+   ],
+   "tamanho": "1,5L",
+   "preco": 12.99,
+   "de": 16.99,
+   "duvida": "Preço 'De' parcialmente coberto pelo risco."
+  },
+  {
+   "pagina": 1,
+   "nome": "Pote NF Vedda Quad 540ml",
+   "marcas": [
+    "Marinex"
+   ],
+   "tamanho": "540ml",
+   "preco": 9.99,
+   "de": 19.99,
+   "duvida": "Preço 'De' parcialmente coberto pelo risco."
+  },
+  {
+   "pagina": 1,
+   "nome": "Pote NF Vedda Ret 660ml",
+   "marcas": [
+    "Marinex"
+   ],
+   "tamanho": "660ml",
+   "preco": 9.99,
+   "de": 22.99,
+   "duvida": "Preço 'De' parcialmente coberto pelo risco."
+  },
+  {
+   "pagina": 1,
+   "nome": "Pote Nadir 1,045L Vedda Ret",
+   "marcas": [
+    "Marinex"
+   ],
+   "tamanho": "1,045L",
+   "preco": 12.99,
+   "de": 26.99,
+   "duvida": "Preço 'De' parcialmente coberto pelo risco."
+  },
+  {
+   "pagina": 1,
+   "nome": "Taça p/ Chopp Nadir 300ml Paulista",
+   "marcas": [
+    "Nadir"
+   ],
+   "tamanho": "300ml",
+   "preco": 5.99,
+   "de": 7.99,
+   "condicao": "unidade",
+   "duvida": "Preço 'De' parcialmente coberto pelo risco."
+  },
+  {
+   "pagina": 1,
+   "nome": "Taça Cerv Chop Nadir 300ml Floripa",
+   "marcas": [
+    "Nadir"
+   ],
+   "tamanho": "300ml",
+   "preco": 6.99,
+   "de": 14.99,
+   "condicao": "unidade",
+   "duvida": "Preço 'De' parcialmente coberto pelo risco."
+  },
+  {
+   "pagina": 1,
+   "nome": "Caneca Nadir 600ml Taberna",
+   "marcas": [
+    "Nadir"
+   ],
+   "tamanho": "600ml",
+   "preco": 19.99,
+   "de": 23.99,
+   "condicao": "unidade",
+   "duvida": "Preço 'De' parcialmente coberto pelo risco (pode ser 23,99 ou 28,99)."
+  },
+  {
+   "pagina": 2,
+   "nome": "Toalha Banhão",
+   "marcas": [
+    "Groh Brisa"
+   ],
+   "tamanho": "",
+   "preco": 32.99
+  },
+  {
+   "pagina": 2,
+   "nome": "Toalha Rosto",
+   "marcas": [
+    "Groh Brisa"
+   ],
+   "tamanho": "",
+   "preco": 12.99
+  },
+  {
+   "pagina": 2,
+   "nome": "Toalha Banho",
+   "marcas": [
+    "Groh Self"
+   ],
+   "tamanho": "",
+   "preco": 26.99
+  },
+  {
+   "pagina": 2,
+   "nome": "Toalha Rosto",
+   "marcas": [
+    "Groh Self"
+   ],
+   "tamanho": "",
+   "preco": 11.99
+  },
+  {
+   "pagina": 2,
+   "nome": "Toalha Banho",
+   "marcas": [
+    "Groh New Adri"
+   ],
+   "tamanho": "",
+   "preco": 14.99
+  },
+  {
+   "pagina": 2,
+   "nome": "Toalha Rosto",
+   "marcas": [
+    "Groh New Adri"
+   ],
+   "tamanho": "",
+   "preco": 7.99
+  },
+  {
+   "pagina": 2,
+   "nome": "Toalha Piso",
+   "marcas": [
+    "Groh Rever"
+   ],
+   "tamanho": "",
+   "preco": 11.99
+  },
+  {
+   "pagina": 2,
+   "nome": "Travesseiro 50x70cm Carioquinha",
+   "marcas": [
+    "Salehtex"
+   ],
+   "tamanho": "50x70cm",
+   "preco": 26.99,
+   "de": 29.99
+  },
+  {
+   "pagina": 2,
+   "nome": "Escorredor Supreme Desm Pto",
+   "marcas": [
+    "Arthi"
+   ],
+   "tamanho": "",
+   "preco": 34.99,
+   "de": 39.99
+  },
+  {
+   "pagina": 2,
+   "nome": "Faqueiro Riviera c/24",
+   "marcas": [
+    "Brinox"
+   ],
+   "tamanho": "c/24 unidades",
+   "preco": 39.99,
+   "de": 49.99
+  },
+  {
+   "pagina": 2,
+   "nome": "Garrafa Térmica 1L Use",
+   "marcas": [
+    "Mor"
+   ],
+   "tamanho": "1L",
+   "preco": 26.99,
+   "de": 39.99
+  },
+  {
+   "pagina": 2,
+   "nome": "Panela Pressão 4,5 Fechamento Externo Qualite Grafite",
+   "marcas": [
+    "Marcolar"
+   ],
+   "tamanho": "4,5",
+   "preco": 119.9,
+   "de": 179.9
+  },
+  {
+   "pagina": 2,
+   "nome": "Air Fryer 2,8L 110V",
+   "marcas": [
+    "Seu Lar"
+   ],
+   "tamanho": "2,8L",
+   "preco": 129.9,
+   "de": 179.9
+  },
+  {
+   "pagina": 2,
+   "nome": "Ventilador de Mesa 40cm c/6 Pás 127V",
+   "marcas": [
+    "Mondial"
+   ],
+   "tamanho": "40cm",
+   "preco": 179.9,
+   "de": 219.9
+  },
+  {
+   "pagina": 2,
+   "nome": "Caixa Térmica 34L",
+   "marcas": [
+    "Botafogo"
+   ],
+   "tamanho": "34L",
+   "preco": 74.99,
+   "de": 89.99
+  }
+ ]
+}

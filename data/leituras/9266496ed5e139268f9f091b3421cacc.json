@@ -1,0 +1,205 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-26",
+ "validade": {
+  "inicio": "2026-11-17",
+  "fim": "2026-11-30"
+ },
+ "itens": [
+  {
+   "nome": "Carb Gel 40g Sache (sabores)",
+   "marcas": [
+    "Lavitan"
+   ],
+   "tamanho": "40g",
+   "preco": 20,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "3 por 20,00; a un. sai a 6,66",
+   "duvida": null
+  },
+  {
+   "nome": "Melatonina 150 comp (sabores)",
+   "marcas": [
+    "Lavitan"
+   ],
+   "tamanho": "150 comp",
+   "preco": 20,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "2 por 20,00; a un. sai a 10,00",
+   "duvida": null
+  },
+  {
+   "nome": "Melatonina 30ml (sabores)",
+   "marcas": [
+    "Lavitan"
+   ],
+   "tamanho": "30ml",
+   "preco": 20,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "2 por 20,00; a un. sai a 10,00",
+   "duvida": null
+  },
+  {
+   "nome": "Vit Cab/Unhas 4BL 60 caps",
+   "marcas": [
+    "Lavitan"
+   ],
+   "tamanho": "60 caps",
+   "preco": 20,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "2 por 20,00; a un. sai a 10,00",
+   "duvida": null
+  },
+  {
+   "nome": "Multivita Az Mulher ou Orig",
+   "marcas": [
+    "Lavitan"
+   ],
+   "tamanho": "c/60 comp",
+   "preco": 20,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "2 por 20,00; a un. sai a 10,00",
+   "duvida": null
+  },
+  {
+   "nome": "Multivita Inf Mast",
+   "marcas": [
+    "Lavitan"
+   ],
+   "tamanho": "c/60 comp",
+   "preco": 20,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "2 por 20,00; a un. sai a 10,00",
+   "duvida": null
+  },
+  {
+   "nome": "Suplem Alimen Noite Maracuja",
+   "marcas": [
+    "Lavitan"
+   ],
+   "tamanho": "300g",
+   "preco": 20,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "1 por 20,00",
+   "duvida": null
+  },
+  {
+   "nome": "Suplem Mais Cafe Choc",
+   "marcas": [
+    "Lavitan"
+   ],
+   "tamanho": "220g",
+   "preco": 20,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "1 por 20,00",
+   "duvida": null
+  },
+  {
+   "nome": "Multivita Mulher 50+",
+   "marcas": [
+    "Lavitan"
+   ],
+   "tamanho": "c/60 comp",
+   "preco": 20,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "1 por 20,00",
+   "duvida": null
+  },
+  {
+   "nome": "Vit ZMA Perform 2BL 30 caps",
+   "marcas": [
+    "Lavitan"
+   ],
+   "tamanho": "30 caps",
+   "preco": 20,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "1 por 20,00",
+   "duvida": null
+  },
+  {
+   "nome": "Cafeina 200mg 100 caps",
+   "marcas": [
+    "Lavitan"
+   ],
+   "tamanho": "100 caps",
+   "preco": 20,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "1 por 20,00",
+   "duvida": null
+  },
+  {
+   "nome": "Creatina Po PT",
+   "marcas": [
+    "Lavitan"
+   ],
+   "tamanho": "300g",
+   "preco": 20,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "1 por 20,00",
+   "duvida": null
+  },
+  {
+   "nome": "Creatina",
+   "marcas": [
+    "Lavitan"
+   ],
+   "tamanho": "c/100 caps",
+   "preco": 20,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "1 por 20,00",
+   "duvida": null
+  },
+  {
+   "nome": "Colageno Tipo 2 30 caps",
+   "marcas": [
+    "Lavitan"
+   ],
+   "tamanho": "30 caps",
+   "preco": 20,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "1 por 20,00",
+   "duvida": null
+  },
+  {
+   "nome": "Cab/Unhas Carmed 60 comp",
+   "marcas": [
+    "Lavitan"
+   ],
+   "tamanho": "60 comp",
+   "preco": 20,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "1 por 20,00",
+   "duvida": null
+  }
+ ]
+}

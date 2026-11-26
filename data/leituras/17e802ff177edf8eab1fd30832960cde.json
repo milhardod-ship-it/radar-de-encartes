@@ -1,0 +1,62 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-26",
+ "validade": {
+  "inicio": "2026-11-26",
+  "fim": "2026-11-29"
+ },
+ "itens": [
+  {
+   "nome": "Gin",
+   "marcas": [
+    "Tanqueray"
+   ],
+   "tamanho": "750ml",
+   "preco": 89.9,
+   "de": 109.99,
+   "clube": null,
+   "soClube": false,
+   "condicao": "sabores",
+   "duvida": "Preço \"De\" riscado parcialmente coberto, lido como 109,99."
+  },
+  {
+   "nome": "Whisky Red Label",
+   "marcas": [
+    "Johnnie Walker"
+   ],
+   "tamanho": "1L",
+   "preco": 79.9,
+   "de": 109.99,
+   "clube": null,
+   "soClube": false,
+   "condicao": "unidade",
+   "duvida": "Preço \"De\" riscado, lido como 109,99."
+  },
+  {
+   "nome": "Whisky Black",
+   "marcas": [
+    "Johnnie Walker"
+   ],
+   "tamanho": "1L",
+   "preco": 139.9,
+   "de": 189.99,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Preço \"De\" riscado, lido como 189,99."
+  },
+  {
+   "nome": "Whisky Gold Label",
+   "marcas": [
+    "Johnnie Walker"
+   ],
+   "tamanho": "750ml",
+   "preco": 199.9,
+   "de": 319.9,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Preço \"De\" riscado, lido como 319,90."
+  }
+ ]
+}

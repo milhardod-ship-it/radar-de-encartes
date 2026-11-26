@@ -1,0 +1,534 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-26",
+ "validade": {
+  "inicio": "2026-11-26",
+  "fim": "2026-11-29"
+ },
+ "itens": [
+  {
+   "nome": "Lava Roupa Minuano",
+   "marcas": [
+    "Minuano"
+   ],
+   "tamanho": "1,6kg cartucho",
+   "preco": 12.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Lava Roupa Líquido",
+   "marcas": [
+    "Odd"
+   ],
+   "tamanho": "3L",
+   "preco": 17.89,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Amaciante Concentrado Sachê",
+   "marcas": [
+    "Downy"
+   ],
+   "tamanho": "750ml",
+   "preco": 14.97,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "nesta embalagem 500ml sai a 9,98",
+   "duvida": "Preço 9,98 é referência de embalagem de 500ml"
+  },
+  {
+   "nome": "Amaciante Roupa Diluído 2L - Leve 2L pague 1,8L",
+   "marcas": [
+    "Urca"
+   ],
+   "tamanho": "2L",
+   "preco": 5.69,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "leve 2L, pague 1,8L; nesta embalagem 500ml sai a 1,42",
+   "duvida": null
+  },
+  {
+   "nome": "Água Sanitária",
+   "marcas": [
+    "Limpadua"
+   ],
+   "tamanho": "5L",
+   "preco": 8.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "nesta embalagem 2L sai a 3,59",
+   "duvida": null
+  },
+  {
+   "nome": "Limpador Perfumado 20% desconto",
+   "marcas": [
+    "UAU"
+   ],
+   "tamanho": "1,8L",
+   "preco": 9.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "nesta embalagem 500ml sai a 2,77",
+   "duvida": null
+  },
+  {
+   "nome": "Limpador Multiuso 10% desconto Lavanda",
+   "marcas": [
+    "UAU"
+   ],
+   "tamanho": "500ml",
+   "preco": 2.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Kit Limpador Pesado c/2 CL AT GTS 1 Multiuso",
+   "marcas": [
+    "UAU"
+   ],
+   "tamanho": "500ml",
+   "preco": 9.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Lava Louça Líquido",
+   "marcas": [
+    "Odd"
+   ],
+   "tamanho": "500ml",
+   "preco": 2.19,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Sabão Pasta Ultra Limp",
+   "marcas": [
+    "Ultra Limp"
+   ],
+   "tamanho": "500g",
+   "preco": 5.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Esponja Multiuso L4P3",
+   "marcas": [
+    "Brilhex"
+   ],
+   "tamanho": "",
+   "preco": 1.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "leve 4 pague 3",
+   "duvida": null
+  },
+  {
+   "nome": "Purificador de Ar Aero (fragrâncias)",
+   "marcas": [
+    "Puro Ar"
+   ],
+   "tamanho": "500ml",
+   "preco": 9.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Inseticida Aero Multi",
+   "marcas": [
+    "Pro Inset"
+   ],
+   "tamanho": "630ml",
+   "preco": 12.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Tintura Cabelo Deluxe - cores",
+   "marcas": [
+    "Koleston"
+   ],
+   "tamanho": "",
+   "preco": 28.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete Líquido Óleo de Banho",
+   "marcas": [
+    "Dove"
+   ],
+   "tamanho": "240ml",
+   "preco": 29.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Shampoo/Condicionador",
+   "marcas": [
+    "Seda"
+   ],
+   "tamanho": "560ml",
+   "preco": 13.89,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "nesta embalagem 325ml sai a 8,06",
+   "duvida": null
+  },
+  {
+   "nome": "Kit Shampoo 375ml + Condicionador 170ml (fragrâncias)",
+   "marcas": [
+    "OX"
+   ],
+   "tamanho": "",
+   "preco": 26.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Kit Shampoo 400ml + Condicionador 175ml ou Kit Shampoo 375ml + Condicionador 170ml",
+   "marcas": [
+    "Pantene",
+    "Elseve"
+   ],
+   "tamanho": "",
+   "preco": 28.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Shampoo Anticaspa",
+   "marcas": [
+    "Above"
+   ],
+   "tamanho": "500ml",
+   "preco": 19.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Nome legível como 'SH Above L600P500ML'; tamanho 600ml no selo"
+  },
+  {
+   "nome": "Shampoo/Condicionador UV Repair/Glow",
+   "marcas": [
+    "Dove"
+   ],
+   "tamanho": "600ml",
+   "preco": 29.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "nesta embalagem 350ml sai a 17,44",
+   "duvida": null
+  },
+  {
+   "nome": "Desodorante Aerosol",
+   "marcas": [
+    "Bozzano",
+    "Monange"
+   ],
+   "tamanho": "150ml",
+   "preco": 7.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Desodorante Aerosol Ext Black/Cream",
+   "marcas": [
+    "Above"
+   ],
+   "tamanho": "250ml",
+   "preco": 7.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "nesta embalagem 150ml sai a 4,79",
+   "duvida": null
+  },
+  {
+   "nome": "Desodorante",
+   "marcas": [
+    "Dryon"
+   ],
+   "tamanho": "250ml",
+   "preco": 13.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "nesta embalagem 150ml sai a 8,39",
+   "duvida": null
+  },
+  {
+   "nome": "Desodorante Aerosol",
+   "marcas": [
+    "Rexona"
+   ],
+   "tamanho": "150ml",
+   "preco": 16.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Hidratante Labial",
+   "marcas": [
+    "Carmed"
+   ],
+   "tamanho": "10g",
+   "preco": 20,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "3 por 20,00; a un. sai a 6,66",
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete Tablete",
+   "marcas": [
+    "Albany"
+   ],
+   "tamanho": "85g",
+   "preco": 1.49,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete (fragrâncias)",
+   "marcas": [
+    "Francis"
+   ],
+   "tamanho": "90g",
+   "preco": 3.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "leve 5 pague 4",
+   "duvida": "Preço 3,99 parece ser por unidade na promoção; valor 'a un. sai a'"
+  },
+  {
+   "nome": "Sabonete Pack Leve 6 Pague 4",
+   "marcas": [
+    "Above"
+   ],
+   "tamanho": "75g",
+   "preco": 10.62,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "leve 6 pague 4; nesta promo a un. sai a 1,77",
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete",
+   "marcas": [
+    "Lux"
+   ],
+   "tamanho": "85g",
+   "preco": 13.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "pack; nesta emb. a un. sai a 2,33",
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete Tablete c/8",
+   "marcas": [
+    "Protex"
+   ],
+   "tamanho": "85g",
+   "preco": 21.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "nesta emb. a un. sai a 2,75",
+   "duvida": null
+  },
+  {
+   "nome": "Enxaguante Bucal",
+   "marcas": [
+    "Above"
+   ],
+   "tamanho": "1L",
+   "preco": 16.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "nesta embalagem 500ml sai a 8,49",
+   "duvida": null
+  },
+  {
+   "nome": "Creme Dental Tripla Ação",
+   "marcas": [
+    "Colgate"
+   ],
+   "tamanho": "120g",
+   "preco": 6.75,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Creme Dental",
+   "marcas": [
+    "Sensodyne"
+   ],
+   "tamanho": "90g",
+   "preco": 9.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Toalha Umedecida Hidrate",
+   "marcas": [
+    "Piquitucho"
+   ],
+   "tamanho": "c/140",
+   "preco": 7.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Fralda Roupinha Supreme",
+   "marcas": [
+    "Huggies"
+   ],
+   "tamanho": "",
+   "preco": 45.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "M 36 un. 1,28; G 30 un. 1,53; XG 24 un. 1,92; XXG 24 un. 1,92 (cada un.)",
+   "duvida": "Preço único para todos os tamanhos; valores por unidade lidos da tabela"
+  },
+  {
+   "nome": "Papel Higiênico Max Pure 30m C/40 / Papel Higiênico Cotton 30m FD C/40",
+   "marcas": [
+    "Max Pure",
+    "Cotton"
+   ],
+   "tamanho": "c/40",
+   "preco": 46.6,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "nesta embalagem 12 un. sai a 13,98",
+   "duvida": null
+  },
+  {
+   "nome": "Papel Toalha Perfumado c/2 50 folhas",
+   "marcas": [
+    "Bom Pety"
+   ],
+   "tamanho": "c/2",
+   "preco": 2.79,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Carga Regular Mach 3 c/2un.",
+   "marcas": [
+    "Gillette"
+   ],
+   "tamanho": "c/2",
+   "preco": 23.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "nesta embalagem a un. sai a 11,99",
+   "duvida": null
+  },
+  {
+   "nome": "Ração para Cães Original ou Strong Dog",
+   "marcas": [
+    "Folks",
+    "Strong Dog"
+   ],
+   "tamanho": "15kg",
+   "preco": 69.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Copo Americano 190ml",
+   "marcas": [
+    "Nadir"
+   ],
+   "tamanho": "un.",
+   "preco": 1.19,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "caixa c/24 unidades 23,76; nesta promo a un. sai a 0,99",
+   "duvida": null
+  }
+ ]
+}

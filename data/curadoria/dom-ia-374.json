@@ -1,0 +1,131 @@
+{
+ "encarte": "dom-ia-374",
+ "mercado": "dom",
+ "programaClube": "meu-dom",
+ "nomeClube": "app Meu Dom",
+ "encarteInfo": {
+  "id": "dom-ia-374",
+  "mercado": "dom",
+  "titulo": "Bomboniere",
+  "inicio": "2026-11-26",
+  "fim": "2026-11-30",
+  "lojas": [],
+  "fonte": "site do Dom Atacadista (imagens do encarte), lido por IA (claude-sonnet-5-5) em 2026-11-26"
+ },
+ "observacao": "Lido por IA (claude-sonnet-5-5); custo aproximado US$ 0.02. Não revisado.",
+ "itens": [
+  {
+   "pagina": 1,
+   "nome": "Drop Mentos (Sabores) Display com 16 unidades",
+   "marcas": [
+    "Mentos"
+   ],
+   "tamanho": "37,5g",
+   "preco": 37.99,
+   "condicao": "Preço unitário 2,49; nesta promo a un. sai a 2,37"
+  },
+  {
+   "pagina": 1,
+   "nome": "Doce de Goiabada",
+   "marcas": [
+    "Predilecta"
+   ],
+   "tamanho": "1,01kg",
+   "preco": 10.99
+  },
+  {
+   "pagina": 1,
+   "nome": "Cobertura de Chocolate Confeiteiro Blend",
+   "marcas": [
+    "Harald"
+   ],
+   "tamanho": "1,01kg",
+   "preco": 23.9
+  },
+  {
+   "pagina": 1,
+   "nome": "Recheio Forneável Confeipop Ao Leite",
+   "marcas": [
+    "Confeipop"
+   ],
+   "tamanho": "1,01kg",
+   "preco": 24.9
+  },
+  {
+   "pagina": 1,
+   "nome": "Cobertura de Chocolate Confeiteiro Meio Amargo Fracionada",
+   "marcas": [
+    "Harald"
+   ],
+   "tamanho": "1,01kg",
+   "preco": 25.9
+  },
+  {
+   "pagina": 1,
+   "nome": "Chocolate Chunks (Sabores)",
+   "marcas": [
+    "Rancheiro"
+   ],
+   "tamanho": "1,05kg",
+   "preco": 24.99
+  },
+  {
+   "pagina": 1,
+   "nome": "Cobertura de Chocolate Top Blend",
+   "marcas": [
+    "Harald"
+   ],
+   "tamanho": "1,01kg",
+   "preco": 28.99
+  },
+  {
+   "pagina": 1,
+   "nome": "Cobertura de Chocolate Top Leite",
+   "marcas": [
+    "Harald"
+   ],
+   "tamanho": "1,01kg",
+   "preco": 32.9
+  },
+  {
+   "pagina": 1,
+   "nome": "Creme de Avelã",
+   "marcas": [
+    "Viena"
+   ],
+   "tamanho": "1,01kg",
+   "preco": 39.99,
+   "condicao": "unidade"
+  },
+  {
+   "pagina": 1,
+   "nome": "Doce de Leite Tradicional",
+   "marcas": [
+    "Souvenir"
+   ],
+   "tamanho": "4,8kg",
+   "preco": 78.96,
+   "condicao": "Nesta embalagem de 400g sai a 6,58"
+  },
+  {
+   "pagina": 1,
+   "nome": "Cobertura de Chocolate Blend, Meio Amargo ou Branco",
+   "marcas": [
+    "Nestlé"
+   ],
+   "tamanho": "1kg",
+   "preco": 89.99,
+   "duvida": "Preço único para três variedades; texto do nome do produto indica 1kg."
+  },
+  {
+   "pagina": 1,
+   "nome": "Amendoim Japonês",
+   "marcas": [
+    "Mendorato"
+   ],
+   "tamanho": "24g",
+   "preco": 42,
+   "condicao": "Fardo com 60 unidades; preço unitário 0,79; nesta promo a un. sai a 0,70"
+  }
+ ]
+}

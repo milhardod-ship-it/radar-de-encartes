@@ -1,0 +1,166 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-26",
+ "validade": {
+  "inicio": "2026-11-26",
+  "fim": "2026-11-30"
+ },
+ "itens": [
+  {
+   "nome": "Drop Mentos (Sabores) Display com 16 unidades",
+   "marcas": [
+    "Mentos"
+   ],
+   "tamanho": "37,5g",
+   "preco": 37.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "Preço unitário 2,49; nesta promo a un. sai a 2,37",
+   "duvida": null
+  },
+  {
+   "nome": "Doce de Goiabada",
+   "marcas": [
+    "Predilecta"
+   ],
+   "tamanho": "1,01kg",
+   "preco": 10.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Cobertura de Chocolate Confeiteiro Blend",
+   "marcas": [
+    "Harald"
+   ],
+   "tamanho": "1,01kg",
+   "preco": 23.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Recheio Forneável Confeipop Ao Leite",
+   "marcas": [
+    "Confeipop"
+   ],
+   "tamanho": "1,01kg",
+   "preco": 24.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Cobertura de Chocolate Confeiteiro Meio Amargo Fracionada",
+   "marcas": [
+    "Harald"
+   ],
+   "tamanho": "1,01kg",
+   "preco": 25.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Chocolate Chunks (Sabores)",
+   "marcas": [
+    "Rancheiro"
+   ],
+   "tamanho": "1,05kg",
+   "preco": 24.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Cobertura de Chocolate Top Blend",
+   "marcas": [
+    "Harald"
+   ],
+   "tamanho": "1,01kg",
+   "preco": 28.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Cobertura de Chocolate Top Leite",
+   "marcas": [
+    "Harald"
+   ],
+   "tamanho": "1,01kg",
+   "preco": 32.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Creme de Avelã",
+   "marcas": [
+    "Viena"
+   ],
+   "tamanho": "1,01kg",
+   "preco": 39.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "unidade",
+   "duvida": null
+  },
+  {
+   "nome": "Doce de Leite Tradicional",
+   "marcas": [
+    "Souvenir"
+   ],
+   "tamanho": "4,8kg",
+   "preco": 78.96,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "Nesta embalagem de 400g sai a 6,58",
+   "duvida": null
+  },
+  {
+   "nome": "Cobertura de Chocolate Blend, Meio Amargo ou Branco",
+   "marcas": [
+    "Nestlé"
+   ],
+   "tamanho": "1kg",
+   "preco": 89.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Preço único para três variedades; texto do nome do produto indica 1kg."
+  },
+  {
+   "nome": "Amendoim Japonês",
+   "marcas": [
+    "Mendorato"
+   ],
+   "tamanho": "24g",
+   "preco": 42,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "Fardo com 60 unidades; preço unitário 0,79; nesta promo a un. sai a 0,70",
+   "duvida": null
+  }
+ ]
+}

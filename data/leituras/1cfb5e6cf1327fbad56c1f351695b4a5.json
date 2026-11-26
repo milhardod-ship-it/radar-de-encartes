@@ -1,0 +1,205 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-26",
+ "validade": {
+  "inicio": "2026-11-26",
+  "fim": "2026-11-30"
+ },
+ "itens": [
+  {
+   "nome": "Toalha Banhão",
+   "marcas": [
+    "Groh Brisa"
+   ],
+   "tamanho": "",
+   "preco": 32.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Toalha Rosto",
+   "marcas": [
+    "Groh Brisa"
+   ],
+   "tamanho": "",
+   "preco": 12.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Toalha Banho",
+   "marcas": [
+    "Groh Self"
+   ],
+   "tamanho": "",
+   "preco": 26.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Toalha Rosto",
+   "marcas": [
+    "Groh Self"
+   ],
+   "tamanho": "",
+   "preco": 11.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Toalha Banho",
+   "marcas": [
+    "Groh New Adri"
+   ],
+   "tamanho": "",
+   "preco": 14.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Toalha Rosto",
+   "marcas": [
+    "Groh New Adri"
+   ],
+   "tamanho": "",
+   "preco": 7.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Toalha Piso",
+   "marcas": [
+    "Groh Rever"
+   ],
+   "tamanho": "",
+   "preco": 11.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Travesseiro 50x70cm Carioquinha",
+   "marcas": [
+    "Salehtex"
+   ],
+   "tamanho": "50x70cm",
+   "preco": 26.99,
+   "de": 29.99,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Escorredor Supreme Desm Pto",
+   "marcas": [
+    "Arthi"
+   ],
+   "tamanho": "",
+   "preco": 34.99,
+   "de": 39.99,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Faqueiro Riviera c/24",
+   "marcas": [
+    "Brinox"
+   ],
+   "tamanho": "c/24 unidades",
+   "preco": 39.99,
+   "de": 49.99,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Garrafa Térmica 1L Use",
+   "marcas": [
+    "Mor"
+   ],
+   "tamanho": "1L",
+   "preco": 26.99,
+   "de": 39.99,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Panela Pressão 4,5 Fechamento Externo Qualite Grafite",
+   "marcas": [
+    "Marcolar"
+   ],
+   "tamanho": "4,5",
+   "preco": 119.9,
+   "de": 179.9,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Air Fryer 2,8L 110V",
+   "marcas": [
+    "Seu Lar"
+   ],
+   "tamanho": "2,8L",
+   "preco": 129.9,
+   "de": 179.9,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Ventilador de Mesa 40cm c/6 Pás 127V",
+   "marcas": [
+    "Mondial"
+   ],
+   "tamanho": "40cm",
+   "preco": 179.9,
+   "de": 219.9,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Caixa Térmica 34L",
+   "marcas": [
+    "Botafogo"
+   ],
+   "tamanho": "34L",
+   "preco": 74.99,
+   "de": 89.99,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  }
+ ]
+}
