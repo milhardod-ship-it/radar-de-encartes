@@ -5,7 +5,7 @@ const AGENTE = 'Mozilla/5.0 (compatible; RadarDeEncartes/0.1; coleta de encartes
 
 export type Baixar = (url: string) => string;
 
-/** Baixa uma página como texto. Tenta de novo até 3 vezes; espera entre pedidos para não sobrecarregar o site. */
+/** Baixa uma página como texto. Tenta até 4 vezes (esperando mais a cada falha); espera entre pedidos para não sobrecarregar o site. */
 export function criarBaixar(pausaMs = 1200): Baixar {
   let ultimo = 0;
   return (url: string) => {
@@ -14,13 +14,17 @@ export function criarBaixar(pausaMs = 1200): Baixar {
       if (espera > 0) dormir(espera);
       ultimo = Date.now();
       try {
-        return execFileSync('curl', ['-sSL', '--fail', '-m', '40', '-A', AGENTE, url], {
+        return execFileSync('curl', ['-sSL', '--fail', '-m', '60', '-A', AGENTE, url], {
           encoding: 'utf8',
+          stdio: ['ignore', 'pipe', 'pipe'],
           maxBuffer: 64 * 1024 * 1024,
         });
       } catch (e) {
-        if (tentativa >= 3) throw new Error(`Falha ao baixar ${url}: ${(e as Error).message.split('\n')[0]}`);
-        dormir(2000 * tentativa);
+        // Mostra o motivo de verdade (ex.: "returned error: 503", "Operation timed out"), não só o comando.
+        const motivo = String((e as { stderr?: string }).stderr ?? '').trim().split('\n').pop() || (e as Error).message.split('\n')[0];
+        if (tentativa >= 4) throw new Error(`Falha ao baixar ${url}: ${motivo}`);
+        console.log(`  (tentativa ${tentativa} falhou: ${motivo}; tentando de novo)`);
+        dormir(8000 * tentativa); // site instável: espera 8s, 16s, 24s
       }
     }
   };
