@@ -1,0 +1,3931 @@
+{
+ "encarte": "guanabara-ia-2026-11-26",
+ "mercado": "guanabara",
+ "programaClube": "guana-clube",
+ "nomeClube": "Guana Clube",
+ "encarteInfo": {
+  "id": "guanabara-ia-2026-11-26",
+  "mercado": "guanabara",
+  "titulo": "Encarte Guanabara",
+  "inicio": "2026-11-26",
+  "fim": "2026-11-27",
+  "lojas": [],
+  "fonte": "PDF do encarte do site do Guanabara, lido por IA (claude-sonnet-5-5) em 2026-11-25"
+ },
+ "observacao": "Lido por IA (claude-sonnet-5-5); custo aproximado US$ 0.45. Não revisado.",
+ "itens": [
+  {
+   "pagina": 1,
+   "nome": "Arroz",
+   "marcas": [
+    "Tio João"
+   ],
+   "tamanho": "5kg",
+   "preco": 26.95
+  },
+  {
+   "pagina": 1,
+   "nome": "Arroz",
+   "marcas": [
+    "Ouro Nobre"
+   ],
+   "tamanho": "5kg",
+   "preco": 17.95
+  },
+  {
+   "pagina": 1,
+   "nome": "Arroz",
+   "marcas": [
+    "Carreteiro"
+   ],
+   "tamanho": "5kg",
+   "preco": 19.95
+  },
+  {
+   "pagina": 1,
+   "nome": "Óleo de Soja",
+   "marcas": [
+    "Soya"
+   ],
+   "tamanho": "900ml",
+   "preco": 6.99
+  },
+  {
+   "pagina": 1,
+   "nome": "Alcatra Bovina Embalagem a Vácuo (Peça)",
+   "marcas": [
+    "Fribol"
+   ],
+   "tamanho": "kg",
+   "preco": 39.98
+  },
+  {
+   "pagina": 1,
+   "nome": "Feijão Preto",
+   "marcas": [
+    "Kicaldo",
+    "Combrasil"
+   ],
+   "tamanho": "kg",
+   "preco": 6.79
+  },
+  {
+   "pagina": 1,
+   "nome": "Leite UHT Longa Vida Integral",
+   "marcas": [
+    "Piracanjuba",
+    "Italac",
+    "Elegê"
+   ],
+   "tamanho": "1L",
+   "preco": 3.99
+  },
+  {
+   "pagina": 1,
+   "nome": "Leite em Pó Instantâneo Integral",
+   "marcas": [
+    "Glória",
+    "Italac"
+   ],
+   "tamanho": "360g",
+   "preco": 10.98
+  },
+  {
+   "pagina": 1,
+   "nome": "Leite em Pó Instantâneo Integral",
+   "marcas": [
+    "Camponesa"
+   ],
+   "tamanho": "360g",
+   "preco": 9.99
+  },
+  {
+   "pagina": 1,
+   "nome": "Açúcar",
+   "marcas": [
+    "Guarani"
+   ],
+   "tamanho": "kg",
+   "preco": 2.87
+  },
+  {
+   "pagina": 1,
+   "nome": "Açúcar",
+   "marcas": [
+    "União"
+   ],
+   "tamanho": "kg",
+   "preco": 3.47
+  },
+  {
+   "pagina": 1,
+   "nome": "Café Tradicional",
+   "marcas": [
+    "Melitta"
+   ],
+   "tamanho": "500g",
+   "preco": 21.8
+  },
+  {
+   "pagina": 1,
+   "nome": "Batata Palito",
+   "marcas": [
+    "EasyChef",
+    "Prime Fries"
+   ],
+   "tamanho": "2kg",
+   "preco": 15.98
+  },
+  {
+   "pagina": 1,
+   "nome": "Ovos Tipo A Branca Cartela",
+   "marcas": [],
+   "tamanho": "c/20 unidades",
+   "preco": 8.98
+  },
+  {
+   "pagina": 1,
+   "nome": "Azeite Extravirgem",
+   "marcas": [
+    "Gallo"
+   ],
+   "tamanho": "400ml",
+   "preco": 19.98
+  },
+  {
+   "pagina": 1,
+   "nome": "Azeite Extravirgem",
+   "marcas": [
+    "Andorinha"
+   ],
+   "tamanho": "500ml",
+   "preco": 22.98
+  },
+  {
+   "pagina": 1,
+   "nome": "Leite Condensado Semidesnatado TP",
+   "marcas": [
+    "Italac"
+   ],
+   "tamanho": "395g",
+   "preco": 4.47
+  },
+  {
+   "pagina": 1,
+   "nome": "Molho de Tomate Refogado Tradicional Sachê",
+   "marcas": [
+    "Promesa"
+   ],
+   "tamanho": "300g",
+   "preco": 0.99
+  },
+  {
+   "pagina": 1,
+   "nome": "Chocolate",
+   "marcas": [
+    "Cachet",
+    "Milka"
+   ],
+   "tamanho": "100g",
+   "preco": 9.99,
+   "condicao": "Cachet exceto Amargo 70%, 85% e 90%"
+  },
+  {
+   "pagina": 1,
+   "nome": "Bombons Lacta Favoritos",
+   "marcas": [
+    "Lacta"
+   ],
+   "tamanho": "250,6g",
+   "preco": 9.99
+  },
+  {
+   "pagina": 1,
+   "nome": "Bombons Sortidos",
+   "marcas": [
+    "Garoto"
+   ],
+   "tamanho": "220g",
+   "preco": 9.99
+  },
+  {
+   "pagina": 1,
+   "nome": "Chocolate",
+   "marcas": [
+    "Lacta"
+   ],
+   "tamanho": "80g/90g/98g/104g",
+   "preco": 6.99,
+   "duvida": "Tamanhos variados conforme o título"
+  },
+  {
+   "pagina": 1,
+   "nome": "Chocolate Kitkat",
+   "marcas": [
+    "Nestlé"
+   ],
+   "tamanho": "41,5g",
+   "preco": 2.99
+  },
+  {
+   "pagina": 1,
+   "nome": "Papel Higiênico Folha Dupla",
+   "marcas": [
+    "Dualette",
+    "Personal Vip"
+   ],
+   "tamanho": "Leve 16 Pague 15 unidades",
+   "preco": 15.98,
+   "condicao": "leve 16, pague 15"
+  },
+  {
+   "pagina": 1,
+   "nome": "Shampoo 375ml + Condicionador 170ml",
+   "marcas": [
+    "OX"
+   ],
+   "tamanho": "",
+   "preco": 19.99,
+   "duvida": "Nome do kit e marca pouco nítidos"
+  },
+  {
+   "pagina": 1,
+   "nome": "Sabonete Líquido Glicerinado Bebê Granado",
+   "marcas": [
+    "Granado"
+   ],
+   "tamanho": "250ml",
+   "preco": 14.98
+  },
+  {
+   "pagina": 1,
+   "nome": "Fraldas Descartáveis Premium Mega",
+   "marcas": [
+    "Babysec"
+   ],
+   "tamanho": "",
+   "preco": 29.98
+  },
+  {
+   "pagina": 1,
+   "nome": "Amaciante Concentrado",
+   "marcas": [
+    "Downy"
+   ],
+   "tamanho": "450ml/500ml",
+   "preco": 8.98
+  },
+  {
+   "pagina": 1,
+   "nome": "Lava-Roupas Líquido",
+   "marcas": [
+    "Odd"
+   ],
+   "tamanho": "3 Litros",
+   "preco": 17.89
+  },
+  {
+   "pagina": 1,
+   "nome": "Lava-Roupas Líquido",
+   "marcas": [
+    "Omo"
+   ],
+   "tamanho": "3 Litros",
+   "preco": 29.98
+  },
+  {
+   "pagina": 1,
+   "nome": "Lava-Roupas em Pó",
+   "marcas": [
+    "Surf"
+   ],
+   "tamanho": "1,6kg",
+   "preco": 11.98
+  },
+  {
+   "pagina": 1,
+   "nome": "Lava-Roupas em Pó",
+   "marcas": [
+    "Omo"
+   ],
+   "tamanho": "1,4kg",
+   "preco": 16.9
+  },
+  {
+   "pagina": 2,
+   "nome": "Arroz",
+   "marcas": [
+    "Tio João"
+   ],
+   "tamanho": "5kg",
+   "preco": 26.95,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 2,
+   "nome": "Leite UHT Longa Vida Integral",
+   "marcas": [
+    "Piracanjuba",
+    "Italac",
+    "Elegê"
+   ],
+   "tamanho": "1L",
+   "preco": 3.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 2,
+   "nome": "Arroz",
+   "marcas": [
+    "Ouro Nobre"
+   ],
+   "tamanho": "5kg",
+   "preco": 17.95,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 2,
+   "nome": "Açúcar",
+   "marcas": [
+    "Guarani"
+   ],
+   "tamanho": "kg",
+   "preco": 2.87,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 2,
+   "nome": "Açúcar",
+   "marcas": [
+    "União"
+   ],
+   "tamanho": "kg",
+   "preco": 3.47,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 2,
+   "nome": "Leite em Pó Instantâneo Integral",
+   "marcas": [
+    "Camponesa"
+   ],
+   "tamanho": "360g",
+   "preco": 9.99,
+   "condicao": "cada; sachê"
+  },
+  {
+   "pagina": 2,
+   "nome": "Leite em Pó Instantâneo Integral",
+   "marcas": [
+    "Glória",
+    "Italac"
+   ],
+   "tamanho": "360g",
+   "preco": 10.98,
+   "condicao": "cada; sachê"
+  },
+  {
+   "pagina": 2,
+   "nome": "Arroz",
+   "marcas": [
+    "Camil Seleções"
+   ],
+   "tamanho": "5kg",
+   "preco": 27.95,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 2,
+   "nome": "Arroz",
+   "marcas": [
+    "Carreteiro"
+   ],
+   "tamanho": "5kg",
+   "preco": 19.95,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 2,
+   "nome": "Arroz Integral",
+   "marcas": [
+    "Tio João",
+    "Prato Fino"
+   ],
+   "tamanho": "kg",
+   "preco": 5.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 2,
+   "nome": "Feijão Preto",
+   "marcas": [
+    "Kicaldo"
+   ],
+   "tamanho": "kg",
+   "preco": 6.79
+  },
+  {
+   "pagina": 2,
+   "nome": "Leite em Pó Instantâneo Integral Ninho 380g Grátis 10% ou Molico Desnatado Leve 280g Pague 252g",
+   "marcas": [
+    "Nestlé"
+   ],
+   "tamanho": "lata",
+   "preco": 14.98,
+   "condicao": "cada",
+   "duvida": "Nome do produto abrangendo Ninho e Molico; não está claro se o preço vale para ambos."
+  },
+  {
+   "pagina": 2,
+   "nome": "Cápsulas de Café Dolce Gusto Regular ou Especiais",
+   "marcas": [
+    "Nescafé"
+   ],
+   "tamanho": "c/10 unidades",
+   "preco": 15.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 2,
+   "nome": "Café Tradicional",
+   "marcas": [
+    "Pilão"
+   ],
+   "tamanho": "500g",
+   "preco": 23.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 2,
+   "nome": "Café Tradicional",
+   "marcas": [
+    "Melitta"
+   ],
+   "tamanho": "500g",
+   "preco": 21.8,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 2,
+   "nome": "Cápsulas de Café",
+   "marcas": [
+    "Pilão"
+   ],
+   "tamanho": "c/10 unidades",
+   "preco": 22.9,
+   "condicao": "leve 4, pague 2; cada unidade sai por 11,45"
+  },
+  {
+   "pagina": 2,
+   "nome": "Cápsulas de Café",
+   "marcas": [
+    "3 Corações"
+   ],
+   "tamanho": "75g/80g/110g",
+   "preco": 12.98,
+   "de": 16.98,
+   "condicao": "cada",
+   "duvida": "Tamanho varia conforme a variedade."
+  },
+  {
+   "pagina": 2,
+   "nome": "Achocolatado Sachê",
+   "marcas": [
+    "Nescau"
+   ],
+   "tamanho": "900g",
+   "preco": 18.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 2,
+   "nome": "Achocolatado Nescau Lata",
+   "marcas": [
+    "Nescau"
+   ],
+   "tamanho": "350g",
+   "preco": 9.99,
+   "condicao": "leve 350g pague 330g",
+   "duvida": "Condição parcialmente legível."
+  },
+  {
+   "pagina": 2,
+   "nome": "Cereal Nescau",
+   "marcas": [
+    "Nestlé"
+   ],
+   "tamanho": "210g",
+   "preco": 8.99,
+   "condicao": "15% grátis"
+  },
+  {
+   "pagina": 2,
+   "nome": "Snow Flakes",
+   "marcas": [
+    "Nestlé"
+   ],
+   "tamanho": "230g",
+   "preco": 6.99,
+   "condicao": "15% grátis"
+  },
+  {
+   "pagina": 2,
+   "nome": "Sucrilhos Original",
+   "marcas": [
+    "Kellogg's"
+   ],
+   "tamanho": "240g",
+   "preco": 7.99,
+   "condicao": "leve 240g pague 200g"
+  },
+  {
+   "pagina": 2,
+   "nome": "Farofa Pronta Temperada",
+   "marcas": [
+    "Yoki"
+   ],
+   "tamanho": "400g",
+   "preco": 7.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 2,
+   "nome": "Farofa Bom Gosto Tradicional",
+   "marcas": [
+    "Bom Gosto"
+   ],
+   "tamanho": "900g",
+   "preco": 19.98,
+   "duvida": "Marca inferida da embalagem."
+  },
+  {
+   "pagina": 2,
+   "nome": "Milho de Pipoca para Micro-ondas",
+   "marcas": [
+    "Yoki"
+   ],
+   "tamanho": "60g/100g",
+   "preco": 3.89,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 2,
+   "nome": "Milho de Pipoca Premium",
+   "marcas": [
+    "Yoki"
+   ],
+   "tamanho": "400g",
+   "preco": 4.88,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 2,
+   "nome": "Aveia",
+   "marcas": [
+    "Yoki"
+   ],
+   "tamanho": "170g",
+   "preco": 2.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 2,
+   "nome": "Aveia",
+   "marcas": [
+    "Quaker"
+   ],
+   "tamanho": "165g",
+   "preco": 3.69
+  },
+  {
+   "pagina": 3,
+   "nome": "Óleo de Soja",
+   "marcas": [
+    "Soya"
+   ],
+   "tamanho": "900ml",
+   "preco": 6.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 3,
+   "nome": "Leite Condensado Semidesnatado",
+   "marcas": [
+    "Italac"
+   ],
+   "tamanho": "TP 395g",
+   "preco": 4.47,
+   "condicao": "cada",
+   "duvida": "Legenda diz 305g, embalagem mostra 395g"
+  },
+  {
+   "pagina": 3,
+   "nome": "Azeite Extravirgem Reserva",
+   "marcas": [
+    "Gallo"
+   ],
+   "tamanho": "500ml",
+   "preco": 23.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 3,
+   "nome": "Azeite Extravirgem",
+   "marcas": [
+    "Gallo",
+    "O-Live"
+   ],
+   "tamanho": "400ml",
+   "preco": 19.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 3,
+   "nome": "Azeite Extravirgem",
+   "marcas": [
+    "Andorinha"
+   ],
+   "tamanho": "500ml",
+   "preco": 22.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 3,
+   "nome": "Azeite Extravirgem Seleção",
+   "marcas": [
+    "Andorinha"
+   ],
+   "tamanho": "500ml",
+   "preco": 23.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 3,
+   "nome": "Doce de Leite Argentino",
+   "marcas": [
+    "San Ignacio"
+   ],
+   "tamanho": "450g",
+   "preco": 24.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 3,
+   "nome": "Maionese Tradicional",
+   "marcas": [
+    "Pramesa"
+   ],
+   "tamanho": "500g",
+   "preco": 3.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 3,
+   "nome": "Maionese Tradicional ou Light",
+   "marcas": [
+    "Hellmann's"
+   ],
+   "tamanho": "500g",
+   "preco": 9.9,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 3,
+   "nome": "Leite Condensado Confeitaria Integral",
+   "marcas": [
+    "Italac"
+   ],
+   "tamanho": "395g",
+   "preco": 4.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 3,
+   "nome": "Passata Italiana Tradicional, Suprema ou Ottima",
+   "marcas": [
+    "Tutto"
+   ],
+   "tamanho": "680g",
+   "preco": 9.99,
+   "condicao": "cada",
+   "duvida": "Legenda: Passata Italiana Tutto Trad., Suprema ou Ottima; marcas ambíguas"
+  },
+  {
+   "pagina": 3,
+   "nome": "Molho de Tomate Refogado Tradicional Sachê",
+   "marcas": [
+    "Pramesa"
+   ],
+   "tamanho": "300g",
+   "preco": 0.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 3,
+   "nome": "Molho de Tomate Saborizado Sachê",
+   "marcas": [
+    "Pramesa"
+   ],
+   "tamanho": "300g",
+   "preco": 1.74,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 3,
+   "nome": "Molho de Tomate Tradicional Sachê",
+   "marcas": [
+    "Heinz"
+   ],
+   "tamanho": "240g",
+   "preco": 1.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 3,
+   "nome": "Maionese Sachê",
+   "marcas": [
+    "Pramesa"
+   ],
+   "tamanho": "200g",
+   "preco": 1.97,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 3,
+   "nome": "Ketchup",
+   "marcas": [
+    "Hellmann's"
+   ],
+   "tamanho": "380g",
+   "preco": 9.9
+  },
+  {
+   "pagina": 3,
+   "nome": "Mostarda",
+   "marcas": [
+    "Hellmann's"
+   ],
+   "tamanho": "170g",
+   "preco": 8.99
+  },
+  {
+   "pagina": 3,
+   "nome": "Caldo",
+   "marcas": [
+    "Maggi"
+   ],
+   "tamanho": "57g",
+   "preco": 1.89
+  },
+  {
+   "pagina": 3,
+   "nome": "Tempero Meu Segredo",
+   "marcas": [
+    "Maggi"
+   ],
+   "tamanho": "42g",
+   "preco": 2.89,
+   "condicao": "cada",
+   "duvida": "Legenda diz 40g/45g, pouco nítida"
+  },
+  {
+   "pagina": 3,
+   "nome": "Tempero Meu Segredo (Exc. grão)",
+   "marcas": [
+    "Maggi"
+   ],
+   "tamanho": "50g",
+   "preco": 2.89,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 3,
+   "nome": "Tempero Mais Sabor",
+   "marcas": [
+    "Kitano"
+   ],
+   "tamanho": "60g",
+   "preco": 3.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 3,
+   "nome": "Creme de Cebola",
+   "marcas": [
+    "Maggi"
+   ],
+   "tamanho": "60g/68g",
+   "preco": 4.99
+  },
+  {
+   "pagina": 3,
+   "nome": "Azeitona Verde",
+   "marcas": [
+    "Pramesa"
+   ],
+   "tamanho": "420g",
+   "preco": 14.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 3,
+   "nome": "Azeitona Verde Doypack",
+   "marcas": [
+    "Pramesa"
+   ],
+   "tamanho": "150g",
+   "preco": 4.98,
+   "condicao": "Exceto Recheada e Pietal",
+   "duvida": "Legenda pouco nítida"
+  },
+  {
+   "pagina": 3,
+   "nome": "Azeitona Verde Fatiada s/ Caroço Doypack",
+   "marcas": [
+    "Pramesa"
+   ],
+   "tamanho": "120g",
+   "preco": 5.49
+  },
+  {
+   "pagina": 3,
+   "nome": "Salsicha",
+   "marcas": [
+    "Bordon"
+   ],
+   "tamanho": "180g",
+   "preco": 3.69,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 3,
+   "nome": "Milho e Ervilha Lata",
+   "marcas": [
+    "Pramesa"
+   ],
+   "tamanho": "170g",
+   "preco": 2.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 3,
+   "nome": "Patê de Atum Tradicional ou Azeitona",
+   "marcas": [
+    "Gomes da Costa"
+   ],
+   "tamanho": "170g",
+   "preco": 9.48,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 3,
+   "nome": "Atum Ralado",
+   "marcas": [
+    "Gomes da Costa"
+   ],
+   "tamanho": "170g",
+   "preco": 8.59,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 4,
+   "nome": "Mortadela Ouro",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "kg",
+   "preco": 19.99
+  },
+  {
+   "pagina": 4,
+   "nome": "Presunto Cozido",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "kg",
+   "preco": 25.98
+  },
+  {
+   "pagina": 4,
+   "nome": "Mortadela Defumada",
+   "marcas": [
+    "Sadia"
+   ],
+   "tamanho": "kg",
+   "preco": 15.98
+  },
+  {
+   "pagina": 4,
+   "nome": "Peito de Frango",
+   "marcas": [
+    "Sadia"
+   ],
+   "tamanho": "kg",
+   "preco": 35.99
+  },
+  {
+   "pagina": 4,
+   "nome": "Salsicha Hot Dog",
+   "marcas": [
+    "Sadia"
+   ],
+   "tamanho": "kg",
+   "preco": 8.99
+  },
+  {
+   "pagina": 4,
+   "nome": "Salsicha Hot Dog",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "kg",
+   "preco": 9.99
+  },
+  {
+   "pagina": 4,
+   "nome": "Queijo Boia Basel",
+   "marcas": [
+    "Basel"
+   ],
+   "tamanho": "kg",
+   "preco": 59.98
+  },
+  {
+   "pagina": 4,
+   "nome": "Salame Fatiado Tipo Italiano",
+   "marcas": [
+    "Sadia"
+   ],
+   "tamanho": "100g",
+   "preco": 13.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 4,
+   "nome": "Margarina Tradicional",
+   "marcas": [
+    "Claybom"
+   ],
+   "tamanho": "500g",
+   "preco": 3.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 4,
+   "nome": "Queijo Minas Trad. ou Light",
+   "marcas": [
+    "Minasbom",
+    "Barão"
+   ],
+   "tamanho": "kg",
+   "preco": 27.98,
+   "condicao": "Black Friday"
+  },
+  {
+   "pagina": 4,
+   "nome": "Queijo Prato ou Mussarela Fatiado",
+   "marcas": [
+    "Tirolez"
+   ],
+   "tamanho": "150g",
+   "preco": 11.49,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 4,
+   "nome": "Queijo Tipo Brie Fracionado",
+   "marcas": [
+    "Quatá"
+   ],
+   "tamanho": "125g",
+   "preco": 15.38,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 4,
+   "nome": "Sorvete",
+   "marcas": [
+    "Lacta"
+   ],
+   "tamanho": "1,5 litro",
+   "preco": 29.9
+  },
+  {
+   "pagina": 4,
+   "nome": "Petit Suisse",
+   "marcas": [
+    "Danoninho"
+   ],
+   "tamanho": "320g",
+   "preco": 9.79
+  },
+  {
+   "pagina": 4,
+   "nome": "Requeijão Trad. ou Light",
+   "marcas": [
+    "Danone"
+   ],
+   "tamanho": "200g",
+   "preco": 7.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 4,
+   "nome": "Creme de Ricota Trad. ou Light",
+   "marcas": [
+    "Président"
+   ],
+   "tamanho": "200g",
+   "preco": 7.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 4,
+   "nome": "Queijo Parmesão Ralado",
+   "marcas": [
+    "Galbani"
+   ],
+   "tamanho": "50g",
+   "preco": 5.59,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 4,
+   "nome": "Massa p/ Pastel Trad.",
+   "marcas": [
+    "Ingrid"
+   ],
+   "tamanho": "400g",
+   "preco": 5.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 4,
+   "nome": "Batata Palito",
+   "marcas": [
+    "EasyChef"
+   ],
+   "tamanho": "2kg",
+   "preco": 15.98,
+   "condicao": "cada; Black Friday"
+  },
+  {
+   "pagina": 4,
+   "nome": "Batata Palito",
+   "marcas": [
+    "Prime Fries"
+   ],
+   "tamanho": "2kg",
+   "preco": 15.98,
+   "condicao": "cada; Black Friday"
+  },
+  {
+   "pagina": 4,
+   "nome": "Batata Palito Air Fryer",
+   "marcas": [
+    "McCain"
+   ],
+   "tamanho": "600g",
+   "preco": 16.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 4,
+   "nome": "Batata Palito",
+   "marcas": [
+    "Bob's"
+   ],
+   "tamanho": "1,05kg",
+   "preco": 19.98,
+   "clube": 17.98,
+   "condicao": "cada",
+   "duvida": "17,98 aparece no selo Guana Clube"
+  },
+  {
+   "pagina": 4,
+   "nome": "Batata Palito",
+   "marcas": [
+    "Campo e Sabor"
+   ],
+   "tamanho": "1,5kg",
+   "preco": 15.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 4,
+   "nome": "Salsicha Congelada",
+   "marcas": [
+    "Sadia"
+   ],
+   "tamanho": "3kg",
+   "preco": 23.97,
+   "condicao": "nesta embalagem 1kg sai por 7,99"
+  },
+  {
+   "pagina": 4,
+   "nome": "Tirinhas Tradicional",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "1kg",
+   "preco": 15.9,
+   "condicao": "cada; nesta embalagem 300g sai por 4,77"
+  },
+  {
+   "pagina": 4,
+   "nome": "Mini Chicken",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "1kg",
+   "preco": 14.98,
+   "condicao": "cada; nesta embalagem 275g sai por 4,12"
+  },
+  {
+   "pagina": 4,
+   "nome": "Nhoque de Batata Italiano",
+   "marcas": [
+    "Tutto"
+   ],
+   "tamanho": "500g",
+   "preco": 7.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 4,
+   "nome": "Mini Lasanha",
+   "marcas": [
+    "Sadia"
+   ],
+   "tamanho": "350g",
+   "preco": 9.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 4,
+   "nome": "Isca de Frango Trad.",
+   "marcas": [
+    "Sadia"
+   ],
+   "tamanho": "300g",
+   "preco": 12.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 4,
+   "nome": "Meu Menu",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "300g",
+   "preco": 9.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 4,
+   "nome": "Bolinho de Bacalhau",
+   "marcas": [
+    "Riberalves"
+   ],
+   "tamanho": "300g",
+   "preco": 29.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 4,
+   "nome": "Bolinho de Bacalhau",
+   "marcas": [
+    "Saborea!"
+   ],
+   "tamanho": "600g",
+   "preco": 24.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 4,
+   "nome": "Hambúrguer Na Brasa",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "150g",
+   "preco": 7.88,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 4,
+   "nome": "Steak de Frango",
+   "marcas": [
+    "Lar"
+   ],
+   "tamanho": "100g",
+   "preco": 1.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 4,
+   "nome": "Waffle",
+   "marcas": [
+    "Waaw!"
+   ],
+   "tamanho": "210g",
+   "preco": 7.9,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 4,
+   "nome": "Pão de Queijo Waffle",
+   "marcas": [
+    "Forno de Minas"
+   ],
+   "tamanho": "400g",
+   "preco": 22.9,
+   "condicao": "50% de desconto na 2ª unidade, a 2ª sai por 11,45"
+  },
+  {
+   "pagina": 4,
+   "nome": "Pão de Queijo",
+   "marcas": [
+    "São Geraldo"
+   ],
+   "tamanho": "800g",
+   "preco": 10.9
+  },
+  {
+   "pagina": 4,
+   "nome": "Alho Congelado",
+   "marcas": [
+    "EasyChef"
+   ],
+   "tamanho": "1,1kg",
+   "preco": 25.99
+  },
+  {
+   "pagina": 4,
+   "nome": "Morango Congelado",
+   "marcas": [
+    "EasyChef"
+   ],
+   "tamanho": "1,1kg",
+   "preco": 16.98
+  },
+  {
+   "pagina": 5,
+   "nome": "Filé de Peito de Frango Bandeja ou Pacote IQF",
+   "marcas": [
+    "Seara"
+   ],
+   "tamanho": "kg",
+   "preco": 16.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 5,
+   "nome": "Filé de Peito de Frango Bandeja",
+   "marcas": [
+    "Rivelli"
+   ],
+   "tamanho": "kg",
+   "preco": 15.97
+  },
+  {
+   "pagina": 5,
+   "nome": "Filezinho de Peito de Frango Bandeja",
+   "marcas": [
+    "Seara",
+    "Sadia"
+   ],
+   "tamanho": "kg",
+   "preco": 16.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 5,
+   "nome": "Filé de Peito de Frango Bandeja ou Pacote IQF",
+   "marcas": [
+    "Sadia"
+   ],
+   "tamanho": "kg",
+   "preco": 17.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 5,
+   "nome": "Filé de Peito de Frango Envelopado",
+   "marcas": [
+    "Lar"
+   ],
+   "tamanho": "kg",
+   "preco": 15.97
+  },
+  {
+   "pagina": 5,
+   "nome": "Alcatra Bovina Embalagem a Vácuo (Peça)",
+   "marcas": [
+    "Friboi"
+   ],
+   "tamanho": "kg",
+   "preco": 39.98
+  },
+  {
+   "pagina": 5,
+   "nome": "Contrafilé Bovino a Vácuo (Peça)",
+   "marcas": [
+    "Friboi"
+   ],
+   "tamanho": "kg",
+   "preco": 47.98
+  },
+  {
+   "pagina": 5,
+   "nome": "Picanha Fatiada",
+   "marcas": [
+    "Bordon"
+   ],
+   "tamanho": "kg",
+   "preco": 49.98
+  },
+  {
+   "pagina": 5,
+   "nome": "Picanha Bovina a Vácuo (Peça)",
+   "marcas": [
+    "Friboi"
+   ],
+   "tamanho": "kg",
+   "preco": 69.98
+  },
+  {
+   "pagina": 5,
+   "nome": "Picanha Bovina a Vácuo Maturatta (Peça)",
+   "marcas": [
+    "Friboi"
+   ],
+   "tamanho": "kg",
+   "preco": 79.98
+  },
+  {
+   "pagina": 5,
+   "nome": "Filé de Costela ou Coração da Alcatra Maturatta (Peça)",
+   "marcas": [
+    "Friboi"
+   ],
+   "tamanho": "kg",
+   "preco": 59.9
+  },
+  {
+   "pagina": 5,
+   "nome": "Coração Na Brasa",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "500g",
+   "preco": 19.98
+  },
+  {
+   "pagina": 5,
+   "nome": "Peito de Frango s/ Osso e c/ Pele",
+   "marcas": [
+    "Guibon"
+   ],
+   "tamanho": "kg",
+   "preco": 14.95
+  },
+  {
+   "pagina": 5,
+   "nome": "Frango a Passarinho Pacote",
+   "marcas": [
+    "Seara"
+   ],
+   "tamanho": "kg",
+   "preco": 12.98
+  },
+  {
+   "pagina": 5,
+   "nome": "Sobrecoxas de Frango Bandeja",
+   "marcas": [
+    "LeVida"
+   ],
+   "tamanho": "kg",
+   "preco": 12.99
+  },
+  {
+   "pagina": 5,
+   "nome": "Coxa e Sobrecoxa de Frango Bandeja",
+   "marcas": [
+    "Lar"
+   ],
+   "tamanho": "kg",
+   "preco": 9.98
+  },
+  {
+   "pagina": 5,
+   "nome": "Carne Moída Tubete",
+   "marcas": [
+    "Friboi"
+   ],
+   "tamanho": "500g",
+   "preco": 16.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 5,
+   "nome": "Coxinhas das Asas de Frango Envelopado",
+   "marcas": [
+    "Copacol"
+   ],
+   "tamanho": "kg",
+   "preco": 11.98
+  },
+  {
+   "pagina": 5,
+   "nome": "Coxa c/ Sobrecoxa de Frango c/ Porção Dorsal",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 7.99
+  },
+  {
+   "pagina": 5,
+   "nome": "Filé de Coxa e Sobrecoxa c/ Pele Pacote",
+   "marcas": [
+    "Rivelli"
+   ],
+   "tamanho": "kg",
+   "preco": 12.98
+  },
+  {
+   "pagina": 5,
+   "nome": "Bisteca Suína",
+   "marcas": [
+    "Seara"
+   ],
+   "tamanho": "kg",
+   "preco": 15.99
+  },
+  {
+   "pagina": 5,
+   "nome": "Linguiça de Pernil ou Suína",
+   "marcas": [
+    "Perdigão",
+    "Seara"
+   ],
+   "tamanho": "kg",
+   "preco": 14.97
+  },
+  {
+   "pagina": 5,
+   "nome": "Sobrecoxa de Frango Assa Fácil",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "1,2kg",
+   "preco": 19.98
+  },
+  {
+   "pagina": 5,
+   "nome": "Filé de Salmão",
+   "marcas": [
+    "Buona Pesca"
+   ],
+   "tamanho": "kg",
+   "preco": 79.98
+  },
+  {
+   "pagina": 5,
+   "nome": "Filé de Polaca",
+   "marcas": [
+    "Dhfish",
+    "Do Chef",
+    "Planalto"
+   ],
+   "tamanho": "500g",
+   "preco": 16.97,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 5,
+   "nome": "Ovos Tipo A Branco Cartela",
+   "marcas": [
+    "Caiari"
+   ],
+   "tamanho": "c/ 30 unids.",
+   "preco": 13.47,
+   "duvida": "Marca na embalagem pouco legível"
+  },
+  {
+   "pagina": 5,
+   "nome": "Ovos Tipo A Branco Cartela",
+   "marcas": [
+    "Caiari"
+   ],
+   "tamanho": "c/ 20 unids.",
+   "preco": 8.98,
+   "duvida": "Marca na embalagem pouco legível"
+  },
+  {
+   "pagina": 6,
+   "nome": "Farinha Láctea Leve 210g Pague 180g ou Neston 210g Sachê",
+   "marcas": [
+    "Nestlé"
+   ],
+   "tamanho": "",
+   "preco": 5.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 6,
+   "nome": "Chocolate Cachet (Exc. Amargo 70%, 85% e 90%)",
+   "marcas": [
+    "Cachet"
+   ],
+   "tamanho": "100g",
+   "preco": 9.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 6,
+   "nome": "Biscoito Recheado Maltado",
+   "marcas": [
+    "Piraquê"
+   ],
+   "tamanho": "85g",
+   "preco": 1.79,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 6,
+   "nome": "Chocolate Milka",
+   "marcas": [
+    "Milka"
+   ],
+   "tamanho": "100g",
+   "preco": 9.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 6,
+   "nome": "Biscoito Wafer Minueto",
+   "marcas": [
+    "Parati"
+   ],
+   "tamanho": "73g/81g",
+   "preco": 1.89,
+   "clube": 1.65,
+   "duvida": "Marca Parati lida parcialmente; preço clube 1,65 Guana Clube"
+  },
+  {
+   "pagina": 6,
+   "nome": "Biscoito Recheado Trakinas",
+   "marcas": [
+    "Trakinas"
+   ],
+   "tamanho": "126g",
+   "preco": 2.49,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 6,
+   "nome": "Biscoito Recheado Oreo",
+   "marcas": [
+    "Oreo"
+   ],
+   "tamanho": "90g c/3 unid.",
+   "preco": 8.97,
+   "condicao": "cada; leve 3 pague menos, nesta embalagem cada unid. sai por 2,99",
+   "duvida": "Condição do leve mais pague menos pouco legível"
+  },
+  {
+   "pagina": 6,
+   "nome": "Bis",
+   "marcas": [
+    "Lacta"
+   ],
+   "tamanho": "100,8g c/3",
+   "preco": 16.99,
+   "condicao": "Leve 3 pague menos; nesta embalagem cada unid. sai por 5,66",
+   "duvida": "Gramatura exata e condição pouco legíveis"
+  },
+  {
+   "pagina": 6,
+   "nome": "Biscoito Wafer",
+   "marcas": [
+    "Piraquê"
+   ],
+   "tamanho": "100g",
+   "preco": 2.97,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 6,
+   "nome": "Batata Pringles",
+   "marcas": [
+    "Pringles"
+   ],
+   "tamanho": "104g/109g",
+   "preco": 8.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 6,
+   "nome": "Chocolate",
+   "marcas": [
+    "Lacta"
+   ],
+   "tamanho": "80g/90g/98g/104g",
+   "preco": 6.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 6,
+   "nome": "Biscoito Cream Cracker",
+   "marcas": [
+    "Richester"
+   ],
+   "tamanho": "170g",
+   "preco": 2.97,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 6,
+   "nome": "Bombons Sortidos",
+   "marcas": [
+    "Garoto"
+   ],
+   "tamanho": "220g",
+   "preco": 9.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 6,
+   "nome": "Bombons Favoritos",
+   "marcas": [
+    "Lacta"
+   ],
+   "tamanho": "250,6g",
+   "preco": 9.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 6,
+   "nome": "Bombons Sonho de Valsa + Ouro Branco",
+   "marcas": [
+    "Lacta"
+   ],
+   "tamanho": "220g",
+   "preco": 9.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 6,
+   "nome": "Chocolate Kitkat",
+   "marcas": [
+    "Nestlé"
+   ],
+   "tamanho": "41,5g",
+   "preco": 2.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 6,
+   "nome": "Biscoito Palito Grissini",
+   "marcas": [
+    "Granforno"
+   ],
+   "tamanho": "125g",
+   "preco": 13.98,
+   "clube": 9.97,
+   "duvida": "Preço clube Guana Clube"
+  },
+  {
+   "pagina": 6,
+   "nome": "Batata Palha",
+   "marcas": [
+    "Yoki"
+   ],
+   "tamanho": "100g/105g",
+   "preco": 6.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 6,
+   "nome": "Farinha de Trigo Trad.",
+   "marcas": [
+    "Boa Sorte"
+   ],
+   "tamanho": "1kg",
+   "preco": 3.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 6,
+   "nome": "Farinha de Trigo Especial",
+   "marcas": [
+    "Globo"
+   ],
+   "tamanho": "1kg",
+   "preco": 2.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 6,
+   "nome": "Achocolatado Nescau Trad. Leve 180ml Pague 160ml",
+   "marcas": [
+    "Nescau"
+   ],
+   "tamanho": "180ml",
+   "preco": 1.89,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 6,
+   "nome": "Pão de Forma Tradicional",
+   "marcas": [
+    "Bauducco"
+   ],
+   "tamanho": "390g",
+   "preco": 6.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 6,
+   "nome": "Pão de Forma Tradicional",
+   "marcas": [
+    "SevenBoys"
+   ],
+   "tamanho": "450g",
+   "preco": 5.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 6,
+   "nome": "Pão de Forma Trad.",
+   "marcas": [
+    "Visconti"
+   ],
+   "tamanho": "400g",
+   "preco": 6.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 6,
+   "nome": "Bisnaguinha",
+   "marcas": [
+    "Visconti"
+   ],
+   "tamanho": "240g",
+   "preco": 5.99
+  },
+  {
+   "pagina": 6,
+   "nome": "Bisnaguinha Trad.",
+   "marcas": [
+    "SevenBoys"
+   ],
+   "tamanho": "300g",
+   "preco": 5.98
+  },
+  {
+   "pagina": 6,
+   "nome": "Mucilon Leve 180g Pague 160g",
+   "marcas": [
+    "Nestlé"
+   ],
+   "tamanho": "180g",
+   "preco": 4.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 6,
+   "nome": "Bolinho de Laranja",
+   "marcas": [
+    "SevenBoys"
+   ],
+   "tamanho": "30g",
+   "preco": 1.29,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 6,
+   "nome": "Bolinho",
+   "marcas": [
+    "Ana Maria"
+   ],
+   "tamanho": "70g",
+   "preco": 3.79,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 6,
+   "nome": "Massa Aldente",
+   "marcas": [
+    "Piraquê"
+   ],
+   "tamanho": "400g",
+   "preco": 3.65,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 6,
+   "nome": "Massa de Sêmola",
+   "marcas": [
+    "Dona Benta"
+   ],
+   "tamanho": "500g",
+   "preco": 3.36,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 6,
+   "nome": "Espaguete de Sêmola",
+   "marcas": [
+    "Dona Benta"
+   ],
+   "tamanho": "1kg",
+   "preco": 4.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 6,
+   "nome": "Espaguete de Sêmola",
+   "marcas": [
+    "Galo"
+   ],
+   "tamanho": "1kg",
+   "preco": 5.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 7,
+   "nome": "Concentrado de Guaraná",
+   "marcas": [
+    "Guaraplus"
+   ],
+   "tamanho": "1 Litro",
+   "preco": 5.9
+  },
+  {
+   "pagina": 7,
+   "nome": "Refresco Sabolizado",
+   "marcas": [
+    "Dafruta"
+   ],
+   "tamanho": "1 Litro",
+   "preco": 3.99
+  },
+  {
+   "pagina": 7,
+   "nome": "Guaraná Antarctica",
+   "marcas": [
+    "Antarctica"
+   ],
+   "tamanho": "2 Litros + 250ml grátis",
+   "preco": 7.69
+  },
+  {
+   "pagina": 7,
+   "nome": "Pepsi",
+   "marcas": [
+    "Pepsi"
+   ],
+   "tamanho": "2 Litros + 250ml grátis",
+   "preco": 6.99
+  },
+  {
+   "pagina": 7,
+   "nome": "Suco de Uva Tradição do Sul",
+   "marcas": [
+    "Tradição"
+   ],
+   "tamanho": "1,35 Litro",
+   "preco": 12.89
+  },
+  {
+   "pagina": 7,
+   "nome": "Suco de Uva",
+   "marcas": [
+    "Alma do Sul"
+   ],
+   "tamanho": "1,35 Litro",
+   "preco": 12.79
+  },
+  {
+   "pagina": 7,
+   "nome": "Suco de Uva Serra do Vinhedo",
+   "marcas": [
+    "Serra do Vinhedo"
+   ],
+   "tamanho": "1 Litro",
+   "preco": 9.99
+  },
+  {
+   "pagina": 7,
+   "nome": "Refresco em Pó",
+   "marcas": [
+    "Frisco"
+   ],
+   "tamanho": "18g",
+   "preco": 0.79
+  },
+  {
+   "pagina": 7,
+   "nome": "Chá Ice Tea",
+   "marcas": [
+    "Lipton"
+   ],
+   "tamanho": "1,5 Litro",
+   "preco": 5.99
+  },
+  {
+   "pagina": 7,
+   "nome": "H2OH!",
+   "marcas": [
+    "H2OH!"
+   ],
+   "tamanho": "1,5 Litro",
+   "preco": 6.99
+  },
+  {
+   "pagina": 7,
+   "nome": "Refresco Copo",
+   "marcas": [
+    "Guaraplus"
+   ],
+   "tamanho": "290ml",
+   "preco": 0.69
+  },
+  {
+   "pagina": 7,
+   "nome": "Pepsi Tradicional",
+   "marcas": [
+    "Pepsi"
+   ],
+   "tamanho": "200ml",
+   "preco": 1.66,
+   "soClube": true,
+   "condicao": "Guana Clube: leve 12, pague 10; nesta promoção cada unidade sai por 1,66"
+  },
+  {
+   "pagina": 7,
+   "nome": "Guaraná Antarctica Tradicional ou Zero",
+   "marcas": [
+    "Antarctica"
+   ],
+   "tamanho": "200ml",
+   "preco": 1.66,
+   "soClube": true,
+   "condicao": "Guana Clube: leve 12, pague 10; nesta promoção cada unidade sai por 1,66"
+  },
+  {
+   "pagina": 7,
+   "nome": "Gatorade",
+   "marcas": [
+    "Gatorade"
+   ],
+   "tamanho": "500ml",
+   "preco": 4.58,
+   "soClube": true,
+   "condicao": "Guana Clube: leve 6, pague 5; nesta promoção cada unidade sai por 4,58"
+  },
+  {
+   "pagina": 7,
+   "nome": "Chá Lipton Lata",
+   "marcas": [
+    "Lipton"
+   ],
+   "tamanho": "340ml",
+   "preco": 2.99
+  },
+  {
+   "pagina": 7,
+   "nome": "Bebida Fruit Shoot",
+   "marcas": [
+    "Maguary"
+   ],
+   "tamanho": "150ml",
+   "preco": 1.19,
+   "duvida": "Marca Maguary lida na embalagem; título só diz Fruit Shoot"
+  },
+  {
+   "pagina": 7,
+   "nome": "Cerveja Lata",
+   "marcas": [
+    "Brahma"
+   ],
+   "tamanho": "269ml",
+   "preco": 2.39
+  },
+  {
+   "pagina": 7,
+   "nome": "Cerveja Lata",
+   "marcas": [
+    "Antarctica"
+   ],
+   "tamanho": "269ml",
+   "preco": 2.35
+  },
+  {
+   "pagina": 7,
+   "nome": "Cerveja Lata",
+   "marcas": [
+    "Spaten"
+   ],
+   "tamanho": "269ml",
+   "preco": 2.67
+  },
+  {
+   "pagina": 7,
+   "nome": "Cerveja Zero Latão",
+   "marcas": [
+    "Brahma"
+   ],
+   "tamanho": "473ml",
+   "preco": 3.89
+  },
+  {
+   "pagina": 7,
+   "nome": "Cerveja Latão Pack",
+   "marcas": [
+    "Original"
+   ],
+   "tamanho": "c/12 unidades 473ml",
+   "preco": 52.68,
+   "condicao": "Nesta embalagem cada unidade sai por 4,39"
+  },
+  {
+   "pagina": 7,
+   "nome": "Cerveja Latão",
+   "marcas": [
+    "Corona"
+   ],
+   "tamanho": "473ml",
+   "preco": 5.99
+  },
+  {
+   "pagina": 7,
+   "nome": "Cerveja Long Neck",
+   "marcas": [
+    "Stella Artois"
+   ],
+   "tamanho": "330ml",
+   "preco": 4.99
+  },
+  {
+   "pagina": 7,
+   "nome": "Cerveja Extra ou Cero Long Neck",
+   "marcas": [
+    "Corona"
+   ],
+   "tamanho": "330ml",
+   "preco": 6.99
+  },
+  {
+   "pagina": 7,
+   "nome": "Cerveja Ultra Long Neck",
+   "marcas": [
+    "Michelob"
+   ],
+   "tamanho": "330ml",
+   "preco": 5.39
+  },
+  {
+   "pagina": 7,
+   "nome": "Vodka Ice Tradicional",
+   "marcas": [
+    "Smirnoff"
+   ],
+   "tamanho": "275ml",
+   "preco": 6.49
+  },
+  {
+   "pagina": 7,
+   "nome": "Vodka",
+   "marcas": [
+    "Smirnoff"
+   ],
+   "tamanho": "269ml",
+   "preco": 4.99
+  },
+  {
+   "pagina": 7,
+   "nome": "Gin London Dry",
+   "marcas": [
+    "Tanqueray"
+   ],
+   "tamanho": "375ml",
+   "preco": 49.9,
+   "condicao": "Black Friday"
+  },
+  {
+   "pagina": 7,
+   "nome": "Gin Tradicional, Sevilla, Bossa Nova ou Royale",
+   "marcas": [
+    "Tanqueray"
+   ],
+   "tamanho": "700ml",
+   "preco": 89.9,
+   "condicao": "Black Friday",
+   "duvida": "Título cita 750ml, mas gin listado como 700ml; tamanho incerto"
+  },
+  {
+   "pagina": 7,
+   "nome": "Aperitivo",
+   "marcas": [
+    "Aperol"
+   ],
+   "tamanho": "750ml",
+   "preco": 49.9
+  },
+  {
+   "pagina": 7,
+   "nome": "Energético",
+   "marcas": [
+    "Red Bull"
+   ],
+   "tamanho": "473ml",
+   "preco": 11.99,
+   "condicao": "Nesta embalagem 250ml sai por 6,34"
+  },
+  {
+   "pagina": 7,
+   "nome": "Espumante Italiano La Marchesine Brut Branco ou Rosé",
+   "marcas": [
+    "La Marchesine"
+   ],
+   "tamanho": "750ml",
+   "preco": 37.5
+  },
+  {
+   "pagina": 7,
+   "nome": "Espumante",
+   "marcas": [
+    "Mumm"
+   ],
+   "tamanho": "750ml",
+   "preco": 44.98
+  },
+  {
+   "pagina": 7,
+   "nome": "Whisky",
+   "marcas": [
+    "Jack Daniel's"
+   ],
+   "tamanho": "1 Litro",
+   "preco": 129.9
+  },
+  {
+   "pagina": 7,
+   "nome": "Whisky Red Label",
+   "marcas": [
+    "Johnnie Walker"
+   ],
+   "tamanho": "500ml",
+   "preco": 39.9
+  },
+  {
+   "pagina": 7,
+   "nome": "Whisky Black Label",
+   "marcas": [
+    "Johnnie Walker"
+   ],
+   "tamanho": "750ml",
+   "preco": 124.9,
+   "condicao": "Black Friday"
+  },
+  {
+   "pagina": 7,
+   "nome": "Whisky Black Label",
+   "marcas": [
+    "Johnnie Walker"
+   ],
+   "tamanho": "1 Litro",
+   "preco": 139.9,
+   "condicao": "Black Friday"
+  },
+  {
+   "pagina": 7,
+   "nome": "Whisky Gold Label Reserve",
+   "marcas": [
+    "Johnnie Walker"
+   ],
+   "tamanho": "750ml",
+   "preco": 199.9,
+   "condicao": "Black Friday"
+  },
+  {
+   "pagina": 7,
+   "nome": "Whisky Finest Tradicional",
+   "marcas": [
+    "Ballantine's"
+   ],
+   "tamanho": "750ml",
+   "preco": 49.9
+  },
+  {
+   "pagina": 8,
+   "nome": "Lava-Roupas em Pó Sachê",
+   "marcas": [
+    "Surf"
+   ],
+   "tamanho": "1,6kg",
+   "preco": 11.98,
+   "condicao": "cada; Black Friday"
+  },
+  {
+   "pagina": 8,
+   "nome": "Lava-Roupas em Pó",
+   "marcas": [
+    "Tixan"
+   ],
+   "tamanho": "2,4kg",
+   "preco": 20.97
+  },
+  {
+   "pagina": 8,
+   "nome": "Amaciante Concentrado",
+   "marcas": [
+    "Downy"
+   ],
+   "tamanho": "450ml/500ml",
+   "preco": 8.98,
+   "condicao": "cada; Black Friday"
+  },
+  {
+   "pagina": 8,
+   "nome": "Lava-Roupas em Pó Todo Ciclo",
+   "marcas": [
+    "Omo"
+   ],
+   "tamanho": "1,4kg",
+   "preco": 16.9
+  },
+  {
+   "pagina": 8,
+   "nome": "Lava-Roupas Líquido",
+   "marcas": [
+    "Tixan"
+   ],
+   "tamanho": "3 Litros",
+   "preco": 25.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 8,
+   "nome": "Lava-Roupas Líquido",
+   "marcas": [
+    "Odd"
+   ],
+   "tamanho": "3 Litros",
+   "preco": 17.89,
+   "condicao": "cada; Black Friday"
+  },
+  {
+   "pagina": 8,
+   "nome": "Lava-Roupas Líquido",
+   "marcas": [
+    "Omo"
+   ],
+   "tamanho": "3 Litros",
+   "preco": 29.98,
+   "condicao": "cada; Black Friday"
+  },
+  {
+   "pagina": 8,
+   "nome": "Lava-Roupas",
+   "marcas": [
+    "Suprema"
+   ],
+   "tamanho": "5 Litros",
+   "preco": 22.9,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 8,
+   "nome": "Lava-Roupas Líquido",
+   "marcas": [
+    "Caaía"
+   ],
+   "tamanho": "3 Litros",
+   "preco": 27.98,
+   "duvida": "Marca lida como Caaía/Chá Branco, pouco nítida"
+  },
+  {
+   "pagina": 8,
+   "nome": "Tira-Manchas",
+   "marcas": [
+    "Calisul"
+   ],
+   "tamanho": "500g",
+   "preco": 13.9,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 8,
+   "nome": "Alvejante Refil",
+   "marcas": [
+    "Vanish"
+   ],
+   "tamanho": "500ml",
+   "preco": 6.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 8,
+   "nome": "Lava-Roupas Old Original Bebê ou Coco",
+   "marcas": [
+    "Ola"
+   ],
+   "tamanho": "500ml",
+   "preco": 13.98,
+   "condicao": "cada",
+   "duvida": "Nome da marca pode ser Ola"
+  },
+  {
+   "pagina": 8,
+   "nome": "Lava-Roupas Líquido",
+   "marcas": [
+    "Uau"
+   ],
+   "tamanho": "1,7 Litro",
+   "preco": 9.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 8,
+   "nome": "Lava-Roupas",
+   "marcas": [
+    "Ares"
+   ],
+   "tamanho": "5 Litros",
+   "preco": 14.98,
+   "duvida": "Preço 14,98 aparece com 'Por:'; leitura do tamanho 5 Litros"
+  },
+  {
+   "pagina": 8,
+   "nome": "Limpador Multiuso",
+   "marcas": [
+    "Tudo"
+   ],
+   "tamanho": "500ml",
+   "preco": 2.47,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 8,
+   "nome": "Limpador Multiuso",
+   "marcas": [
+    "Uau"
+   ],
+   "tamanho": "500ml",
+   "preco": 3.47,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 8,
+   "nome": "Limpador Multiuso",
+   "marcas": [
+    "Veja"
+   ],
+   "tamanho": "750ml",
+   "preco": 4.98,
+   "condicao": "cada; leve+ pague-"
+  },
+  {
+   "pagina": 8,
+   "nome": "Limpador Uau 2 Cloro Ativo Grátis Multiuso",
+   "marcas": [
+    "Uau"
+   ],
+   "tamanho": "500ml",
+   "preco": 9.98,
+   "condicao": "leve mais e pague menos; na compra de 2 Cloro Ativo ganhe Multiuso Lavanda"
+  },
+  {
+   "pagina": 8,
+   "nome": "Limpador Perfumado",
+   "marcas": [
+    "Uau"
+   ],
+   "tamanho": "500ml",
+   "preco": 3.47,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 8,
+   "nome": "Limpador Perfumado",
+   "marcas": [
+    "Uau"
+   ],
+   "tamanho": "1,8 Litro",
+   "preco": 9.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 8,
+   "nome": "Veja Perfumes da Natureza",
+   "marcas": [
+    "Veja"
+   ],
+   "tamanho": "1 Litro",
+   "preco": 6.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 8,
+   "nome": "Limpador Casa & Perfume",
+   "marcas": [
+    "Casa & Perfume"
+   ],
+   "tamanho": "500ml",
+   "preco": 3.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 8,
+   "nome": "Limpador Perfumado",
+   "marcas": [
+    "Casaflor"
+   ],
+   "tamanho": "500ml",
+   "preco": 2.47,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 8,
+   "nome": "Limpador Perfumado",
+   "marcas": [
+    "Zulu"
+   ],
+   "tamanho": "500ml",
+   "preco": 2.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 8,
+   "nome": "Desinfetante Pinho",
+   "marcas": [
+    "Uau"
+   ],
+   "tamanho": "500ml",
+   "preco": 2.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 8,
+   "nome": "Água Sanitária",
+   "marcas": [
+    "Vex"
+   ],
+   "tamanho": "2 Litros",
+   "preco": 3.49,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 8,
+   "nome": "Desinfetante",
+   "marcas": [
+    "Urca"
+   ],
+   "tamanho": "2 Litros",
+   "preco": 5.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 8,
+   "nome": "Limpador Gel",
+   "marcas": [
+    "Inspira"
+   ],
+   "tamanho": "500ml",
+   "preco": 7.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 8,
+   "nome": "Lustra-Móveis",
+   "marcas": [
+    "Uau"
+   ],
+   "tamanho": "200ml",
+   "preco": 4.77,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 8,
+   "nome": "Detergente",
+   "marcas": [
+    "Odd"
+   ],
+   "tamanho": "500ml",
+   "preco": 2.19,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 8,
+   "nome": "Inseticida",
+   "marcas": [
+    "Pró Inset"
+   ],
+   "tamanho": "350ml",
+   "preco": 8.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 8,
+   "nome": "Repelente",
+   "marcas": [
+    "Vazzal Mosquito"
+   ],
+   "tamanho": "200ml",
+   "preco": 14.9,
+   "condicao": "cada; exceto Kids"
+  },
+  {
+   "pagina": 9,
+   "nome": "Shampoo 375ml + Condicionador 170ml",
+   "marcas": [
+    "Ox"
+   ],
+   "tamanho": "",
+   "preco": 19.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 9,
+   "nome": "Kit Shampoo 350ml + Condicionador 175ml ou Kit Shampoo 375ml + Condicionador 170ml",
+   "marcas": [
+    "Pantene",
+    "Elseve"
+   ],
+   "tamanho": "",
+   "preco": 28.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 9,
+   "nome": "Óleo Extraordinário 100ml",
+   "marcas": [
+    "Elseve"
+   ],
+   "tamanho": "100ml",
+   "preco": 29.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 9,
+   "nome": "Kit Shampoo 300ml + Condicionador 200ml ou Shampoo 325ml + Condicionador 200ml",
+   "marcas": [
+    "Kolene",
+    "Skala"
+   ],
+   "tamanho": "",
+   "preco": 11.9
+  },
+  {
+   "pagina": 9,
+   "nome": "Kit Vult Shampoo + Condicionador 200ml",
+   "marcas": [
+    "Vult"
+   ],
+   "tamanho": "200ml",
+   "preco": 15.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 9,
+   "nome": "Óleo de Nutrição 120ml",
+   "marcas": [
+    "Ox"
+   ],
+   "tamanho": "120ml",
+   "preco": 24.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 9,
+   "nome": "Shampoo 400ml",
+   "marcas": [
+    "Ox"
+   ],
+   "tamanho": "400ml",
+   "preco": 18.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 9,
+   "nome": "Máscara de Tratamento 300g",
+   "marcas": [
+    "Ox"
+   ],
+   "tamanho": "300g",
+   "preco": 18.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 9,
+   "nome": "Sérum Capilar 100ml",
+   "marcas": [
+    "Elseve"
+   ],
+   "tamanho": "100ml",
+   "preco": 39.9,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 9,
+   "nome": "Shampoo Exc. Antikaspa 400ml",
+   "marcas": [
+    "Elseve"
+   ],
+   "tamanho": "400ml",
+   "preco": 19.98,
+   "condicao": "cada",
+   "duvida": "Nome do shampoo pode ser Collagen Lifter; encarte lista Shampoo Elseve (Exc. Antikaspa) 400ml"
+  },
+  {
+   "pagina": 9,
+   "nome": "Creme de Tratamento 300g",
+   "marcas": [
+    "Elseve"
+   ],
+   "tamanho": "300g",
+   "preco": 24.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 9,
+   "nome": "Shampoo 300ml + Condicionador 190ml",
+   "marcas": [
+    "Seda"
+   ],
+   "tamanho": "",
+   "preco": 15.98
+  },
+  {
+   "pagina": 9,
+   "nome": "Água Micelar 200ml",
+   "marcas": [
+    "L'Oréal Paris"
+   ],
+   "tamanho": "200ml",
+   "preco": 17.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 9,
+   "nome": "Máscara 250g",
+   "marcas": [
+    "Siàge"
+   ],
+   "tamanho": "250g",
+   "preco": 69.9,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 9,
+   "nome": "Shampoo 250ml",
+   "marcas": [
+    "Siàge"
+   ],
+   "tamanho": "250ml",
+   "preco": 39.9,
+   "de": 45.99,
+   "duvida": "Preço 'De' parcialmente legível (45,99)"
+  },
+  {
+   "pagina": 9,
+   "nome": "Kit Shampoo + Condicionador 500ml",
+   "marcas": [
+    "Inoar"
+   ],
+   "tamanho": "500ml",
+   "preco": 29.9,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 9,
+   "nome": "Shampoo Colágeno 510ml",
+   "marcas": [
+    "Pantene"
+   ],
+   "tamanho": "510ml",
+   "preco": 29.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 9,
+   "nome": "Leave-In Bond Repair 50ml",
+   "marcas": [
+    "Dove"
+   ],
+   "tamanho": "50ml",
+   "preco": 17.9
+  },
+  {
+   "pagina": 9,
+   "nome": "Shampoo 350ml",
+   "marcas": [
+    "Dove"
+   ],
+   "tamanho": "350ml",
+   "preco": 19.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 9,
+   "nome": "Óleo Repair 110ml",
+   "marcas": [
+    "Dove"
+   ],
+   "tamanho": "110ml",
+   "preco": 27.98
+  },
+  {
+   "pagina": 9,
+   "nome": "Shampoo 400ml",
+   "marcas": [
+    "Pantene"
+   ],
+   "tamanho": "400ml",
+   "preco": 19.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 9,
+   "nome": "Óleo Milagroso 95ml",
+   "marcas": [
+    "Pantene"
+   ],
+   "tamanho": "95ml",
+   "preco": 24.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 9,
+   "nome": "Kit Shampoo 250ml + Condicionador 125ml",
+   "marcas": [
+    "Siàge"
+   ],
+   "tamanho": "",
+   "preco": 69.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 9,
+   "nome": "Kit Shampoo + Creme Multifuncional 320ml",
+   "marcas": [
+    "Yamasterol"
+   ],
+   "tamanho": "320ml",
+   "preco": 16.99
+  },
+  {
+   "pagina": 9,
+   "nome": "Kit Shampoo + Cond. 250ml + Sérum 65ml",
+   "marcas": [
+    "Cadiveu"
+   ],
+   "tamanho": "",
+   "preco": 59.9,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 9,
+   "nome": "Creme de Tratamento Intensivo ou p/ Pentear Keraform",
+   "marcas": [
+    "Skafe"
+   ],
+   "tamanho": "1kg",
+   "preco": 12.75,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 9,
+   "nome": "Creme de Tratamento 1kg",
+   "marcas": [
+    "Skala"
+   ],
+   "tamanho": "1kg",
+   "preco": 9.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 9,
+   "nome": "Shampoo 250ml",
+   "marcas": [
+    "Lola Morte Súbita"
+   ],
+   "tamanho": "250ml",
+   "preco": 29.9,
+   "duvida": "Três preços para Shampoo, Spray e Máscara; associação pela ordem"
+  },
+  {
+   "pagina": 9,
+   "nome": "Spray Capilar 250ml",
+   "marcas": [
+    "Lola Morte Súbita"
+   ],
+   "tamanho": "250ml",
+   "preco": 29.9,
+   "duvida": "Associação de preço pela ordem"
+  },
+  {
+   "pagina": 9,
+   "nome": "Máscara Capilar 450g",
+   "marcas": [
+    "Lola Morte Súbita"
+   ],
+   "tamanho": "450g",
+   "preco": 49.9,
+   "duvida": "Associação de preço pela ordem"
+  },
+  {
+   "pagina": 9,
+   "nome": "Coloração",
+   "marcas": [
+    "Cor&Ton"
+   ],
+   "tamanho": "",
+   "preco": 11.98
+  },
+  {
+   "pagina": 9,
+   "nome": "Coloração Imédia Excellence (Exc. Tons Vermelhos)",
+   "marcas": [
+    "L'Oréal"
+   ],
+   "tamanho": "",
+   "preco": 29.98,
+   "condicao": "cada; exceto tons vermelhos"
+  },
+  {
+   "pagina": 9,
+   "nome": "Sabonete Líquido Facial Pele de Porcelana 190ml",
+   "marcas": [
+    "Kokeshi"
+   ],
+   "tamanho": "190ml",
+   "preco": 39.9,
+   "clube": 33.9,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 9,
+   "nome": "Creme Gel Facial Gota de Colágeno 45g",
+   "marcas": [
+    "Kokeshi"
+   ],
+   "tamanho": "45g",
+   "preco": 34.9,
+   "clube": 25.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 9,
+   "nome": "Hidratante Facial Pele de Porcelana 30g",
+   "marcas": [
+    "Kokeshi"
+   ],
+   "tamanho": "30g",
+   "preco": 29.9,
+   "clube": 24.9,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 9,
+   "nome": "Hidratante Renov Olhos de Gueixa 15g",
+   "marcas": [
+    "Kokeshi"
+   ],
+   "tamanho": "15g",
+   "preco": 25.9,
+   "clube": 18.9,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 9,
+   "nome": "Óleo de Rosa Mosqueta 20ml",
+   "marcas": [
+    "Kokeshi"
+   ],
+   "tamanho": "20ml",
+   "preco": 39.9,
+   "clube": 29.9,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 10,
+   "nome": "Antisséptico Bucal Leve 500ml Pague 350ml",
+   "marcas": [
+    "Cepacol"
+   ],
+   "tamanho": "500ml",
+   "preco": 11.98,
+   "condicao": "Leve 500ml, pague 350ml"
+  },
+  {
+   "pagina": 10,
+   "nome": "Antisséptico Bucal Leve 500ml Pague 300ml",
+   "marcas": [
+    "Oral-B"
+   ],
+   "tamanho": "500ml",
+   "preco": 16.98,
+   "condicao": "Leve 500ml, pague 300ml"
+  },
+  {
+   "pagina": 10,
+   "nome": "Sabonete (Exc. Creme Care)",
+   "marcas": [
+    "Nivea"
+   ],
+   "tamanho": "85g",
+   "preco": 1.99,
+   "condicao": "exceto Creme Care"
+  },
+  {
+   "pagina": 10,
+   "nome": "Escova Dental Premier Clean",
+   "marcas": [
+    "Colgate"
+   ],
+   "tamanho": "",
+   "preco": 2.39
+  },
+  {
+   "pagina": 10,
+   "nome": "Escova Dental Power Dent",
+   "marcas": [],
+   "tamanho": "",
+   "preco": 1.19,
+   "clube": 0.89,
+   "duvida": "Marca não legível; preço do Guana Clube 0,89"
+  },
+  {
+   "pagina": 10,
+   "nome": "Sabonete",
+   "marcas": [
+    "Dove"
+   ],
+   "tamanho": "90g",
+   "preco": 3.99
+  },
+  {
+   "pagina": 10,
+   "nome": "Sabonete Pack c/ 6 Unids.",
+   "marcas": [
+    "Dove"
+   ],
+   "tamanho": "c/6 unidades",
+   "preco": 22.74,
+   "condicao": "cada unidade sai por 3,79"
+  },
+  {
+   "pagina": 10,
+   "nome": "Creme Dental Tripla Ação",
+   "marcas": [
+    "Colgate"
+   ],
+   "tamanho": "180g",
+   "preco": 6.88,
+   "condicao": "nesta embalagem 90g saem por 3,44"
+  },
+  {
+   "pagina": 10,
+   "nome": "Creme Dental MPA",
+   "marcas": [
+    "Colgate"
+   ],
+   "tamanho": "120g",
+   "preco": 5.79
+  },
+  {
+   "pagina": 10,
+   "nome": "Creme Dental 12.3 150g Leve Mais Pague Menos",
+   "marcas": [
+    "Oral-B"
+   ],
+   "tamanho": "150g",
+   "preco": 4.99,
+   "condicao": "Leve mais, pague menos"
+  },
+  {
+   "pagina": 10,
+   "nome": "Sabonete",
+   "marcas": [
+    "Farnese"
+   ],
+   "tamanho": "85g",
+   "preco": 1.19
+  },
+  {
+   "pagina": 10,
+   "nome": "Sabonete",
+   "marcas": [
+    "Albany"
+   ],
+   "tamanho": "80g",
+   "preco": 1.49
+  },
+  {
+   "pagina": 10,
+   "nome": "Sabonete Gelato",
+   "marcas": [
+    "Albany"
+   ],
+   "tamanho": "80g",
+   "preco": 1.79
+  },
+  {
+   "pagina": 10,
+   "nome": "Creme Dental Sensodyne",
+   "marcas": [
+    "Sensodyne"
+   ],
+   "tamanho": "90g",
+   "preco": 14.98
+  },
+  {
+   "pagina": 10,
+   "nome": "Creme Dental Sorriso Tripla Limpeza Completa",
+   "marcas": [
+    "Sorriso"
+   ],
+   "tamanho": "120g",
+   "preco": 3.49
+  },
+  {
+   "pagina": 10,
+   "nome": "Creme Dental Total",
+   "marcas": [
+    "Colgate"
+   ],
+   "tamanho": "180g",
+   "preco": 14.49
+  },
+  {
+   "pagina": 10,
+   "nome": "Sabonete",
+   "marcas": [
+    "Above"
+   ],
+   "tamanho": "75g",
+   "preco": 2.99,
+   "duvida": "Marca lida como Above/Bove"
+  },
+  {
+   "pagina": 10,
+   "nome": "Sabonete",
+   "marcas": [
+    "Farnese"
+   ],
+   "tamanho": "180g",
+   "preco": 2.79
+  },
+  {
+   "pagina": 10,
+   "nome": "Sabonete Brasilidades Água de Coco",
+   "marcas": [
+    "Francis"
+   ],
+   "tamanho": "80g",
+   "preco": 2.39
+  },
+  {
+   "pagina": 10,
+   "nome": "Sabonete Intenso",
+   "marcas": [
+    "Francis"
+   ],
+   "tamanho": "80g",
+   "preco": 1.99
+  },
+  {
+   "pagina": 10,
+   "nome": "Body Splash",
+   "marcas": [
+    "Barbour's"
+   ],
+   "tamanho": "200ml",
+   "preco": 39.9,
+   "clube": 29.9,
+   "condicao": "Guana Clube"
+  },
+  {
+   "pagina": 10,
+   "nome": "Água Micelar",
+   "marcas": [
+    "L'Oréal Paris"
+   ],
+   "tamanho": "200ml",
+   "preco": 17.98
+  },
+  {
+   "pagina": 10,
+   "nome": "Água Micelar",
+   "marcas": [
+    "Nivea"
+   ],
+   "tamanho": "200ml",
+   "preco": 17.98
+  },
+  {
+   "pagina": 10,
+   "nome": "Sabonete Líquido Gel Pele Mista e Oleosa",
+   "marcas": [
+    "Nivea"
+   ],
+   "tamanho": "140g",
+   "preco": 26.99
+  },
+  {
+   "pagina": 10,
+   "nome": "Hidratante",
+   "marcas": [
+    "Monange",
+    "Paixão"
+   ],
+   "tamanho": "200ml",
+   "preco": 7.99
+  },
+  {
+   "pagina": 10,
+   "nome": "Sabonete Líquido Refil",
+   "marcas": [
+    "Lux"
+   ],
+   "tamanho": "200ml",
+   "preco": 6.99
+  },
+  {
+   "pagina": 10,
+   "nome": "Sabonete Líquido Refil",
+   "marcas": [
+    "Nivea"
+   ],
+   "tamanho": "200ml",
+   "preco": 6.99
+  },
+  {
+   "pagina": 10,
+   "nome": "Sabonete Líquido",
+   "marcas": [
+    "Coala"
+   ],
+   "tamanho": "500ml",
+   "preco": 12.9
+  },
+  {
+   "pagina": 10,
+   "nome": "Sabonete Líquido Óleo de Banho",
+   "marcas": [
+    "Nivea"
+   ],
+   "tamanho": "200ml",
+   "preco": 29.98
+  },
+  {
+   "pagina": 10,
+   "nome": "Sabonete Líquido",
+   "marcas": [
+    "Zarb"
+   ],
+   "tamanho": "250ml",
+   "preco": 3.79
+  },
+  {
+   "pagina": 10,
+   "nome": "Desodorante Roll-On",
+   "marcas": [
+    "Dove"
+   ],
+   "tamanho": "50ml",
+   "preco": 9.98
+  },
+  {
+   "pagina": 10,
+   "nome": "Desodorante Roll-On",
+   "marcas": [
+    "Nivea"
+   ],
+   "tamanho": "50ml",
+   "preco": 8.99
+  },
+  {
+   "pagina": 10,
+   "nome": "Desodorante Roll-On",
+   "marcas": [
+    "DryOn"
+   ],
+   "tamanho": "85ml",
+   "preco": 7.9
+  },
+  {
+   "pagina": 10,
+   "nome": "Desodorante Aerossol",
+   "marcas": [
+    "Dryon"
+   ],
+   "tamanho": "250ml",
+   "preco": 13.98,
+   "condicao": "nesta embalagem 150ml saem por 8,39"
+  },
+  {
+   "pagina": 10,
+   "nome": "Desodorante Aerossol (Exc. Clinical)",
+   "marcas": [
+    "Rexona"
+   ],
+   "tamanho": "150ml",
+   "preco": 12.9,
+   "condicao": "exceto Clinical"
+  },
+  {
+   "pagina": 10,
+   "nome": "Desodorante Aerossol (Exc. Deep e Dermild)",
+   "marcas": [
+    "Nivea"
+   ],
+   "tamanho": "150ml",
+   "preco": 9.99,
+   "condicao": "exceto Deep e Dermild"
+  },
+  {
+   "pagina": 10,
+   "nome": "Desodorante Aerossol",
+   "marcas": [
+    "Monange"
+   ],
+   "tamanho": "150ml",
+   "preco": 7.99
+  },
+  {
+   "pagina": 10,
+   "nome": "Desodorante Aerossol",
+   "marcas": [
+    "Giovanna Baby"
+   ],
+   "tamanho": "150ml",
+   "preco": 7.99
+  },
+  {
+   "pagina": 10,
+   "nome": "Absorvente Básico Suave c/ 8 Unids.",
+   "marcas": [
+    "Always"
+   ],
+   "tamanho": "c/8 unidades",
+   "preco": 3.49
+  },
+  {
+   "pagina": 10,
+   "nome": "Absorvente Gel Noturno c/ 8 Unids.",
+   "marcas": [
+    "Intimus"
+   ],
+   "tamanho": "c/8 unidades",
+   "preco": 4.98
+  },
+  {
+   "pagina": 10,
+   "nome": "Absorvente Gel Seca ou Suave c/ 8 Unids.",
+   "marcas": [
+    "Intimus"
+   ],
+   "tamanho": "c/8 unidades",
+   "preco": 3.49
+  },
+  {
+   "pagina": 10,
+   "nome": "Absorvente Active Suave c/ 16 Unids.",
+   "marcas": [
+    "Diana"
+   ],
+   "tamanho": "c/16 unidades",
+   "preco": 5.98,
+   "condicao": "nesta embalagem 8 unids. saem por 2,99"
+  },
+  {
+   "pagina": 10,
+   "nome": "Absorvente Noturno c/ 16 Unids.",
+   "marcas": [
+    "Diana"
+   ],
+   "tamanho": "c/16 unidades",
+   "preco": 8.98,
+   "condicao": "nesta embalagem 8 unids. saem por 4,49"
+  },
+  {
+   "pagina": 11,
+   "nome": "Shampoo Baby",
+   "marcas": [
+    "Johnson's"
+   ],
+   "tamanho": "400ml",
+   "preco": 17.98,
+   "de": 22.9,
+   "duvida": "Preço 'De' parcialmente legível (22,90)"
+  },
+  {
+   "pagina": 11,
+   "nome": "Sabonete Líquido Glicerinado Bebê",
+   "marcas": [
+    "Granado"
+   ],
+   "tamanho": "250ml",
+   "preco": 14.98,
+   "de": 19.98,
+   "duvida": "Preço 'De' parcialmente legível"
+  },
+  {
+   "pagina": 11,
+   "nome": "Shampoo Extra Suave ou Camomila",
+   "marcas": [
+    "Huggies"
+   ],
+   "tamanho": "200ml",
+   "preco": 9.98,
+   "de": 11.99,
+   "duvida": "Preço 'De' parcialmente legível"
+  },
+  {
+   "pagina": 11,
+   "nome": "Sabonete",
+   "marcas": [
+    "Huggies"
+   ],
+   "tamanho": "75g",
+   "preco": 1.99,
+   "de": 2.69
+  },
+  {
+   "pagina": 11,
+   "nome": "Sabonete Líquido Refil",
+   "marcas": [
+    "Huggies"
+   ],
+   "tamanho": "200ml",
+   "preco": 6.99,
+   "de": 8.98,
+   "duvida": "Preço 'De' parcialmente legível"
+  },
+  {
+   "pagina": 11,
+   "nome": "Sabonete Líquido",
+   "marcas": [
+    "Blá-Blá-Blá"
+   ],
+   "tamanho": "250ml",
+   "preco": 4.99
+  },
+  {
+   "pagina": 11,
+   "nome": "Shampoo 250ml ou Talco 100g Bebê",
+   "marcas": [
+    "Granado"
+   ],
+   "tamanho": "",
+   "preco": 15.99,
+   "clube": 14.98
+  },
+  {
+   "pagina": 11,
+   "nome": "Shampoo, Condicionador ou Creme de Pentear Juntinhos",
+   "marcas": [
+    "Seda"
+   ],
+   "tamanho": "300ml",
+   "preco": 10.99,
+   "clube": 9.98
+  },
+  {
+   "pagina": 11,
+   "nome": "Sabonete",
+   "marcas": [
+    "Pompom"
+   ],
+   "tamanho": "70g",
+   "preco": 1.99
+  },
+  {
+   "pagina": 11,
+   "nome": "Shampoo",
+   "marcas": [
+    "Pompom"
+   ],
+   "tamanho": "200ml",
+   "preco": 8.99,
+   "clube": 6.99
+  },
+  {
+   "pagina": 11,
+   "nome": "Sabonete Baby",
+   "marcas": [
+    "Dove"
+   ],
+   "tamanho": "75g",
+   "preco": 4.89
+  },
+  {
+   "pagina": 11,
+   "nome": "Shampoo Baby",
+   "marcas": [
+    "Dove"
+   ],
+   "tamanho": "200ml",
+   "preco": 11.99
+  },
+  {
+   "pagina": 11,
+   "nome": "Shampoo Baby",
+   "marcas": [
+    "Dove"
+   ],
+   "tamanho": "400ml",
+   "preco": 19.98
+  },
+  {
+   "pagina": 11,
+   "nome": "Shampoo Cachinhos",
+   "marcas": [
+    "Kolene"
+   ],
+   "tamanho": "300ml",
+   "preco": 9.99
+  },
+  {
+   "pagina": 11,
+   "nome": "Gelatina Cachinhos",
+   "marcas": [
+    "Kolene"
+   ],
+   "tamanho": "500g",
+   "preco": 17.98
+  },
+  {
+   "pagina": 11,
+   "nome": "Shampoo, Condicionador ou Creme de Manutenção Intensiva Kids",
+   "marcas": [
+    "Skafe"
+   ],
+   "tamanho": "300ml",
+   "preco": 7.99,
+   "duvida": "Marca e preço pouco nítidos"
+  },
+  {
+   "pagina": 11,
+   "nome": "Sabonete Nenen Sachê",
+   "marcas": [
+    "Flora"
+   ],
+   "tamanho": "80g",
+   "preco": 1.99
+  },
+  {
+   "pagina": 11,
+   "nome": "Sabonete Líquido Flora Nenen Sachê",
+   "marcas": [
+    "Flora"
+   ],
+   "tamanho": "250ml",
+   "preco": 4.99,
+   "clube": 3.99
+  },
+  {
+   "pagina": 11,
+   "nome": "Shampoo",
+   "marcas": [
+    "Baruel"
+   ],
+   "tamanho": "400ml",
+   "preco": 13.98
+  },
+  {
+   "pagina": 11,
+   "nome": "Sabonete Líquido",
+   "marcas": [
+    "Baruel"
+   ],
+   "tamanho": "400ml",
+   "preco": 14.98
+  },
+  {
+   "pagina": 11,
+   "nome": "Kit Shampoo + Condicionador Cheirinho de Bebê",
+   "marcas": [],
+   "tamanho": "210ml",
+   "preco": 19.98,
+   "clube": 17.98
+  },
+  {
+   "pagina": 11,
+   "nome": "Kit Blá-Blá-Blá",
+   "marcas": [],
+   "tamanho": "300ml",
+   "preco": 13.98,
+   "clube": 10.99
+  },
+  {
+   "pagina": 11,
+   "nome": "Kit Shampoo 480ml + Condicionador 250ml",
+   "marcas": [
+    "Trá Lá Lá"
+   ],
+   "tamanho": "",
+   "preco": 17.99
+  },
+  {
+   "pagina": 11,
+   "nome": "Kit Shampoo + Condicionador Kids",
+   "marcas": [
+    "Palmolive"
+   ],
+   "tamanho": "315ml",
+   "preco": 29.99
+  },
+  {
+   "pagina": 11,
+   "nome": "Desodorante Roll-On",
+   "marcas": [
+    "Trá Lá Lá"
+   ],
+   "tamanho": "65ml",
+   "preco": 11.9
+  },
+  {
+   "pagina": 11,
+   "nome": "Hastes Flexíveis c/75 unidades",
+   "marcas": [
+    "Topz"
+   ],
+   "tamanho": "c/75 unidades",
+   "preco": 1.39,
+   "clube": 1.19
+  },
+  {
+   "pagina": 11,
+   "nome": "Enxaguante Bucal",
+   "marcas": [
+    "Carmed"
+   ],
+   "tamanho": "250ml",
+   "preco": 19.98,
+   "condicao": "Leve 2 pague 1, nesta promoção cada unidade sai por 9,99"
+  },
+  {
+   "pagina": 11,
+   "nome": "Gel Dental",
+   "marcas": [
+    "Carmed"
+   ],
+   "tamanho": "70g",
+   "preco": 19.98,
+   "condicao": "Leve 2 pague 1, nesta promoção cada unidade sai por 9,99"
+  },
+  {
+   "pagina": 11,
+   "nome": "Gel Dental Harry Potter",
+   "marcas": [
+    "Colgate"
+   ],
+   "tamanho": "100g",
+   "preco": 13.99
+  },
+  {
+   "pagina": 11,
+   "nome": "Escova Dental Harry Potter",
+   "marcas": [
+    "Colgate"
+   ],
+   "tamanho": "c/4 unidades",
+   "preco": 29.99
+  },
+  {
+   "pagina": 11,
+   "nome": "Escova Dental",
+   "marcas": [
+    "Dr. Rabbit"
+   ],
+   "tamanho": "",
+   "preco": 6.99
+  },
+  {
+   "pagina": 11,
+   "nome": "Toalhas Umedecidas",
+   "marcas": [
+    "BabyLimp"
+   ],
+   "tamanho": "c/50 unidades",
+   "preco": 3.99,
+   "clube": 2.99
+  },
+  {
+   "pagina": 11,
+   "nome": "Toalhas Umedecidas F/T",
+   "marcas": [
+    "BabyLimp"
+   ],
+   "tamanho": "c/50 unidades",
+   "preco": 3.99,
+   "de": 4.99
+  },
+  {
+   "pagina": 11,
+   "nome": "Toalhas Umedecidas",
+   "marcas": [
+    "Babysec"
+   ],
+   "tamanho": "c/48 unidades",
+   "preco": 4.99,
+   "de": 7.49
+  },
+  {
+   "pagina": 11,
+   "nome": "Toalhas Umedecidas",
+   "marcas": [
+    "Huggies"
+   ],
+   "tamanho": "c/48 unidades",
+   "preco": 7.99,
+   "de": 10.98
+  },
+  {
+   "pagina": 11,
+   "nome": "Creme para Assaduras",
+   "marcas": [
+    "Hipoglós"
+   ],
+   "tamanho": "40g",
+   "preco": 21.98
+  },
+  {
+   "pagina": 11,
+   "nome": "Creme para Assaduras Regular",
+   "marcas": [
+    "Huggies"
+   ],
+   "tamanho": "80g",
+   "preco": 13.99,
+   "de": 17.99
+  },
+  {
+   "pagina": 11,
+   "nome": "Creme para Assaduras",
+   "marcas": [
+    "Lukinha"
+   ],
+   "tamanho": "90g",
+   "preco": 10.9,
+   "de": 12.99
+  },
+  {
+   "pagina": 12,
+   "nome": "Fralda Descartável Confort Sec Giga",
+   "marcas": [
+    "Pampers"
+   ],
+   "tamanho": "M 70 unidades",
+   "preco": 79.9,
+   "de": 99.9,
+   "condicao": "cada; leve mais pague menos",
+   "duvida": "De: parcialmente legível (99,90)"
+  },
+  {
+   "pagina": 12,
+   "nome": "Fralda Descartável Rápida Absorção",
+   "marcas": [
+    "Huggies"
+   ],
+   "tamanho": "",
+   "preco": 12.65,
+   "de": 14.98,
+   "condicao": "cada",
+   "duvida": "Preço De parcialmente legível; tamanho não legível"
+  },
+  {
+   "pagina": 12,
+   "nome": "Fralda Descartável Turma da Mônica Baby Jumbo",
+   "marcas": [],
+   "tamanho": "",
+   "preco": 15.98,
+   "de": 18.98,
+   "condicao": "cada",
+   "duvida": "Preço De pouco nítido"
+  },
+  {
+   "pagina": 12,
+   "nome": "Fralda Descartável Premium Mega",
+   "marcas": [
+    "Babysec"
+   ],
+   "tamanho": "",
+   "preco": 29.98,
+   "de": 36.98,
+   "condicao": "cada",
+   "duvida": "Preço De pouco nítido"
+  },
+  {
+   "pagina": 12,
+   "nome": "Fralda Descartável Shortinho Hiper",
+   "marcas": [
+    "Babysec"
+   ],
+   "tamanho": "",
+   "preco": 59.9,
+   "de": 68.9,
+   "condicao": "cada",
+   "duvida": "Preço De pouco nítido"
+  },
+  {
+   "pagina": 12,
+   "nome": "Fralda Descartável Máxima Proteção ou Pants Proteção Acolchoada",
+   "marcas": [
+    "Huggies"
+   ],
+   "tamanho": "",
+   "preco": 19.98,
+   "de": 22.98,
+   "condicao": "cada",
+   "duvida": "Preço De pouco nítido; não está claro se o preço vale para os dois produtos"
+  },
+  {
+   "pagina": 12,
+   "nome": "Fralda Descartável Jumbinho",
+   "marcas": [
+    "Looney Tunes",
+    "Looping"
+   ],
+   "tamanho": "",
+   "preco": 9.98,
+   "de": 12.98,
+   "condicao": "cada",
+   "duvida": "Preço De pouco nítido"
+  },
+  {
+   "pagina": 12,
+   "nome": "Sabonete",
+   "marcas": [
+    "Pompom",
+    "Huggies"
+   ],
+   "tamanho": "70g ou 75g",
+   "preco": 1.99,
+   "de": 2.69,
+   "condicao": "cada",
+   "duvida": "Preço De pouco nítido"
+  },
+  {
+   "pagina": 12,
+   "nome": "Fralda Descartável Premium Mega",
+   "marcas": [
+    "Personal Baby"
+   ],
+   "tamanho": "",
+   "preco": 29.98
+  },
+  {
+   "pagina": 12,
+   "nome": "Fralda Descartável Ultrasec Shortinho Jumbinho",
+   "marcas": [
+    "Babysec"
+   ],
+   "tamanho": "",
+   "preco": 15.98,
+   "de": 19.98,
+   "duvida": "Preço De pouco nítido"
+  },
+  {
+   "pagina": 12,
+   "nome": "Fralda Descartável Hiper",
+   "marcas": [
+    "Looney Tunes",
+    "Looping"
+   ],
+   "tamanho": "",
+   "preco": 29.98,
+   "de": 39.98,
+   "condicao": "grátis 5",
+   "duvida": "Preço De pouco nítido"
+  },
+  {
+   "pagina": 12,
+   "nome": "Sabonete Líquido Glicerinado Bebê",
+   "marcas": [
+    "Granado"
+   ],
+   "tamanho": "250ml",
+   "preco": 14.98,
+   "de": 18.98,
+   "condicao": "cada",
+   "duvida": "Preço De pouco nítido"
+  },
+  {
+   "pagina": 12,
+   "nome": "Shampoo Baby",
+   "marcas": [
+    "Johnson's"
+   ],
+   "tamanho": "400ml",
+   "preco": 17.98,
+   "de": 22.9,
+   "condicao": "cada",
+   "duvida": "Preço De pouco nítido"
+  },
+  {
+   "pagina": 12,
+   "nome": "Shampoo Extra Suave ou Camomila",
+   "marcas": [
+    "Huggies"
+   ],
+   "tamanho": "200ml",
+   "preco": 9.98,
+   "de": 11.99,
+   "condicao": "cada",
+   "duvida": "Preço De pouco nítido"
+  },
+  {
+   "pagina": 12,
+   "nome": "Sabonete Líquido Refil",
+   "marcas": [
+    "Huggies"
+   ],
+   "tamanho": "200ml",
+   "preco": 6.99,
+   "de": 8.98,
+   "duvida": "Preço De pouco nítido"
+  },
+  {
+   "pagina": 12,
+   "nome": "Hastes Flexíveis",
+   "marcas": [
+    "Topz"
+   ],
+   "tamanho": "c/75 unidades",
+   "preco": 1.39,
+   "clube": 1.19,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 12,
+   "nome": "Toalhas Umedecidas",
+   "marcas": [
+    "Huggies"
+   ],
+   "tamanho": "c/48 unidades",
+   "preco": 7.99,
+   "de": 10.98,
+   "condicao": "cada",
+   "duvida": "Preço De pouco nítido"
+  },
+  {
+   "pagina": 12,
+   "nome": "Toalhas Umedecidas F/T",
+   "marcas": [
+    "BabyLimp"
+   ],
+   "tamanho": "c/50 unidades",
+   "preco": 3.99,
+   "de": 4.99
+  },
+  {
+   "pagina": 12,
+   "nome": "Toalhas Umedecidas",
+   "marcas": [
+    "BabyLimp"
+   ],
+   "tamanho": "c/50 unidades",
+   "preco": 3.99,
+   "clube": 2.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 12,
+   "nome": "Creme para Assaduras Regular",
+   "marcas": [
+    "Huggies"
+   ],
+   "tamanho": "80g",
+   "preco": 13.99,
+   "de": 17.99,
+   "condicao": "cada",
+   "duvida": "Preço De pouco nítido"
+  },
+  {
+   "pagina": 12,
+   "nome": "Amaciante Baby Ruth Care",
+   "marcas": [
+    "Ruth"
+   ],
+   "tamanho": "1 Litro",
+   "preco": 4.99,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 12,
+   "nome": "Lava-Roupas Líquido Baby Ruth",
+   "marcas": [
+    "Ruth"
+   ],
+   "tamanho": "1 Litro",
+   "preco": 7.99,
+   "condicao": "cada"
+  }
+ ]
+}

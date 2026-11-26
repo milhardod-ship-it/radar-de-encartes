@@ -1,0 +1,293 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-25",
+ "itens": [
+  {
+   "nome": "Fralda Descartável Confort Sec Giga",
+   "marcas": [
+    "Pampers"
+   ],
+   "tamanho": "M 70 unidades",
+   "preco": 79.9,
+   "de": 99.9,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada; leve mais pague menos",
+   "duvida": "De: parcialmente legível (99,90)"
+  },
+  {
+   "nome": "Fralda Descartável Rápida Absorção",
+   "marcas": [
+    "Huggies"
+   ],
+   "tamanho": "",
+   "preco": 12.65,
+   "de": 14.98,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": "Preço De parcialmente legível; tamanho não legível"
+  },
+  {
+   "nome": "Fralda Descartável Turma da Mônica Baby Jumbo",
+   "marcas": [],
+   "tamanho": "",
+   "preco": 15.98,
+   "de": 18.98,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": "Preço De pouco nítido"
+  },
+  {
+   "nome": "Fralda Descartável Premium Mega",
+   "marcas": [
+    "Babysec"
+   ],
+   "tamanho": "",
+   "preco": 29.98,
+   "de": 36.98,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": "Preço De pouco nítido"
+  },
+  {
+   "nome": "Fralda Descartável Shortinho Hiper",
+   "marcas": [
+    "Babysec"
+   ],
+   "tamanho": "",
+   "preco": 59.9,
+   "de": 68.9,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": "Preço De pouco nítido"
+  },
+  {
+   "nome": "Fralda Descartável Máxima Proteção ou Pants Proteção Acolchoada",
+   "marcas": [
+    "Huggies"
+   ],
+   "tamanho": "",
+   "preco": 19.98,
+   "de": 22.98,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": "Preço De pouco nítido; não está claro se o preço vale para os dois produtos"
+  },
+  {
+   "nome": "Fralda Descartável Jumbinho",
+   "marcas": [
+    "Looney Tunes",
+    "Looping"
+   ],
+   "tamanho": "",
+   "preco": 9.98,
+   "de": 12.98,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": "Preço De pouco nítido"
+  },
+  {
+   "nome": "Sabonete",
+   "marcas": [
+    "Pompom",
+    "Huggies"
+   ],
+   "tamanho": "70g ou 75g",
+   "preco": 1.99,
+   "de": 2.69,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": "Preço De pouco nítido"
+  },
+  {
+   "nome": "Fralda Descartável Premium Mega",
+   "marcas": [
+    "Personal Baby"
+   ],
+   "tamanho": "",
+   "preco": 29.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Fralda Descartável Ultrasec Shortinho Jumbinho",
+   "marcas": [
+    "Babysec"
+   ],
+   "tamanho": "",
+   "preco": 15.98,
+   "de": 19.98,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Preço De pouco nítido"
+  },
+  {
+   "nome": "Fralda Descartável Hiper",
+   "marcas": [
+    "Looney Tunes",
+    "Looping"
+   ],
+   "tamanho": "",
+   "preco": 29.98,
+   "de": 39.98,
+   "clube": null,
+   "soClube": false,
+   "condicao": "grátis 5",
+   "duvida": "Preço De pouco nítido"
+  },
+  {
+   "nome": "Sabonete Líquido Glicerinado Bebê",
+   "marcas": [
+    "Granado"
+   ],
+   "tamanho": "250ml",
+   "preco": 14.98,
+   "de": 18.98,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": "Preço De pouco nítido"
+  },
+  {
+   "nome": "Shampoo Baby",
+   "marcas": [
+    "Johnson's"
+   ],
+   "tamanho": "400ml",
+   "preco": 17.98,
+   "de": 22.9,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": "Preço De pouco nítido"
+  },
+  {
+   "nome": "Shampoo Extra Suave ou Camomila",
+   "marcas": [
+    "Huggies"
+   ],
+   "tamanho": "200ml",
+   "preco": 9.98,
+   "de": 11.99,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": "Preço De pouco nítido"
+  },
+  {
+   "nome": "Sabonete Líquido Refil",
+   "marcas": [
+    "Huggies"
+   ],
+   "tamanho": "200ml",
+   "preco": 6.99,
+   "de": 8.98,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Preço De pouco nítido"
+  },
+  {
+   "nome": "Hastes Flexíveis",
+   "marcas": [
+    "Topz"
+   ],
+   "tamanho": "c/75 unidades",
+   "preco": 1.39,
+   "de": null,
+   "clube": 1.19,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Toalhas Umedecidas",
+   "marcas": [
+    "Huggies"
+   ],
+   "tamanho": "c/48 unidades",
+   "preco": 7.99,
+   "de": 10.98,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": "Preço De pouco nítido"
+  },
+  {
+   "nome": "Toalhas Umedecidas F/T",
+   "marcas": [
+    "BabyLimp"
+   ],
+   "tamanho": "c/50 unidades",
+   "preco": 3.99,
+   "de": 4.99,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Toalhas Umedecidas",
+   "marcas": [
+    "BabyLimp"
+   ],
+   "tamanho": "c/50 unidades",
+   "preco": 3.99,
+   "de": null,
+   "clube": 2.99,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Creme para Assaduras Regular",
+   "marcas": [
+    "Huggies"
+   ],
+   "tamanho": "80g",
+   "preco": 13.99,
+   "de": 17.99,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": "Preço De pouco nítido"
+  },
+  {
+   "nome": "Amaciante Baby Ruth Care",
+   "marcas": [
+    "Ruth"
+   ],
+   "tamanho": "1 Litro",
+   "preco": 4.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Lava-Roupas Líquido Baby Ruth",
+   "marcas": [
+    "Ruth"
+   ],
+   "tamanho": "1 Litro",
+   "preco": 7.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  }
+ ]
+}

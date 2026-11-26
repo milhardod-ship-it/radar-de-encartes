@@ -1,0 +1,514 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-25",
+ "itens": [
+  {
+   "nome": "Mortadela Ouro",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "kg",
+   "preco": 19.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Presunto Cozido",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "kg",
+   "preco": 25.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Mortadela Defumada",
+   "marcas": [
+    "Sadia"
+   ],
+   "tamanho": "kg",
+   "preco": 15.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Peito de Frango",
+   "marcas": [
+    "Sadia"
+   ],
+   "tamanho": "kg",
+   "preco": 35.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Salsicha Hot Dog",
+   "marcas": [
+    "Sadia"
+   ],
+   "tamanho": "kg",
+   "preco": 8.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Salsicha Hot Dog",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "kg",
+   "preco": 9.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Queijo Boia Basel",
+   "marcas": [
+    "Basel"
+   ],
+   "tamanho": "kg",
+   "preco": 59.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Salame Fatiado Tipo Italiano",
+   "marcas": [
+    "Sadia"
+   ],
+   "tamanho": "100g",
+   "preco": 13.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Margarina Tradicional",
+   "marcas": [
+    "Claybom"
+   ],
+   "tamanho": "500g",
+   "preco": 3.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Queijo Minas Trad. ou Light",
+   "marcas": [
+    "Minasbom",
+    "Barão"
+   ],
+   "tamanho": "kg",
+   "preco": 27.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "Black Friday",
+   "duvida": null
+  },
+  {
+   "nome": "Queijo Prato ou Mussarela Fatiado",
+   "marcas": [
+    "Tirolez"
+   ],
+   "tamanho": "150g",
+   "preco": 11.49,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Queijo Tipo Brie Fracionado",
+   "marcas": [
+    "Quatá"
+   ],
+   "tamanho": "125g",
+   "preco": 15.38,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Sorvete",
+   "marcas": [
+    "Lacta"
+   ],
+   "tamanho": "1,5 litro",
+   "preco": 29.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Petit Suisse",
+   "marcas": [
+    "Danoninho"
+   ],
+   "tamanho": "320g",
+   "preco": 9.79,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Requeijão Trad. ou Light",
+   "marcas": [
+    "Danone"
+   ],
+   "tamanho": "200g",
+   "preco": 7.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Creme de Ricota Trad. ou Light",
+   "marcas": [
+    "Président"
+   ],
+   "tamanho": "200g",
+   "preco": 7.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Queijo Parmesão Ralado",
+   "marcas": [
+    "Galbani"
+   ],
+   "tamanho": "50g",
+   "preco": 5.59,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Massa p/ Pastel Trad.",
+   "marcas": [
+    "Ingrid"
+   ],
+   "tamanho": "400g",
+   "preco": 5.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Batata Palito",
+   "marcas": [
+    "EasyChef"
+   ],
+   "tamanho": "2kg",
+   "preco": 15.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada; Black Friday",
+   "duvida": null
+  },
+  {
+   "nome": "Batata Palito",
+   "marcas": [
+    "Prime Fries"
+   ],
+   "tamanho": "2kg",
+   "preco": 15.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada; Black Friday",
+   "duvida": null
+  },
+  {
+   "nome": "Batata Palito Air Fryer",
+   "marcas": [
+    "McCain"
+   ],
+   "tamanho": "600g",
+   "preco": 16.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Batata Palito",
+   "marcas": [
+    "Bob's"
+   ],
+   "tamanho": "1,05kg",
+   "preco": 19.98,
+   "de": null,
+   "clube": 17.98,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": "17,98 aparece no selo Guana Clube"
+  },
+  {
+   "nome": "Batata Palito",
+   "marcas": [
+    "Campo e Sabor"
+   ],
+   "tamanho": "1,5kg",
+   "preco": 15.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Salsicha Congelada",
+   "marcas": [
+    "Sadia"
+   ],
+   "tamanho": "3kg",
+   "preco": 23.97,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "nesta embalagem 1kg sai por 7,99",
+   "duvida": null
+  },
+  {
+   "nome": "Tirinhas Tradicional",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "1kg",
+   "preco": 15.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada; nesta embalagem 300g sai por 4,77",
+   "duvida": null
+  },
+  {
+   "nome": "Mini Chicken",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "1kg",
+   "preco": 14.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada; nesta embalagem 275g sai por 4,12",
+   "duvida": null
+  },
+  {
+   "nome": "Nhoque de Batata Italiano",
+   "marcas": [
+    "Tutto"
+   ],
+   "tamanho": "500g",
+   "preco": 7.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Mini Lasanha",
+   "marcas": [
+    "Sadia"
+   ],
+   "tamanho": "350g",
+   "preco": 9.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Isca de Frango Trad.",
+   "marcas": [
+    "Sadia"
+   ],
+   "tamanho": "300g",
+   "preco": 12.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Meu Menu",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "300g",
+   "preco": 9.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Bolinho de Bacalhau",
+   "marcas": [
+    "Riberalves"
+   ],
+   "tamanho": "300g",
+   "preco": 29.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Bolinho de Bacalhau",
+   "marcas": [
+    "Saborea!"
+   ],
+   "tamanho": "600g",
+   "preco": 24.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Hambúrguer Na Brasa",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "150g",
+   "preco": 7.88,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Steak de Frango",
+   "marcas": [
+    "Lar"
+   ],
+   "tamanho": "100g",
+   "preco": 1.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Waffle",
+   "marcas": [
+    "Waaw!"
+   ],
+   "tamanho": "210g",
+   "preco": 7.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Pão de Queijo Waffle",
+   "marcas": [
+    "Forno de Minas"
+   ],
+   "tamanho": "400g",
+   "preco": 22.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "50% de desconto na 2ª unidade, a 2ª sai por 11,45",
+   "duvida": null
+  },
+  {
+   "nome": "Pão de Queijo",
+   "marcas": [
+    "São Geraldo"
+   ],
+   "tamanho": "800g",
+   "preco": 10.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Alho Congelado",
+   "marcas": [
+    "EasyChef"
+   ],
+   "tamanho": "1,1kg",
+   "preco": 25.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Morango Congelado",
+   "marcas": [
+    "EasyChef"
+   ],
+   "tamanho": "1,1kg",
+   "preco": 16.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  }
+ ]
+}

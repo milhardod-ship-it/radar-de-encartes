@@ -1,0 +1,359 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-25",
+ "itens": [
+  {
+   "nome": "Filé de Peito de Frango Bandeja ou Pacote IQF",
+   "marcas": [
+    "Seara"
+   ],
+   "tamanho": "kg",
+   "preco": 16.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Filé de Peito de Frango Bandeja",
+   "marcas": [
+    "Rivelli"
+   ],
+   "tamanho": "kg",
+   "preco": 15.97,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Filezinho de Peito de Frango Bandeja",
+   "marcas": [
+    "Seara",
+    "Sadia"
+   ],
+   "tamanho": "kg",
+   "preco": 16.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Filé de Peito de Frango Bandeja ou Pacote IQF",
+   "marcas": [
+    "Sadia"
+   ],
+   "tamanho": "kg",
+   "preco": 17.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Filé de Peito de Frango Envelopado",
+   "marcas": [
+    "Lar"
+   ],
+   "tamanho": "kg",
+   "preco": 15.97,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Alcatra Bovina Embalagem a Vácuo (Peça)",
+   "marcas": [
+    "Friboi"
+   ],
+   "tamanho": "kg",
+   "preco": 39.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Contrafilé Bovino a Vácuo (Peça)",
+   "marcas": [
+    "Friboi"
+   ],
+   "tamanho": "kg",
+   "preco": 47.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Picanha Fatiada",
+   "marcas": [
+    "Bordon"
+   ],
+   "tamanho": "kg",
+   "preco": 49.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Picanha Bovina a Vácuo (Peça)",
+   "marcas": [
+    "Friboi"
+   ],
+   "tamanho": "kg",
+   "preco": 69.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Picanha Bovina a Vácuo Maturatta (Peça)",
+   "marcas": [
+    "Friboi"
+   ],
+   "tamanho": "kg",
+   "preco": 79.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Filé de Costela ou Coração da Alcatra Maturatta (Peça)",
+   "marcas": [
+    "Friboi"
+   ],
+   "tamanho": "kg",
+   "preco": 59.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Coração Na Brasa",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "500g",
+   "preco": 19.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Peito de Frango s/ Osso e c/ Pele",
+   "marcas": [
+    "Guibon"
+   ],
+   "tamanho": "kg",
+   "preco": 14.95,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Frango a Passarinho Pacote",
+   "marcas": [
+    "Seara"
+   ],
+   "tamanho": "kg",
+   "preco": 12.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Sobrecoxas de Frango Bandeja",
+   "marcas": [
+    "LeVida"
+   ],
+   "tamanho": "kg",
+   "preco": 12.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Coxa e Sobrecoxa de Frango Bandeja",
+   "marcas": [
+    "Lar"
+   ],
+   "tamanho": "kg",
+   "preco": 9.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Carne Moída Tubete",
+   "marcas": [
+    "Friboi"
+   ],
+   "tamanho": "500g",
+   "preco": 16.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Coxinhas das Asas de Frango Envelopado",
+   "marcas": [
+    "Copacol"
+   ],
+   "tamanho": "kg",
+   "preco": 11.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Coxa c/ Sobrecoxa de Frango c/ Porção Dorsal",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 7.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Filé de Coxa e Sobrecoxa c/ Pele Pacote",
+   "marcas": [
+    "Rivelli"
+   ],
+   "tamanho": "kg",
+   "preco": 12.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Bisteca Suína",
+   "marcas": [
+    "Seara"
+   ],
+   "tamanho": "kg",
+   "preco": 15.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Linguiça de Pernil ou Suína",
+   "marcas": [
+    "Perdigão",
+    "Seara"
+   ],
+   "tamanho": "kg",
+   "preco": 14.97,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Sobrecoxa de Frango Assa Fácil",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "1,2kg",
+   "preco": 19.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Filé de Salmão",
+   "marcas": [
+    "Buona Pesca"
+   ],
+   "tamanho": "kg",
+   "preco": 79.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Filé de Polaca",
+   "marcas": [
+    "Dhfish",
+    "Do Chef",
+    "Planalto"
+   ],
+   "tamanho": "500g",
+   "preco": 16.97,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Ovos Tipo A Branco Cartela",
+   "marcas": [
+    "Caiari"
+   ],
+   "tamanho": "c/ 30 unids.",
+   "preco": 13.47,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Marca na embalagem pouco legível"
+  },
+  {
+   "nome": "Ovos Tipo A Branco Cartela",
+   "marcas": [
+    "Caiari"
+   ],
+   "tamanho": "c/ 20 unids.",
+   "preco": 8.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Marca na embalagem pouco legível"
+  }
+ ]
+}
