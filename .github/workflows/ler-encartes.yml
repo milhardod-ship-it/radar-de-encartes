@@ -50,4 +50,5 @@ jobs:
         run: npm run build && npm test
       - name: Salvar
         if: inputs.modo != 'teste' && inputs.modo != 'dom-teste' && inputs.modo != 'redeconomia-teste'
-        run: scripts/salvar.sh "Robô: encarte lido por IA em $(date -u +%Y-%m-%d)"
+        run: |
+          scripts/salvar.sh "Robô: encarte lido por IA em $(date -u +%Y-%m-%d)"

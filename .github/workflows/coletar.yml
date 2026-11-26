@@ -47,7 +47,8 @@ jobs:
       - name: Importar, testar e conferir o build
         run: npm run build && npm test
       - name: Salvar dados novos
-        run: scripts/salvar.sh "Robô: encartes atualizados em $(date -u +%Y-%m-%d)"
+        run: |
+          scripts/salvar.sh "Robô: encartes atualizados em $(date -u +%Y-%m-%d)"
       - name: Avisar falha de coleta
         if: steps.coleta.outputs.falhou == '1' || steps.leitura.outputs.falhou == '1'
         run: |
