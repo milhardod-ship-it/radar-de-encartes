@@ -105,6 +105,7 @@ const marcasConhecidas = new Set<string>(MARCAS_CONHECIDAS);
     const c = ler(`data/brutos/${arquivo}`) as ColetaMundial;
     const idEncarte = arquivo.replace('.json', '');
     const fins: string[] = [];
+    const finsImperdivel: string[] = [];
     for (const o of c.ofertas as any[]) {
       const p = o.product;
       if (p.customBrand) marcasConhecidas.add(capitalizar(p.customBrand));
@@ -137,15 +138,17 @@ const marcasConhecidas = new Set<string>(MARCAS_CONHECIDAS);
             ]
           : [{ valor: preco, exige: [] }];
       }
-      // "Imperdível" = oferta relâmpago que só aparece no site. Em 25/11 o Filé-mignon Suíno Aurora saiu a 19,95 aqui,
-      // enquanto o encarte dizia 24,70 (22,60 no app) — o dono considera erro do mercado. Entra como "a confirmar".
-      if (o.category?.name === 'Imperdível') duvida = 'oferta relâmpago só no site do Mundial, fora do encarte';
+      // "Imperdível" = oferta relâmpago do site (1 a 2 dias, um preço só, sem "de"). Vale também na loja (dono, 26/11).
+      // Fica num encarte próprio, com a validade dela, para não aparecer como "Ofertas 19.11 a 02.12".
+      const relampago = o.category?.name === 'Imperdível';
       const fim = dataLocal(o.unpublishedIn);
-      fins.push(fim);
+      if (relampago) finsImperdivel.push(fim);
+      else fins.push(fim);
       adicionar({
         mercado: 'mundial',
-        encarte: idEncarte,
-        nome: nomeBase.trim(),
+        encarte: relampago ? `${idEncarte}-imperdivel` : idEncarte,
+        // Nomes da seção Imperdível vêm em MAIÚSCULAS no site.
+        nome: nomeBase.trim() === nomeBase.trim().toUpperCase() ? capitalizar(nomeBase.trim()) : nomeBase.trim(),
         marcas: [marca],
         original: [p.customName, p.customBrand, p.customType, p.customWeight, p.customDetail].filter(Boolean).join(' ').replace(/\s+/g, ' '),
         textoTamanho,
@@ -166,6 +169,17 @@ const marcasConhecidas = new Set<string>(MARCAS_CONHECIDAS);
       lojas: [],
       fonte: `site do Mundial (robô, ${c.coletadoEm.slice(0, 10)})`,
     });
+    if (finsImperdivel.length)
+      encartes.push({
+        id: `${idEncarte}-imperdivel`,
+        mercado: 'mundial',
+        titulo: 'Imperdível (oferta relâmpago)',
+        // O site não diz quando começou: vale a partir da coleta.
+        inicio: dataLocal(c.coletadoEm),
+        fim: finsImperdivel.sort().pop()!,
+        lojas: [],
+        fonte: `seção "Imperdível" do site do Mundial (robô, ${c.coletadoEm.slice(0, 10)})`,
+      });
   }
 }
 

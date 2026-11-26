@@ -35998,6 +35998,126 @@
   "revisado": false
  },
  {
+  "id": "mundial-site-2026-11-26-imperdivel#64",
+  "mercado": "mundial",
+  "encarte": "mundial-site-2026-11-26-imperdivel",
+  "produto": "salmao-inteiro-fresco__frescatto__1000g",
+  "nome": "Salmão Inteiro Fresco",
+  "marca": "Frescatto",
+  "original": "SALMÃO FRESCATTO INTEIRO FRESCO KG",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 49.98,
+    "exige": []
+   }
+  ],
+  "fim": "2026-11-26",
+  "imagem": "https://mundial-api.supermercadosmundial.com.br/products/006583/300x300.webp",
+  "revisado": false
+ },
+ {
+  "id": "mundial-site-2026-11-26-imperdivel#67",
+  "mercado": "mundial",
+  "encarte": "mundial-site-2026-11-26-imperdivel",
+  "produto": "bife-ancho__maturatta__1000g",
+  "nome": "Bife Ancho Bovino a Vácuo",
+  "marca": "Maturatta",
+  "original": "BIFE ANCHO BOVINO MATURATTA A VÁCUO KG",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 49.9,
+    "exige": []
+   }
+  ],
+  "fim": "2026-11-26",
+  "imagem": "https://mundial-api.supermercadosmundial.com.br/products/003568/300x300.webp",
+  "revisado": false
+ },
+ {
+  "id": "mundial-site-2026-11-26-imperdivel#118",
+  "mercado": "mundial",
+  "encarte": "mundial-site-2026-11-26-imperdivel",
+  "produto": "queijo-prato-pedaco__sem-marca__1000g",
+  "nome": "Queijo Prato Peça ou Pedaço",
+  "marca": "",
+  "original": "QUEIJO PRATO PEÇA OU PEDAÇO KG",
+  "categoria": "Frios e Laticínios",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 33.8,
+    "exige": []
+   }
+  ],
+  "fim": "2026-11-26",
+  "imagem": "https://mundial-api.supermercadosmundial.com.br/products/000209/300x300.webp",
+  "revisado": false
+ },
+ {
+  "id": "mundial-site-2026-11-26-imperdivel#193",
+  "mercado": "mundial",
+  "encarte": "mundial-site-2026-11-26-imperdivel",
+  "produto": "file-mignon-suino__aurora__1000g",
+  "nome": "Filé-mignon Suíno",
+  "marca": "Aurora",
+  "original": "FILÉ-MIGNON SUÍNO AURORA KG",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 19.95,
+    "exige": []
+   }
+  ],
+  "fim": "2026-11-26",
+  "imagem": "https://mundial-api.supermercadosmundial.com.br/products/005268/300x300.webp",
+  "revisado": false
+ },
+ {
+  "id": "mundial-site-2026-11-26-imperdivel#264",
+  "mercado": "mundial",
+  "encarte": "mundial-site-2026-11-26-imperdivel",
+  "produto": "almondega__friboi__500g",
+  "nome": "Almôndegas ou Kibe",
+  "marca": "Friboi",
+  "original": "ALMÔNDEGAS OU KIBE FRIBOI CAIXA 500G",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 500,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 14.9,
+    "exige": []
+   }
+  ],
+  "fim": "2026-11-26",
+  "imagem": "https://mundial-api.supermercadosmundial.com.br/products/049235/300x300.webp",
+  "revisado": false
+ },
+ {
   "id": "mundial-site-2026-11-26#1",
   "mercado": "mundial",
   "encarte": "mundial-site-2026-11-26",
@@ -37933,31 +38053,6 @@
   "revisado": false
  },
  {
-  "id": "mundial-site-2026-11-26#64",
-  "mercado": "mundial",
-  "encarte": "mundial-site-2026-11-26",
-  "produto": "salmao-inteiro-fresco__frescatto__1000g",
-  "nome": "SALMÃO INTEIRO FRESCO",
-  "marca": "Frescatto",
-  "original": "SALMÃO FRESCATTO INTEIRO FRESCO KG",
-  "categoria": "Açougue",
-  "tamanho": {
-   "valor": 1000,
-   "unidade": "g"
-  },
-  "porKg": true,
-  "precos": [
-   {
-    "valor": 49.98,
-    "exige": []
-   }
-  ],
-  "fim": "2026-11-26",
-  "imagem": "https://mundial-api.supermercadosmundial.com.br/products/006583/300x300.webp",
-  "duvida": "oferta relâmpago só no site do Mundial, fora do encarte",
-  "revisado": false
- },
- {
   "id": "mundial-site-2026-11-26#65",
   "mercado": "mundial",
   "encarte": "mundial-site-2026-11-26",
@@ -38017,31 +38112,6 @@
   ],
   "fim": "2026-11-29",
   "imagem": "https://mundial-api.supermercadosmundial.com.br/products/074620/300x300.webp",
-  "revisado": false
- },
- {
-  "id": "mundial-site-2026-11-26#67",
-  "mercado": "mundial",
-  "encarte": "mundial-site-2026-11-26",
-  "produto": "bife-ancho__maturatta__1000g",
-  "nome": "BIFE ANCHO BOVINO A VÁCUO",
-  "marca": "Maturatta",
-  "original": "BIFE ANCHO BOVINO MATURATTA A VÁCUO KG",
-  "categoria": "Açougue",
-  "tamanho": {
-   "valor": 1000,
-   "unidade": "g"
-  },
-  "porKg": true,
-  "precos": [
-   {
-    "valor": 49.9,
-    "exige": []
-   }
-  ],
-  "fim": "2026-11-26",
-  "imagem": "https://mundial-api.supermercadosmundial.com.br/products/003568/300x300.webp",
-  "duvida": "oferta relâmpago só no site do Mundial, fora do encarte",
   "revisado": false
  },
  {
@@ -39580,31 +39650,6 @@
   ],
   "fim": "2026-12-02",
   "imagem": "https://mundial-api.supermercadosmundial.com.br/products/059087/300x300.webp",
-  "revisado": false
- },
- {
-  "id": "mundial-site-2026-11-26#118",
-  "mercado": "mundial",
-  "encarte": "mundial-site-2026-11-26",
-  "produto": "queijo-prato-pedaco__sem-marca__1000g",
-  "nome": "QUEIJO PRATO PEÇA OU PEDAÇO",
-  "marca": "",
-  "original": "QUEIJO PRATO PEÇA OU PEDAÇO KG",
-  "categoria": "Frios e Laticínios",
-  "tamanho": {
-   "valor": 1000,
-   "unidade": "g"
-  },
-  "porKg": true,
-  "precos": [
-   {
-    "valor": 33.8,
-    "exige": []
-   }
-  ],
-  "fim": "2026-11-26",
-  "imagem": "https://mundial-api.supermercadosmundial.com.br/products/000209/300x300.webp",
-  "duvida": "oferta relâmpago só no site do Mundial, fora do encarte",
   "revisado": false
  },
  {
@@ -41883,31 +41928,6 @@
   "revisado": false
  },
  {
-  "id": "mundial-site-2026-11-26#193",
-  "mercado": "mundial",
-  "encarte": "mundial-site-2026-11-26",
-  "produto": "file-mignon-suino__aurora__1000g",
-  "nome": "FILÉ-MIGNON SUÍNO",
-  "marca": "Aurora",
-  "original": "FILÉ-MIGNON SUÍNO AURORA KG",
-  "categoria": "Açougue",
-  "tamanho": {
-   "valor": 1000,
-   "unidade": "g"
-  },
-  "porKg": true,
-  "precos": [
-   {
-    "valor": 19.95,
-    "exige": []
-   }
-  ],
-  "fim": "2026-11-26",
-  "imagem": "https://mundial-api.supermercadosmundial.com.br/products/005268/300x300.webp",
-  "duvida": "oferta relâmpago só no site do Mundial, fora do encarte",
-  "revisado": false
- },
- {
   "id": "mundial-site-2026-11-26#194",
   "mercado": "mundial",
   "encarte": "mundial-site-2026-11-26",
@@ -44060,31 +44080,6 @@
   ],
   "fim": "2026-12-02",
   "imagem": "https://mundial-api.supermercadosmundial.com.br/products/067243/300x300.webp",
-  "revisado": false
- },
- {
-  "id": "mundial-site-2026-11-26#264",
-  "mercado": "mundial",
-  "encarte": "mundial-site-2026-11-26",
-  "produto": "almondega__friboi__500g",
-  "nome": "ALMÔNDEGAS OU KIBE",
-  "marca": "Friboi",
-  "original": "ALMÔNDEGAS OU KIBE FRIBOI CAIXA 500G",
-  "categoria": "Mercearia",
-  "tamanho": {
-   "valor": 500,
-   "unidade": "g"
-  },
-  "porKg": false,
-  "precos": [
-   {
-    "valor": 14.9,
-    "exige": []
-   }
-  ],
-  "fim": "2026-11-26",
-  "imagem": "https://mundial-api.supermercadosmundial.com.br/products/049235/300x300.webp",
-  "duvida": "oferta relâmpago só no site do Mundial, fora do encarte",
   "revisado": false
  },
  {

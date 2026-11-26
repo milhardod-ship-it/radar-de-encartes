@@ -752,6 +752,15 @@
   "fonte": "site do Mundial (robô, 2026-11-26)"
  },
  {
+  "id": "mundial-site-2026-11-26-imperdivel",
+  "mercado": "mundial",
+  "titulo": "Imperdível (oferta relâmpago)",
+  "inicio": "2026-11-26",
+  "fim": "2026-11-26",
+  "lojas": [],
+  "fonte": "seção \"Imperdível\" do site do Mundial (robô, 2026-11-26)"
+ },
+ {
   "id": "prezunic-encarte-1c755b7b-582a",
   "mercado": "prezunic",
   "titulo": "Adega Prezunic",

@@ -37,8 +37,8 @@ Carro-chefe: **lista de compras** (total por mercado, melhor mercado, quando val
   dono: a lista basta (preço confiável + data de fim); não ler o encarte do Mundial com IA.
   Promoção por quantidade no site (`quantity` > 1, só no app): `price` NÃO é o preço de 1 unidade ("leve 4 pague 3" =
   média levando 4; "30% na 2ª" = preço só da 2ª — confirmado pelo dono: Omo 14,66 + 2ª a 10,26). O importador usa
-  `oldPrice` como preço e a promoção vira aviso com os valores. Categoria "Imperdível" (relâmpago, fora do encarte) fica
-  "a confirmar" (Filé-mignon Suíno Aurora 19,95 no site × 24,70 no encarte = provável erro do mercado).
+  `oldPrice` como preço e a promoção vira aviso com os valores. Categoria "Imperdível" (relâmpago de 1–2 dias, só
+  preço atual, sem "de") vale também na loja (dono, 26/11): entra normal, num encarte próprio "Imperdível".
 - **Atacadão**: robô usa a API pública de folhetos do site ("Folhetos" → `apigw.cloud.carrefour.com.br/
   api-middleware-flyer-services`: `/api/v2/Store/city/uf?uf=RJ`, `/api/v2/Store/city?uf=&city=`, PDF em
   `/api/v2/Flyer/?id=`). Os PDFs trazem dados embutidos (metadado "TABLOIDI-DADOS", lido com `pdfinfo`):
