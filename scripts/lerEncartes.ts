@@ -306,6 +306,77 @@ async function dom(cliente: ReturnType<typeof criarCliente>, gastoAte: number): 
   return gasto;
 }
 
+/**
+ * Redeconomia (associação de supermercados, WordPress sem escudo): o encarte fica na PÁGINA INICIAL como imagens
+ * em /wp-content/uploads/AAAA/MM/Site-<página>-<edição>.jpg. Uma edição = um encarte; a validade vem da imagem (IA).
+ */
+async function redeconomia(cliente: ReturnType<typeof criarCliente>, gastoAte: number): Promise<number> {
+  console.log('Redeconomia…');
+  const html = baixar('https://www.redeconomia.com.br/');
+  const imagens = [...new Set([...html.matchAll(/https:\/\/www\.redeconomia\.com\.br\/wp-content\/uploads\/(\d{4})\/(\d{2})\/Site-(\d+)-(\d+)\.(?:jpe?g|png)/gi)].map((m) => m[0]))];
+  if (!imagens.length) throw new Error('não achei as imagens do encarte na página inicial (o site mudou?)');
+  // Agrupa por edição (ano/mês + número final) e ordena pelas páginas.
+  const edicoes = new Map<string, { pagina: number; url: string }[]>();
+  for (const url of imagens) {
+    const m = url.match(/uploads\/(\d{4})\/(\d{2})\/Site-(\d+)-(\d+)\./i)!;
+    const chave = `${m[1]}-${m[2]}-${m[4]}`;
+    edicoes.set(chave, [...(edicoes.get(chave) ?? []), { pagina: Number(m[3]), url }]);
+  }
+  let gasto = gastoAte;
+  for (const [edicao, lista] of edicoes) {
+    lista.sort((a, b) => a.pagina - b.pagina);
+    const id = `redeconomia-ia-${edicao}`;
+    if (existsSync(join(CURADORIA, `${id}.json`)) && !TESTE) { console.log(`  edição ${edicao}: já lida`); continue; }
+    console.log(`  edição ${edicao}: ${lista.length} páginas`);
+    const pasta = mkdtempSync(join(tmpdir(), 'redeconomia-'));
+    try {
+      const itens: any[] = [];
+      let validade: { inicio: string; fim: string } | null = null;
+      const inicioGasto = gasto;
+      let completo = true;
+      for (const [i, { url }] of (TESTE ? lista.slice(0, 1) : lista).entries()) {
+        if (gasto >= LIMITE_US) { console.log(`  ! parei: limite de gasto (US$ ${LIMITE_US})`); completo = false; break; }
+        const original = join(pasta, `p${i + 1}-original`);
+        const arq = join(pasta, `p${i + 1}.jpg`);
+        baixarArquivo(url, original);
+        execFileSync('convert', [original, '-resize', '1568x1568>', '-quality', '85', arq]);
+        const r = await lerComReaproveitamento(
+          cliente,
+          arq,
+          `Encarte da Redeconomia (rede de supermercados do Rio de Janeiro), página ${i + 1} de ${lista.length}. ` +
+            'O clube/cartão se chama "Clube Redeconomia". Se a página mostrar preço só para quem tem o cartão/clube, use soClube. ' +
+            'A validade costuma estar impressa no encarte: devolva-a em "validade".',
+        );
+        gasto += r.custo;
+        validade ??= r.validade;
+        salvarPagina(id, i + 1, arq);
+        console.log(`  página ${i + 1}: ${r.itens.length} ofertas · ${r.info}${r.validade ? ` · validade ${r.validade.inicio} a ${r.validade.fim}` : ''}`);
+        for (const it of r.itens) itens.push({ pagina: i + 1, ...limpar(it) });
+      }
+      if (TESTE) {
+        for (const it of itens.slice(0, 60)) console.log(`  ${it.nome} | ${it.marcas.join(', ')} | ${it.tamanho} | ${it.preco}${it.clube ? ` clube ${it.clube}` : ''}${it.soClube ? ' SÓ CLUBE' : ''}${it.condicao ? ` | ${it.condicao}` : ''}${it.duvida ? ` | DÚVIDA: ${it.duvida}` : ''}`);
+        console.log(`  validade lida: ${validade ? `${validade.inicio} a ${validade.fim}` : 'NÃO ENCONTRADA'}`);
+        return gasto;
+      }
+      if (!completo) return gasto;
+      const semValidade = !validade || !/^\d{4}-\d{2}-\d{2}$/.test(validade.inicio) || !/^\d{4}-\d{2}-\d{2}$/.test(validade.fim);
+      const inicio = semValidade ? hojeRio : validade!.inicio;
+      const fim = semValidade ? new Date(Date.parse(hojeRio) + 6 * 86400000).toISOString().slice(0, 10) : validade!.fim;
+      if (semValidade) for (const it of itens) it.duvida = it.duvida ?? 'validade não encontrada no encarte';
+      writeFileSync(join(CURADORIA, `${id}.json`), JSON.stringify({
+        encarte: id, mercado: 'redeconomia', programaClube: 'clube-redeconomia', nomeClube: 'Clube Redeconomia',
+        encarteInfo: { id, mercado: 'redeconomia', titulo: 'Encarte Redeconomia', inicio, fim, lojas: [], fonte: `página inicial do site da Redeconomia (imagens), lida por IA (${modelo}) em ${hojeRio}` },
+        observacao: `Lido por IA (${modelo}); custo aproximado US$ ${(gasto - inicioGasto).toFixed(2)}.${semValidade ? ' VALIDADE NÃO ENCONTRADA (7 dias).' : ''} Não revisado.`,
+        itens,
+      }, null, 1) + '\n');
+      console.log(`  salvo data/curadoria/${id}.json (${itens.length} ofertas, ${inicio} a ${fim})`);
+    } finally {
+      rmSync(pasta, { recursive: true, force: true });
+    }
+  }
+  return gasto;
+}
+
 /** Formato da curadoria: só manda os campos preenchidos. */
 function limpar(it: any) {
   return {
@@ -391,7 +462,9 @@ const tarefas = process.argv.includes('--mundial')
     ? [assai]
     : process.argv.includes('--dom')
       ? [dom]
-      : [guanabara, dom];
+      : process.argv.includes('--redeconomia')
+        ? [redeconomia]
+        : [guanabara, dom];
 for (const tarefa of tarefas) {
   try {
     gasto = await tarefa(cliente, gasto);
