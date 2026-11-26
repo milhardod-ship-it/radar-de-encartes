@@ -79,6 +79,17 @@ Carro-chefe: **lista de compras** (total por mercado, melhor mercado, quando val
 - Encarte já lido (ou cadastrado à mão) não é relido. Workflow manual "Ler encartes com IA" (teste/ler/mundial);
   a leitura automática roda dentro do robô de coleta.
 
+## Painel de revisão (etapa 7)
+- `<app>/#revisao` (escondido dos clientes). Login = token fine-grained do GitHub do dono (só este repositório,
+  Contents: read/write), guardado só no aparelho (`radar:revisao:token`).
+- Lista `data/revisao.json` (gerado pelo importador; carregado só no painel, chunk separado): itens de
+  `data/curadoria/*.json` de encartes válidos, com arquivo + índice + imagem da página.
+- Ações: ✅ está certo (`revisado: true`, tira `duvida`), ✏️ corrigir, 🗑 tirar (`removido: true`, o item fica no
+  arquivo para não mudar os índices). Ações ficam pendentes no aparelho; "Enviar" grava 1 commit por arquivo via
+  API do GitHub → Vercel republica.
+- Imagens das páginas: `public/paginas/<encarte>/p<n>.jpg` (salvas pelo leitor; apagadas quando o encarte vence).
+- Fora do painel por enquanto: ofertas de robô (Mundial "Imperdível", Prezunic, Atacadão).
+
 ## Lojas e localização
 - `data/lojas.json` (112 lojas): Guanabara (página /lojas, coordenada do link do Google Maps), Mundial (JSON de
   /nossas-lojas), Prezunic (11 exatas via `/api/checkout/pub/pickup-points`; demais pelo centro do bairro, marcadas
@@ -96,7 +107,7 @@ Carro-chefe: **lista de compras** (total por mercado, melhor mercado, quando val
 | 4 | Robô de coleta Guanabara + Mundial, agendado no GitHub Actions | ✅ |
 | 5 | Atacadão ✅ e Prezunic ✅ automáticos; Assaí e Supermarket bloqueados por anti-robô (ver acima) | ⏳ |
 | 6 | Localização (GPS ou bairro → só encartes de lojas no raio; loja mais perto e distância) | ✅ |
-| 7 | Painel de revisão das ofertas e da junção de produtos | ⏳ |
+| 7 | Painel de revisão das ofertas (✅ curadoria/IA) e da junção de produtos (⏳) | ⏳ |
 | 8 | Alertas de preço, histórico, favoritos | ⏳ |
 
 ## Comandos

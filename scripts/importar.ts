@@ -45,6 +45,7 @@ function adicionar(base: {
   produto?: string;
   imagem?: string;
   duvida?: string;
+  revisado?: boolean;
 }) {
   const { tamanho, porKg } = extrairTamanho(base.textoTamanho);
   const marcas = base.marcas.length ? base.marcas : [''];
@@ -68,7 +69,7 @@ function adicionar(base: {
       ...(base.limite ? { limite: base.limite } : {}),
       ...(base.imagem ? { imagem: base.imagem } : {}),
       ...(base.duvida ? { duvida: base.duvida } : {}),
-      revisado: false,
+      revisado: !!base.revisado,
     });
   }
 }
@@ -355,6 +356,12 @@ interface ItemCuradoria {
   duvida?: string;
   /** Só existe preço para quem é do clube (o encarte não mostra o preço normal). */
   soClube?: boolean;
+  /** Página do encarte (leituras por IA). A imagem fica em public/paginas/<encarte>/p<pagina>.jpg. */
+  pagina?: number;
+  /** Conferido pelo dono no painel de revisão. */
+  revisado?: boolean;
+  /** Apagado no painel de revisão (fica no arquivo para não mudar a posição dos outros itens). */
+  removido?: boolean;
 }
 interface ArquivoCuradoria {
   encarte: string;
@@ -375,6 +382,9 @@ function condicaoSoEmbalagem(t: string): boolean {
   return /^(pre[çc]o\s+)?(cada|unidade|garrafa|pacote|caixeta|sach[eê]|pote|bandeja|lata|frasco|gal[aã]o|embalagem)(?=$|[\s,;.])/i.test(t.trim());
 }
 
+const HOJE_RIO = new Date(Date.now() - 3 * 3600 * 1000).toISOString().slice(0, 10);
+const revisao: unknown[] = [];
+
 for (const arq of readdirSync(join(RAIZ, 'data/curadoria')).filter((f) => f.endsWith('.json')).sort()) {
   const c = ler(`data/curadoria/${arq}`) as ArquivoCuradoria;
   if (c.pularSeExistir && existsSync(join(RAIZ, c.pularSeExistir))) {
@@ -384,7 +394,18 @@ for (const arq of readdirSync(join(RAIZ, 'data/curadoria')).filter((f) => f.ends
     continue;
   }
   if (c.encarteInfo && !encartes.some((e) => e.id === c.encarteInfo!.id)) encartes.push(c.encarteInfo);
-  for (const it of c.itens) {
+  const enc = encartes.find((e) => e.id === c.encarte);
+  for (const [indice, it] of c.itens.entries()) {
+    // Painel de revisão: lista todos os itens de encartes ainda válidos, com o lugar exato no arquivo.
+    if (enc && enc.fim >= HOJE_RIO) {
+      const imagem = it.pagina ? `paginas/${c.encarte}/p${it.pagina}.jpg` : undefined;
+      revisao.push({
+        arquivo: arq, indice, mercado: c.mercado, encarte: c.encarte, titulo: enc.titulo, inicio: enc.inicio, fim: enc.fim,
+        ...(imagem && existsSync(join(RAIZ, 'public', imagem)) ? { imagem } : {}),
+        item: it,
+      });
+    }
+    if (it.removido) continue;
     // A leitura por IA às vezes põe na "condição" só a embalagem ("cada", "Pote 1kg", "garrafa"): isso não é condição.
     const condicao = it.condicao && !condicaoSoEmbalagem(it.condicao) ? it.condicao : undefined;
     // Se a condição fala do clube/app, ela vale para o preço do clube, não para o preço de todo mundo.
@@ -408,7 +429,8 @@ for (const arq of readdirSync(join(RAIZ, 'data/curadoria')).filter((f) => f.ends
       precoDe: it.de,
       limite: it.limite,
       produto: it.produto,
-      duvida: it.duvida,
+      duvida: it.revisado ? undefined : it.duvida,
+      revisado: it.revisado,
     });
   }
 }
@@ -423,6 +445,8 @@ ofertas.sort((a, b) => a.id.localeCompare(b.id, 'en', { numeric: true }));
 writeFileSync(join(RAIZ, 'data/ofertas.json'), JSON.stringify(ofertas, null, 1) + '\n');
 encartes.sort((a, b) => a.mercado.localeCompare(b.mercado) || a.inicio.localeCompare(b.inicio));
 writeFileSync(join(RAIZ, 'data/encartes.json'), JSON.stringify(encartes, null, 1) + '\n');
+// Só o painel de revisão carrega este arquivo (separado do app, para não pesar para os clientes).
+writeFileSync(join(RAIZ, 'data/revisao.json'), JSON.stringify(revisao) + '\n');
 
 const porMercado = new Map<string, number>();
 for (const o of ofertas) porMercado.set(o.mercado, (porMercado.get(o.mercado) ?? 0) + 1);

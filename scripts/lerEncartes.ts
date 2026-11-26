@@ -22,6 +22,27 @@ const modelo = process.env.LEITOR_MODELO || MODELO_PADRAO;
 const baixar = criarBaixar();
 const hojeRio = new Date(Date.now() - 3 * 3600 * 1000).toISOString().slice(0, 10);
 const LEITURAS = join(RAIZ, 'data/leituras');
+const PAGINAS = join(RAIZ, 'public/paginas');
+
+/** Guarda a imagem da página para o painel de revisão (public/paginas/<encarte>/p<n>.jpg), mais leve. */
+function salvarPagina(encarte: string, n: number, arq: string) {
+  if (TESTE) return;
+  mkdirSync(join(PAGINAS, encarte), { recursive: true });
+  execFileSync('convert', [arq, '-resize', '1400x1400>', '-quality', '70', join(PAGINAS, encarte, `p${n}.jpg`)]);
+}
+
+/** Apaga as imagens de encartes vencidos (o painel só mostra encartes válidos). */
+function limparPaginasVencidas() {
+  if (!existsSync(PAGINAS)) return;
+  for (const dir of readdirSync(PAGINAS)) {
+    const cur = join(CURADORIA, `${dir}.json`);
+    const fim = existsSync(cur) ? JSON.parse(readFileSync(cur, 'utf8')).encarteInfo?.fim : null;
+    if (!fim || fim < hojeRio) {
+      rmSync(join(PAGINAS, dir), { recursive: true, force: true });
+      console.log(`  imagens de ${dir} apagadas (encarte vencido)`);
+    }
+  }
+}
 
 /**
  * Lê uma página reaproveitando leituras anteriores: se a MESMA imagem já foi lida (mesmo conteúdo, qualquer
@@ -73,7 +94,20 @@ async function guanabara(cliente: ReturnType<typeof criarCliente>, gastoAte: num
     return gastoAte;
   }
   const existe = jaExiste('guanabara', validade.inicio, validade.fim);
+  const idIA = `guanabara-ia-${validade.inicio}`;
   if (existe && !TESTE) {
+    // Já lido; se ainda faltam as imagens das páginas para o painel de revisão, baixa só elas (sem IA, custo zero).
+    if (existsSync(join(CURADORIA, `${idIA}.json`)) && !existsSync(join(PAGINAS, idIA))) {
+      const pasta = mkdtempSync(join(tmpdir(), 'guanabara-'));
+      try {
+        const pdf = join(pasta, 'encarte.pdf');
+        baixarArquivo(`${SITE_GUANABARA}/encarte/baixe`, pdf);
+        for (const [i, arq] of paginasDoPdf(pdf, pasta).entries()) salvarPagina(idIA, i + 1, arq);
+        console.log(`  imagens das páginas salvas para o painel de revisão`);
+      } finally {
+        rmSync(pasta, { recursive: true, force: true });
+      }
+    }
     console.log(`  encarte ${validade.inicio} a ${validade.fim} ${existe}; nada a ler`);
     return gastoAte;
   }
@@ -98,6 +132,7 @@ async function guanabara(cliente: ReturnType<typeof criarCliente>, gastoAte: num
         `Encarte do Supermercados Guanabara (Rio de Janeiro), página ${i + 1} de ${paginas.length}. O clube de vantagens se chama "Guana Clube".`,
       );
       gasto += r.custo;
+      salvarPagina(`guanabara-ia-${validade.inicio}`, i + 1, arq);
       console.log(`  página ${i + 1}: ${r.itens.length} ofertas · ${r.info}`);
       for (const it of r.itens) itens.push({ pagina: i + 1, ...limpar(it) });
     }
@@ -164,6 +199,7 @@ async function assai(cliente: ReturnType<typeof criarCliente>, gastoAte: number)
         execFileSync('convert', [original, '-resize', '1568x1568>', '-quality', '85', arq]);
         const r = await lerComReaproveitamento(cliente, arq, `Encarte do Assaí Atacadista (Rio de Janeiro), válido de ${e.inicio} a ${e.fim}, página ${i + 1} de ${e.paginas.length}. O app do Assaí se chama "Meu Assaí". Atacarejo: preços de atacado ("a partir de X unidades") são condição, não o preço normal.`);
         gasto += r.custo;
+        salvarPagina(id, i + 1, arq);
         console.log(`  ${e.campanha} página ${i + 1}: ${r.itens.length} ofertas · ${r.info}`);
         for (const it of r.itens) itens.push({ pagina: i + 1, ...limpar(it) });
       }
@@ -264,6 +300,7 @@ async function compararMundial(cliente: ReturnType<typeof criarCliente>, gastoAt
   return gasto;
 }
 
+limparPaginasVencidas();
 const cliente = criarCliente();
 let gasto = 0;
 let falhas = 0;

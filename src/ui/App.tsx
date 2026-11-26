@@ -6,6 +6,8 @@ import { Inicio } from './telas/Inicio';
 import { Lista } from './telas/Lista';
 import { Perfil } from './telas/Perfil';
 import { Produto } from './telas/Produto';
+import { Revisao } from './telas/Revisao';
+import { useEffect, useState } from 'react';
 
 const ABAS: { id: Aba; rotulo: string; icone: string }[] = [
   { id: 'inicio', rotulo: 'Início', icone: 'inicio' },
@@ -17,6 +19,14 @@ const ABAS: { id: Aba; rotulo: string; icone: string }[] = [
 
 export function App() {
   const { aba, irPara, produtoAberto, lista, aviso } = useApp();
+  // Painel de revisão do dono: <app>/#revisao (não aparece para os clientes).
+  const [revisao, setRevisao] = useState(() => location.hash === '#revisao');
+  useEffect(() => {
+    const ver = () => setRevisao(location.hash === '#revisao');
+    addEventListener('hashchange', ver);
+    return () => removeEventListener('hashchange', ver);
+  }, []);
+  if (revisao) return <Revisao />;
 
   return (
     <div className="app">
