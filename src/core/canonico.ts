@@ -184,3 +184,42 @@ function compativeis(a: Set<string>, b: Set<string>): boolean {
   for (const w of maior) if (!menor.has(w) && VARIACOES.has(w)) return false;
   return true;
 }
+
+/**
+ * Assinatura de uma oferta: nome + marca + tamanho como o encarte escreveu (sem mercado).
+ * É o que o painel grava em data/juncoes.json: continua valendo mesmo se as regras de id mudarem.
+ */
+export function assinatura(o: Pick<Oferta, 'nome' | 'marca' | 'tamanho' | 'porKg'>): string {
+  return `${normalizar(o.nome)}|${normalizar(o.marca)}|${etiquetaTamanho(o.tamanho, o.porKg)}`;
+}
+
+export interface Juncoes {
+  /** Pares de assinaturas que são o MESMO produto (decisão do dono). */
+  juntar: [string, string][];
+  /** Pares que NÃO são o mesmo produto (separa se a regra automática juntou; some das sugestões). */
+  diferentes: [string, string][];
+}
+
+/** Aplica as decisões do dono por cima da junção automática. */
+export function aplicarJuncoes(ofertas: Oferta[], j: Juncoes): Oferta[] {
+  const sig = ofertas.map((o) => assinatura(o));
+  const produto = ofertas.map((o) => o.produto);
+  // 1) "diferentes": se estão no mesmo produto, a segunda assinatura ganha um produto só dela.
+  for (const [a, b] of j.diferentes) {
+    const pa = new Set(produto.filter((_, i) => sig[i] === a));
+    ofertas.forEach((o, i) => {
+      if (sig[i] === b && pa.has(produto[i])) produto[i] = `${idProduto(o.nome, o.marca, o.tamanho, o.porKg)}~${b.replace(/[^a-z0-9]+/g, '-').slice(0, 40)}`;
+    });
+  }
+  // 2) "juntar": o produto da segunda passa a ser o da primeira (em todas as ofertas dele).
+  for (const [a, b] of j.juntar) {
+    const ia = sig.indexOf(a);
+    const ib = sig.indexOf(b);
+    if (ia < 0 || ib < 0) continue;
+    const destino = produto[ia];
+    const origem = produto[ib];
+    if (destino === origem) continue;
+    for (let i = 0; i < produto.length; i++) if (produto[i] === origem) produto[i] = destino;
+  }
+  return ofertas.map((o, i) => (produto[i] === o.produto ? o : { ...o, produto: produto[i] }));
+}

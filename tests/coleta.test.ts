@@ -221,3 +221,22 @@ describe('robô do Prezunic', () => {
     });
   });
 });
+
+describe('aplicarJuncoes (decisões do dono)', () => {
+  it('junta e separa por assinatura', async () => {
+    const { aplicarJuncoes, assinatura, idProduto } = await import('../src/core/canonico');
+    const mk = (mercado: Oferta['mercado'], nome: string, encarte: string): Oferta => {
+      const tamanho = { valor: 5000, unidade: 'g' as const };
+      return { id: nome + mercado, mercado, encarte, produto: idProduto(nome, 'Tio João', tamanho, false), nome, marca: 'Tio João', original: nome,
+        categoria: 'Mercearia', tamanho, porKg: false, precos: [{ valor: 1, exige: [] }], revisado: false };
+    };
+    const a = mk('guanabara', 'Arroz', 'g1');
+    const b = mk('mundial', 'Arroz Agulhinha', 'm1');
+    const c = { ...mk('prezunic', 'Arroz', 'p1') };
+    const r = aplicarJuncoes([a, b, c], { juntar: [[assinatura(a), assinatura(b)]], diferentes: [] });
+    expect(r[0].produto).toBe(r[1].produto);
+    const s = aplicarJuncoes(r, { juntar: [], diferentes: [[assinatura(a), assinatura(b)]] });
+    expect(s[0].produto).not.toBe(s[1].produto);
+    expect(s[0].produto).toBe(s[2].produto);
+  });
+});

@@ -13,7 +13,8 @@ import type { ColetaAtacadao } from '../src/coleta/atacadao';
 import type { ColetaGuanabara } from '../src/coleta/guanabara';
 import type { ColetaPrezunic } from '../src/coleta/prezunic';
 import type { ColetaMundial } from '../src/coleta/mundial';
-import { idProduto, unificarProdutos } from '../src/core/canonico';
+import { aplicarJuncoes, assinatura, etiquetaTamanho, idProduto, palavrasDoProduto, unificarProdutos, type Juncoes } from '../src/core/canonico';
+import { normalizar } from '../src/core/texto';
 import { categorizar } from '../src/core/categorias';
 import { idsDasLojas } from '../src/core/locais';
 import { MARCAS_CONHECIDAS, limparNome, separarMarca, separarMarcas } from '../src/core/marcas';
@@ -440,6 +441,9 @@ for (const arq of readdirSync(join(RAIZ, 'data/curadoria')).filter((f) => f.ends
 // ---------------------------------------------------------------- Junta o mesmo produto escrito de jeitos diferentes
 const antes = new Set(ofertas.map((o) => o.produto)).size;
 ofertas = unificarProdutos(ofertas);
+// Decisões do dono no painel ("são o mesmo" / "são diferentes") vêm por cima da regra automática.
+const juncoes: Juncoes = existsSync(join(RAIZ, 'data/juncoes.json')) ? ler('data/juncoes.json') : { juntar: [], diferentes: [] };
+ofertas = aplicarJuncoes(ofertas, juncoes);
 const depois = new Set(ofertas.map((o) => o.produto)).size;
 
 // ---------------------------------------------------------------- Saída
@@ -447,6 +451,57 @@ ofertas.sort((a, b) => a.id.localeCompare(b.id, 'en', { numeric: true }));
 writeFileSync(join(RAIZ, 'data/ofertas.json'), JSON.stringify(ofertas, null, 1) + '\n');
 encartes.sort((a, b) => a.mercado.localeCompare(b.mercado) || a.inicio.localeCompare(b.inicio));
 writeFileSync(join(RAIZ, 'data/encartes.json'), JSON.stringify(encartes, null, 1) + '\n');
+// Sugestões de junção para o painel: produtos diferentes com a mesma marca e o mesmo tamanho (provável mesmo produto
+// escrito de outro jeito) e produtos já juntados com nomes diferentes (para o dono conferir/separar).
+{
+  interface Resumo { produto: string; assinatura: string; nome: string; marca: string; tamanho: string; mercados: string[]; preco: number }
+  const porProduto = new Map<string, Oferta[]>();
+  for (const o of ofertas) porProduto.set(o.produto, [...(porProduto.get(o.produto) ?? []), o]);
+  const resumo = (lista: Oferta[]): Resumo => {
+    const o = lista[0];
+    return {
+      produto: o.produto, assinatura: assinatura(o), nome: o.nome, marca: o.marca,
+      tamanho: etiquetaTamanho(o.tamanho, o.porKg).replace('sem-tamanho', ''),
+      mercados: [...new Set(lista.map((x) => x.mercado))].sort(),
+      preco: Math.min(...lista.flatMap((x) => x.precos.filter((p) => !p.exige.length).map((p) => p.valor)), Infinity),
+    };
+  };
+  const ditos = new Set([...juncoes.juntar, ...juncoes.diferentes].map(([a, b]) => [a, b].sort().join('§')));
+  const grupos = new Map<string, Oferta[][]>();
+  for (const lista of porProduto.values()) {
+    const o = lista[0];
+    const marca = normalizar(o.marca);
+    if (!marca || (!o.tamanho && !o.porKg)) continue;
+    const k = `${marca}|${etiquetaTamanho(o.tamanho, o.porKg)}`;
+    grupos.set(k, [...(grupos.get(k) ?? []), lista]);
+  }
+  const sugestoes: { a: Resumo; b: Resumo; parecido: number }[] = [];
+  for (const listas of grupos.values()) {
+    for (let x = 0; x < listas.length; x++)
+      for (let y = x + 1; y < listas.length; y++) {
+        const a = resumo(listas[x]);
+        const b = resumo(listas[y]);
+        if (a.mercados.every((m) => b.mercados.includes(m)) && b.mercados.every((m) => a.mercados.includes(m))) continue;
+        if (ditos.has([a.assinatura, b.assinatura].sort().join('§'))) continue;
+        const pa = new Set(palavrasDoProduto(a.nome, a.marca));
+        const pb = new Set(palavrasDoProduto(b.nome, b.marca));
+        const comuns = [...pa].filter((w) => pb.has(w)).length;
+        if (!comuns) continue;
+        sugestoes.push({ a, b, parecido: comuns / new Set([...pa, ...pb]).size });
+      }
+  }
+  sugestoes.sort((p, q) => q.parecido - p.parecido);
+  // Já juntados com nomes diferentes (a regra automática pode ter errado).
+  const juntos: { produto: string; itens: Resumo[] }[] = [];
+  for (const [produto, lista] of porProduto) {
+    const porNome = new Map<string, Oferta[]>();
+    for (const o of lista) porNome.set(assinatura(o), [...(porNome.get(assinatura(o)) ?? []), o]);
+    if (porNome.size < 2) continue;
+    juntos.push({ produto, itens: [...porNome.values()].map(resumo) });
+  }
+  writeFileSync(join(RAIZ, 'data/juncoes-sugestoes.json'), JSON.stringify({ sugestoes: sugestoes.slice(0, 300), juntos }) + '\n');
+}
+
 // Só o painel de revisão carrega este arquivo (separado do app, para não pesar para os clientes).
 writeFileSync(join(RAIZ, 'data/revisao.json'), JSON.stringify(revisao) + '\n');
 

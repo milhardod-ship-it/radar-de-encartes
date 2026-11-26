@@ -96,7 +96,10 @@ Carro-chefe: **lista de compras** (total por mercado, melhor mercado, quando val
 - `unificarProdutos`: mesma marca + tamanho; nunca junta dois nomes do MESMO encarte (encartes diferentes do mesmo
   mercado podem juntar: velho × novo); nomes contidos um no outro; palavra de VARIAÇÃO só de um lado bloqueia;
   nome de 1 palavra só junta com até 1 palavra a mais. 26/11: 1588 produtos, 101 em 2+ mercados, 71 unificados.
-- Pendente: tela no painel para o dono juntar/separar à mão (a curadoria já aceita `produto` fixo).
+- Decisões do dono: aba "Juntar produtos" do painel → `data/juncoes.json` (`juntar`/`diferentes`, pares de
+  `assinatura` = nome|marca|tamanho normalizados; sobrevive a mudanças de regra). `aplicarJuncoes` roda depois da
+  junção automática. O importador gera `data/juncoes-sugestoes.json` (mesma marca+tamanho, ainda separados; e os já
+  juntos com nomes diferentes), carregado só no painel.
 
 ## Lojas e localização
 - `data/lojas.json` (112 lojas): Guanabara (página /lojas, coordenada do link do Google Maps), Mundial (JSON de

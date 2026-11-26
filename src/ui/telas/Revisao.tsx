@@ -6,6 +6,7 @@ import { useEffect, useMemo, useState } from 'react';
 import { formatarReais } from '../../core/texto';
 import { nomeMercado } from '../../dados';
 import type { MercadoId } from '../../core/tipos';
+import { RevisaoJuncoes } from './RevisaoJuncoes';
 
 const REPO = 'milhardod-ship-it/radar-de-encartes';
 const CHAVE_TOKEN = 'radar:revisao:token';
@@ -79,6 +80,27 @@ async function github(token: string, caminho: string, init?: RequestInit) {
   return r.json();
 }
 
+/** Lê data/<arquivo> no GitHub (pode não existir), aplica `mudar` e grava num commit. */
+async function gravarArquivoDados(token: string, arquivo: string, mudar: (dados: any) => any, mensagem: string) {
+  const caminho = `/repos/${REPO}/contents/data/${arquivo}`;
+  let atual: { content: string; sha: string } | null = null;
+  try {
+    atual = await github(token, `${caminho}?ref=main`);
+  } catch (e) {
+    if (!String((e as Error).message).includes('404')) throw e;
+  }
+  const dados = mudar(atual ? JSON.parse(deBase64(atual.content)) : null);
+  await github(token, caminho, {
+    method: 'PUT',
+    body: JSON.stringify({
+      message: mensagem,
+      content: paraBase64(JSON.stringify(dados, null, 1) + '\n'),
+      ...(atual ? { sha: atual.sha } : {}),
+      branch: 'main',
+    }),
+  });
+}
+
 /** Aplica as ações num arquivo de curadoria e grava no GitHub (um commit por arquivo). */
 async function enviarArquivo(token: string, arquivo: string, acoes: [number, Acao][]) {
   const caminho = `/repos/${REPO}/contents/data/curadoria/${arquivo}`;
@@ -126,6 +148,7 @@ export function Revisao() {
   const [editando, setEditando] = useState<string | null>(null);
   const [enviando, setEnviando] = useState(false);
   const [mensagem, setMensagem] = useState<string | null>(null);
+  const [aba, setAba] = useState<'ofertas' | 'juncoes'>('ofertas');
 
   useEffect(() => {
     // Carregado só aqui: os clientes do app nunca baixam este arquivo.
@@ -200,6 +223,17 @@ export function Revisao() {
         </div>
       </header>
 
+      <div className="abas-revisao" role="tablist">
+        <button role="tab" aria-selected={aba === 'ofertas'} onClick={() => setAba('ofertas')}>Ofertas</button>
+        <button role="tab" aria-selected={aba === 'juncoes'} onClick={() => setAba('juncoes')}>Juntar produtos</button>
+      </div>
+
+      {aba === 'juncoes' ? (
+        <section className="secao">
+          <RevisaoJuncoes enviarArquivo={(arquivo, mudar, msg) => gravarArquivoDados(token, arquivo, mudar, msg)} />
+        </section>
+      ) : (
+      <>
       <section className="secao">
         <div className="filtros-revisao">
           <button className={mostrar === 'duvida' ? 'chip hoje' : 'chip neutro'} onClick={() => setMostrar('duvida')}>A confirmar</button>
@@ -274,6 +308,8 @@ export function Revisao() {
           {enviando ? 'Enviando…' : nPendentes ? `Enviar ${nPendentes} ${nPendentes === 1 ? 'revisão' : 'revisões'}` : 'Nenhuma revisão para enviar'}
         </button>
       </div>
+      </>
+      )}
     </div>
   );
 }
