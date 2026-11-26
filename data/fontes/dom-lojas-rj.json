@@ -1,0 +1,31 @@
+{
+ "fonte": "Lojas do site do Dom Atacadista (/hub-encartes, 26/11/2026). O site traz endereço, mas não coordenada: posição aproximada pelo bairro/cidade do endereço.",
+ "lojas": [
+  {"slug": "angra-japuiba", "nome": "Angra | Japuíba", "endereco": "Rua Francelino Alves De Lima, 63 - Japuíba", "cidade": "Angra dos Reis", "lat": -22.976, "lon": -44.299},
+  {"slug": "angra-praia-da-chacara", "nome": "Angra | Praia da Chácara", "endereco": "Av. Almirante Jair Carneiro Toscano de Brito, 531", "cidade": "Angra dos Reis", "lat": -23.004, "lon": -44.307},
+  {"slug": "araruama", "nome": "Araruama", "endereco": "Estrada Rio Bonito, 120 - Parque Hotel", "cidade": "Araruama", "lat": -22.873, "lon": -42.343},
+  {"slug": "bangu", "nome": "Bangu", "endereco": "Av. Brasil, 32238 - Bangu", "cidade": "Rio de Janeiro", "lat": -22.857, "lon": -43.484},
+  {"slug": "bellford-roxo", "nome": "Belford Roxo", "endereco": "Av. Joaquim da Costa Lima, 2009 - Piam", "cidade": "Belford Roxo", "lat": -22.776, "lon": -43.385},
+  {"slug": "buzios", "nome": "Búzios", "endereco": "Av. Doze de Novembro, SN - Caravelas", "cidade": "Armação dos Búzios", "lat": -22.775, "lon": -41.93},
+  {"slug": "campo-grande", "nome": "Campo Grande", "endereco": "Av. de Santa Cruz, 12.516", "cidade": "Rio de Janeiro", "lat": -22.893, "lon": -43.545},
+  {"slug": "campos-dos-goytacazes-parque-pecuária", "nome": "Campos | Parque Pecuária", "endereco": "Av. Presidente Vargas, 263", "cidade": "Campos dos Goytacazes", "lat": -21.76, "lon": -41.33},
+  {"slug": "campos-dos-goytacazes-parque-calabouço", "nome": "Campos | Parque Calabouço", "endereco": "Av. Senador José Carlos Pereira Pinto, 532", "cidade": "Campos dos Goytacazes", "lat": -21.745, "lon": -41.318},
+  {"slug": "duque-de-caxias", "nome": "Duque de Caxias", "endereco": "Rodovia Washington Luíz, 3853", "cidade": "Duque de Caxias", "lat": -22.762, "lon": -43.297},
+  {"slug": "duque-de-caxias-santa-cruz-da-serra", "nome": "Duque de Caxias | Santa Cruz da Serra", "endereco": "Av. Automóvel Club S/N - Santa Cruz da Serra", "cidade": "Duque de Caxias", "lat": -22.645, "lon": -43.285},
+  {"slug": "inhauma", "nome": "Inhaúma", "endereco": "Av. Itaóca, 2.650 - Bonsucesso", "cidade": "Rio de Janeiro", "lat": -22.866, "lon": -43.272},
+  {"slug": "itaperuna", "nome": "Itaperuna", "endereco": "Av. Presidente Dutra, 1.125 - Cidade Nova", "cidade": "Itaperuna", "lat": -21.205, "lon": -41.888},
+  {"slug": "macae", "nome": "Macaé", "endereco": "Rod. Amaral Peixoto, 2.885", "cidade": "Macaé", "lat": -22.38, "lon": -41.8},
+  {"slug": "marica", "nome": "Maricá", "endereco": "Rod. Ernani do Amaral Peixoto, S/N - São José do Imbassaí", "cidade": "Maricá", "lat": -22.935, "lon": -42.86},
+  {"slug": "mesquita", "nome": "Mesquita", "endereco": "", "cidade": "Mesquita", "lat": -22.79, "lon": -43.43},
+  {"slug": "niteroi", "nome": "Niterói", "endereco": "Av. Jansen de Melo, 42", "cidade": "Niterói", "lat": -22.886, "lon": -43.12},
+  {"slug": "nova-iguaçu", "nome": "Nova Iguaçu", "endereco": "Rodovia Presidente Dutra - Jardim Tropical", "cidade": "Nova Iguaçu", "lat": -22.74, "lon": -43.48},
+  {"slug": "petropolis", "nome": "Petrópolis", "endereco": "", "cidade": "Petrópolis", "lat": -22.505, "lon": -43.178},
+  {"slug": "realengo", "nome": "Realengo", "endereco": "", "cidade": "Rio de Janeiro", "lat": -22.879, "lon": -43.43},
+  {"slug": "resende", "nome": "Resende", "endereco": "", "cidade": "Resende", "lat": -22.47, "lon": -44.45},
+  {"slug": "sao-gonçalo", "nome": "São Gonçalo", "endereco": "", "cidade": "São Gonçalo", "lat": -22.827, "lon": -43.054},
+  {"slug": "sao-joao-de-meriti", "nome": "São João de Meriti", "endereco": "", "cidade": "São João de Meriti", "lat": -22.804, "lon": -43.372},
+  {"slug": "sao-pedro-da-aldeia", "nome": "São Pedro da Aldeia", "endereco": "", "cidade": "São Pedro da Aldeia", "lat": -22.839, "lon": -42.103},
+  {"slug": "taquara", "nome": "Taquara", "endereco": "", "cidade": "Rio de Janeiro", "lat": -22.922, "lon": -43.373},
+  {"slug": "teresopolis", "nome": "Teresópolis", "endereco": "", "cidade": "Teresópolis", "lat": -22.412, "lon": -42.966}
+ ]
+}

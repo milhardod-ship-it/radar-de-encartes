@@ -7,6 +7,7 @@ export const PROGRAMAS: Record<ProgramaId, Programa> = {
   'guana-clube': { id: 'guana-clube', nome: 'Guana Clube', descricao: 'Clube de vantagens do Guanabara' },
   'mundial-total': { id: 'mundial-total', nome: 'App Mundial Total', descricao: 'Preços exclusivos no app do Mundial' },
   'meu-assai': { id: 'meu-assai', nome: 'App Meu Assaí', descricao: 'Ofertas exclusivas no app do Assaí' },
+  'meu-dom': { id: 'meu-dom', nome: 'App Meu Dom', descricao: 'Clube de ofertas do app do Dom Atacadista' },
   'meu-atacadao': { id: 'meu-atacadao', nome: 'App Meu Atacadão', descricao: 'Ofertas ativadas no app do Atacadão' },
   'cartao-atacadao': {
     id: 'cartao-atacadao',
@@ -22,6 +23,7 @@ export const MERCADOS: Record<MercadoId, Mercado> = {
   prezunic: { id: 'prezunic', nome: 'Prezunic', programas: [] },
   supermarket: { id: 'supermarket', nome: 'Supermarket', programas: [] },
   assai: { id: 'assai', nome: 'Assaí', programas: [PROGRAMAS['meu-assai']] },
+  dom: { id: 'dom', nome: 'Dom Atacadista', programas: [PROGRAMAS['meu-dom']] },
 };
 
 export const ENCARTES: Encarte[] = encartesJson as Encarte[];

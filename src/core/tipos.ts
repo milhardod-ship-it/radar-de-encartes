@@ -1,7 +1,7 @@
 // Tipos centrais do Radar de Encartes.
 // Tudo em src/core é puro (sem React, sem navegador): no futuro roda igual no servidor.
 
-export type MercadoId = 'guanabara' | 'mundial' | 'atacadao' | 'prezunic' | 'supermarket' | 'assai';
+export type MercadoId = 'guanabara' | 'mundial' | 'atacadao' | 'prezunic' | 'supermarket' | 'assai' | 'dom';
 
 export interface Mercado {
   id: MercadoId;
@@ -22,7 +22,8 @@ export type ProgramaId =
   | 'mundial-total'
   | 'meu-atacadao'
   | 'cartao-atacadao'
-  | 'meu-assai';
+  | 'meu-assai'
+  | 'meu-dom';
 
 /** Tamanho da embalagem já convertido para a unidade-base. */
 export interface Tamanho {

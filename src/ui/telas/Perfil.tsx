@@ -4,7 +4,7 @@ import { Topo } from '../componentes';
 import { DATA_DE_TESTE, definirDataDeTeste, useApp } from '../contexto';
 import { EditorRegiao } from '../Regiao';
 
-const COM_PROGRAMAS: MercadoId[] = ['guanabara', 'mundial', 'atacadao'];
+const COM_PROGRAMAS: MercadoId[] = ['guanabara', 'mundial', 'atacadao', 'assai', 'dom'];
 
 export function Perfil() {
   const { perfil, alternarPrograma, hoje } = useApp();

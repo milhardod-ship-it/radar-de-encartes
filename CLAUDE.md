@@ -65,6 +65,14 @@ Carro-chefe: **lista de compras** (total por mercado, melhor mercado, quando val
   PDFs (Smarket) têm texto sem dados estruturados: leitura pela posição das palavras (`pdftotext -bbox-layout`):
   nome em maiúsculas acima, 2 preços grandes (esq. = "de", dir. = "por"), "Limite por cliente" abaixo; altura
   de referência = altura mais comum dos números da página. Em 23/11: 7 encartes RJ, 429 ofertas, 100% lidas.
+- **Dom Atacadista** (`domatacadista.net`, Next.js, sem escudo): `/hub-encartes` → lojas (`pageProps.stores`, com
+  endereço); `/encartes/lojas/<slug>` → `pageProps.store.encartes[{id, description, pages[{pageNumber,url}]}]`, imagens no
+  DigitalOcean (`meu-varejo.sfo3.cdn.digitaloceanspaces.com`). Em 26/11: 26 lojas, TODAS com os mesmos 6 encartes.
+  Sem validade no site: a IA lê do encarte (se não achar → 7 dias + "a confirmar"). Não é semanal (dono).
+  `src/coleta/dom.ts` + modo `dom` no leitor (roda no robô de coleta). Lojas: `data/fontes/dom-lojas-rj.json`
+  (posição aproximada). Programa `meu-dom`.
+- **Redeconomia** (`redeconomia.com.br`, WordPress, sem escudo; 150+ lojas): encartes carregados por JS na página
+  `/encartes/` (carrossel) — falta achar de onde vêm as imagens. Lojas por município/bairro (AJAX).
 - **Supermarket**: site `www.redesupermarket.com.br` (da SAERJ, associação de supermercados independentes; cada
   loja associada pode ter encarte próprio). Em 23/11: escudo anti-robô do Cloudflare ("Just a moment…", bloqueia
   até o robots.txt). Mesma decisão do Assaí: NÃO contornar. Caminho: dono manda o encarte + leitor por IA,

@@ -10,6 +10,7 @@ import { tmpdir } from 'node:os';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { lerValidadeGuanabara, SITE_GUANABARA } from '../src/coleta/guanabara';
+import { coletarEncartesDom, listarLojasDom } from '../src/coleta/dom';
 import { baixarArquivo, criarBaixar } from '../src/coleta/http';
 import { criarCliente, lerPagina, MODELO_PADRAO, type ItemLido } from '../src/coleta/leitorIA';
 import { lerEncartesMundial, lerPageProps, SITE_MUNDIAL } from '../src/coleta/mundial';
@@ -52,20 +53,20 @@ async function lerComReaproveitamento(
   cliente: ReturnType<typeof criarCliente>,
   arq: string,
   contexto: string,
-): Promise<{ itens: ItemLido[]; custo: number; reaproveitada: boolean; info: string }> {
+): Promise<{ itens: ItemLido[]; validade: { inicio: string; fim: string } | null; custo: number; reaproveitada: boolean; info: string }> {
   const img = readFileSync(arq);
   const hash = createHash('sha256').update(img).digest('hex').slice(0, 32);
   const cache = join(LEITURAS, `${hash}.json`);
   if (existsSync(cache)) {
     const c = JSON.parse(readFileSync(cache, 'utf8'));
-    return { itens: c.itens, custo: 0, reaproveitada: true, info: `reaproveitada (lida antes por ${c.modelo})` };
+    return { itens: c.itens, validade: c.validade ?? null, custo: 0, reaproveitada: true, info: `reaproveitada (lida antes por ${c.modelo})` };
   }
   const r = await lerPagina(cliente, img, 'image/jpeg', contexto, modelo);
   if (!TESTE) {
     mkdirSync(LEITURAS, { recursive: true });
-    writeFileSync(cache, JSON.stringify({ modelo, lidaEm: hojeRio, itens: r.itens }, null, 1) + '\n');
+    writeFileSync(cache, JSON.stringify({ modelo, lidaEm: hojeRio, validade: r.validade, itens: r.itens }, null, 1) + '\n');
   }
-  return { itens: r.itens, custo: r.custoUS, reaproveitada: false, info: `${r.tokensEntrada} + ${r.tokensSaida} tokens · US$ ${r.custoUS.toFixed(4)}` };
+  return { itens: r.itens, validade: r.validade, custo: r.custoUS, reaproveitada: false, info: `${r.tokensEntrada} + ${r.tokensSaida} tokens · US$ ${r.custoUS.toFixed(4)}` };
 }
 
 function jaExiste(mercado: string, inicio: string, fim: string): string | null {
@@ -226,6 +227,85 @@ async function assai(cliente: ReturnType<typeof criarCliente>, gastoAte: number)
   return gasto;
 }
 
+/**
+ * Dom Atacadista: lê do site a lista de lojas e os encartes de cada uma (imagens abertas, sem escudo).
+ * Cada encarte novo é lido uma vez (vale para as lojas onde aparece). A validade vem do próprio encarte (IA).
+ */
+async function dom(cliente: ReturnType<typeof criarCliente>, gastoAte: number): Promise<number> {
+  console.log('Dom Atacadista…');
+  const lojas = listarLojasDom(baixar);
+  const encartes = coletarEncartesDom(baixar, lojas);
+  // Guarda a lista de lojas (o importador usa para o mapa).
+  if (!TESTE) writeFileSync(join(RAIZ, 'data/brutos/dom-lojas.json'), JSON.stringify(lojas, null, 1) + '\n');
+  console.log(`  ${lojas.length} lojas, ${encartes.length} encartes`);
+  let gasto = gastoAte;
+  for (const e of encartes) {
+    const id = `dom-ia-${e.id}`;
+    if (existsSync(join(CURADORIA, `${id}.json`)) && !TESTE) {
+      console.log(`  ${e.id} ${e.descricao}: já lido`);
+      continue;
+    }
+    const pasta = mkdtempSync(join(tmpdir(), 'dom-'));
+    try {
+      const itens: any[] = [];
+      let validade: { inicio: string; fim: string } | null = null;
+      const inicioGasto = gasto;
+      let completo = true;
+      const paginas = TESTE ? e.paginas.slice(0, 1) : e.paginas;
+      for (const [i, url] of paginas.entries()) {
+        if (gasto >= LIMITE_US) { console.log(`  ! parei: limite de gasto (US$ ${LIMITE_US})`); completo = false; break; }
+        const original = join(pasta, `p${i + 1}-original`);
+        const arq = join(pasta, `p${i + 1}.jpg`);
+        baixarArquivo(url, original);
+        execFileSync('convert', [original, '-resize', '1568x1568>', '-quality', '85', arq]);
+        const r = await lerComReaproveitamento(
+          cliente,
+          arq,
+          `Encarte "${e.descricao}" do Dom Atacadista (atacarejo do Rio de Janeiro), página ${i + 1} de ${e.paginas.length}. ` +
+            'O app/clube se chama "Meu Dom". Preços de atacado ("a partir de X unidades") são condição, não o preço normal. ' +
+            'A validade costuma estar impressa no encarte: devolva-a em "validade".',
+        );
+        gasto += r.custo;
+        validade ??= r.validade;
+        salvarPagina(id, i + 1, arq);
+        console.log(`  ${e.id} ${e.descricao} página ${i + 1}: ${r.itens.length} ofertas · ${r.info}${r.validade ? ` · validade ${r.validade.inicio} a ${r.validade.fim}` : ''}`);
+        for (const it of r.itens) itens.push({ pagina: i + 1, ...limpar(it) });
+      }
+      if (TESTE) {
+        for (const it of itens.slice(0, 60)) console.log(`  ${it.nome} | ${it.marcas.join(', ')} | ${it.tamanho} | ${it.preco}${it.clube ? ` app ${it.clube}` : ''}${it.condicao ? ` | ${it.condicao}` : ''}${it.duvida ? ` | DÚVIDA: ${it.duvida}` : ''}`);
+        console.log(`  validade lida: ${validade ? `${validade.inicio} a ${validade.fim}` : 'NÃO ENCONTRADA'}`);
+        return gasto;
+      }
+      if (!completo) return gasto; // não salva encarte pela metade
+      // Sem validade impressa: vale por 7 dias a partir de hoje e todas as ofertas ficam "a confirmar".
+      const semValidade = !validade || !/^\d{4}-\d{2}-\d{2}$/.test(validade.inicio) || !/^\d{4}-\d{2}-\d{2}$/.test(validade.fim);
+      const inicio = semValidade ? hojeRio : validade!.inicio;
+      const fim = semValidade ? new Date(Date.parse(hojeRio) + 6 * 86400000).toISOString().slice(0, 10) : validade!.fim;
+      if (semValidade) for (const it of itens) it.duvida = it.duvida ?? 'validade não encontrada no encarte';
+      const todas = e.lojas.length === lojas.length;
+      const arquivo = {
+        encarte: id,
+        mercado: 'dom',
+        programaClube: 'meu-dom',
+        nomeClube: 'app Meu Dom',
+        encarteInfo: {
+          id, mercado: 'dom', titulo: e.descricao || 'Encarte Dom Atacadista', inicio, fim,
+          lojas: todas ? [] : e.lojas.map((s) => lojas.find((l) => l.slug === s)?.nome ?? s),
+          ...(todas ? {} : { lojasIds: e.lojas.map((s) => `dom-${s}`) }),
+          fonte: `site do Dom Atacadista (imagens do encarte), lido por IA (${modelo}) em ${hojeRio}`,
+        },
+        observacao: `Lido por IA (${modelo}); custo aproximado US$ ${(gasto - inicioGasto).toFixed(2)}.${semValidade ? ' VALIDADE NÃO ENCONTRADA (7 dias).' : ''} Não revisado.`,
+        itens,
+      };
+      writeFileSync(join(CURADORIA, `${id}.json`), JSON.stringify(arquivo, null, 1) + '\n');
+      console.log(`  salvo data/curadoria/${id}.json (${itens.length} ofertas, ${inicio} a ${fim}, US$ ${(gasto - inicioGasto).toFixed(2)})`);
+    } finally {
+      rmSync(pasta, { recursive: true, force: true });
+    }
+  }
+  return gasto;
+}
+
 /** Formato da curadoria: só manda os campos preenchidos. */
 function limpar(it: any) {
   return {
@@ -304,14 +384,21 @@ limparPaginasVencidas();
 const cliente = criarCliente();
 let gasto = 0;
 let falhas = 0;
-try {
-  if (process.argv.includes('--mundial')) gasto = await compararMundial(cliente, gasto);
-  else if (process.argv.includes('--assai')) gasto = await assai(cliente, gasto);
-  // Assaí fica fora da passada automática: o servidor das imagens recusou o robô (403) em 25/11.
-  else gasto = await guanabara(cliente, gasto);
-} catch (e) {
-  falhas++;
-  console.error(`  ERRO: ${(e as Error).message}`);
+// Assaí fica fora da passada automática: o servidor das imagens recusa o robô (bloqueio por país, 25/11).
+const tarefas = process.argv.includes('--mundial')
+  ? [compararMundial]
+  : process.argv.includes('--assai')
+    ? [assai]
+    : process.argv.includes('--dom')
+      ? [dom]
+      : [guanabara, dom];
+for (const tarefa of tarefas) {
+  try {
+    gasto = await tarefa(cliente, gasto);
+  } catch (e) {
+    falhas++;
+    console.error(`  ERRO (${tarefa.name}): ${(e as Error).message}`);
+  }
 }
 console.log(`Gasto desta execução: ~US$ ${gasto.toFixed(3)} (modelo ${modelo})`);
 if (falhas) process.exit(1);

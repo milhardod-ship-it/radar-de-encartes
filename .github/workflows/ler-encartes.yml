@@ -12,7 +12,7 @@ on:
         required: true
         default: teste
         type: choice
-        options: [teste, ler, mundial, assai]
+        options: [teste, ler, mundial, assai, dom, dom-teste]
       modelo:
         description: 'modelo da IA'
         required: true
@@ -44,12 +44,12 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           LEITOR_MODELO: ${{ inputs.modelo }}
-        run: npm run ler-encartes -- ${{ inputs.modo == 'teste' && '--teste' || '' }} ${{ inputs.modo == 'mundial' && '--mundial' || '' }} ${{ inputs.modo == 'assai' && '--assai' || '' }}
+        run: npm run ler-encartes -- ${{ inputs.modo == 'teste' && '--teste' || '' }} ${{ inputs.modo == 'mundial' && '--mundial' || '' }} ${{ inputs.modo == 'assai' && '--assai' || '' }} ${{ startsWith(inputs.modo, 'dom') && '--dom' || '' }} ${{ inputs.modo == 'dom-teste' && '--teste' || '' }}
       - name: Importar, testar e conferir o build
-        if: inputs.modo != 'teste'
+        if: inputs.modo != 'teste' && inputs.modo != 'dom-teste'
         run: npm run build && npm test
       - name: Salvar
-        if: inputs.modo != 'teste'
+        if: inputs.modo != 'teste' && inputs.modo != 'dom-teste'
         run: |
           git config user.name "radar-robo"
           git config user.email "radar-robo@users.noreply.github.com"

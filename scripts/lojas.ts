@@ -136,6 +136,15 @@ try {
   console.error('Atacadão: ERRO', (e as Error).message);
 }
 
+// ---------------------------------------------------------------- Dom Atacadista (endereços do site; posição aproximada)
+{
+  const fonte = JSON.parse(readFileSync(join(RAIZ, 'data/fontes/dom-lojas-rj.json'), 'utf8'));
+  for (const l of fonte.lojas) {
+    lojas.push({ id: `dom-${l.slug}`, mercado: 'dom', nome: l.nome, endereco: l.endereco, bairro: l.nome, cidade: l.cidade, lat: l.lat, lon: l.lon, aproximada: true });
+  }
+  console.log(`Dom: ${fonte.lojas.length} lojas (posição aproximada)`);
+}
+
 // ---------------------------------------------------------------- Assaí (lista fixa, sem robô)
 {
   const fonte = JSON.parse(readFileSync(join(RAIZ, 'data/fontes/assai-lojas-rj.json'), 'utf8'));
