@@ -100,6 +100,16 @@ for (const url of urls) {
     console.log('trechos com pistas:');
     for (const m of trechos) console.log(`  …${corpo.slice(Math.max(0, m.index! - 120), m.index! + 160).replace(/\s+/g, ' ')}…`);
   }
+  // Programação da página: de onde ela busca dados depois de abrir (fetch, ajax, endereços .json/.php)
+  const scripts = [...corpo.matchAll(/<script\b([^>]*)>([\s\S]*?)<\/script>/gi)];
+  const externos = scripts.map((m) => (m[1].match(/src=["']([^"']+)/) ?? [])[1]).filter(Boolean);
+  console.log(`scripts externos (${externos.length}): ${externos.join(' | ')}`);
+  for (const m of scripts) {
+    const js = m[2];
+    for (const p of js.matchAll(/fetch\(|\$\.(ajax|get|post)\(|XMLHttpRequest|admin-ajax|wp-json|\.json|encarte/gi)) {
+      console.log(`  js: …${js.slice(Math.max(0, p.index! - 200), p.index! + 300).replace(/\s+/g, ' ')}…`);
+    }
+  }
   const apis = [...new Set([...corpo.matchAll(/https?:\/\/[^"'\s<>]*(?:api|graphql|json)[^"'\s<>]*/gi)].map((m) => m[0]))];
   if (apis.length) console.log(`endereços de API/JSON: ${apis.slice(0, 20).join(' | ')}`);
 }
