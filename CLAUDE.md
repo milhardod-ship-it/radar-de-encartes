@@ -74,7 +74,8 @@ Carro-chefe: **lista de compras** (total por mercado, melhor mercado, quando val
 - **Redeconomia** (`redeconomia.com.br`, WordPress, sem escudo; 150+ lojas): a página `/encartes/` está vazia
   (`ENCARTE_PAGES` não definido). As ofertas ficam na PÁGINA INICIAL: banners `/wp-content/uploads/AAAA/MM/Site-<n>-<edição>.jpg`
   (1 oferta por banner, em geral válida só no dia). Robô lê com IA (centavos por banner) → `redeconomia-ia-<AAAA-MM-edição>`.
-  Roda no robô de coleta. Pendente: lojas (lista por município/bairro via AJAX do WordPress).
+  **26/11: dono decidiu deixar a Redeconomia de fora por enquanto** (poucas ofertas, sem lojas): fora do robô e do
+  app; o código (modo manual `redeconomia`) ficou para quando voltar. Pendente: lojas (AJAX do WordPress).
 - Coordenadas do Dom: `npm run geocodificar` (workflow "Geocodificar lojas") pelo endereço do site via
   OpenStreetMap/Nominatim, aceitando só resultado na cidade certa e a até 3 km do bairro. Bangu, Belford Roxo e
   Duque de Caxias ficaram "a conferir"; Búzios, Santa Cruz da Serra, Maricá e Teresópolis aproximadas.

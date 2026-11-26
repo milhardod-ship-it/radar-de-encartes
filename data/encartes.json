@@ -1018,23 +1018,5 @@
   "lojas": [],
   "lojasIds": [],
   "fonte": "encartes do site do Prezunic (robô, 2026-11-25)"
- },
- {
-  "id": "redeconomia-ia-2026-11-12",
-  "mercado": "redeconomia",
-  "titulo": "Encarte Redeconomia",
-  "inicio": "2026-11-26",
-  "fim": "2026-11-26",
-  "lojas": [],
-  "fonte": "página inicial do site da Redeconomia (imagens), lida por IA (claude-sonnet-5-5) em 2026-11-26"
- },
- {
-  "id": "redeconomia-ia-2026-11-13",
-  "mercado": "redeconomia",
-  "titulo": "Encarte Redeconomia",
-  "inicio": "2026-11-26",
-  "fim": "2026-11-26",
-  "lojas": [],
-  "fonte": "página inicial do site da Redeconomia (imagens), lida por IA (claude-sonnet-5-5) em 2026-11-26"
  }
 ]

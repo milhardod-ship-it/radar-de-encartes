@@ -464,7 +464,7 @@ const tarefas = process.argv.includes('--mundial')
       ? [dom]
       : process.argv.includes('--redeconomia')
         ? [redeconomia]
-        : [guanabara, dom, redeconomia];
+        : [guanabara, dom]; // Redeconomia fora por decisão do dono (26/11); código mantido para depois
 for (const tarefa of tarefas) {
   try {
     gasto = await tarefa(cliente, gasto);
