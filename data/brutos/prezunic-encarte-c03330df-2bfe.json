@@ -1,0 +1,103 @@
+{
+ "fonte": "prezunic-site",
+ "coletadoEm": "2026-11-26T13:34:53.256Z",
+ "encarte": {
+  "titulo": "FDS de ofertas",
+  "textoValidade": "Válidas de 27 a 29/11/2026",
+  "estado": "RJ",
+  "pdf": "https://prezunic.vtexassets.com/assets/vtex.file-manager-graphql/images/c03330df-2bfe-4fce-8362-a2ca9a74c8ec___2b121f71ac46e3f10f4d96a83a595865.pdf",
+  "inicio": "2026-11-27",
+  "fim": "2026-11-29",
+  "lojas": []
+ },
+ "itens": [
+  {
+   "pagina": 1,
+   "nome": "CORAÇÃO DA ALCATRA MATURATTA",
+   "detalhe": "",
+   "preco": 49.98,
+   "precoDe": null,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "CORAÇÃO DA ALCATRA BOVINO TRADICIONAL",
+   "detalhe": "(peça) kg",
+   "preco": 44.98,
+   "precoDe": null,
+   "limite": "Limite por cliente de 10 Kg"
+  },
+  {
+   "pagina": 1,
+   "nome": "ACÉM BOVINO",
+   "detalhe": "(pedaço ou moído) kg",
+   "preco": 34.98,
+   "precoDe": 42.99,
+   "limite": "Limite por cliente de 10 Kg"
+  },
+  {
+   "pagina": 1,
+   "nome": "FILÉ OU FILEZINHO DE PEITO DE FRANGO SEARA",
+   "detalhe": "bdj/iqf/zip cong. 1kg",
+   "preco": 17.98,
+   "precoDe": 22.99,
+   "limite": "Limite por cliente de 10 UN."
+  },
+  {
+   "pagina": 1,
+   "nome": "LINGUIÇA DE PERNIL PERDIGÃO",
+   "detalhe": "kg",
+   "preco": 14.99,
+   "precoDe": 19.99,
+   "limite": "Limite por cliente de 10 Kg"
+  },
+  {
+   "pagina": 1,
+   "nome": "AZEITE DE OLIVA CUISINE&CO",
+   "detalhe": "(extravirgem) 500ml",
+   "preco": 17.99,
+   "precoDe": 29.99,
+   "limite": "Limite por cliente de 10 UN."
+  },
+  {
+   "pagina": 1,
+   "nome": "CERVEJA BRAHMA CHOPP",
+   "detalhe": "latão 473ml c/ 12 un.",
+   "preco": 53.88,
+   "precoDe": 55.08,
+   "limite": null
+  },
+  {
+   "pagina": 1,
+   "nome": "CERVEJA HEINEKEN",
+   "detalhe": "latão 473ml",
+   "preco": 5.99,
+   "precoDe": 7.29,
+   "limite": "Limite por cliente de 48 UN."
+  },
+  {
+   "pagina": 1,
+   "nome": "WHISKY JOHNNIE WALKER RED LABEL",
+   "detalhe": "1l",
+   "preco": 79.9,
+   "precoDe": 114.9,
+   "limite": "Limite por cliente de 10 UN."
+  },
+  {
+   "pagina": 1,
+   "nome": "LAVA-ROUPAS EM PÓ OMO",
+   "detalhe": "(fragrâncias) 1,4kg",
+   "preco": 16.99,
+   "precoDe": 19.99,
+   "limite": "Limite por cliente de 10 UN."
+  },
+  {
+   "pagina": 1,
+   "nome": "LAVA-ROUPAS EM PÓ ACE",
+   "detalhe": "sachê 1,5kg",
+   "preco": 9.99,
+   "precoDe": 12.99,
+   "limite": "Limite por cliente de 10 UN."
+  }
+ ]
+}

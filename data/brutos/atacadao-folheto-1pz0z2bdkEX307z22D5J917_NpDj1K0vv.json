@@ -17,17 +17,17 @@
     "lon": -44.5078324
    },
    {
-    "id": 815,
-    "nome": "Volta Redonda São Geraldo",
-    "bairro": "São Geraldo",
+    "id": 289,
+    "nome": "Volta Redonda Vila Rica",
+    "bairro": "Jardim Vila Rica",
     "cidade": "Volta Redonda",
     "lat": null,
     "lon": null
    },
    {
-    "id": 289,
-    "nome": "Volta Redonda Vila Rica",
-    "bairro": "Jardim Vila Rica",
+    "id": 815,
+    "nome": "Volta Redonda São Geraldo",
+    "bairro": "São Geraldo",
     "cidade": "Volta Redonda",
     "lat": null,
     "lon": null
