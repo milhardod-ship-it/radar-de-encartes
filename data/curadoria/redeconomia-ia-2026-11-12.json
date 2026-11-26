@@ -1,0 +1,35 @@
+{
+ "encarte": "redeconomia-ia-2026-11-12",
+ "mercado": "redeconomia",
+ "programaClube": "clube-redeconomia",
+ "nomeClube": "Clube Redeconomia",
+ "encarteInfo": {
+  "id": "redeconomia-ia-2026-11-12",
+  "mercado": "redeconomia",
+  "titulo": "Encarte Redeconomia",
+  "inicio": "2026-11-26",
+  "fim": "2026-11-26",
+  "lojas": [],
+  "fonte": "página inicial do site da Redeconomia (imagens), lida por IA (claude-sonnet-5-5) em 2026-11-26"
+ },
+ "observacao": "Lido por IA (claude-sonnet-5-5); custo aproximado US$ 0.02. Não revisado.",
+ "itens": [
+  {
+   "pagina": 1,
+   "nome": "Mini Chicken",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "1kg",
+   "preco": 16.98,
+   "condicao": "cada"
+  },
+  {
+   "pagina": 2,
+   "nome": "Peito de Frango Com Osso Congelado",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 12.98
+  }
+ ]
+}

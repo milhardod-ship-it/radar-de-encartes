@@ -1,0 +1,21 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-26",
+ "validade": {
+  "inicio": "2026-11-26",
+  "fim": "2026-11-26"
+ },
+ "itens": [
+  {
+   "nome": "Carré Suíno Congelado",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 14.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "enquanto durarem os estoques",
+   "duvida": null
+  }
+ ]
+}

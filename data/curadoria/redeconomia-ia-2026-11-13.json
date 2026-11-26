@@ -1,0 +1,72 @@
+{
+ "encarte": "redeconomia-ia-2026-11-13",
+ "mercado": "redeconomia",
+ "programaClube": "clube-redeconomia",
+ "nomeClube": "Clube Redeconomia",
+ "encarteInfo": {
+  "id": "redeconomia-ia-2026-11-13",
+  "mercado": "redeconomia",
+  "titulo": "Encarte Redeconomia",
+  "inicio": "2026-11-26",
+  "fim": "2026-11-26",
+  "lojas": [],
+  "fonte": "página inicial do site da Redeconomia (imagens), lida por IA (claude-sonnet-5-5) em 2026-11-26"
+ },
+ "observacao": "Lido por IA (claude-sonnet-5-5); custo aproximado US$ 0.06. Não revisado.",
+ "itens": [
+  {
+   "pagina": 1,
+   "nome": "Acém Peça",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 32.98
+  },
+  {
+   "pagina": 2,
+   "nome": "Costela Bovina",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 26.98
+  },
+  {
+   "pagina": 3,
+   "nome": "Linguiça de Pernil",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "kg",
+   "preco": 14.98
+  },
+  {
+   "pagina": 4,
+   "nome": "Carré Suíno Congelado",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 14.98,
+   "condicao": "enquanto durarem os estoques"
+  },
+  {
+   "pagina": 5,
+   "nome": "Mocotó Bovino",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 8.98,
+   "condicao": "enquanto durarem os estoques"
+  },
+  {
+   "pagina": 6,
+   "nome": "Fígado Bovino",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 14.98,
+   "condicao": "ou enquanto durarem os estoques"
+  },
+  {
+   "pagina": 7,
+   "nome": "Lombo ou Costela Suína Salgada",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 24.9
+  }
+ ]
+}

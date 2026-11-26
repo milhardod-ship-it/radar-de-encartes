@@ -1,0 +1,21 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-26",
+ "validade": {
+  "inicio": "2026-11-26",
+  "fim": "2026-11-26"
+ },
+ "itens": [
+  {
+   "nome": "Lombo ou Costela Suína Salgada",
+   "marcas": [],
+   "tamanho": "kg",
+   "preco": 24.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  }
+ ]
+}

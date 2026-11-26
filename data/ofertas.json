@@ -62734,5 +62734,206 @@
    }
   ],
   "revisado": false
+ },
+ {
+  "id": "redeconomia-ia-2026-11-12#2508",
+  "mercado": "redeconomia",
+  "encarte": "redeconomia-ia-2026-11-12",
+  "produto": "mini-chicken__perdigao__1000g",
+  "nome": "Mini Chicken",
+  "marca": "Perdigão",
+  "original": "Mini Chicken Perdigão 1kg",
+  "categoria": "Congelados",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": false,
+  "precos": [
+   {
+    "valor": 16.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "redeconomia-ia-2026-11-12#2509",
+  "mercado": "redeconomia",
+  "encarte": "redeconomia-ia-2026-11-12",
+  "produto": "peito-frango-osso__sem-marca__1000g",
+  "nome": "Peito de Frango Com Osso Congelado",
+  "marca": "",
+  "original": "Peito de Frango Com Osso Congelado kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 12.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "redeconomia-ia-2026-11-13#2510",
+  "mercado": "redeconomia",
+  "encarte": "redeconomia-ia-2026-11-13",
+  "produto": "acem__sem-marca__1000g",
+  "nome": "Acém Peça",
+  "marca": "",
+  "original": "Acém Peça kg",
+  "categoria": "Mercearia",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 32.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "redeconomia-ia-2026-11-13#2511",
+  "mercado": "redeconomia",
+  "encarte": "redeconomia-ia-2026-11-13",
+  "produto": "costela__sem-marca__1000g",
+  "nome": "Costela Bovina",
+  "marca": "",
+  "original": "Costela Bovina kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 26.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "redeconomia-ia-2026-11-13#2512",
+  "mercado": "redeconomia",
+  "encarte": "redeconomia-ia-2026-11-13",
+  "produto": "linguica-pernil__perdigao__1000g",
+  "nome": "Linguiça de Pernil",
+  "marca": "Perdigão",
+  "original": "Linguiça de Pernil Perdigão kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 14.98,
+    "exige": []
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "redeconomia-ia-2026-11-13#2513",
+  "mercado": "redeconomia",
+  "encarte": "redeconomia-ia-2026-11-13",
+  "produto": "carre-suino__sem-marca__1000g",
+  "nome": "Carré Suíno Congelado",
+  "marca": "",
+  "original": "Carré Suíno Congelado kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 14.98,
+    "exige": [],
+    "condicao": "enquanto durarem os estoques"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "redeconomia-ia-2026-11-13#2514",
+  "mercado": "redeconomia",
+  "encarte": "redeconomia-ia-2026-11-13",
+  "produto": "mocoto__sem-marca__1000g",
+  "nome": "Mocotó Bovino",
+  "marca": "",
+  "original": "Mocotó Bovino kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 8.98,
+    "exige": [],
+    "condicao": "enquanto durarem os estoques"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "redeconomia-ia-2026-11-13#2515",
+  "mercado": "redeconomia",
+  "encarte": "redeconomia-ia-2026-11-13",
+  "produto": "figado__sem-marca__1000g",
+  "nome": "Fígado Bovino",
+  "marca": "",
+  "original": "Fígado Bovino kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 14.98,
+    "exige": [],
+    "condicao": "ou enquanto durarem os estoques"
+   }
+  ],
+  "revisado": false
+ },
+ {
+  "id": "redeconomia-ia-2026-11-13#2516",
+  "mercado": "redeconomia",
+  "encarte": "redeconomia-ia-2026-11-13",
+  "produto": "lombo-costela-suina-salgada__sem-marca__1000g",
+  "nome": "Lombo ou Costela Suína Salgada",
+  "marca": "",
+  "original": "Lombo ou Costela Suína Salgada kg",
+  "categoria": "Açougue",
+  "tamanho": {
+   "valor": 1000,
+   "unidade": "g"
+  },
+  "porKg": true,
+  "precos": [
+   {
+    "valor": 24.9,
+    "exige": []
+   }
+  ],
+  "revisado": false
  }
 ]
