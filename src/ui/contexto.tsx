@@ -3,7 +3,7 @@ import { lojaMaisPerto, ofertasPerto, type LojaPerto, type Ponto } from '../core
 import { estaValida } from '../core/precos';
 import { agruparProdutos, type Produto } from '../core/produtos';
 import type { Categoria, ItemLista, Oferta, Perfil, ProgramaId } from '../core/tipos';
-import { LOJAS, MAPA_ENCARTES, TODAS_OFERTAS } from '../dados';
+import { LOJAS, MAPA_ENCARTES, MERCADOS, TODAS_OFERTAS } from '../dados';
 
 export type Aba = 'inicio' | 'buscar' | 'lista' | 'encartes' | 'perfil';
 
@@ -97,7 +97,12 @@ function dataDeHoje(): string {
 
 export function ProvedorApp({ children }: { children: ReactNode }) {
   const [hoje] = useState(dataDeHoje);
-  const [perfil, setPerfil] = useState<Perfil>(() => lerLocal('radar:perfil:v1', { programas: [] }));
+  // Só valem programas de mercados que estão no app (ex.: o da Redeconomia saiu em 26/11).
+  const [perfil, setPerfil] = useState<Perfil>(() => {
+    const p = lerLocal<Perfil>('radar:perfil:v1', { programas: [] });
+    const ativos = new Set(Object.values(MERCADOS).filter((m) => m.id !== 'redeconomia').flatMap((m) => m.programas.map((x) => x.id)));
+    return { ...p, programas: p.programas.filter((x) => ativos.has(x)) };
+  });
   const [regiao, setRegiao] = useState<Regiao | null>(() => lerLocal<Regiao | null>('radar:regiao:v1', null));
   const [lista, setLista] = useState<ItemSalvo[]>(() => lerLocal('radar:lista:v1', []));
   const [aba, setAba] = useState<Aba>('inicio');
