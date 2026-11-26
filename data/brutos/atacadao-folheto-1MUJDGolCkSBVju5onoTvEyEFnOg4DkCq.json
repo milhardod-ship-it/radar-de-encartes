@@ -41,20 +41,20 @@
     "lon": null
    },
    {
-    "id": 67,
-    "nome": "Nova Iguaçu Maria da Luz",
-    "bairro": "Maria da Luz",
-    "cidade": "Nova Iguaçu",
-    "lat": -22.75756013,
-    "lon": -43.43141051
-   },
-   {
     "id": 291,
     "nome": "Nova Iguaçu Comendador Soares",
     "bairro": "Comendador Soares",
     "cidade": "Nova Iguaçu",
     "lat": null,
     "lon": null
+   },
+   {
+    "id": 67,
+    "nome": "Nova Iguaçu Maria da Luz",
+    "bairro": "Maria da Luz",
+    "cidade": "Nova Iguaçu",
+    "lat": -22.75756013,
+    "lon": -43.43141051
    },
    {
     "id": 247,
@@ -73,12 +73,28 @@
     "lon": -43.23904053
    },
    {
-    "id": 699,
-    "nome": "Bangu",
-    "bairro": "Bangu",
+    "id": 63,
+    "nome": "Automóvel Clube",
+    "bairro": "Vicente de Carvalho",
     "cidade": "Rio de Janeiro",
-    "lat": -22.8765669,
-    "lon": -43.46765093
+    "lat": -22.85385092,
+    "lon": -43.3106037
+   },
+   {
+    "id": 136,
+    "nome": "Santa Cruz",
+    "bairro": "Santa Cruz",
+    "cidade": "Rio de Janeiro",
+    "lat": -22.89213,
+    "lon": -43.67765
+   },
+   {
+    "id": 294,
+    "nome": "Barra",
+    "bairro": "Barra da Tijuca",
+    "cidade": "Rio de Janeiro",
+    "lat": -22.99032122,
+    "lon": -43.36344795
    },
    {
     "id": 210,
@@ -87,6 +103,14 @@
     "cidade": "Rio de Janeiro",
     "lat": null,
     "lon": null
+   },
+   {
+    "id": 699,
+    "nome": "Bangu",
+    "bairro": "Bangu",
+    "cidade": "Rio de Janeiro",
+    "lat": -22.8765669,
+    "lon": -43.46765093
    },
    {
     "id": 275,
@@ -105,20 +129,12 @@
     "lon": null
    },
    {
-    "id": 136,
-    "nome": "Santa Cruz",
-    "bairro": "Santa Cruz",
+    "id": 691,
+    "nome": "Pilares",
+    "bairro": "Cachambi",
     "cidade": "Rio de Janeiro",
-    "lat": -22.89213,
-    "lon": -43.67765
-   },
-   {
-    "id": 63,
-    "nome": "Automóvel Clube",
-    "bairro": "Vicente de Carvalho",
-    "cidade": "Rio de Janeiro",
-    "lat": -22.85385092,
-    "lon": -43.3106037
+    "lat": null,
+    "lon": null
    },
    {
     "id": 65,
@@ -127,22 +143,6 @@
     "cidade": "Rio de Janeiro",
     "lat": -22.84202,
     "lon": -43.37572
-   },
-   {
-    "id": 294,
-    "nome": "Barra",
-    "bairro": "Barra da Tijuca",
-    "cidade": "Rio de Janeiro",
-    "lat": -22.99032122,
-    "lon": -43.36344795
-   },
-   {
-    "id": 691,
-    "nome": "Pilares",
-    "bairro": "Cachambi",
-    "cidade": "Rio de Janeiro",
-    "lat": null,
-    "lon": null
    },
    {
     "id": 202,

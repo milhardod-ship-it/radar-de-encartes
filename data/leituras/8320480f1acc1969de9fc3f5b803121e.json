@@ -1,0 +1,384 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-25",
+ "itens": [
+  {
+   "nome": "Óleo de Soja",
+   "marcas": [
+    "Soya"
+   ],
+   "tamanho": "900ml",
+   "preco": 6.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Leite Condensado Semidesnatado",
+   "marcas": [
+    "Italac"
+   ],
+   "tamanho": "TP 395g",
+   "preco": 4.47,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": "Legenda diz 305g, embalagem mostra 395g"
+  },
+  {
+   "nome": "Azeite Extravirgem Reserva",
+   "marcas": [
+    "Gallo"
+   ],
+   "tamanho": "500ml",
+   "preco": 23.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Azeite Extravirgem",
+   "marcas": [
+    "Gallo",
+    "O-Live"
+   ],
+   "tamanho": "400ml",
+   "preco": 19.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Azeite Extravirgem",
+   "marcas": [
+    "Andorinha"
+   ],
+   "tamanho": "500ml",
+   "preco": 22.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Azeite Extravirgem Seleção",
+   "marcas": [
+    "Andorinha"
+   ],
+   "tamanho": "500ml",
+   "preco": 23.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Doce de Leite Argentino",
+   "marcas": [
+    "San Ignacio"
+   ],
+   "tamanho": "450g",
+   "preco": 24.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Maionese Tradicional",
+   "marcas": [
+    "Pramesa"
+   ],
+   "tamanho": "500g",
+   "preco": 3.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Maionese Tradicional ou Light",
+   "marcas": [
+    "Hellmann's"
+   ],
+   "tamanho": "500g",
+   "preco": 9.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Leite Condensado Confeitaria Integral",
+   "marcas": [
+    "Italac"
+   ],
+   "tamanho": "395g",
+   "preco": 4.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Passata Italiana Tradicional, Suprema ou Ottima",
+   "marcas": [
+    "Tutto"
+   ],
+   "tamanho": "680g",
+   "preco": 9.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": "Legenda: Passata Italiana Tutto Trad., Suprema ou Ottima; marcas ambíguas"
+  },
+  {
+   "nome": "Molho de Tomate Refogado Tradicional Sachê",
+   "marcas": [
+    "Pramesa"
+   ],
+   "tamanho": "300g",
+   "preco": 0.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Molho de Tomate Saborizado Sachê",
+   "marcas": [
+    "Pramesa"
+   ],
+   "tamanho": "300g",
+   "preco": 1.74,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Molho de Tomate Tradicional Sachê",
+   "marcas": [
+    "Heinz"
+   ],
+   "tamanho": "240g",
+   "preco": 1.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Maionese Sachê",
+   "marcas": [
+    "Pramesa"
+   ],
+   "tamanho": "200g",
+   "preco": 1.97,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Ketchup",
+   "marcas": [
+    "Hellmann's"
+   ],
+   "tamanho": "380g",
+   "preco": 9.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Mostarda",
+   "marcas": [
+    "Hellmann's"
+   ],
+   "tamanho": "170g",
+   "preco": 8.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Caldo",
+   "marcas": [
+    "Maggi"
+   ],
+   "tamanho": "57g",
+   "preco": 1.89,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Tempero Meu Segredo",
+   "marcas": [
+    "Maggi"
+   ],
+   "tamanho": "42g",
+   "preco": 2.89,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": "Legenda diz 40g/45g, pouco nítida"
+  },
+  {
+   "nome": "Tempero Meu Segredo (Exc. grão)",
+   "marcas": [
+    "Maggi"
+   ],
+   "tamanho": "50g",
+   "preco": 2.89,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Tempero Mais Sabor",
+   "marcas": [
+    "Kitano"
+   ],
+   "tamanho": "60g",
+   "preco": 3.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Creme de Cebola",
+   "marcas": [
+    "Maggi"
+   ],
+   "tamanho": "60g/68g",
+   "preco": 4.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Azeitona Verde",
+   "marcas": [
+    "Pramesa"
+   ],
+   "tamanho": "420g",
+   "preco": 14.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Azeitona Verde Doypack",
+   "marcas": [
+    "Pramesa"
+   ],
+   "tamanho": "150g",
+   "preco": 4.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "Exceto Recheada e Pietal",
+   "duvida": "Legenda pouco nítida"
+  },
+  {
+   "nome": "Azeitona Verde Fatiada s/ Caroço Doypack",
+   "marcas": [
+    "Pramesa"
+   ],
+   "tamanho": "120g",
+   "preco": 5.49,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Salsicha",
+   "marcas": [
+    "Bordon"
+   ],
+   "tamanho": "180g",
+   "preco": 3.69,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Milho e Ervilha Lata",
+   "marcas": [
+    "Pramesa"
+   ],
+   "tamanho": "170g",
+   "preco": 2.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Patê de Atum Tradicional ou Azeitona",
+   "marcas": [
+    "Gomes da Costa"
+   ],
+   "tamanho": "170g",
+   "preco": 9.48,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Atum Ralado",
+   "marcas": [
+    "Gomes da Costa"
+   ],
+   "tamanho": "170g",
+   "preco": 8.59,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  }
+ ]
+}

@@ -1,0 +1,374 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-25",
+ "itens": [
+  {
+   "nome": "Arroz",
+   "marcas": [
+    "Tio João"
+   ],
+   "tamanho": "5kg",
+   "preco": 26.95,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Leite UHT Longa Vida Integral",
+   "marcas": [
+    "Piracanjuba",
+    "Italac",
+    "Elegê"
+   ],
+   "tamanho": "1L",
+   "preco": 3.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Arroz",
+   "marcas": [
+    "Ouro Nobre"
+   ],
+   "tamanho": "5kg",
+   "preco": 17.95,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Açúcar",
+   "marcas": [
+    "Guarani"
+   ],
+   "tamanho": "kg",
+   "preco": 2.87,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Açúcar",
+   "marcas": [
+    "União"
+   ],
+   "tamanho": "kg",
+   "preco": 3.47,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Leite em Pó Instantâneo Integral",
+   "marcas": [
+    "Camponesa"
+   ],
+   "tamanho": "360g",
+   "preco": 9.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada; sachê",
+   "duvida": null
+  },
+  {
+   "nome": "Leite em Pó Instantâneo Integral",
+   "marcas": [
+    "Glória",
+    "Italac"
+   ],
+   "tamanho": "360g",
+   "preco": 10.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada; sachê",
+   "duvida": null
+  },
+  {
+   "nome": "Arroz",
+   "marcas": [
+    "Camil Seleções"
+   ],
+   "tamanho": "5kg",
+   "preco": 27.95,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Arroz",
+   "marcas": [
+    "Carreteiro"
+   ],
+   "tamanho": "5kg",
+   "preco": 19.95,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Arroz Integral",
+   "marcas": [
+    "Tio João",
+    "Prato Fino"
+   ],
+   "tamanho": "kg",
+   "preco": 5.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Feijão Preto",
+   "marcas": [
+    "Kicaldo"
+   ],
+   "tamanho": "kg",
+   "preco": 6.79,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Leite em Pó Instantâneo Integral Ninho 380g Grátis 10% ou Molico Desnatado Leve 280g Pague 252g",
+   "marcas": [
+    "Nestlé"
+   ],
+   "tamanho": "lata",
+   "preco": 14.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": "Nome do produto abrangendo Ninho e Molico; não está claro se o preço vale para ambos."
+  },
+  {
+   "nome": "Cápsulas de Café Dolce Gusto Regular ou Especiais",
+   "marcas": [
+    "Nescafé"
+   ],
+   "tamanho": "c/10 unidades",
+   "preco": 15.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Café Tradicional",
+   "marcas": [
+    "Pilão"
+   ],
+   "tamanho": "500g",
+   "preco": 23.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Café Tradicional",
+   "marcas": [
+    "Melitta"
+   ],
+   "tamanho": "500g",
+   "preco": 21.8,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Cápsulas de Café",
+   "marcas": [
+    "Pilão"
+   ],
+   "tamanho": "c/10 unidades",
+   "preco": 22.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "leve 4, pague 2; cada unidade sai por 11,45",
+   "duvida": null
+  },
+  {
+   "nome": "Cápsulas de Café",
+   "marcas": [
+    "3 Corações"
+   ],
+   "tamanho": "75g/80g/110g",
+   "preco": 12.98,
+   "de": 16.98,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": "Tamanho varia conforme a variedade."
+  },
+  {
+   "nome": "Achocolatado Sachê",
+   "marcas": [
+    "Nescau"
+   ],
+   "tamanho": "900g",
+   "preco": 18.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Achocolatado Nescau Lata",
+   "marcas": [
+    "Nescau"
+   ],
+   "tamanho": "350g",
+   "preco": 9.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "leve 350g pague 330g",
+   "duvida": "Condição parcialmente legível."
+  },
+  {
+   "nome": "Cereal Nescau",
+   "marcas": [
+    "Nestlé"
+   ],
+   "tamanho": "210g",
+   "preco": 8.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "15% grátis",
+   "duvida": null
+  },
+  {
+   "nome": "Snow Flakes",
+   "marcas": [
+    "Nestlé"
+   ],
+   "tamanho": "230g",
+   "preco": 6.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "15% grátis",
+   "duvida": null
+  },
+  {
+   "nome": "Sucrilhos Original",
+   "marcas": [
+    "Kellogg's"
+   ],
+   "tamanho": "240g",
+   "preco": 7.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "leve 240g pague 200g",
+   "duvida": null
+  },
+  {
+   "nome": "Farofa Pronta Temperada",
+   "marcas": [
+    "Yoki"
+   ],
+   "tamanho": "400g",
+   "preco": 7.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Farofa Bom Gosto Tradicional",
+   "marcas": [
+    "Bom Gosto"
+   ],
+   "tamanho": "900g",
+   "preco": 19.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Marca inferida da embalagem."
+  },
+  {
+   "nome": "Milho de Pipoca para Micro-ondas",
+   "marcas": [
+    "Yoki"
+   ],
+   "tamanho": "60g/100g",
+   "preco": 3.89,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Milho de Pipoca Premium",
+   "marcas": [
+    "Yoki"
+   ],
+   "tamanho": "400g",
+   "preco": 4.88,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Aveia",
+   "marcas": [
+    "Yoki"
+   ],
+   "tamanho": "170g",
+   "preco": 2.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Aveia",
+   "marcas": [
+    "Quaker"
+   ],
+   "tamanho": "165g",
+   "preco": 3.69,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  }
+ ]
+}
