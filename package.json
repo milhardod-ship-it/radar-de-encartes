@@ -13,7 +13,8 @@
     "lojas": "tsx scripts/lojas.ts",
     "ler-encartes": "tsx scripts/lerEncartes.ts",
     "sondar": "tsx scripts/sondar.ts",
-    "geocodificar": "tsx scripts/geocodificar.ts"
+    "geocodificar": "tsx scripts/geocodificar.ts",
+    "fotos": "tsx scripts/fotos.ts"
   },
   "dependencies": {
     "react": "^19.3.1",

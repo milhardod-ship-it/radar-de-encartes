@@ -115,6 +115,13 @@ Carro-chefe: **lista de compras** (total por mercado, melhor mercado, quando val
   junção automática. O importador gera `data/juncoes-sugestoes.json` (mesma marca+tamanho, ainda separados; e os já
   juntos com nomes diferentes), carregado só no painel.
 
+## Fotos dos produtos
+- Só o Mundial publica foto. `npm run fotos` (no robô de coleta, antes de importar) baixa cada foto nova, tira o fundo
+  branco que encosta na borda (ImageMagick floodfill, fuzz 8%), corta a sobra e centraliza em 256×256 transparente →
+  `public/fotos/mundial-<código>.webp`; apaga as que saíram. O importador usa a local quando existe.
+- No app, `.foto-produto` tem `mix-blend-mode: multiply` (fotos originais com fundo branco somem no fundo do cartão).
+- Robô salva com `scripts/salvar.sh` (se o main mudou durante a execução: rebase dando prioridade ao robô + reimporta).
+
 ## Lojas e localização
 - `data/lojas.json` (112 lojas): Guanabara (página /lojas, coordenada do link do Google Maps), Mundial (JSON de
   /nossas-lojas), Prezunic (11 exatas via `/api/checkout/pub/pickup-points`; demais pelo centro do bairro, marcadas

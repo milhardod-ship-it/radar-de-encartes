@@ -13,7 +13,14 @@ const DIAS = ['domingo', 'segunda', 'terça', 'quarta', 'quinta', 'sexta', 'sáb
 export function Inicio() {
   const { hoje, ofertas, produtos, irPara } = useApp();
 
-  const soHoje = useMemo(() => ofertas.filter((o) => ehSoHoje(o, MAPA_ENCARTES, hoje)), [ofertas, hoje]);
+  // Ofertas de um dia só; as relâmpago do Mundial ("Imperdível") vêm primeiro (pedido do dono).
+  const soHoje = useMemo(
+    () =>
+      ofertas
+        .filter((o) => ehSoHoje(o, MAPA_ENCARTES, hoje))
+        .sort((a, b) => Number(!a.encarte.endsWith('-imperdivel')) - Number(!b.encarte.endsWith('-imperdivel'))),
+    [ofertas, hoje],
+  );
 
   const descontos = useMemo(() => {
     const vistos = new Set<string>();

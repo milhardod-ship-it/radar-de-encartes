@@ -98,6 +98,13 @@ function dataLocal(iso: string): string {
 
 const marcasConhecidas = new Set<string>(MARCAS_CONHECIDAS);
 
+/** Usa a foto padronizada pelo robô (public/fotos, fundo transparente e mesmo tamanho) quando ela existe. */
+function fotoPadronizada(url: string | undefined): string | undefined {
+  const m = url?.match(/\/products\/(\w+)\//);
+  const nome = m ? `mundial-${m[1]}.webp` : null;
+  return nome && existsSync(join(RAIZ, 'public/fotos', nome)) ? `/fotos/${nome}` : url;
+}
+
 // ---------------------------------------------------------------- Mundial (robô; só a coleta mais recente)
 {
   const arquivo = brutos.filter((f) => f.startsWith('mundial-site-')).pop();
@@ -156,7 +163,7 @@ const marcasConhecidas = new Set<string>(MARCAS_CONHECIDAS);
         fim,
         limite,
         duvida,
-        imagem: p.images?.[0]?.url,
+        imagem: fotoPadronizada(p.images?.[0]?.url),
       });
     }
     const inicios = c.encartes.map((e) => dataLocal(e.publicadoEm)).sort();

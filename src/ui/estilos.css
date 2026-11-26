@@ -229,3 +229,7 @@ label.opcao input { width: 22px; height: 22px; margin: 0; accent-color: var(--ma
 .versus { font-weight: 700; color: var(--apoio); padding-top: 2px; }
 .lado-produto { display: flex; flex-direction: column; gap: 2px; min-width: 0; overflow-wrap: anywhere; }
 .linha-junto { display: flex; justify-content: space-between; align-items: center; gap: 8px; padding: 8px 0; border-top: 1px solid var(--borda); }
+
+/* Fotos: as padronizadas pelo robô já vêm sem fundo e no mesmo tamanho; nas originais (fundo branco), o
+   "multiply" faz o branco assumir a cor do fundo do cartão. */
+.foto-produto { mix-blend-mode: multiply; }
