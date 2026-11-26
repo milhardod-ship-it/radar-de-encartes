@@ -17,4 +17,6 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
-      - run: npm run sondar -- ${{ inputs.urls }}
+      - run: npm run sondar -- $URLS
+        env:
+          URLS: ${{ inputs.urls }}

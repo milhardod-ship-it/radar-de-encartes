@@ -2,21 +2,27 @@
 // status, escudo anti-robô, título, links de encarte/ofertas/lojas, PDFs, imagens grandes e dados embutidos.
 // Uso: npm run sondar -- https://site1 https://site2   (roda no GitHub: workflow "Sondar site")
 import { execFileSync } from 'node:child_process';
+import { existsSync, mkdtempSync, readFileSync, rmSync } from 'node:fs';
+import { tmpdir } from 'node:os';
+import { join } from 'node:path';
 
 const AGENTE = 'Mozilla/5.0 (compatible; RadarDeEncartes/0.1; coleta de encartes publicos)';
 const urls = process.argv.slice(2);
 
 function baixar(url: string): { status: string; cabecalhos: string; corpo: string } {
   try {
-    const saida = execFileSync('curl', ['-sSL', '-m', '40', '-A', AGENTE, '-D', '-', '-o', '/dev/stdout', url], {
-      maxBuffer: 50 * 1024 * 1024,
-    }).toString('utf8');
-    const partes = saida.split(/\r?\n\r?\n/);
-    // pode haver vários blocos de cabeçalho (redirecionamentos)
-    let i = 0;
-    while (i < partes.length - 1 && /^HTTP\//.test(partes[i + 1] ?? '')) i++;
-    const cabecalhos = partes.slice(0, i + 1).join('\n');
-    const corpo = partes.slice(i + 1).join('\n\n');
+    const dir = mkdtempSync(join(tmpdir(), 'sonda-'));
+    const arqC = join(dir, 'cab.txt');
+    const arqB = join(dir, 'corpo.html');
+    try {
+      execFileSync('curl', ['-sSL', '-m', '40', '-A', AGENTE, '-D', arqC, '-o', arqB, url]);
+    } catch {
+      /* status de erro ainda deixa o cabeçalho para mostrar */
+    }
+    const cabecalhos = existsSync(arqC) ? readFileSync(arqC, 'utf8') : '';
+    const corpo = existsSync(arqB) ? readFileSync(arqB, 'utf8') : '';
+    rmSync(dir, { recursive: true, force: true });
+    if (!cabecalhos) throw new Error('sem resposta (endereço não existe ou não respondeu)');
     const status = [...cabecalhos.matchAll(/^HTTP\/[\d.]+ (\d+)/gm)].map((m) => m[1]).join(' → ');
     return { status, cabecalhos, corpo };
   } catch (e) {
