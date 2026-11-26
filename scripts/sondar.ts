@@ -56,6 +56,15 @@ for (const url of urls) {
   for (const l of interessa.slice(0, 60)) console.log(`  ${l}`);
   const imagens = links.filter((l) => /\.(jpe?g|png|webp)(\?|$)/i.test(l) && /encarte|oferta|tabloide|folheto|promo/i.test(l));
   if (imagens.length) console.log(`imagens de encarte: ${imagens.slice(0, 15).join(' | ')}`);
+  const next = corpo.match(/<script id="__NEXT_DATA__"[^>]*>([\s\S]*?)<\/script>/);
+  if (next) {
+    const dados = JSON.parse(next[1]);
+    const pp = dados.props?.pageProps ?? {};
+    console.log(`__NEXT_DATA__ pageProps: ${Object.keys(pp).join(', ')}`);
+    console.log(`  amostra: ${JSON.stringify(pp).slice(0, 2500)}`);
+  }
+  const textoVisivel = corpo.replace(/<script[\s\S]*?<\/script>|<style[\s\S]*?<\/style>/gi, ' ').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ');
+  console.log(`texto (início): ${textoVisivel.slice(0, 600)}`);
   const apis = [...new Set([...corpo.matchAll(/https?:\/\/[^"'\s<>]*(?:api|graphql|json)[^"'\s<>]*/gi)].map((m) => m[0]))];
   if (apis.length) console.log(`endereços de API/JSON: ${apis.slice(0, 20).join(' | ')}`);
 }
