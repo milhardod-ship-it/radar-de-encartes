@@ -71,8 +71,13 @@ Carro-chefe: **lista de compras** (total por mercado, melhor mercado, quando val
   Sem validade no site: a IA lê do encarte (se não achar → 7 dias + "a confirmar"). Não é semanal (dono).
   `src/coleta/dom.ts` + modo `dom` no leitor (roda no robô de coleta). Lojas: `data/fontes/dom-lojas-rj.json`
   (posição aproximada). Programa `meu-dom`.
-- **Redeconomia** (`redeconomia.com.br`, WordPress, sem escudo; 150+ lojas): encartes carregados por JS na página
-  `/encartes/` (carrossel) — falta achar de onde vêm as imagens. Lojas por município/bairro (AJAX).
+- **Redeconomia** (`redeconomia.com.br`, WordPress, sem escudo; 150+ lojas): a página `/encartes/` está vazia
+  (`ENCARTE_PAGES` não definido). As ofertas ficam na PÁGINA INICIAL: banners `/wp-content/uploads/AAAA/MM/Site-<n>-<edição>.jpg`
+  (1 oferta por banner, em geral válida só no dia). Robô lê com IA (centavos por banner) → `redeconomia-ia-<AAAA-MM-edição>`.
+  Roda no robô de coleta. Pendente: lojas (lista por município/bairro via AJAX do WordPress).
+- Coordenadas do Dom: `npm run geocodificar` (workflow "Geocodificar lojas") pelo endereço do site via
+  OpenStreetMap/Nominatim, aceitando só resultado na cidade certa e a até 3 km do bairro. Bangu, Belford Roxo e
+  Duque de Caxias ficaram "a conferir"; Búzios, Santa Cruz da Serra, Maricá e Teresópolis aproximadas.
 - **Supermarket**: site `www.redesupermarket.com.br` (da SAERJ, associação de supermercados independentes; cada
   loja associada pode ter encarte próprio). Em 23/11: escudo anti-robô do Cloudflare ("Just a moment…", bloqueia
   até o robots.txt). Mesma decisão do Assaí: NÃO contornar. Caminho: dono manda o encarte + leitor por IA,

@@ -464,7 +464,7 @@ const tarefas = process.argv.includes('--mundial')
       ? [dom]
       : process.argv.includes('--redeconomia')
         ? [redeconomia]
-        : [guanabara, dom];
+        : [guanabara, dom, redeconomia];
 for (const tarefa of tarefas) {
   try {
     gasto = await tarefa(cliente, gasto);
