@@ -1,31 +1,239 @@
 {
- "fonte": "Lojas do site do Dom Atacadista (/hub-encartes, 26/11/2026). O site traz endereço, mas não coordenada: posição aproximada pelo bairro/cidade do endereço.",
+ "fonte": "Lojas e endereços do site do Dom Atacadista; coordenadas pelo endereço via OpenStreetMap/Nominatim (© colaboradores do OpenStreetMap). \"precisao\" diz se achou o número, só a rua ou só o bairro.",
  "lojas": [
-  {"slug": "angra-japuiba", "nome": "Angra | Japuíba", "endereco": "Rua Francelino Alves De Lima, 63 - Japuíba", "cidade": "Angra dos Reis", "lat": -22.976, "lon": -44.299},
-  {"slug": "angra-praia-da-chacara", "nome": "Angra | Praia da Chácara", "endereco": "Av. Almirante Jair Carneiro Toscano de Brito, 531", "cidade": "Angra dos Reis", "lat": -23.004, "lon": -44.307},
-  {"slug": "araruama", "nome": "Araruama", "endereco": "Estrada Rio Bonito, 120 - Parque Hotel", "cidade": "Araruama", "lat": -22.873, "lon": -42.343},
-  {"slug": "bangu", "nome": "Bangu", "endereco": "Av. Brasil, 32238 - Bangu", "cidade": "Rio de Janeiro", "lat": -22.857, "lon": -43.484},
-  {"slug": "bellford-roxo", "nome": "Belford Roxo", "endereco": "Av. Joaquim da Costa Lima, 2009 - Piam", "cidade": "Belford Roxo", "lat": -22.776, "lon": -43.385},
-  {"slug": "buzios", "nome": "Búzios", "endereco": "Av. Doze de Novembro, SN - Caravelas", "cidade": "Armação dos Búzios", "lat": -22.775, "lon": -41.93},
-  {"slug": "campo-grande", "nome": "Campo Grande", "endereco": "Av. de Santa Cruz, 12.516", "cidade": "Rio de Janeiro", "lat": -22.893, "lon": -43.545},
-  {"slug": "campos-dos-goytacazes-parque-pecuária", "nome": "Campos | Parque Pecuária", "endereco": "Av. Presidente Vargas, 263", "cidade": "Campos dos Goytacazes", "lat": -21.76, "lon": -41.33},
-  {"slug": "campos-dos-goytacazes-parque-calabouço", "nome": "Campos | Parque Calabouço", "endereco": "Av. Senador José Carlos Pereira Pinto, 532", "cidade": "Campos dos Goytacazes", "lat": -21.745, "lon": -41.318},
-  {"slug": "duque-de-caxias", "nome": "Duque de Caxias", "endereco": "Rodovia Washington Luíz, 3853", "cidade": "Duque de Caxias", "lat": -22.762, "lon": -43.297},
-  {"slug": "duque-de-caxias-santa-cruz-da-serra", "nome": "Duque de Caxias | Santa Cruz da Serra", "endereco": "Av. Automóvel Club S/N - Santa Cruz da Serra", "cidade": "Duque de Caxias", "lat": -22.645, "lon": -43.285},
-  {"slug": "inhauma", "nome": "Inhaúma", "endereco": "Av. Itaóca, 2.650 - Bonsucesso", "cidade": "Rio de Janeiro", "lat": -22.866, "lon": -43.272},
-  {"slug": "itaperuna", "nome": "Itaperuna", "endereco": "Av. Presidente Dutra, 1.125 - Cidade Nova", "cidade": "Itaperuna", "lat": -21.205, "lon": -41.888},
-  {"slug": "macae", "nome": "Macaé", "endereco": "Rod. Amaral Peixoto, 2.885", "cidade": "Macaé", "lat": -22.38, "lon": -41.8},
-  {"slug": "marica", "nome": "Maricá", "endereco": "Rod. Ernani do Amaral Peixoto, S/N - São José do Imbassaí", "cidade": "Maricá", "lat": -22.935, "lon": -42.86},
-  {"slug": "mesquita", "nome": "Mesquita", "endereco": "", "cidade": "Mesquita", "lat": -22.79, "lon": -43.43},
-  {"slug": "niteroi", "nome": "Niterói", "endereco": "Av. Jansen de Melo, 42", "cidade": "Niterói", "lat": -22.886, "lon": -43.12},
-  {"slug": "nova-iguaçu", "nome": "Nova Iguaçu", "endereco": "Rodovia Presidente Dutra - Jardim Tropical", "cidade": "Nova Iguaçu", "lat": -22.74, "lon": -43.48},
-  {"slug": "petropolis", "nome": "Petrópolis", "endereco": "", "cidade": "Petrópolis", "lat": -22.505, "lon": -43.178},
-  {"slug": "realengo", "nome": "Realengo", "endereco": "", "cidade": "Rio de Janeiro", "lat": -22.879, "lon": -43.43},
-  {"slug": "resende", "nome": "Resende", "endereco": "", "cidade": "Resende", "lat": -22.47, "lon": -44.45},
-  {"slug": "sao-gonçalo", "nome": "São Gonçalo", "endereco": "", "cidade": "São Gonçalo", "lat": -22.827, "lon": -43.054},
-  {"slug": "sao-joao-de-meriti", "nome": "São João de Meriti", "endereco": "", "cidade": "São João de Meriti", "lat": -22.804, "lon": -43.372},
-  {"slug": "sao-pedro-da-aldeia", "nome": "São Pedro da Aldeia", "endereco": "", "cidade": "São Pedro da Aldeia", "lat": -22.839, "lon": -42.103},
-  {"slug": "taquara", "nome": "Taquara", "endereco": "", "cidade": "Rio de Janeiro", "lat": -22.922, "lon": -43.373},
-  {"slug": "teresopolis", "nome": "Teresópolis", "endereco": "", "cidade": "Teresópolis", "lat": -22.412, "lon": -42.966}
+  {
+   "slug": "angra-japuiba",
+   "nome": "Angra | Japuíba",
+   "endereco": "Rua Francelino Alves De Lima, 63 - Japuíba",
+   "cidade": "Angra dos Reis",
+   "lat": -22.9738,
+   "lon": -44.29709,
+   "precisao": "endereço exato"
+  },
+  {
+   "slug": "angra-praia-da-chacara",
+   "nome": "Angra | Praia da Chácara",
+   "endereco": "Av. Almirante Jair Carneiro Toscano de Brito, 531 - Praia da Chácara",
+   "cidade": "Angra dos Reis",
+   "lat": -23.00199,
+   "lon": -44.30446,
+   "precisao": "endereço exato"
+  },
+  {
+   "slug": "araruama",
+   "nome": "Araruama",
+   "endereco": "Estrada Rio Bonito, 120 - Parque Hotel",
+   "cidade": "Araruama",
+   "lat": -22.86353,
+   "lon": -42.3177,
+   "precisao": "endereço exato"
+  },
+  {
+   "slug": "bangu",
+   "nome": "Bangu",
+   "endereco": "Av. Brasil, 32238 - Bangu",
+   "cidade": "Rio de Janeiro",
+   "lat": -22.88772,
+   "lon": -43.65558,
+   "precisao": "rua"
+  },
+  {
+   "slug": "bellford-roxo",
+   "nome": "Belford Roxo",
+   "endereco": "Av. Joaquim da Costa Lima, 2009 - Piam - Piam",
+   "cidade": "Belford Roxo",
+   "lat": -22.71481,
+   "lon": -43.32565,
+   "precisao": "endereço exato"
+  },
+  {
+   "slug": "buzios",
+   "nome": "Búzios",
+   "endereco": "Av. Doze de Novembro, SN - Caravelas - Armação dos búzios",
+   "cidade": "Armação dos Búzios",
+   "lat": -22.775,
+   "lon": -41.93,
+   "precisao": "aproximada à mão"
+  },
+  {
+   "slug": "campo-grande",
+   "nome": "Campo Grande",
+   "endereco": "Av. de Santa Cruz, 12.516 - Campo Grande",
+   "cidade": "Rio de Janeiro",
+   "lat": -22.88269,
+   "lon": -43.48755,
+   "precisao": "endereço exato"
+  },
+  {
+   "slug": "campos-dos-goytacazes-parque-pecuária",
+   "nome": "Campos | Parque Pecuária",
+   "endereco": "Av. Presidente Vargas, 263 - Parque Pecuária",
+   "cidade": "Campos Dos Goytacazes",
+   "lat": -21.73226,
+   "lon": -41.31709,
+   "precisao": "endereço exato"
+  },
+  {
+   "slug": "campos-dos-goytacazes-parque-calabouço",
+   "nome": "Campos | Parque Calabouço",
+   "endereco": "Av. Senador José Carlos Pereira Pinto, 532 - Parque Calabouço",
+   "cidade": "Campos Dos Goytacazes",
+   "lat": -21.74927,
+   "lon": -41.31093,
+   "precisao": "endereço exato"
+  },
+  {
+   "slug": "duque-de-caxias",
+   "nome": "Duque de Caxias",
+   "endereco": "Rodovia Washington Luíz, 3853 - Duque de Caxias",
+   "cidade": "Duque De Caxias",
+   "lat": -22.63705,
+   "lon": -43.28419,
+   "precisao": "endereço exato"
+  },
+  {
+   "slug": "duque-de-caxias-santa-cruz-da-serra",
+   "nome": "Duque de Caxias | Santa Cruz da Serra",
+   "endereco": "Av. Automóvel Club S/N - Quadra 37 Lote 489 - Santa Cruz da Serra",
+   "cidade": "Duque De Caxias",
+   "lat": -22.645,
+   "lon": -43.285,
+   "precisao": "aproximada à mão"
+  },
+  {
+   "slug": "inhauma",
+   "nome": "Inhaúma",
+   "endereco": "Av. Itaóca, 2.650 - Bonsucesso",
+   "cidade": "Rio De Janeiro",
+   "lat": -22.87251,
+   "lon": -43.27728,
+   "precisao": "endereço exato"
+  },
+  {
+   "slug": "itaperuna",
+   "nome": "Itaperuna",
+   "endereco": "Av. Presidente Dutra, 1.125 - Cidade Nova - Cidade Nova",
+   "cidade": "Itaperuna",
+   "lat": -21.20173,
+   "lon": -41.90489,
+   "precisao": "endereço exato"
+  },
+  {
+   "slug": "macae",
+   "nome": "Macaé",
+   "endereco": "Rod. Amaral Peixoto, 2.885 - Macaé",
+   "cidade": "MacaÉ",
+   "lat": -22.40632,
+   "lon": -41.8229,
+   "precisao": "endereço exato"
+  },
+  {
+   "slug": "marica",
+   "nome": "Maricá",
+   "endereco": "Rodovia Ernani do Amaral Peixoto, S/N - São José do Imbassai - São José do Imbassai",
+   "cidade": "MaricÁ",
+   "lat": -22.935,
+   "lon": -42.86,
+   "precisao": "aproximada à mão"
+  },
+  {
+   "slug": "mesquita",
+   "nome": "Mesquita",
+   "endereco": "Rodovia Presidente Dutra, 10201 B, Industrial - Mesquita",
+   "cidade": "Mesquita",
+   "lat": -22.77601,
+   "lon": -43.39973,
+   "precisao": "endereço exato"
+  },
+  {
+   "slug": "niteroi",
+   "nome": "Niterói",
+   "endereco": "Av. Jansen de Melo, 42 - Niterói",
+   "cidade": "NiterÓI",
+   "lat": -22.88535,
+   "lon": -43.11531,
+   "precisao": "endereço exato"
+  },
+  {
+   "slug": "nova-iguaçu",
+   "nome": "Nova Iguaçu",
+   "endereco": "Rodovia Presidente Dutra, 13.900 - Jardim Tropical (na Cidade da Moda) - Jardim Tropical",
+   "cidade": "Nova IguaÇU",
+   "lat": -22.74309,
+   "lon": -43.5155,
+   "precisao": "endereço exato"
+  },
+  {
+   "slug": "petropolis",
+   "nome": "Petrópolis",
+   "endereco": "Hipershopping | Rua Teresa 1415, Alto da Serra - Alto da Serra",
+   "cidade": "PetrÓPolis",
+   "lat": -22.52469,
+   "lon": -43.17139,
+   "precisao": "endereço exato"
+  },
+  {
+   "slug": "realengo",
+   "nome": "Realengo",
+   "endereco": "Estr. Gen. Canrobert Pereira da Costa, 203 - Realengo",
+   "cidade": "Rio De Janeiro",
+   "lat": -22.87776,
+   "lon": -43.42283,
+   "precisao": "endereço exato"
+  },
+  {
+   "slug": "resende",
+   "nome": "Resende",
+   "endereco": "Av. Francisco Fortes Filho, 200 - Jardim Aliança - Jardim Aliança",
+   "cidade": "Resende",
+   "lat": -22.48424,
+   "lon": -44.50404,
+   "precisao": "endereço exato"
+  },
+  {
+   "slug": "sao-gonçalo",
+   "nome": "São Gonçalo",
+   "endereco": "R. Cap. Juvenal Figueiredo, 570 - Colubandê - Colubandê",
+   "cidade": "SÃO GonÇAlo",
+   "lat": -22.83314,
+   "lon": -43.005,
+   "precisao": "endereço exato"
+  },
+  {
+   "slug": "sao-joao-de-meriti",
+   "nome": "São João de Meriti",
+   "endereco": "Rua Maria Soares Sendas, 4.200 - Parque Barreto",
+   "cidade": "SÃO JoÃO De Meriti",
+   "lat": -22.7977,
+   "lon": -43.35405,
+   "precisao": "endereço exato"
+  },
+  {
+   "slug": "sao-pedro-da-aldeia",
+   "nome": "São Pedro da Aldeia",
+   "endereco": "Rodovia RJ-140, 5.971 - Flexeira",
+   "cidade": "SÃO Pedro Da Aldeia",
+   "lat": -22.84178,
+   "lon": -42.06999,
+   "precisao": "endereço exato"
+  },
+  {
+   "slug": "taquara",
+   "nome": "Taquara",
+   "endereco": "Estrada dos Bandeirantes, 175 - Taquara",
+   "cidade": "Rio De Janeiro",
+   "lat": -22.92481,
+   "lon": -43.37324,
+   "precisao": "endereço exato"
+  },
+  {
+   "slug": "teresopolis",
+   "nome": "Teresópolis",
+   "endereco": "Av. Almirante Lúcio Meira, 1095 - Teresópolis",
+   "cidade": "TeresÓPolis",
+   "lat": -22.412,
+   "lon": -42.966,
+   "precisao": "aproximada à mão"
+  }
  ]
 }

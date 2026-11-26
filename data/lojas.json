@@ -1219,7 +1219,7 @@
   "endereco": "",
   "bairro": "Barra da Tijuca",
   "cidade": "Rio de Janeiro",
-  "lat": -23.0,
+  "lat": -23,
   "lon": -43.365,
   "aproximada": true
  },
@@ -1538,20 +1538,18 @@
   "endereco": "Rua Francelino Alves De Lima, 63 - Japuíba",
   "bairro": "Angra | Japuíba",
   "cidade": "Angra dos Reis",
-  "lat": -22.976,
-  "lon": -44.299,
-  "aproximada": true
+  "lat": -22.9738,
+  "lon": -44.29709
  },
  {
   "id": "dom-angra-praia-da-chacara",
   "mercado": "dom",
   "nome": "Angra | Praia da Chácara",
-  "endereco": "Av. Almirante Jair Carneiro Toscano de Brito, 531",
+  "endereco": "Av. Almirante Jair Carneiro Toscano de Brito, 531 - Praia da Chácara",
   "bairro": "Angra | Praia da Chácara",
   "cidade": "Angra dos Reis",
-  "lat": -23.004,
-  "lon": -44.307,
-  "aproximada": true
+  "lat": -23.00199,
+  "lon": -44.30446
  },
  {
   "id": "dom-araruama",
@@ -1560,9 +1558,8 @@
   "endereco": "Estrada Rio Bonito, 120 - Parque Hotel",
   "bairro": "Araruama",
   "cidade": "Araruama",
-  "lat": -22.873,
-  "lon": -42.343,
-  "aproximada": true
+  "lat": -22.86353,
+  "lon": -42.3177
  },
  {
   "id": "dom-bangu",
@@ -1571,26 +1568,25 @@
   "endereco": "Av. Brasil, 32238 - Bangu",
   "bairro": "Bangu",
   "cidade": "Rio de Janeiro",
-  "lat": -22.857,
-  "lon": -43.484,
+  "lat": -22.88772,
+  "lon": -43.65558,
   "aproximada": true
  },
  {
   "id": "dom-bellford-roxo",
   "mercado": "dom",
   "nome": "Belford Roxo",
-  "endereco": "Av. Joaquim da Costa Lima, 2009 - Piam",
+  "endereco": "Av. Joaquim da Costa Lima, 2009 - Piam - Piam",
   "bairro": "Belford Roxo",
   "cidade": "Belford Roxo",
-  "lat": -22.776,
-  "lon": -43.385,
-  "aproximada": true
+  "lat": -22.71481,
+  "lon": -43.32565
  },
  {
   "id": "dom-buzios",
   "mercado": "dom",
   "nome": "Búzios",
-  "endereco": "Av. Doze de Novembro, SN - Caravelas",
+  "endereco": "Av. Doze de Novembro, SN - Caravelas - Armação dos búzios",
   "bairro": "Búzios",
   "cidade": "Armação dos Búzios",
   "lat": -22.775,
@@ -1601,53 +1597,49 @@
   "id": "dom-campo-grande",
   "mercado": "dom",
   "nome": "Campo Grande",
-  "endereco": "Av. de Santa Cruz, 12.516",
+  "endereco": "Av. de Santa Cruz, 12.516 - Campo Grande",
   "bairro": "Campo Grande",
   "cidade": "Rio de Janeiro",
-  "lat": -22.893,
-  "lon": -43.545,
-  "aproximada": true
+  "lat": -22.88269,
+  "lon": -43.48755
  },
  {
   "id": "dom-campos-dos-goytacazes-parque-pecuária",
   "mercado": "dom",
   "nome": "Campos | Parque Pecuária",
-  "endereco": "Av. Presidente Vargas, 263",
+  "endereco": "Av. Presidente Vargas, 263 - Parque Pecuária",
   "bairro": "Campos | Parque Pecuária",
-  "cidade": "Campos dos Goytacazes",
-  "lat": -21.76,
-  "lon": -41.33,
-  "aproximada": true
+  "cidade": "Campos Dos Goytacazes",
+  "lat": -21.73226,
+  "lon": -41.31709
  },
  {
   "id": "dom-campos-dos-goytacazes-parque-calabouço",
   "mercado": "dom",
   "nome": "Campos | Parque Calabouço",
-  "endereco": "Av. Senador José Carlos Pereira Pinto, 532",
+  "endereco": "Av. Senador José Carlos Pereira Pinto, 532 - Parque Calabouço",
   "bairro": "Campos | Parque Calabouço",
-  "cidade": "Campos dos Goytacazes",
-  "lat": -21.745,
-  "lon": -41.318,
-  "aproximada": true
+  "cidade": "Campos Dos Goytacazes",
+  "lat": -21.74927,
+  "lon": -41.31093
  },
  {
   "id": "dom-duque-de-caxias",
   "mercado": "dom",
   "nome": "Duque de Caxias",
-  "endereco": "Rodovia Washington Luíz, 3853",
+  "endereco": "Rodovia Washington Luíz, 3853 - Duque de Caxias",
   "bairro": "Duque de Caxias",
-  "cidade": "Duque de Caxias",
-  "lat": -22.762,
-  "lon": -43.297,
-  "aproximada": true
+  "cidade": "Duque De Caxias",
+  "lat": -22.63705,
+  "lon": -43.28419
  },
  {
   "id": "dom-duque-de-caxias-santa-cruz-da-serra",
   "mercado": "dom",
   "nome": "Duque de Caxias | Santa Cruz da Serra",
-  "endereco": "Av. Automóvel Club S/N - Santa Cruz da Serra",
+  "endereco": "Av. Automóvel Club S/N - Quadra 37 Lote 489 - Santa Cruz da Serra",
   "bairro": "Duque de Caxias | Santa Cruz da Serra",
-  "cidade": "Duque de Caxias",
+  "cidade": "Duque De Caxias",
   "lat": -22.645,
   "lon": -43.285,
   "aproximada": true
@@ -1658,40 +1650,37 @@
   "nome": "Inhaúma",
   "endereco": "Av. Itaóca, 2.650 - Bonsucesso",
   "bairro": "Inhaúma",
-  "cidade": "Rio de Janeiro",
-  "lat": -22.866,
-  "lon": -43.272,
-  "aproximada": true
+  "cidade": "Rio De Janeiro",
+  "lat": -22.87251,
+  "lon": -43.27728
  },
  {
   "id": "dom-itaperuna",
   "mercado": "dom",
   "nome": "Itaperuna",
-  "endereco": "Av. Presidente Dutra, 1.125 - Cidade Nova",
+  "endereco": "Av. Presidente Dutra, 1.125 - Cidade Nova - Cidade Nova",
   "bairro": "Itaperuna",
   "cidade": "Itaperuna",
-  "lat": -21.205,
-  "lon": -41.888,
-  "aproximada": true
+  "lat": -21.20173,
+  "lon": -41.90489
  },
  {
   "id": "dom-macae",
   "mercado": "dom",
   "nome": "Macaé",
-  "endereco": "Rod. Amaral Peixoto, 2.885",
+  "endereco": "Rod. Amaral Peixoto, 2.885 - Macaé",
   "bairro": "Macaé",
-  "cidade": "Macaé",
-  "lat": -22.38,
-  "lon": -41.8,
-  "aproximada": true
+  "cidade": "MacaÉ",
+  "lat": -22.40632,
+  "lon": -41.8229
  },
  {
   "id": "dom-marica",
   "mercado": "dom",
   "nome": "Maricá",
-  "endereco": "Rod. Ernani do Amaral Peixoto, S/N - São José do Imbassaí",
+  "endereco": "Rodovia Ernani do Amaral Peixoto, S/N - São José do Imbassai - São José do Imbassai",
   "bairro": "Maricá",
-  "cidade": "Maricá",
+  "cidade": "MaricÁ",
   "lat": -22.935,
   "lon": -42.86,
   "aproximada": true
@@ -1700,119 +1689,109 @@
   "id": "dom-mesquita",
   "mercado": "dom",
   "nome": "Mesquita",
-  "endereco": "",
+  "endereco": "Rodovia Presidente Dutra, 10201 B, Industrial - Mesquita",
   "bairro": "Mesquita",
   "cidade": "Mesquita",
-  "lat": -22.79,
-  "lon": -43.43,
-  "aproximada": true
+  "lat": -22.77601,
+  "lon": -43.39973
  },
  {
   "id": "dom-niteroi",
   "mercado": "dom",
   "nome": "Niterói",
-  "endereco": "Av. Jansen de Melo, 42",
+  "endereco": "Av. Jansen de Melo, 42 - Niterói",
   "bairro": "Niterói",
-  "cidade": "Niterói",
-  "lat": -22.886,
-  "lon": -43.12,
-  "aproximada": true
+  "cidade": "NiterÓI",
+  "lat": -22.88535,
+  "lon": -43.11531
  },
  {
   "id": "dom-nova-iguaçu",
   "mercado": "dom",
   "nome": "Nova Iguaçu",
-  "endereco": "Rodovia Presidente Dutra - Jardim Tropical",
+  "endereco": "Rodovia Presidente Dutra, 13.900 - Jardim Tropical (na Cidade da Moda) - Jardim Tropical",
   "bairro": "Nova Iguaçu",
-  "cidade": "Nova Iguaçu",
-  "lat": -22.74,
-  "lon": -43.48,
-  "aproximada": true
+  "cidade": "Nova IguaÇU",
+  "lat": -22.74309,
+  "lon": -43.5155
  },
  {
   "id": "dom-petropolis",
   "mercado": "dom",
   "nome": "Petrópolis",
-  "endereco": "",
+  "endereco": "Hipershopping | Rua Teresa 1415, Alto da Serra - Alto da Serra",
   "bairro": "Petrópolis",
-  "cidade": "Petrópolis",
-  "lat": -22.505,
-  "lon": -43.178,
-  "aproximada": true
+  "cidade": "PetrÓPolis",
+  "lat": -22.52469,
+  "lon": -43.17139
  },
  {
   "id": "dom-realengo",
   "mercado": "dom",
   "nome": "Realengo",
-  "endereco": "",
+  "endereco": "Estr. Gen. Canrobert Pereira da Costa, 203 - Realengo",
   "bairro": "Realengo",
-  "cidade": "Rio de Janeiro",
-  "lat": -22.879,
-  "lon": -43.43,
-  "aproximada": true
+  "cidade": "Rio De Janeiro",
+  "lat": -22.87776,
+  "lon": -43.42283
  },
  {
   "id": "dom-resende",
   "mercado": "dom",
   "nome": "Resende",
-  "endereco": "",
+  "endereco": "Av. Francisco Fortes Filho, 200 - Jardim Aliança - Jardim Aliança",
   "bairro": "Resende",
   "cidade": "Resende",
-  "lat": -22.47,
-  "lon": -44.45,
-  "aproximada": true
+  "lat": -22.48424,
+  "lon": -44.50404
  },
  {
   "id": "dom-sao-gonçalo",
   "mercado": "dom",
   "nome": "São Gonçalo",
-  "endereco": "",
+  "endereco": "R. Cap. Juvenal Figueiredo, 570 - Colubandê - Colubandê",
   "bairro": "São Gonçalo",
-  "cidade": "São Gonçalo",
-  "lat": -22.827,
-  "lon": -43.054,
-  "aproximada": true
+  "cidade": "SÃO GonÇAlo",
+  "lat": -22.83314,
+  "lon": -43.005
  },
  {
   "id": "dom-sao-joao-de-meriti",
   "mercado": "dom",
   "nome": "São João de Meriti",
-  "endereco": "",
+  "endereco": "Rua Maria Soares Sendas, 4.200 - Parque Barreto",
   "bairro": "São João de Meriti",
-  "cidade": "São João de Meriti",
-  "lat": -22.804,
-  "lon": -43.372,
-  "aproximada": true
+  "cidade": "SÃO JoÃO De Meriti",
+  "lat": -22.7977,
+  "lon": -43.35405
  },
  {
   "id": "dom-sao-pedro-da-aldeia",
   "mercado": "dom",
   "nome": "São Pedro da Aldeia",
-  "endereco": "",
+  "endereco": "Rodovia RJ-140, 5.971 - Flexeira",
   "bairro": "São Pedro da Aldeia",
-  "cidade": "São Pedro da Aldeia",
-  "lat": -22.839,
-  "lon": -42.103,
-  "aproximada": true
+  "cidade": "SÃO Pedro Da Aldeia",
+  "lat": -22.84178,
+  "lon": -42.06999
  },
  {
   "id": "dom-taquara",
   "mercado": "dom",
   "nome": "Taquara",
-  "endereco": "",
+  "endereco": "Estrada dos Bandeirantes, 175 - Taquara",
   "bairro": "Taquara",
-  "cidade": "Rio de Janeiro",
-  "lat": -22.922,
-  "lon": -43.373,
-  "aproximada": true
+  "cidade": "Rio De Janeiro",
+  "lat": -22.92481,
+  "lon": -43.37324
  },
  {
   "id": "dom-teresopolis",
   "mercado": "dom",
   "nome": "Teresópolis",
-  "endereco": "",
+  "endereco": "Av. Almirante Lúcio Meira, 1095 - Teresópolis",
   "bairro": "Teresópolis",
-  "cidade": "Teresópolis",
+  "cidade": "TeresÓPolis",
   "lat": -22.412,
   "lon": -42.966,
   "aproximada": true
