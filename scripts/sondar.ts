@@ -65,6 +65,11 @@ for (const url of urls) {
   }
   const textoVisivel = corpo.replace(/<script[\s\S]*?<\/script>|<style[\s\S]*?<\/style>/gi, ' ').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ');
   console.log(`texto (início): ${textoVisivel.slice(0, 600)}`);
+  const trechos = [...corpo.matchAll(/encarte|ajax|tabloide|folheto|\.pdf|admin-ajax|wp-json\/[a-z]/gi)].slice(0, 25);
+  if (trechos.length) {
+    console.log('trechos com pistas:');
+    for (const m of trechos) console.log(`  …${corpo.slice(Math.max(0, m.index! - 120), m.index! + 160).replace(/\s+/g, ' ')}…`);
+  }
   const apis = [...new Set([...corpo.matchAll(/https?:\/\/[^"'\s<>]*(?:api|graphql|json)[^"'\s<>]*/gi)].map((m) => m[0]))];
   if (apis.length) console.log(`endereços de API/JSON: ${apis.slice(0, 20).join(' | ')}`);
 }
