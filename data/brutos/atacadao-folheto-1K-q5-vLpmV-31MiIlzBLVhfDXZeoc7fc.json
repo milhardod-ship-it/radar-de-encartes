@@ -1,0 +1,167 @@
+{
+ "fonte": "atacadao-api",
+ "coletadoEm": "2026-11-27T08:26:22.462Z",
+ "folheto": {
+  "id": "1K-q5-vLpmV-31MiIlzBLVhfDXZeoc7fc",
+  "nome": "Black Friday",
+  "inicio": "2026-11-27",
+  "fim": "2026-11-27",
+  "url": "https://apigw.cloud.carrefour.com.br/api-middleware-flyer-services/api/v2/Flyer/?id=1K-q5-vLpmV-31MiIlzBLVhfDXZeoc7fc",
+  "lojas": [
+   {
+    "id": 336,
+    "nome": "Cabo Frio Tamoios 24hrs",
+    "bairro": "Unamar (Tamoios)",
+    "cidade": "Cabo Frio",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 102,
+    "nome": "Goytacazes Guarus",
+    "bairro": "Parque Guarus",
+    "cidade": "Campos dos Goytacazes",
+    "lat": -21.71022,
+    "lon": -41.30951
+   },
+   {
+    "id": 292,
+    "nome": "Goytacazes Santo Amaro",
+    "bairro": "Parque Santo Amaro",
+    "cidade": "Campos dos Goytacazes",
+    "lat": -21.7653,
+    "lon": -41.34492
+   },
+   {
+    "id": 130,
+    "nome": "Macaé",
+    "bairro": "São José do Barreto",
+    "cidade": "Macaé",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 259,
+    "nome": "Nova Friburgo",
+    "bairro": "Duas Pedras",
+    "cidade": "Nova Friburgo",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 270,
+    "nome": "Rio das Ostras",
+    "bairro": "Atlantica",
+    "cidade": "Rio das Ostras",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 157,
+    "nome": "Cabo Frio 24hrs",
+    "bairro": "Campo Redondo",
+    "cidade": "São Pedro da Aldeia",
+    "lat": null,
+    "lon": null
+   }
+  ]
+ },
+ "documento": "rj (interior - BLACK HF) 27 nov 26 A4 1P DIG OS 1851-C.indd",
+ "paginas": [
+  {
+   "pagina": 1,
+   "itens": [
+    {
+     "numero": 1,
+     "descricao": "Abacaxi\nUnidade",
+     "campos": {
+      "P": "R$4,99"
+     },
+     "skus": [
+      "01078"
+     ]
+    },
+    {
+     "numero": 2,
+     "descricao": "Banana Nanica\nQuilo",
+     "campos": {
+      "P": "R$2,49"
+     },
+     "skus": [
+      "01643"
+     ]
+    },
+    {
+     "numero": 3,
+     "descricao": "Pêssego Nacional\nQuilo",
+     "campos": {
+      "P": "R$8,99"
+     },
+     "skus": [
+      "01854"
+     ]
+    },
+    {
+     "numero": 4,
+     "descricao": "Coco Verde\nUnidade",
+     "campos": {
+      "P": "R$2,99"
+     },
+     "skus": [
+      "01651"
+     ]
+    },
+    {
+     "numero": 5,
+     "descricao": "Ovo Branco Grande\nBandeja com 30 unidades",
+     "campos": {
+      "P": "R$12,90"
+     },
+     "skus": [
+      "21825"
+     ]
+    },
+    {
+     "numero": 6,
+     "descricao": "Laranja-pera\nQuilo",
+     "campos": {
+      "P": "R$2,99"
+     },
+     "skus": [
+      "02488"
+     ]
+    },
+    {
+     "numero": 7,
+     "descricao": "Alface Crespa/ Coentro/ Cebolinha\nUnidade",
+     "campos": {
+      "P": "R$1,99"
+     },
+     "skus": [
+      "01592"
+     ]
+    },
+    {
+     "numero": 8,
+     "descricao": "Manga Tommy\nQuilo",
+     "campos": {
+      "P": "R$3,99"
+     },
+     "skus": [
+      "01808"
+     ]
+    },
+    {
+     "numero": 9,
+     "descricao": "Agrião/ Chicoria/ Hortelã\nMaço",
+     "campos": {
+      "P": "R$1,99"
+     },
+     "skus": [
+      "01605"
+     ]
+    }
+   ]
+  }
+ ]
+}

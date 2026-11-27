@@ -1,0 +1,192 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-27",
+ "validade": {
+  "inicio": "2026-11-27",
+  "fim": "2026-12-13"
+ },
+ "itens": [
+  {
+   "nome": "Hambúrguer Bovino Costela na Brasa/Picanha",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "150g",
+   "preco": 6.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Linguiça Calabresa Na Brasa Congelada",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "500g",
+   "preco": 14.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Coxinha da Asa de Frango",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "800g",
+   "preco": 15.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Linguiça Suína Na Brasa/Churrasco",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "700g",
+   "preco": 17.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Linguiça Suína Na Brasa Cuiabana Congelada",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "500g",
+   "preco": 20.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Coração de Frango",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "500g",
+   "preco": 22.98,
+   "de": null,
+   "clube": 21.98,
+   "soClube": false,
+   "condicao": "preço no clube Meu Dom",
+   "duvida": null
+  },
+  {
+   "nome": "Hambúrguer Bovino Na Brasa",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "540g",
+   "preco": 21.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Linguiça Na Brasa",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "600g",
+   "preco": 23.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Meio da Asa de Frango Na Brasa IQF",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "800g",
+   "preco": 33.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Meio da Asa de Frango Na Brasa Temperado IQF",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "800g",
+   "preco": 34.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Creme Vegetal c/Sal",
+   "marcas": [
+    "Becel"
+   ],
+   "tamanho": "500g",
+   "preco": 9.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Margarina",
+   "marcas": [
+    "Claybom"
+   ],
+   "tamanho": "1kg",
+   "preco": 12.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Margarina Tradicional/Alho e Ervas",
+   "marcas": [
+    "Qualy"
+   ],
+   "tamanho": "500g",
+   "preco": 13.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Margarina 50% Lipídios Balde",
+   "marcas": [
+    "Claybom"
+   ],
+   "tamanho": "14kg",
+   "preco": 112.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  }
+ ]
+}

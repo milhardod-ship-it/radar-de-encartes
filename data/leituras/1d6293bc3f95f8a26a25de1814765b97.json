@@ -1,0 +1,190 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-27",
+ "validade": {
+  "inicio": "2026-11-27",
+  "fim": "2026-12-13"
+ },
+ "itens": [
+  {
+   "nome": "Steak de Frango",
+   "marcas": [],
+   "tamanho": "100g",
+   "preco": 1.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Marca não aparece no nome do produto (embalagem parece Sadia)."
+  },
+  {
+   "nome": "Bisteca Suína IQF",
+   "marcas": [
+    "Sadia"
+   ],
+   "tamanho": "800g",
+   "preco": 12.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Coxinha da Asa de Frango",
+   "marcas": [
+    "Sadia"
+   ],
+   "tamanho": "1kg",
+   "preco": 14.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Lasanha (sabores)",
+   "marcas": [
+    "Sadia"
+   ],
+   "tamanho": "600g",
+   "preco": 15.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Pizza (sabores)",
+   "marcas": [
+    "Sadia"
+   ],
+   "tamanho": "460g",
+   "preco": 17.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Salsicha Congelada Hot Dog",
+   "marcas": [
+    "Sadia"
+   ],
+   "tamanho": "3kg",
+   "preco": 26.97,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Mortadela Bologna (peça)",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "kg",
+   "preco": 9.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Mortadela Defumada Bolonha",
+   "marcas": [
+    "Sadia"
+   ],
+   "tamanho": "kg",
+   "preco": 15.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Presunto (peça)",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "peça/kg",
+   "preco": 22.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Empanado de Frango Tradicional Mini Chicken",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "1kg",
+   "preco": 17.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Hambúrguer (sabores)",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "672g",
+   "preco": 13.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Pizza (sabores)",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "460g",
+   "preco": 14.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Linguiça Tipo Calabresa Curva",
+   "marcas": [
+    "Sadia"
+   ],
+   "tamanho": "2,5kg",
+   "preco": 44.97,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Linguiça Calabresa Curva",
+   "marcas": [
+    "Perdigão"
+   ],
+   "tamanho": "2,5kg",
+   "preco": 47.47,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  }
+ ]
+}

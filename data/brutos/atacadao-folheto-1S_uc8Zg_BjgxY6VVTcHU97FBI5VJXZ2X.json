@@ -1,0 +1,247 @@
+{
+ "fonte": "atacadao-api",
+ "coletadoEm": "2026-11-27T08:26:22.305Z",
+ "folheto": {
+  "id": "1S_uc8Zg_BjgxY6VVTcHU97FBI5VJXZ2X",
+  "nome": "Black Friday",
+  "inicio": "2026-11-27",
+  "fim": "2026-11-27",
+  "url": "https://apigw.cloud.carrefour.com.br/api-middleware-flyer-services/api/v2/Flyer/?id=1S_uc8Zg_BjgxY6VVTcHU97FBI5VJXZ2X",
+  "lojas": [
+   {
+    "id": 679,
+    "nome": "Belford Roxo",
+    "bairro": "Centro",
+    "cidade": "Belford Roxo",
+    "lat": -22.77552679,
+    "lon": -43.39788906
+   },
+   {
+    "id": 336,
+    "nome": "Cabo Frio Tamoios 24hrs",
+    "bairro": "Unamar (Tamoios)",
+    "cidade": "Cabo Frio",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 102,
+    "nome": "Goytacazes Guarus",
+    "bairro": "Parque Guarus",
+    "cidade": "Campos dos Goytacazes",
+    "lat": -21.71022,
+    "lon": -41.30951
+   },
+   {
+    "id": 292,
+    "nome": "Goytacazes Santo Amaro",
+    "bairro": "Parque Santo Amaro",
+    "cidade": "Campos dos Goytacazes",
+    "lat": -21.7653,
+    "lon": -41.34492
+   },
+   {
+    "id": 174,
+    "nome": "Duque de Caxias",
+    "bairro": "Vila Actura",
+    "cidade": "Duque de Caxias",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 193,
+    "nome": "Itaboraí",
+    "bairro": "Manilha",
+    "cidade": "Itaboraí",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 130,
+    "nome": "Macaé",
+    "bairro": "São José do Barreto",
+    "cidade": "Macaé",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 319,
+    "nome": "Marica",
+    "bairro": "Flamego",
+    "cidade": "Maricá",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 259,
+    "nome": "Nova Friburgo",
+    "bairro": "Duas Pedras",
+    "cidade": "Nova Friburgo",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 67,
+    "nome": "Nova Iguaçu Maria da Luz",
+    "bairro": "Maria da Luz",
+    "cidade": "Nova Iguaçu",
+    "lat": -22.75756013,
+    "lon": -43.43141051
+   },
+   {
+    "id": 291,
+    "nome": "Nova Iguaçu Comendador Soares",
+    "bairro": "Comendador Soares",
+    "cidade": "Nova Iguaçu",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 207,
+    "nome": "Resende",
+    "bairro": "Jardim Aliança",
+    "cidade": "Resende",
+    "lat": -22.47413245,
+    "lon": -44.5078324
+   },
+   {
+    "id": 270,
+    "nome": "Rio das Ostras",
+    "bairro": "Atlantica",
+    "cidade": "Rio das Ostras",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 699,
+    "nome": "Bangu",
+    "bairro": "Bangu",
+    "cidade": "Rio de Janeiro",
+    "lat": -22.8765669,
+    "lon": -43.46765093
+   },
+   {
+    "id": 247,
+    "nome": "Realengo",
+    "bairro": "Realengo",
+    "cidade": "Rio de Janeiro",
+    "lat": -22.87611969,
+    "lon": -43.42760452
+   },
+   {
+    "id": 249,
+    "nome": "Benfica",
+    "bairro": "Manguinhos",
+    "cidade": "Rio de Janeiro",
+    "lat": -22.88012767,
+    "lon": -43.23904053
+   },
+   {
+    "id": 691,
+    "nome": "Pilares",
+    "bairro": "Cachambi",
+    "cidade": "Rio de Janeiro",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 136,
+    "nome": "Santa Cruz",
+    "bairro": "Santa Cruz",
+    "cidade": "Rio de Janeiro",
+    "lat": -22.89213,
+    "lon": -43.67765
+   },
+   {
+    "id": 63,
+    "nome": "Automóvel Clube",
+    "bairro": "Vicente de Carvalho",
+    "cidade": "Rio de Janeiro",
+    "lat": -22.85385092,
+    "lon": -43.3106037
+   },
+   {
+    "id": 65,
+    "nome": "Guadalupe",
+    "bairro": "Guadalupe",
+    "cidade": "Rio de Janeiro",
+    "lat": -22.84202,
+    "lon": -43.37572
+   },
+   {
+    "id": 294,
+    "nome": "Barra",
+    "bairro": "Barra da Tijuca",
+    "cidade": "Rio de Janeiro",
+    "lat": -22.99032122,
+    "lon": -43.36344795
+   },
+   {
+    "id": 210,
+    "nome": "Jacarepaguá",
+    "bairro": "Jacarepaguá",
+    "cidade": "Rio de Janeiro",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 275,
+    "nome": "Bonsucesso",
+    "bairro": "Bonsucesso",
+    "cidade": "Rio de Janeiro",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 278,
+    "nome": "Mendanha",
+    "bairro": "Campo Grande",
+    "cidade": "Rio de Janeiro",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 681,
+    "nome": "Manilha",
+    "bairro": "Neves",
+    "cidade": "São Gonçalo",
+    "lat": -22.85264227,
+    "lon": -43.10065268
+   },
+   {
+    "id": 202,
+    "nome": "São Gonçalo",
+    "bairro": "Alcântara",
+    "cidade": "São Gonçalo",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 157,
+    "nome": "Cabo Frio 24hrs",
+    "bairro": "Campo Redondo",
+    "cidade": "São Pedro da Aldeia",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 815,
+    "nome": "Volta Redonda São Geraldo",
+    "bairro": "São Geraldo",
+    "cidade": "Volta Redonda",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 289,
+    "nome": "Volta Redonda Vila Rica",
+    "bairro": "Jardim Vila Rica",
+    "cidade": "Volta Redonda",
+    "lat": null,
+    "lon": null
+   }
+  ]
+ },
+ "documento": "",
+ "paginas": []
+}

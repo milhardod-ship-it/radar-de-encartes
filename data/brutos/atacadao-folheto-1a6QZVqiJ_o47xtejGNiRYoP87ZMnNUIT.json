@@ -1,0 +1,230 @@
+{
+ "fonte": "atacadao-api",
+ "coletadoEm": "2026-11-27T08:26:22.781Z",
+ "folheto": {
+  "id": "1a6QZVqiJ_o47xtejGNiRYoP87ZMnNUIT",
+  "nome": "Black Friday",
+  "inicio": "2026-11-27",
+  "fim": "2026-11-27",
+  "url": "https://apigw.cloud.carrefour.com.br/api-middleware-flyer-services/api/v2/Flyer/?id=1a6QZVqiJ_o47xtejGNiRYoP87ZMnNUIT",
+  "lojas": [
+   {
+    "id": 207,
+    "nome": "Resende",
+    "bairro": "Jardim Aliança",
+    "cidade": "Resende",
+    "lat": -22.47413245,
+    "lon": -44.5078324
+   },
+   {
+    "id": 815,
+    "nome": "Volta Redonda São Geraldo",
+    "bairro": "São Geraldo",
+    "cidade": "Volta Redonda",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 289,
+    "nome": "Volta Redonda Vila Rica",
+    "bairro": "Jardim Vila Rica",
+    "cidade": "Volta Redonda",
+    "lat": null,
+    "lon": null
+   }
+  ]
+ },
+ "documento": "rj (resen volta re - BLACK HF) 27 nov 26 A4 2P DIG OS 1851-D.indd",
+ "paginas": [
+  {
+   "pagina": 1,
+   "itens": [
+    {
+     "numero": 1,
+     "descricao": "Alface Crespa/ Coentro/ Cebolinha\nUnidade/Maço",
+     "campos": {
+      "P": "R$1,99"
+     },
+     "skus": [
+      "01592"
+     ]
+    },
+    {
+     "numero": 2,
+     "descricao": "Alho Descascado\nPacote com 500g",
+     "campos": {
+      "P": "R$8,99"
+     },
+     "skus": [
+      "82544"
+     ]
+    },
+    {
+     "numero": 3,
+     "descricao": "Agrião/ Chicoria/ Hortelã\nMaço",
+     "campos": {
+      "P": "R$1,99"
+     },
+     "skus": [
+      "01605"
+     ]
+    },
+    {
+     "numero": 4,
+     "descricao": "Mandioca-aipim\nQuilo",
+     "campos": {
+      "P": "R$1,99"
+     },
+     "skus": [
+      "01506"
+     ]
+    },
+    {
+     "numero": 5,
+     "descricao": "Cenoura\nQuilo",
+     "campos": {
+      "P": "R$2,99"
+     },
+     "skus": [
+      "01920"
+     ]
+    },
+    {
+     "numero": 6,
+     "descricao": "Chuchu\nQuilo",
+     "campos": {
+      "P": "R$1,99"
+     },
+     "skus": [
+      "01923"
+     ]
+    },
+    {
+     "numero": 7,
+     "descricao": "Manga Tommy\nQuilo",
+     "campos": {
+      "P": "R$3,99"
+     },
+     "skus": [
+      "01808"
+     ]
+    },
+    {
+     "numero": 8,
+     "descricao": "Limão-taiti\nQuilo",
+     "campos": {
+      "P": "R$4,99"
+     },
+     "skus": [
+      "01805"
+     ]
+    },
+    {
+     "numero": 9,
+     "descricao": "Pepino Comum\nQuilo",
+     "campos": {
+      "P": "R$2,79"
+     },
+     "skus": [
+      "01514"
+     ]
+    }
+   ]
+  },
+  {
+   "pagina": 2,
+   "itens": [
+    {
+     "numero": 1,
+     "descricao": "Laranja Importada\nQuilo",
+     "campos": {
+      "P": "R$4,99"
+     },
+     "skus": [
+      "08353"
+     ]
+    },
+    {
+     "numero": 2,
+     "descricao": "Ameixa Importada\nQuilo",
+     "campos": {
+      "P": "R$12,99"
+     },
+     "skus": [
+      "05606"
+     ]
+    },
+    {
+     "numero": 3,
+     "descricao": "Melão Amarelo\nQuilo",
+     "campos": {
+      "P": "R$3,99"
+     },
+     "skus": [
+      "05181"
+     ]
+    },
+    {
+     "numero": 4,
+     "descricao": "Maçã Nacional Gala/Fuji\nQuilo",
+     "campos": {
+      "P": "R$4,99"
+     },
+     "skus": [
+      "01825"
+     ]
+    },
+    {
+     "numero": 5,
+     "descricao": "Melancia Baby\nQuilo",
+     "campos": {
+      "P": "R$2,99"
+     },
+     "skus": [
+      "06294"
+     ]
+    },
+    {
+     "numero": 6,
+     "descricao": "Abóbora Italiana\nQuilo",
+     "campos": {
+      "P": "R$3,99"
+     },
+     "skus": [
+      "01888"
+     ]
+    },
+    {
+     "numero": 7,
+     "descricao": "Maçã\nPacote com 850g",
+     "campos": {
+      "P": "R$3,99"
+     },
+     "skus": [
+      "70377"
+     ]
+    },
+    {
+     "numero": 8,
+     "descricao": "Ovo Branco Grande\nBandeja com 30 unidades",
+     "campos": {
+      "P": "R$12,90"
+     },
+     "skus": [
+      "21825"
+     ]
+    },
+    {
+     "numero": 9,
+     "descricao": "Uva Crimson/Vitória/Thompson\nBandeja com 400g/500g",
+     "campos": {
+      "P": "R$5,99"
+     },
+     "skus": [
+      "36876"
+     ]
+    }
+   ]
+  }
+ ]
+}
