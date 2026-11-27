@@ -81,20 +81,20 @@
     "lon": null
    },
    {
-    "id": 67,
-    "nome": "Nova Iguaçu Maria da Luz",
-    "bairro": "Maria da Luz",
-    "cidade": "Nova Iguaçu",
-    "lat": -22.75756013,
-    "lon": -43.43141051
-   },
-   {
     "id": 291,
     "nome": "Nova Iguaçu Comendador Soares",
     "bairro": "Comendador Soares",
     "cidade": "Nova Iguaçu",
     "lat": null,
     "lon": null
+   },
+   {
+    "id": 67,
+    "nome": "Nova Iguaçu Maria da Luz",
+    "bairro": "Maria da Luz",
+    "cidade": "Nova Iguaçu",
+    "lat": -22.75756013,
+    "lon": -43.43141051
    },
    {
     "id": 207,
@@ -113,14 +113,6 @@
     "lon": null
    },
    {
-    "id": 699,
-    "nome": "Bangu",
-    "bairro": "Bangu",
-    "cidade": "Rio de Janeiro",
-    "lat": -22.8765669,
-    "lon": -43.46765093
-   },
-   {
     "id": 247,
     "nome": "Realengo",
     "bairro": "Realengo",
@@ -137,12 +129,12 @@
     "lon": -43.23904053
    },
    {
-    "id": 691,
-    "nome": "Pilares",
-    "bairro": "Cachambi",
+    "id": 294,
+    "nome": "Barra",
+    "bairro": "Barra da Tijuca",
     "cidade": "Rio de Janeiro",
-    "lat": null,
-    "lon": null
+    "lat": -22.99032122,
+    "lon": -43.36344795
    },
    {
     "id": 136,
@@ -169,22 +161,6 @@
     "lon": -43.37572
    },
    {
-    "id": 294,
-    "nome": "Barra",
-    "bairro": "Barra da Tijuca",
-    "cidade": "Rio de Janeiro",
-    "lat": -22.99032122,
-    "lon": -43.36344795
-   },
-   {
-    "id": 210,
-    "nome": "Jacarepaguá",
-    "bairro": "Jacarepaguá",
-    "cidade": "Rio de Janeiro",
-    "lat": null,
-    "lon": null
-   },
-   {
     "id": 275,
     "nome": "Bonsucesso",
     "bairro": "Bonsucesso",
@@ -201,12 +177,28 @@
     "lon": null
    },
    {
-    "id": 681,
-    "nome": "Manilha",
-    "bairro": "Neves",
-    "cidade": "São Gonçalo",
-    "lat": -22.85264227,
-    "lon": -43.10065268
+    "id": 699,
+    "nome": "Bangu",
+    "bairro": "Bangu",
+    "cidade": "Rio de Janeiro",
+    "lat": -22.8765669,
+    "lon": -43.46765093
+   },
+   {
+    "id": 691,
+    "nome": "Pilares",
+    "bairro": "Cachambi",
+    "cidade": "Rio de Janeiro",
+    "lat": null,
+    "lon": null
+   },
+   {
+    "id": 210,
+    "nome": "Jacarepaguá",
+    "bairro": "Jacarepaguá",
+    "cidade": "Rio de Janeiro",
+    "lat": null,
+    "lon": null
    },
    {
     "id": 202,
@@ -217,6 +209,14 @@
     "lon": null
    },
    {
+    "id": 681,
+    "nome": "Manilha",
+    "bairro": "Neves",
+    "cidade": "São Gonçalo",
+    "lat": -22.85264227,
+    "lon": -43.10065268
+   },
+   {
     "id": 157,
     "nome": "Cabo Frio 24hrs",
     "bairro": "Campo Redondo",
@@ -225,17 +225,17 @@
     "lon": null
    },
    {
-    "id": 815,
-    "nome": "Volta Redonda São Geraldo",
-    "bairro": "São Geraldo",
+    "id": 289,
+    "nome": "Volta Redonda Vila Rica",
+    "bairro": "Jardim Vila Rica",
     "cidade": "Volta Redonda",
     "lat": null,
     "lon": null
    },
    {
-    "id": 289,
-    "nome": "Volta Redonda Vila Rica",
-    "bairro": "Jardim Vila Rica",
+    "id": 815,
+    "nome": "Volta Redonda São Geraldo",
+    "bairro": "São Geraldo",
     "cidade": "Volta Redonda",
     "lat": null,
     "lon": null
