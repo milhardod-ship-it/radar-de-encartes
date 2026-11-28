@@ -25,20 +25,20 @@
     "lon": null
    },
    {
-    "id": 292,
-    "nome": "Goytacazes Santo Amaro",
-    "bairro": "Parque Santo Amaro",
-    "cidade": "Campos dos Goytacazes",
-    "lat": -21.7653,
-    "lon": -41.34492
-   },
-   {
     "id": 102,
     "nome": "Goytacazes Guarus",
     "bairro": "Parque Guarus",
     "cidade": "Campos dos Goytacazes",
     "lat": -21.71022,
     "lon": -41.30951
+   },
+   {
+    "id": 292,
+    "nome": "Goytacazes Santo Amaro",
+    "bairro": "Parque Santo Amaro",
+    "cidade": "Campos dos Goytacazes",
+    "lat": -21.7653,
+    "lon": -41.34492
    },
    {
     "id": 174,
@@ -121,14 +121,6 @@
     "lon": -43.42760452
    },
    {
-    "id": 699,
-    "nome": "Bangu",
-    "bairro": "Bangu",
-    "cidade": "Rio de Janeiro",
-    "lat": -22.8765669,
-    "lon": -43.46765093
-   },
-   {
     "id": 249,
     "nome": "Benfica",
     "bairro": "Manguinhos",
@@ -153,6 +145,22 @@
     "lon": null
    },
    {
+    "id": 136,
+    "nome": "Santa Cruz",
+    "bairro": "Santa Cruz",
+    "cidade": "Rio de Janeiro",
+    "lat": -22.89213,
+    "lon": -43.67765
+   },
+   {
+    "id": 278,
+    "nome": "Mendanha",
+    "bairro": "Campo Grande",
+    "cidade": "Rio de Janeiro",
+    "lat": null,
+    "lon": null
+   },
+   {
     "id": 63,
     "nome": "Automóvel Clube",
     "bairro": "Vicente de Carvalho",
@@ -169,6 +177,14 @@
     "lon": -43.37572
    },
    {
+    "id": 294,
+    "nome": "Barra",
+    "bairro": "Barra da Tijuca",
+    "cidade": "Rio de Janeiro",
+    "lat": -22.99032122,
+    "lon": -43.36344795
+   },
+   {
     "id": 691,
     "nome": "Pilares",
     "bairro": "Cachambi",
@@ -177,28 +193,12 @@
     "lon": null
    },
    {
-    "id": 278,
-    "nome": "Mendanha",
-    "bairro": "Campo Grande",
+    "id": 699,
+    "nome": "Bangu",
+    "bairro": "Bangu",
     "cidade": "Rio de Janeiro",
-    "lat": null,
-    "lon": null
-   },
-   {
-    "id": 136,
-    "nome": "Santa Cruz",
-    "bairro": "Santa Cruz",
-    "cidade": "Rio de Janeiro",
-    "lat": -22.89213,
-    "lon": -43.67765
-   },
-   {
-    "id": 294,
-    "nome": "Barra",
-    "bairro": "Barra da Tijuca",
-    "cidade": "Rio de Janeiro",
-    "lat": -22.99032122,
-    "lon": -43.36344795
+    "lat": -22.8765669,
+    "lon": -43.46765093
    },
    {
     "id": 202,
