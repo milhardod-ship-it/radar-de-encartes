@@ -1,0 +1,504 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-27",
+ "validade": {
+  "inicio": "2026-11-28",
+  "fim": "2026-11-30"
+ },
+ "itens": [
+  {
+   "nome": "Shampoo Johnson's Baby",
+   "marcas": [
+    "Johnson's Baby"
+   ],
+   "tamanho": "400ml",
+   "preco": 17.98,
+   "de": 22.9,
+   "clube": null,
+   "soClube": false,
+   "condicao": "nesta embalagem 200ml sai por 8,99",
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete Líquido Glicerinado Bebê Granado",
+   "marcas": [
+    "Granado"
+   ],
+   "tamanho": "250ml",
+   "preco": 14.98,
+   "de": 16.98,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Preço De parcialmente legível (16,98 ou 10,98)"
+  },
+  {
+   "nome": "Shampoo Huggies Extra Suave ou Camomila",
+   "marcas": [
+    "Huggies"
+   ],
+   "tamanho": "200ml",
+   "preco": 9.98,
+   "de": 11.99,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Preço De parcialmente legível"
+  },
+  {
+   "nome": "Sabonete Huggies",
+   "marcas": [
+    "Huggies"
+   ],
+   "tamanho": "75g",
+   "preco": 1.99,
+   "de": 2.69,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Preço De parcialmente legível"
+  },
+  {
+   "nome": "Sabonete Líquido Refil",
+   "marcas": [
+    "Huggies"
+   ],
+   "tamanho": "200ml",
+   "preco": 6.99,
+   "de": 8.98,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Preço De parcialmente legível"
+  },
+  {
+   "nome": "Sabonete Líquido Blá-Blá-Blá",
+   "marcas": [
+    "Blá-Blá-Blá"
+   ],
+   "tamanho": "250ml",
+   "preco": 4.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Shampoo Bebê",
+   "marcas": [
+    "Granado"
+   ],
+   "tamanho": "250ml",
+   "preco": 15.99,
+   "de": null,
+   "clube": 14.98,
+   "soClube": false,
+   "condicao": "vale também para talco 100g",
+   "duvida": "Shampoo 250ml ou Talco 100g; preço do clube Guana Clube"
+  },
+  {
+   "nome": "Shampoo, Condicionador ou Creme de Pentear Juntinhos",
+   "marcas": [
+    "Seda"
+   ],
+   "tamanho": "300ml",
+   "preco": 10.99,
+   "de": null,
+   "clube": 9.98,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete Pompom",
+   "marcas": [
+    "Pompom"
+   ],
+   "tamanho": "70g",
+   "preco": 1.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Shampoo Pompom",
+   "marcas": [
+    "Pompom"
+   ],
+   "tamanho": "200ml",
+   "preco": 8.99,
+   "de": null,
+   "clube": 6.99,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete Baby",
+   "marcas": [
+    "Dove"
+   ],
+   "tamanho": "75g",
+   "preco": 4.89,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Shampoo Baby",
+   "marcas": [
+    "Dove"
+   ],
+   "tamanho": "200ml",
+   "preco": 11.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Shampoo Baby",
+   "marcas": [
+    "Dove"
+   ],
+   "tamanho": "400ml",
+   "preco": 19.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "nesta embalagem 200ml sai por 9,99",
+   "duvida": null
+  },
+  {
+   "nome": "Shampoo Kolene Cachinhos",
+   "marcas": [
+    "Kolene"
+   ],
+   "tamanho": "300ml",
+   "preco": 9.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Gelatina Kolene Cachinhos",
+   "marcas": [
+    "Kolene"
+   ],
+   "tamanho": "500g",
+   "preco": 17.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Shampoo, Condicionador ou Creme de Manutenção Intensiva Kids",
+   "marcas": [
+    "Skafe"
+   ],
+   "tamanho": "300ml",
+   "preco": 7.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete Líquido Flora Nenen Sachê",
+   "marcas": [
+    "Flora Nenen"
+   ],
+   "tamanho": "250ml",
+   "preco": 4.99,
+   "de": null,
+   "clube": 3.99,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete Flora Nenen",
+   "marcas": [
+    "Flora Nenen"
+   ],
+   "tamanho": "80g",
+   "preco": 1.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Shampoo Baruel",
+   "marcas": [
+    "Baruel"
+   ],
+   "tamanho": "400ml",
+   "preco": 13.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "nesta embalagem 200ml sai por 6,99",
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete Líquido Baruel",
+   "marcas": [
+    "Baruel"
+   ],
+   "tamanho": "400ml",
+   "preco": 14.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "nesta embalagem 200ml sai por 7,49",
+   "duvida": null
+  },
+  {
+   "nome": "Kit Shampoo + Condicionador Cheirinho de Bebê",
+   "marcas": [
+    "Vegano"
+   ],
+   "tamanho": "210ml",
+   "preco": 19.98,
+   "de": null,
+   "clube": 17.98,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Marca incerta"
+  },
+  {
+   "nome": "Kit Blá-Blá-Blá",
+   "marcas": [
+    "Blá-Blá-Blá"
+   ],
+   "tamanho": "300ml",
+   "preco": 13.98,
+   "de": null,
+   "clube": 10.99,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Kit Shampoo + Condicionador",
+   "marcas": [
+    "Trá Lá Lá"
+   ],
+   "tamanho": "250ml",
+   "preco": 17.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Kit Shampoo + Condicionador Kids",
+   "marcas": [
+    "Palmolive"
+   ],
+   "tamanho": "315ml",
+   "preco": 29.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Desodorante Roll-On",
+   "marcas": [
+    "Trá Lá Lá"
+   ],
+   "tamanho": "65ml",
+   "preco": 11.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Hastes Flexíveis",
+   "marcas": [
+    "Topz"
+   ],
+   "tamanho": "c/75 unidades",
+   "preco": 1.39,
+   "de": null,
+   "clube": 1.19,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Enxaguante Bucal",
+   "marcas": [
+    "Carmed"
+   ],
+   "tamanho": "250ml",
+   "preco": 19.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "leve 2 pague 1, cada unidade sai por 9,99",
+   "duvida": null
+  },
+  {
+   "nome": "Gel Dental",
+   "marcas": [
+    "Carmed"
+   ],
+   "tamanho": "70g",
+   "preco": 19.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "leve 2 pague 1, cada unidade sai por 9,99",
+   "duvida": null
+  },
+  {
+   "nome": "Gel Dental Harry Potter",
+   "marcas": [
+    "Colgate"
+   ],
+   "tamanho": "100g",
+   "preco": 13.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Escova Dental Harry Potter",
+   "marcas": [
+    "Colgate"
+   ],
+   "tamanho": "c/4 unidades",
+   "preco": 29.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Escova Dental",
+   "marcas": [
+    "Dr. Rabbit"
+   ],
+   "tamanho": "",
+   "preco": 6.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Toalhas Umedecidas",
+   "marcas": [
+    "BabyLimp"
+   ],
+   "tamanho": "c/50 unidades",
+   "preco": 3.99,
+   "de": null,
+   "clube": 2.99,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Toalhas Umedecidas F/T",
+   "marcas": [
+    "BabyLimp"
+   ],
+   "tamanho": "c/50 unidades",
+   "preco": 3.99,
+   "de": 4.99,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Preço De parcialmente legível"
+  },
+  {
+   "nome": "Toalhas Umedecidas",
+   "marcas": [
+    "Babysec"
+   ],
+   "tamanho": "c/48 unidades",
+   "preco": 4.99,
+   "de": 7.49,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Toalhas Umedecidas",
+   "marcas": [
+    "Huggies"
+   ],
+   "tamanho": "c/48 unidades",
+   "preco": 7.99,
+   "de": 10.98,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Creme p/ Assaduras",
+   "marcas": [
+    "Hipoglós"
+   ],
+   "tamanho": "40g",
+   "preco": 21.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Creme p/ Assaduras Regular",
+   "marcas": [
+    "Huggies"
+   ],
+   "tamanho": "80g",
+   "preco": 13.99,
+   "de": 17.99,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Creme p/ Assaduras",
+   "marcas": [
+    "Lukinha"
+   ],
+   "tamanho": "90g",
+   "preco": 10.9,
+   "de": 12.99,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  }
+ ]
+}

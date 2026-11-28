@@ -1,0 +1,129 @@
+{
+ "encarte": "dom-ia-386",
+ "mercado": "dom",
+ "programaClube": "meu-dom",
+ "nomeClube": "app Meu Dom",
+ "encarteInfo": {
+  "id": "dom-ia-386",
+  "mercado": "dom",
+  "titulo": "Matinais Black",
+  "inicio": "2026-11-28",
+  "fim": "2026-11-29",
+  "lojas": [],
+  "fonte": "site do Dom Atacadista (imagens do encarte), lido por IA (claude-sonnet-5-5) em 2026-11-27"
+ },
+ "observacao": "Lido por IA (claude-sonnet-5-5); custo aproximado US$ 0.02. Não revisado.",
+ "itens": [
+  {
+   "pagina": 1,
+   "nome": "Café",
+   "marcas": [
+    "Pimpinela",
+    "Golden",
+    "3 Corações"
+   ],
+   "tamanho": "500g",
+   "preco": 23.8
+  },
+  {
+   "pagina": 1,
+   "nome": "Café Almofada / Vácuo",
+   "marcas": [
+    "Pilão"
+   ],
+   "tamanho": "500g",
+   "preco": 23.99
+  },
+  {
+   "pagina": 1,
+   "nome": "Café Pó Evolutto Almofada Extra Forte ou Café Pó Pelé Almofada Extra Forte",
+   "marcas": [
+    "Evolutto",
+    "Pelé"
+   ],
+   "tamanho": "500g",
+   "preco": 16.99
+  },
+  {
+   "pagina": 1,
+   "nome": "Cápsulas de Café (compatível Nespresso)",
+   "marcas": [
+    "3 Corações"
+   ],
+   "tamanho": "5g c/10",
+   "preco": 9.99
+  },
+  {
+   "pagina": 1,
+   "nome": "Cápsulas de Café (sabores)",
+   "marcas": [
+    "Pilão"
+   ],
+   "tamanho": "52g",
+   "preco": 11.44
+  },
+  {
+   "pagina": 1,
+   "nome": "Cápsulas de Café",
+   "marcas": [
+    "Lor"
+   ],
+   "tamanho": "52g c/10",
+   "preco": 13.95
+  },
+  {
+   "pagina": 1,
+   "nome": "Cápsulas de Café (sabores)",
+   "marcas": [
+    "3 Corações"
+   ],
+   "tamanho": "7,5g / 9g / 10g / 11g c/10",
+   "preco": 12.99
+  },
+  {
+   "pagina": 1,
+   "nome": "Cappuccino ou Chocolate Quente em Pó Sachê (sabores)",
+   "marcas": [
+    "3 Corações"
+   ],
+   "tamanho": "20g",
+   "preco": 1.99
+  },
+  {
+   "pagina": 1,
+   "nome": "Cappuccino Pote",
+   "marcas": [
+    "Pimpinela"
+   ],
+   "tamanho": "200g",
+   "preco": 12.99
+  },
+  {
+   "pagina": 1,
+   "nome": "Biscoito Recheado (sabores)",
+   "marcas": [
+    "Trakinas"
+   ],
+   "tamanho": "126g",
+   "preco": 2.49
+  },
+  {
+   "pagina": 1,
+   "nome": "Biscoito Champanhe",
+   "marcas": [
+    "Ninfa"
+   ],
+   "tamanho": "150g",
+   "preco": 5.99
+  },
+  {
+   "pagina": 1,
+   "nome": "Torrada Magic Toast",
+   "marcas": [
+    "Marilan"
+   ],
+   "tamanho": "110g",
+   "preco": 7.19
+  }
+ ]
+}

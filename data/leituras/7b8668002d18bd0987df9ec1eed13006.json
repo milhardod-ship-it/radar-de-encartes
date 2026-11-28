@@ -1,0 +1,428 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-27",
+ "validade": {
+  "inicio": "2026-11-28",
+  "fim": "2026-11-30"
+ },
+ "itens": [
+  {
+   "nome": "Arroz Seleções",
+   "marcas": [
+    "Camil"
+   ],
+   "tamanho": "5kg",
+   "preco": 26.95,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Arroz Ouro Nobre",
+   "marcas": [],
+   "tamanho": "5kg",
+   "preco": 17.95,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Arroz",
+   "marcas": [
+    "Carreteiro"
+   ],
+   "tamanho": "5kg",
+   "preco": 19.95,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Óleo de Soja",
+   "marcas": [
+    "Soya"
+   ],
+   "tamanho": "900ml",
+   "preco": 6.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Alcatra Bovina Embalagem a Vácuo (Peça)",
+   "marcas": [
+    "Friboi"
+   ],
+   "tamanho": "kg",
+   "preco": 39.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Feijão Preto",
+   "marcas": [
+    "Kicaldo",
+    "Combrasil"
+   ],
+   "tamanho": "kg",
+   "preco": 6.79,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Leite em Pó Instantâneo Integral Sachê",
+   "marcas": [
+    "Glória",
+    "Italac"
+   ],
+   "tamanho": "360g",
+   "preco": 10.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Leite em Pó Instantâneo Integral Sachê",
+   "marcas": [
+    "Camponesa"
+   ],
+   "tamanho": "360g",
+   "preco": 9.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Filé de Peito de Frango Enveloplado",
+   "marcas": [
+    "Lar"
+   ],
+   "tamanho": "kg",
+   "preco": 15.97,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Açúcar",
+   "marcas": [
+    "Guarani"
+   ],
+   "tamanho": "kg",
+   "preco": 2.87,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Açúcar",
+   "marcas": [
+    "União"
+   ],
+   "tamanho": "kg",
+   "preco": 3.47,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Café Tradicional",
+   "marcas": [
+    "Melitta"
+   ],
+   "tamanho": "500g",
+   "preco": 21.8,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Batata Palito",
+   "marcas": [
+    "EasyChef",
+    "Prime Fries"
+   ],
+   "tamanho": "2kg",
+   "preco": 15.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Ovos Tipo A Branca",
+   "marcas": [
+    "Cartela"
+   ],
+   "tamanho": "c/20 unidades",
+   "preco": 8.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Cartela parece ser o tipo de embalagem, não marca"
+  },
+  {
+   "nome": "Azeite Extravirgem",
+   "marcas": [
+    "Gallo"
+   ],
+   "tamanho": "400ml",
+   "preco": 19.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Azeite Extravirgem",
+   "marcas": [
+    "Andorinha"
+   ],
+   "tamanho": "500ml",
+   "preco": 22.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Leite Condensado Semidesnatado TP",
+   "marcas": [
+    "Italac"
+   ],
+   "tamanho": "395g",
+   "preco": 4.47,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Molho de Tomate Refogado Tradicional",
+   "marcas": [
+    "Pramesa"
+   ],
+   "tamanho": "300g",
+   "preco": 0.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Sachê; marca lida como Pramesa"
+  },
+  {
+   "nome": "Chocolate",
+   "marcas": [
+    "Cachet"
+   ],
+   "tamanho": "100g",
+   "preco": 9.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "exceto Amargo 70%, 85% e 90%",
+   "duvida": null
+  },
+  {
+   "nome": "Bombons Favoritos",
+   "marcas": [
+    "Lacta"
+   ],
+   "tamanho": "250,6g",
+   "preco": 9.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Bombons Sortidos",
+   "marcas": [
+    "Garoto"
+   ],
+   "tamanho": "220g",
+   "preco": 9.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Chocolate",
+   "marcas": [
+    "Lacta"
+   ],
+   "tamanho": "80g/90g/98g/104g",
+   "preco": 6.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Chocolate Kitkat",
+   "marcas": [
+    "Nestlé"
+   ],
+   "tamanho": "41,5g",
+   "preco": 2.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Papel Higiênico Folha Dupla",
+   "marcas": [
+    "Qualette",
+    "Personal Vip"
+   ],
+   "tamanho": "16 rolos",
+   "preco": 15.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "Leve 16 Pague 15 Unids.",
+   "duvida": null
+  },
+  {
+   "nome": "Shampoo 375ml + Condicionador 170ml",
+   "marcas": [
+    "OX"
+   ],
+   "tamanho": "",
+   "preco": 19.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete Líquido Glicerinado Bebê Granado",
+   "marcas": [
+    "Granado"
+   ],
+   "tamanho": "250ml",
+   "preco": 14.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Fraldas Descartáveis Premium Mega",
+   "marcas": [
+    "Babysec"
+   ],
+   "tamanho": "",
+   "preco": 29.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Tamanho da fralda não legível"
+  },
+  {
+   "nome": "Amaciante Concentrado",
+   "marcas": [
+    "Downy"
+   ],
+   "tamanho": "450ml/500ml",
+   "preco": 8.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Lava-Roupas Líquido",
+   "marcas": [
+    "Odd"
+   ],
+   "tamanho": "3 Litros",
+   "preco": 17.89,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Lava-Roupas Líquido",
+   "marcas": [
+    "Omo"
+   ],
+   "tamanho": "3 Litros",
+   "preco": 29.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Lava-Roupas em Pó",
+   "marcas": [
+    "Surf"
+   ],
+   "tamanho": "1,6kg",
+   "preco": 11.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Lava-Roupas em Pó",
+   "marcas": [
+    "Omo"
+   ],
+   "tamanho": "1,4kg",
+   "preco": 16.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  }
+ ]
+}

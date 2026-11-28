@@ -1,0 +1,426 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-27",
+ "validade": {
+  "inicio": "2026-11-28",
+  "fim": "2026-11-30"
+ },
+ "itens": [
+  {
+   "nome": "Lava-Roupas em Pó Sachê",
+   "marcas": [
+    "Surf"
+   ],
+   "tamanho": "1,6kg",
+   "preco": 11.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Lava-Roupas em Pó",
+   "marcas": [
+    "Tixan"
+   ],
+   "tamanho": "2,4kg",
+   "preco": 20.97,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Amaciante Concentrado",
+   "marcas": [
+    "Downy"
+   ],
+   "tamanho": "450ml/500ml",
+   "preco": 8.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Lava-Roupas em Pó Todo Ciclo",
+   "marcas": [
+    "Omo"
+   ],
+   "tamanho": "1,4kg",
+   "preco": 16.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Lava-Roupas Líquido",
+   "marcas": [
+    "Tixan"
+   ],
+   "tamanho": "3 Litros",
+   "preco": 25.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Lava-Roupas Líquido",
+   "marcas": [
+    "Odd"
+   ],
+   "tamanho": "3 Litros",
+   "preco": 17.89,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Lava-Roupas Líquido",
+   "marcas": [
+    "Omo"
+   ],
+   "tamanho": "3 Litros",
+   "preco": 29.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Lava-Roupas",
+   "marcas": [
+    "Suprema"
+   ],
+   "tamanho": "5 Litros",
+   "preco": 22.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada; nesta embalagem 3 litros saem por 13,74",
+   "duvida": null
+  },
+  {
+   "nome": "Lava-Roupas Líquido",
+   "marcas": [
+    "Chá Branco"
+   ],
+   "tamanho": "3 Litros",
+   "preco": 27.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Marca/nome do produto parcialmente legível (Caaia? Chá Branco)."
+  },
+  {
+   "nome": "Tira-Manchas",
+   "marcas": [
+    "Calisul"
+   ],
+   "tamanho": "500g",
+   "preco": 13.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Alvejante Refil",
+   "marcas": [
+    "Vanish"
+   ],
+   "tamanho": "500ml",
+   "preco": 6.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Lava-Roupas Original Bebê ou Coco",
+   "marcas": [
+    "Ola"
+   ],
+   "tamanho": "500ml",
+   "preco": 13.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Lava-Roupas Líquido",
+   "marcas": [
+    "Uau"
+   ],
+   "tamanho": "1,7 Litro",
+   "preco": 9.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Lava-Roupas",
+   "marcas": [
+    "Ares"
+   ],
+   "tamanho": "5 Litros",
+   "preco": 14.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada; nesta embalagem 3 litros saem por 8,99",
+   "duvida": null
+  },
+  {
+   "nome": "Limpador Multiuso",
+   "marcas": [
+    "Tudo"
+   ],
+   "tamanho": "500ml",
+   "preco": 2.47,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Limpador Multiuso",
+   "marcas": [
+    "Uau"
+   ],
+   "tamanho": "500ml",
+   "preco": 3.47,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Limpador Multiuso",
+   "marcas": [
+    "Veja"
+   ],
+   "tamanho": "750ml",
+   "preco": 4.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada; nesta embalagem 500ml saem por 3,32",
+   "duvida": null
+  },
+  {
+   "nome": "Limpador Uau 2 Cloro Ativo 500ml Grátis Multiuso 500ml",
+   "marcas": [
+    "Uau"
+   ],
+   "tamanho": "",
+   "preco": 9.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "leve mais e pague menos",
+   "duvida": "Condição da promoção pouco legível."
+  },
+  {
+   "nome": "Limpador Perfumado",
+   "marcas": [
+    "Uau"
+   ],
+   "tamanho": "500ml",
+   "preco": 3.47,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Limpador Perfumado",
+   "marcas": [
+    "Uau"
+   ],
+   "tamanho": "1,8 Litro",
+   "preco": 9.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Veja Perfumes da Natureza",
+   "marcas": [
+    "Veja"
+   ],
+   "tamanho": "1 Litro",
+   "preco": 6.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada; nesta embalagem 500ml saem por 3,49",
+   "duvida": null
+  },
+  {
+   "nome": "Limpador Casa & Perfume",
+   "marcas": [
+    "Casa & Perfume"
+   ],
+   "tamanho": "500ml",
+   "preco": 3.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Limpador Perfumado",
+   "marcas": [
+    "Casaflor"
+   ],
+   "tamanho": "500ml",
+   "preco": 2.47,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Limpador Perfumado Coala",
+   "marcas": [
+    "Zulu"
+   ],
+   "tamanho": "500ml",
+   "preco": 2.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Desinfetante Pinho",
+   "marcas": [
+    "Uau"
+   ],
+   "tamanho": "500ml",
+   "preco": 2.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Água Sanitária",
+   "marcas": [
+    "Vex"
+   ],
+   "tamanho": "2 Litros",
+   "preco": 3.49,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Desinfetante",
+   "marcas": [
+    "Urca"
+   ],
+   "tamanho": "2 Litros",
+   "preco": 5.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Limpador Gel",
+   "marcas": [
+    "Inspira"
+   ],
+   "tamanho": "500ml",
+   "preco": 7.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Lustra-Móveis",
+   "marcas": [
+    "Uau"
+   ],
+   "tamanho": "200ml",
+   "preco": 4.77,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Detergente",
+   "marcas": [
+    "Odd"
+   ],
+   "tamanho": "500ml",
+   "preco": 2.19,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Inseticida",
+   "marcas": [
+    "Pró Inset"
+   ],
+   "tamanho": "350ml",
+   "preco": 8.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Repelente",
+   "marcas": [
+    "Vazza! Mosquito"
+   ],
+   "tamanho": "200ml",
+   "preco": 14.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada; exceto Kids",
+   "duvida": null
+  }
+ ]
+}

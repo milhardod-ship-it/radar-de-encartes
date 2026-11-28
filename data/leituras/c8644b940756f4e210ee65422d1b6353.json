@@ -1,0 +1,570 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-27",
+ "validade": {
+  "inicio": "2026-11-28",
+  "fim": "2026-11-30"
+ },
+ "itens": [
+  {
+   "nome": "Antisséptico Bucal Leve 500ml Pague 350ml",
+   "marcas": [
+    "Cepacol"
+   ],
+   "tamanho": "500ml",
+   "preco": 11.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "leve 500ml, pague 350ml",
+   "duvida": null
+  },
+  {
+   "nome": "Antisséptico Bucal Leve 500ml Pague 300ml",
+   "marcas": [
+    "Oral-B"
+   ],
+   "tamanho": "500ml",
+   "preco": 16.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "leve 500ml, pague 300ml",
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete (Exc. Creme Care)",
+   "marcas": [
+    "Nivea"
+   ],
+   "tamanho": "85g",
+   "preco": 1.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "exceto Creme Care",
+   "duvida": null
+  },
+  {
+   "nome": "Escova Dental Premier Clean",
+   "marcas": [
+    "Colgate"
+   ],
+   "tamanho": "",
+   "preco": 2.39,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Escova Dental",
+   "marcas": [
+    "Power Dent"
+   ],
+   "tamanho": "",
+   "preco": 1.19,
+   "de": null,
+   "clube": 0.89,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete",
+   "marcas": [
+    "Dove"
+   ],
+   "tamanho": "90g",
+   "preco": 3.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete Pack c/ 6 Unids.",
+   "marcas": [
+    "Dove"
+   ],
+   "tamanho": "c/6 unidades",
+   "preco": 22.74,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "nesta embalagem cada unidade sai por 3,79",
+   "duvida": null
+  },
+  {
+   "nome": "Creme Dental MPA",
+   "marcas": [
+    "Colgate"
+   ],
+   "tamanho": "120g",
+   "preco": 5.79,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Creme Dental Tripla Ação",
+   "marcas": [
+    "Colgate"
+   ],
+   "tamanho": "180g",
+   "preco": 6.88,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "nesta embalagem 90g saem por 3,44",
+   "duvida": null
+  },
+  {
+   "nome": "Creme Dental 123 Leve Mais Pague Menos",
+   "marcas": [
+    "Oral-B"
+   ],
+   "tamanho": "150g",
+   "preco": 4.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "leve mais, pague menos",
+   "duvida": "Nome e tamanho parcialmente legíveis"
+  },
+  {
+   "nome": "Sabonete",
+   "marcas": [
+    "Farnese"
+   ],
+   "tamanho": "85g",
+   "preco": 1.19,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete",
+   "marcas": [
+    "Albany"
+   ],
+   "tamanho": "80g",
+   "preco": 1.49,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete Gelato",
+   "marcas": [
+    "Albany"
+   ],
+   "tamanho": "80g",
+   "preco": 1.79,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Creme Dental Sensodyne",
+   "marcas": [
+    "Sensodyne"
+   ],
+   "tamanho": "90g",
+   "preco": 14.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Creme Dental Tripla Limpeza Completa",
+   "marcas": [
+    "Sorriso"
+   ],
+   "tamanho": "120g",
+   "preco": 3.49,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Creme Dental Total",
+   "marcas": [
+    "Colgate"
+   ],
+   "tamanho": "180g",
+   "preco": 14.49,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete",
+   "marcas": [
+    "Above"
+   ],
+   "tamanho": "75g",
+   "preco": 2.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete",
+   "marcas": [
+    "Farnese"
+   ],
+   "tamanho": "180g",
+   "preco": 2.79,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete Brasilidades Água de Coco",
+   "marcas": [
+    "Francis"
+   ],
+   "tamanho": "80g",
+   "preco": 2.39,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete Intenso",
+   "marcas": [
+    "Francis"
+   ],
+   "tamanho": "80g",
+   "preco": 1.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Body Splash",
+   "marcas": [
+    "Barbour's"
+   ],
+   "tamanho": "200ml",
+   "preco": 39.9,
+   "de": null,
+   "clube": 29.9,
+   "soClube": false,
+   "condicao": "Black Friday Guana Clube",
+   "duvida": null
+  },
+  {
+   "nome": "Água Micelar",
+   "marcas": [
+    "L'Oréal Paris"
+   ],
+   "tamanho": "200ml",
+   "preco": 17.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Água Micelar",
+   "marcas": [
+    "Nivea"
+   ],
+   "tamanho": "200ml",
+   "preco": 17.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete Líquido Gel Pele Mista e Oleosa",
+   "marcas": [
+    "Nivea"
+   ],
+   "tamanho": "140g",
+   "preco": 26.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Hidratante",
+   "marcas": [
+    "Monange",
+    "Paixão"
+   ],
+   "tamanho": "200ml",
+   "preco": 7.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete Líquido Refil",
+   "marcas": [
+    "Lux"
+   ],
+   "tamanho": "200ml",
+   "preco": 6.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete Líquido Refil",
+   "marcas": [
+    "Nivea"
+   ],
+   "tamanho": "200ml",
+   "preco": 6.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete Líquido",
+   "marcas": [
+    "Coala"
+   ],
+   "tamanho": "500ml",
+   "preco": 12.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete Líquido Óleo de Banho",
+   "marcas": [
+    "Nivea"
+   ],
+   "tamanho": "200ml",
+   "preco": 29.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete Líquido",
+   "marcas": [
+    "Zarb"
+   ],
+   "tamanho": "250ml",
+   "preco": 3.79,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Desodorante Roll-On",
+   "marcas": [
+    "Dove"
+   ],
+   "tamanho": "50ml",
+   "preco": 9.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Desodorante Roll-On",
+   "marcas": [
+    "Nivea"
+   ],
+   "tamanho": "50ml",
+   "preco": 8.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Desodorante Roll-On",
+   "marcas": [
+    "DryOn"
+   ],
+   "tamanho": "85ml",
+   "preco": 7.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Desodorante Aerossol",
+   "marcas": [
+    "Dryon"
+   ],
+   "tamanho": "250ml",
+   "preco": 13.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "nesta embalagem 150ml saem por 8,39",
+   "duvida": null
+  },
+  {
+   "nome": "Desodorante Aerossol (Exc. Clinical)",
+   "marcas": [
+    "Rexona"
+   ],
+   "tamanho": "150ml",
+   "preco": 12.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "exceto Clinical",
+   "duvida": null
+  },
+  {
+   "nome": "Desodorante Aerossol (Exc. Deep e Dermille)",
+   "marcas": [
+    "Nivea"
+   ],
+   "tamanho": "150ml",
+   "preco": 9.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "exceto Deep e Dermille",
+   "duvida": null
+  },
+  {
+   "nome": "Desodorante Aerossol",
+   "marcas": [
+    "Monange"
+   ],
+   "tamanho": "150ml",
+   "preco": 7.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Desodorante Aerossol",
+   "marcas": [
+    "Giovanna Baby"
+   ],
+   "tamanho": "150ml",
+   "preco": 7.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Absorvente Básico Suave c/ 8 Unids.",
+   "marcas": [
+    "Always"
+   ],
+   "tamanho": "c/8 unidades",
+   "preco": 3.49,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Absorvente Gel Noturno c/ 8 Unids.",
+   "marcas": [
+    "Intimus"
+   ],
+   "tamanho": "c/8 unidades",
+   "preco": 4.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Absorvente Gel Seca ou Suave c/ 8 Unids.",
+   "marcas": [
+    "Intimus"
+   ],
+   "tamanho": "c/8 unidades",
+   "preco": 3.49,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Absorvente Active Suave c/ 16 Unids.",
+   "marcas": [
+    "Diana"
+   ],
+   "tamanho": "c/16 unidades",
+   "preco": 5.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "nesta embalagem 8 unids. saem por 2,99",
+   "duvida": "Texto 'leve mais pague menos' parcialmente coberto"
+  },
+  {
+   "nome": "Absorvente Noturno c/ 16 Unids.",
+   "marcas": [
+    "Diana"
+   ],
+   "tamanho": "c/16 unidades",
+   "preco": 8.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "nesta embalagem 8 unids. saem por 4,49",
+   "duvida": "Texto 'leve mais pague menos' parcialmente coberto"
+  }
+ ]
+}

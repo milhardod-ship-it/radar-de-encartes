@@ -1,0 +1,439 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-27",
+ "validade": {
+  "inicio": "2026-11-28",
+  "fim": "2026-11-30"
+ },
+ "itens": [
+  {
+   "nome": "Farinha Láctea Leve 210g Pague 180g ou Neston 210g Sachê",
+   "marcas": [
+    "Nestlé"
+   ],
+   "tamanho": "210g",
+   "preco": 5.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "Leve 210g, pague 180g",
+   "duvida": null
+  },
+  {
+   "nome": "Chocolate Cachet (exceto Amargo 70%, 85% e 90%)",
+   "marcas": [
+    "Cachet"
+   ],
+   "tamanho": "100g",
+   "preco": 9.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "exceto Amargo 70%, 85% e 90%",
+   "duvida": null
+  },
+  {
+   "nome": "Biscoito Recheado Maltado",
+   "marcas": [
+    "Piraquê"
+   ],
+   "tamanho": "85g",
+   "preco": 1.79,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Biscoito Recheado",
+   "marcas": [
+    "Piraquê"
+   ],
+   "tamanho": "160g",
+   "preco": 3.39,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Biscoito Wafer",
+   "marcas": [
+    "Minueto"
+   ],
+   "tamanho": "73g/81g",
+   "preco": 1.89,
+   "de": null,
+   "clube": 1.65,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Biscoito Recheado Trakinas",
+   "marcas": [
+    "Trakinas"
+   ],
+   "tamanho": "126g",
+   "preco": 2.49,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Biscoito Recheado Oreo",
+   "marcas": [
+    "Oreo"
+   ],
+   "tamanho": "90g c/3 unidades",
+   "preco": 8.97,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "Leve 3, nesta embalagem cada unidade sai por 2,99",
+   "duvida": null
+  },
+  {
+   "nome": "Bis 100,8 c/ 3 Leve Mais Pague Menos",
+   "marcas": [
+    "Lacta"
+   ],
+   "tamanho": "100,8g",
+   "preco": 16.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "Leve mais, pague menos; nesta embalagem cada unidade sai por 5,66",
+   "duvida": "Nome e tamanho parcialmente legíveis"
+  },
+  {
+   "nome": "Biscoito Wafer",
+   "marcas": [
+    "Piraquê"
+   ],
+   "tamanho": "100g",
+   "preco": 2.97,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Batata Pringles",
+   "marcas": [
+    "Pringles"
+   ],
+   "tamanho": "104g/109g",
+   "preco": 8.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Chocolate",
+   "marcas": [
+    "Lacta"
+   ],
+   "tamanho": "80g/90g/98g/104g",
+   "preco": 6.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Biscoito Cream Cracker",
+   "marcas": [
+    "Richester"
+   ],
+   "tamanho": "170g",
+   "preco": 2.97,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Bombons Sortidos",
+   "marcas": [
+    "Garoto"
+   ],
+   "tamanho": "220g",
+   "preco": 9.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Bombons Favoritos",
+   "marcas": [
+    "Lacta"
+   ],
+   "tamanho": "250,6g",
+   "preco": 9.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Bombons Sonho de Valsa + Ouro Branco",
+   "marcas": [
+    "Lacta"
+   ],
+   "tamanho": "220g",
+   "preco": 9.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Chocolate Kitkat",
+   "marcas": [
+    "Nestlé"
+   ],
+   "tamanho": "41,5g",
+   "preco": 2.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Biscoito Palito Grissini",
+   "marcas": [
+    "Granforno"
+   ],
+   "tamanho": "125g",
+   "preco": 13.98,
+   "de": null,
+   "clube": 9.97,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Batata Palha Tradicional",
+   "marcas": [
+    "Yoki"
+   ],
+   "tamanho": "100g/105g",
+   "preco": 6.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Farinha de Trigo Tradicional",
+   "marcas": [
+    "Boa Sorte"
+   ],
+   "tamanho": "1kg",
+   "preco": 3.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Farinha de Trigo Especial",
+   "marcas": [
+    "Globo"
+   ],
+   "tamanho": "1kg",
+   "preco": 2.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Achocolatado Tradicional Leve 180ml Pague 160ml",
+   "marcas": [
+    "Nescau"
+   ],
+   "tamanho": "180ml",
+   "preco": 1.89,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "Leve 180ml, pague 160ml",
+   "duvida": null
+  },
+  {
+   "nome": "Pão de Forma Tradicional",
+   "marcas": [
+    "Bauducco"
+   ],
+   "tamanho": "390g",
+   "preco": 6.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Pão de Forma Tradicional",
+   "marcas": [
+    "SevenBoys"
+   ],
+   "tamanho": "450g",
+   "preco": 5.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Pão de Forma Tradicional",
+   "marcas": [
+    "Visconti"
+   ],
+   "tamanho": "400g",
+   "preco": 6.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Bisnaguinha",
+   "marcas": [
+    "Visconti"
+   ],
+   "tamanho": "240g",
+   "preco": 5.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Bisnaguinha Tradicional",
+   "marcas": [
+    "SevenBoys"
+   ],
+   "tamanho": "300g",
+   "preco": 5.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Mucilon Leve 180g Pague 160g",
+   "marcas": [
+    "Nestlé"
+   ],
+   "tamanho": "180g",
+   "preco": 4.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "Leve 180g, pague 160g",
+   "duvida": null
+  },
+  {
+   "nome": "Bolinho de Laranja",
+   "marcas": [
+    "SevenBoys"
+   ],
+   "tamanho": "30g",
+   "preco": 1.29,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Bolinho",
+   "marcas": [
+    "Ana Maria"
+   ],
+   "tamanho": "70g",
+   "preco": 3.79,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Massa Aldente",
+   "marcas": [
+    "Piraquê"
+   ],
+   "tamanho": "400g",
+   "preco": 3.65,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Massa de Sêmola",
+   "marcas": [
+    "Dona Benta"
+   ],
+   "tamanho": "500g",
+   "preco": 3.36,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Espaguete de Sêmola",
+   "marcas": [
+    "Dona Benta"
+   ],
+   "tamanho": "1kg",
+   "preco": 4.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Espaguete de Sêmola",
+   "marcas": [
+    "Galo"
+   ],
+   "tamanho": "1kg",
+   "preco": 5.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  }
+ ]
+}

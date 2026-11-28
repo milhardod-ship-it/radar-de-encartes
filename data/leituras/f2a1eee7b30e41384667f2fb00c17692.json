@@ -1,0 +1,511 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-27",
+ "validade": {
+  "inicio": "2026-11-28",
+  "fim": "2026-11-30"
+ },
+ "itens": [
+  {
+   "nome": "Concentrado de Guaraná",
+   "marcas": [
+    "Guaraplus"
+   ],
+   "tamanho": "1 Litro",
+   "preco": 5.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Refresco Saborizado",
+   "marcas": [
+    "DaFruta"
+   ],
+   "tamanho": "1 Litro",
+   "preco": 3.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Guaraná",
+   "marcas": [
+    "Antarctica"
+   ],
+   "tamanho": "2 Litros + 250ml grátis",
+   "preco": 7.69,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Pepsi",
+   "marcas": [
+    "Pepsi"
+   ],
+   "tamanho": "2 Litros + 250ml grátis",
+   "preco": 6.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Suco de Uva Tradição do Sul",
+   "marcas": [],
+   "tamanho": "1,35 Litro",
+   "preco": 12.89,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Suco de Uva Alma do Sul",
+   "marcas": [],
+   "tamanho": "1,35 Litro",
+   "preco": 12.79,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Suco de Uva Serra de Vinhedo",
+   "marcas": [],
+   "tamanho": "1 Litro",
+   "preco": 9.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Refresco em Pó",
+   "marcas": [
+    "Frisco"
+   ],
+   "tamanho": "18g",
+   "preco": 0.79,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Chá Ice Tea",
+   "marcas": [
+    "Lipton"
+   ],
+   "tamanho": "1,5 Litro",
+   "preco": 5.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "H2OH!",
+   "marcas": [
+    "H2OH!"
+   ],
+   "tamanho": "1,5 Litro",
+   "preco": 6.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Refresco Copo",
+   "marcas": [
+    "Guaraplus"
+   ],
+   "tamanho": "290ml",
+   "preco": 0.69,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Pepsi Tradicional",
+   "marcas": [
+    "Pepsi"
+   ],
+   "tamanho": "200ml",
+   "preco": 1.66,
+   "de": null,
+   "clube": null,
+   "soClube": true,
+   "condicao": "Guana Clube: leve 12, pague 10; nesta promoção cada unidade sai por 1,66",
+   "duvida": null
+  },
+  {
+   "nome": "Guaraná Antarctica Tradicional ou Zero",
+   "marcas": [
+    "Antarctica"
+   ],
+   "tamanho": "200ml",
+   "preco": 1.66,
+   "de": null,
+   "clube": null,
+   "soClube": true,
+   "condicao": "Guana Clube: leve 12, pague 10; nesta promoção cada unidade sai por 1,66",
+   "duvida": null
+  },
+  {
+   "nome": "Gatorade",
+   "marcas": [
+    "Gatorade"
+   ],
+   "tamanho": "500ml",
+   "preco": 4.58,
+   "de": null,
+   "clube": null,
+   "soClube": true,
+   "condicao": "Guana Clube: leve 6, pague 5; nesta promoção cada unidade sai por 4,58",
+   "duvida": null
+  },
+  {
+   "nome": "Chá Lata",
+   "marcas": [
+    "Lipton"
+   ],
+   "tamanho": "340ml",
+   "preco": 2.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Bebida Fruit Shoot",
+   "marcas": [
+    "Maguary"
+   ],
+   "tamanho": "150ml",
+   "preco": 1.19,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Marca e tamanho pouco nítidos"
+  },
+  {
+   "nome": "Cerveja Lata",
+   "marcas": [
+    "Brahma"
+   ],
+   "tamanho": "269ml",
+   "preco": 2.39,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Cerveja Lata",
+   "marcas": [
+    "Antarctica"
+   ],
+   "tamanho": "269ml",
+   "preco": 2.35,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Cerveja Lata",
+   "marcas": [
+    "Spaten"
+   ],
+   "tamanho": "269ml",
+   "preco": 2.67,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Cerveja Zero Latão",
+   "marcas": [
+    "Brahma"
+   ],
+   "tamanho": "473ml",
+   "preco": 3.89,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Cerveja Latão Pack",
+   "marcas": [
+    "Original"
+   ],
+   "tamanho": "c/12 unidades 473ml",
+   "preco": 52.68,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "Nesta embalagem cada unidade sai por 4,39",
+   "duvida": null
+  },
+  {
+   "nome": "Cerveja Latão",
+   "marcas": [
+    "Corona"
+   ],
+   "tamanho": "473ml",
+   "preco": 5.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Cerveja Long Neck",
+   "marcas": [
+    "Stella Artois"
+   ],
+   "tamanho": "330ml",
+   "preco": 4.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Cerveja Extra ou Zero Long Neck",
+   "marcas": [
+    "Corona"
+   ],
+   "tamanho": "330ml",
+   "preco": 6.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Cerveja Ultra Long Neck",
+   "marcas": [
+    "Michelob"
+   ],
+   "tamanho": "330ml",
+   "preco": 5.39,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Vodka Ice Tradicional",
+   "marcas": [
+    "Smirnoff"
+   ],
+   "tamanho": "275ml",
+   "preco": 6.49,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Vodka Ice",
+   "marcas": [
+    "Smirnoff"
+   ],
+   "tamanho": "269ml",
+   "preco": 4.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Gin London Dry",
+   "marcas": [
+    "Tanqueray"
+   ],
+   "tamanho": "375ml",
+   "preco": 49.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "Black Friday",
+   "duvida": null
+  },
+  {
+   "nome": "Gin Tradicional 750ml ou Sevilla, Bossa Nova ou Royale 700ml",
+   "marcas": [
+    "Tanqueray"
+   ],
+   "tamanho": "",
+   "preco": 89.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "Black Friday",
+   "duvida": "Tamanho varia conforme a versão"
+  },
+  {
+   "nome": "Aperitivo",
+   "marcas": [
+    "Aperol"
+   ],
+   "tamanho": "750ml",
+   "preco": 49.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Energético",
+   "marcas": [
+    "Red Bull"
+   ],
+   "tamanho": "473ml",
+   "preco": 11.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "Nesta embalagem de 250ml sai por 6,34",
+   "duvida": "Preço 11,99 para 473ml; possível ambiguidade com etiqueta"
+  },
+  {
+   "nome": "Espumante Italiano La Marchesine Brut Branco ou Rosé",
+   "marcas": [
+    "La Marchesine"
+   ],
+   "tamanho": "750ml",
+   "preco": 37.5,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Espumante",
+   "marcas": [
+    "Mumm"
+   ],
+   "tamanho": "750ml",
+   "preco": 44.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Whisky",
+   "marcas": [
+    "Jack Daniel's"
+   ],
+   "tamanho": "1 Litro",
+   "preco": 129.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Whisky Red Label",
+   "marcas": [
+    "Johnnie Walker"
+   ],
+   "tamanho": "500ml",
+   "preco": 39.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Whisky Black Label",
+   "marcas": [
+    "Johnnie Walker"
+   ],
+   "tamanho": "750ml",
+   "preco": 124.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "Black Friday",
+   "duvida": null
+  },
+  {
+   "nome": "Whisky Black Label",
+   "marcas": [
+    "Johnnie Walker"
+   ],
+   "tamanho": "1 Litro",
+   "preco": 139.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "Black Friday",
+   "duvida": null
+  },
+  {
+   "nome": "Whisky Gold Label Reserve",
+   "marcas": [
+    "Johnnie Walker"
+   ],
+   "tamanho": "750ml",
+   "preco": 199.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "Black Friday",
+   "duvida": null
+  },
+  {
+   "nome": "Whisky Finest Tradicional",
+   "marcas": [
+    "Ballantine's"
+   ],
+   "tamanho": "750ml",
+   "preco": 49.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  }
+ ]
+}

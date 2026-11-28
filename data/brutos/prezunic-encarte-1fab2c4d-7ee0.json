@@ -1,0 +1,103 @@
+{
+ "fonte": "prezunic-site",
+ "coletadoEm": "2026-11-28T02:41:38.071Z",
+ "encarte": {
+  "titulo": "2ª do laticinio",
+  "textoValidade": "Válidas de 30/11/2026",
+  "estado": "RJ",
+  "pdf": "https://prezunic.vtexassets.com/assets/vtex.file-manager-graphql/images/1fab2c4d-7ee0-40d3-b32f-c165606be954___106c9642088061456f212fcc9dc0a992.pdf",
+  "inicio": "2026-11-30",
+  "fim": "2026-11-30",
+  "lojas": []
+ },
+ "itens": [
+  {
+   "pagina": 1,
+   "nome": "MUÇARELA NACIONAL OU IMPORTADA",
+   "detalhe": "(peça ou pedaço) kg",
+   "preco": 32.99,
+   "precoDe": 42.99,
+   "limite": "Limite por cliente de 10 Kg"
+  },
+  {
+   "pagina": 1,
+   "nome": "QUEIJO MINAS FRESCAL VISCONDE DE MAUÁ",
+   "detalhe": "kg",
+   "preco": 29.99,
+   "precoDe": 37.99,
+   "limite": "Limite por cliente de 10 Kg"
+  },
+  {
+   "pagina": 1,
+   "nome": "PRESUNTO SUÍNO PERDIGÃO",
+   "detalhe": "(peça ou fatiado) kg",
+   "preco": 26.99,
+   "precoDe": 32.99,
+   "limite": "Limite por cliente de 10 Kg"
+  },
+  {
+   "pagina": 1,
+   "nome": "ACÉM BOVINO",
+   "detalhe": "(pedaço ou moído) kg",
+   "preco": 36.98,
+   "precoDe": 42.99,
+   "limite": "Limite por cliente de 10 Kg"
+  },
+  {
+   "pagina": 1,
+   "nome": "FILEZINHO DE FRANGO PERDIGÃO",
+   "detalhe": "cong. 1kg",
+   "preco": 16.98,
+   "precoDe": 22.99,
+   "limite": "Limite por cliente de"
+  },
+  {
+   "pagina": 1,
+   "nome": "AZEITE DE OLIVA FILIPPO BERIO, RAFAEL SALGADO, CUISINE&CO OU O-LIVE",
+   "detalhe": "(extravirgem) 500ml/450ml",
+   "preco": 26.9,
+   "precoDe": 29.99,
+   "limite": "Limite por cliente de 10 UN."
+  },
+  {
+   "pagina": 1,
+   "nome": "10 UN. LEITE UHT GLÓRIA",
+   "detalhe": "Limite por cliente de (tipos) 1l",
+   "preco": 4.59,
+   "precoDe": 5.99,
+   "limite": "Limite por cliente de 10 UN."
+  },
+  {
+   "pagina": 1,
+   "nome": "10 UN. LEITE EM PÓ NINHO OU MOLICO",
+   "detalhe": "Limite por cliente de 380g/280g",
+   "preco": 15.99,
+   "precoDe": 20.99,
+   "limite": "Limite por cliente de 10 UN."
+  },
+  {
+   "pagina": 1,
+   "nome": "CAFÉ EM PÓ PILÃO OU PIMPINELA GOLDEN",
+   "detalhe": "(tipos) 500g",
+   "preco": 25.98,
+   "precoDe": 32.98,
+   "limite": "Limite por cliente de"
+  },
+  {
+   "pagina": 1,
+   "nome": "PAPEL HIGIÊNICO NEVE",
+   "detalhe": "leve 16 pague 15 folha dupla ou tripla",
+   "preco": 25.99,
+   "precoDe": 32.99,
+   "limite": "Limite por cliente de 10 UN."
+  },
+  {
+   "pagina": 1,
+   "nome": "LAVA-ROUPAS EM PÓ OMO",
+   "detalhe": "(fragrâncias) 1,4kg",
+   "preco": 16.99,
+   "precoDe": 19.99,
+   "limite": "Limite por cliente de 10 UN."
+  }
+ ]
+}

@@ -1,0 +1,493 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-27",
+ "validade": {
+  "inicio": "2026-11-28",
+  "fim": "2026-11-30"
+ },
+ "itens": [
+  {
+   "nome": "Shampoo 375ml + Condicionador 170ml",
+   "marcas": [
+    "OX"
+   ],
+   "tamanho": "",
+   "preco": 19.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Kit Shampoo 350ml + Condicionador 175ml ou Kit Shampoo 375ml + Condicionador 170ml",
+   "marcas": [
+    "Pantene",
+    "Elseve"
+   ],
+   "tamanho": "",
+   "preco": 28.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Óleo Extraordinário",
+   "marcas": [
+    "Elseve"
+   ],
+   "tamanho": "100ml",
+   "preco": 29.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Kit Shampoo 300ml + Condicionador 200ml ou Shampoo 325ml",
+   "marcas": [
+    "Kolene",
+    "Skala"
+   ],
+   "tamanho": "",
+   "preco": 11.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": "Preço 11,90 pode valer para os dois produtos; não está claro."
+  },
+  {
+   "nome": "Kit Shampoo + Condicionador 200ml",
+   "marcas": [
+    "Vult"
+   ],
+   "tamanho": "200ml",
+   "preco": 15.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Óleo de Nutrição",
+   "marcas": [
+    "OX"
+   ],
+   "tamanho": "120ml",
+   "preco": 24.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Shampoo",
+   "marcas": [
+    "OX"
+   ],
+   "tamanho": "400ml",
+   "preco": 18.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Máscara de Tratamento",
+   "marcas": [
+    "OX"
+   ],
+   "tamanho": "300g",
+   "preco": 18.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Sérum Capilar",
+   "marcas": [
+    "Elseve"
+   ],
+   "tamanho": "100ml",
+   "preco": 39.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Shampoo (Exc. Antiqueda)",
+   "marcas": [
+    "Elseve"
+   ],
+   "tamanho": "400ml",
+   "preco": 19.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Creme de Tratamento",
+   "marcas": [
+    "Elseve"
+   ],
+   "tamanho": "300g",
+   "preco": 24.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Shampoo 300ml + Condicionador 190ml",
+   "marcas": [
+    "Seda"
+   ],
+   "tamanho": "",
+   "preco": 15.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Água Micelar",
+   "marcas": [
+    "L'Oréal Paris"
+   ],
+   "tamanho": "200ml",
+   "preco": 17.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Máscara",
+   "marcas": [
+    "Siàge"
+   ],
+   "tamanho": "250g",
+   "preco": 69.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": "Preço próximo; pode se referir à máscara."
+  },
+  {
+   "nome": "Shampoo",
+   "marcas": [
+    "Siàge"
+   ],
+   "tamanho": "250ml",
+   "preco": 39.9,
+   "de": 45.99,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": "Preço 'De' parcialmente legível (45,99)."
+  },
+  {
+   "nome": "Kit Shampoo + Condicionador 500ml",
+   "marcas": [
+    "Inoar"
+   ],
+   "tamanho": "500ml",
+   "preco": 29.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Shampoo",
+   "marcas": [
+    "Pantene"
+   ],
+   "tamanho": "510ml",
+   "preco": 29.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": "Linha Colágeno"
+  },
+  {
+   "nome": "Leave-in Bond Repair",
+   "marcas": [
+    "Dove"
+   ],
+   "tamanho": "50ml",
+   "preco": 17.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Shampoo",
+   "marcas": [
+    "Dove"
+   ],
+   "tamanho": "350ml",
+   "preco": 19.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Óleo Repair",
+   "marcas": [
+    "Dove"
+   ],
+   "tamanho": "110ml",
+   "preco": 27.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Shampoo",
+   "marcas": [
+    "Pantene"
+   ],
+   "tamanho": "400ml",
+   "preco": 19.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Óleo Milagroso",
+   "marcas": [
+    "Pantene"
+   ],
+   "tamanho": "95ml",
+   "preco": 24.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Kit Shampoo 250ml + Condicionador 125ml",
+   "marcas": [
+    "Siàge"
+   ],
+   "tamanho": "",
+   "preco": 69.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Kit Shampoo + Creme Multifuncional 320ml",
+   "marcas": [
+    "Yamasterol"
+   ],
+   "tamanho": "",
+   "preco": 16.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Kit Shampoo + Condicionador 250ml + Sérum 65ml",
+   "marcas": [
+    "Cadiveu"
+   ],
+   "tamanho": "",
+   "preco": 59.9,
+   "de": null,
+   "clube": 49.9,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Creme de Tratamento Intensivo ou p/ Pentear Keraform Skafe",
+   "marcas": [
+    "Keraform"
+   ],
+   "tamanho": "1kg",
+   "preco": 12.75,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": "Marca/nome do produto parcialmente legível"
+  },
+  {
+   "nome": "Creme de Tratamento",
+   "marcas": [
+    "Skala"
+   ],
+   "tamanho": "1kg",
+   "preco": 9.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Shampoo",
+   "marcas": [
+    "Lola Morte Súbita"
+   ],
+   "tamanho": "250ml",
+   "preco": 29.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Spray Capilar",
+   "marcas": [
+    "Lola Morte Súbita"
+   ],
+   "tamanho": "250ml",
+   "preco": 29.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Máscara Capilar",
+   "marcas": [
+    "Lola Morte Súbita"
+   ],
+   "tamanho": "450g",
+   "preco": 49.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Coloração",
+   "marcas": [
+    "Cor&Ton"
+   ],
+   "tamanho": "",
+   "preco": 11.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Coloração Imédia Excellence (Exc. Tons Vermelhos)",
+   "marcas": [
+    "L'Oréal"
+   ],
+   "tamanho": "",
+   "preco": 29.98,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Sabonete Líquido Facial Pele de Porcelana",
+   "marcas": [
+    "Kokeshi"
+   ],
+   "tamanho": "190ml",
+   "preco": 39.9,
+   "de": null,
+   "clube": 33.9,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Creme Gel Facial Gota de Colágeno",
+   "marcas": [
+    "Kokeshi"
+   ],
+   "tamanho": "45g",
+   "preco": 34.9,
+   "de": null,
+   "clube": 25.99,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Hidratante Facial Pele de Porcelana",
+   "marcas": [
+    "Kokeshi"
+   ],
+   "tamanho": "30g",
+   "preco": 29.9,
+   "de": null,
+   "clube": 24.9,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Hidratante Renov Olhos de Gueixa",
+   "marcas": [
+    "Kokeshi"
+   ],
+   "tamanho": "15g",
+   "preco": 25.9,
+   "de": null,
+   "clube": 18.9,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  },
+  {
+   "nome": "Óleo de Rosa Mosqueta",
+   "marcas": [
+    "Kokeshi"
+   ],
+   "tamanho": "20ml",
+   "preco": 39.9,
+   "de": null,
+   "clube": 29.9,
+   "soClube": false,
+   "condicao": "cada",
+   "duvida": null
+  }
+ ]
+}

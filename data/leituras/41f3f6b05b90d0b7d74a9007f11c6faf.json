@@ -1,0 +1,142 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-27",
+ "validade": {
+  "inicio": "2026-11-28",
+  "fim": "2026-11-30"
+ },
+ "itens": [
+  {
+   "nome": "Planta Thuia Strickita P20 Decorada",
+   "marcas": [],
+   "tamanho": "und",
+   "preco": 79.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Planta Thuia Strickita P14 Decorada",
+   "marcas": [],
+   "tamanho": "und",
+   "preco": 39.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Planta Thuia Holandesa P09 Decorada",
+   "marcas": [],
+   "tamanho": "und",
+   "preco": 24.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Flor Girassol Mini Sun Bright P15 Decorada",
+   "marcas": [],
+   "tamanho": "und",
+   "preco": 24.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Flor Orquídea Phalaenopsis Cascata P15 Decorada",
+   "marcas": [],
+   "tamanho": "und",
+   "preco": 49.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Orquídea Phalaenopsis P12",
+   "marcas": [],
+   "tamanho": "und",
+   "preco": 39.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Flor Poinsetia P14 Vermelha Decorada",
+   "marcas": [],
+   "tamanho": "und",
+   "preco": 39.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Flor Poinsetia P11 Decorada",
+   "marcas": [],
+   "tamanho": "und",
+   "preco": 18.5,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Flor Roseira Mini P13 Decorada",
+   "marcas": [],
+   "tamanho": "und",
+   "preco": 29.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Flor Azaleia P14 Decorada",
+   "marcas": [],
+   "tamanho": "und",
+   "preco": 24.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Flor Kalanchoe P15 Decorada",
+   "marcas": [],
+   "tamanho": "und",
+   "preco": 24.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Flor Kalanchoe P11 Variadas",
+   "marcas": [],
+   "tamanho": "und",
+   "preco": 6.9,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  }
+ ]
+}

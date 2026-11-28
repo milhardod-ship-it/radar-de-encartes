@@ -1,0 +1,169 @@
+{
+ "modelo": "claude-sonnet-5-5",
+ "lidaEm": "2026-11-27",
+ "validade": {
+  "inicio": "2026-11-28",
+  "fim": "2026-11-29"
+ },
+ "itens": [
+  {
+   "nome": "Café",
+   "marcas": [
+    "Pimpinela",
+    "Golden",
+    "3 Corações"
+   ],
+   "tamanho": "500g",
+   "preco": 23.8,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Café Almofada / Vácuo",
+   "marcas": [
+    "Pilão"
+   ],
+   "tamanho": "500g",
+   "preco": 23.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Café Pó Evolutto Almofada Extra Forte ou Café Pó Pelé Almofada Extra Forte",
+   "marcas": [
+    "Evolutto",
+    "Pelé"
+   ],
+   "tamanho": "500g",
+   "preco": 16.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Cápsulas de Café (compatível Nespresso)",
+   "marcas": [
+    "3 Corações"
+   ],
+   "tamanho": "5g c/10",
+   "preco": 9.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Cápsulas de Café (sabores)",
+   "marcas": [
+    "Pilão"
+   ],
+   "tamanho": "52g",
+   "preco": 11.44,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Cápsulas de Café",
+   "marcas": [
+    "Lor"
+   ],
+   "tamanho": "52g c/10",
+   "preco": 13.95,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Cápsulas de Café (sabores)",
+   "marcas": [
+    "3 Corações"
+   ],
+   "tamanho": "7,5g / 9g / 10g / 11g c/10",
+   "preco": 12.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Cappuccino ou Chocolate Quente em Pó Sachê (sabores)",
+   "marcas": [
+    "3 Corações"
+   ],
+   "tamanho": "20g",
+   "preco": 1.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Cappuccino Pote",
+   "marcas": [
+    "Pimpinela"
+   ],
+   "tamanho": "200g",
+   "preco": 12.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Biscoito Recheado (sabores)",
+   "marcas": [
+    "Trakinas"
+   ],
+   "tamanho": "126g",
+   "preco": 2.49,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Biscoito Champanhe",
+   "marcas": [
+    "Ninfa"
+   ],
+   "tamanho": "150g",
+   "preco": 5.99,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  },
+  {
+   "nome": "Torrada Magic Toast",
+   "marcas": [
+    "Marilan"
+   ],
+   "tamanho": "110g",
+   "preco": 7.19,
+   "de": null,
+   "clube": null,
+   "soClube": false,
+   "condicao": null,
+   "duvida": null
+  }
+ ]
+}

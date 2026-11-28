@@ -1,0 +1,141 @@
+{
+ "encarte": "dom-ia-388",
+ "mercado": "dom",
+ "programaClube": "meu-dom",
+ "nomeClube": "app Meu Dom",
+ "encarteInfo": {
+  "id": "dom-ia-388",
+  "mercado": "dom",
+  "titulo": "Jardim do DOM",
+  "inicio": "2026-11-28",
+  "fim": "2026-11-30",
+  "lojas": [
+   "Angra | Japuíba",
+   "Angra | Praia da Chácara",
+   "Araruama",
+   "Belford Roxo",
+   "Búzios",
+   "Campos dos Goytacazes | Parque Pecuária",
+   "Campos dos Goytacazes | Parque Calabouço",
+   "Duque de Caxias | Santa Cruz da Serra",
+   "Itaperuna",
+   "Macaé",
+   "Maricá",
+   "Mesquita",
+   "Niterói",
+   "Petrópolis",
+   "Resende",
+   "São Pedro da Aldeia",
+   "Taquara",
+   "Teresópolis"
+  ],
+  "lojasIds": [
+   "dom-angra-japuiba",
+   "dom-angra-praia-da-chacara",
+   "dom-araruama",
+   "dom-bellford-roxo",
+   "dom-buzios",
+   "dom-campos-dos-goytacazes-parque-pecuária",
+   "dom-campos-dos-goytacazes-parque-calabouço",
+   "dom-duque-de-caxias-santa-cruz-da-serra",
+   "dom-itaperuna",
+   "dom-macae",
+   "dom-marica",
+   "dom-mesquita",
+   "dom-niteroi",
+   "dom-petropolis",
+   "dom-resende",
+   "dom-sao-pedro-da-aldeia",
+   "dom-taquara",
+   "dom-teresopolis"
+  ],
+  "fonte": "site do Dom Atacadista (imagens do encarte), lido por IA (claude-sonnet-5-5) em 2026-11-27"
+ },
+ "observacao": "Lido por IA (claude-sonnet-5-5); custo aproximado US$ 0.02. Não revisado.",
+ "itens": [
+  {
+   "pagina": 1,
+   "nome": "Planta Thuia Strickita P20 Decorada",
+   "marcas": [],
+   "tamanho": "und",
+   "preco": 79.9
+  },
+  {
+   "pagina": 1,
+   "nome": "Planta Thuia Strickita P14 Decorada",
+   "marcas": [],
+   "tamanho": "und",
+   "preco": 39.9
+  },
+  {
+   "pagina": 1,
+   "nome": "Planta Thuia Holandesa P09 Decorada",
+   "marcas": [],
+   "tamanho": "und",
+   "preco": 24.9
+  },
+  {
+   "pagina": 1,
+   "nome": "Flor Girassol Mini Sun Bright P15 Decorada",
+   "marcas": [],
+   "tamanho": "und",
+   "preco": 24.9
+  },
+  {
+   "pagina": 1,
+   "nome": "Flor Orquídea Phalaenopsis Cascata P15 Decorada",
+   "marcas": [],
+   "tamanho": "und",
+   "preco": 49.9
+  },
+  {
+   "pagina": 1,
+   "nome": "Orquídea Phalaenopsis P12",
+   "marcas": [],
+   "tamanho": "und",
+   "preco": 39.9
+  },
+  {
+   "pagina": 1,
+   "nome": "Flor Poinsetia P14 Vermelha Decorada",
+   "marcas": [],
+   "tamanho": "und",
+   "preco": 39.9
+  },
+  {
+   "pagina": 1,
+   "nome": "Flor Poinsetia P11 Decorada",
+   "marcas": [],
+   "tamanho": "und",
+   "preco": 18.5
+  },
+  {
+   "pagina": 1,
+   "nome": "Flor Roseira Mini P13 Decorada",
+   "marcas": [],
+   "tamanho": "und",
+   "preco": 29.9
+  },
+  {
+   "pagina": 1,
+   "nome": "Flor Azaleia P14 Decorada",
+   "marcas": [],
+   "tamanho": "und",
+   "preco": 24.9
+  },
+  {
+   "pagina": 1,
+   "nome": "Flor Kalanchoe P15 Decorada",
+   "marcas": [],
+   "tamanho": "und",
+   "preco": 24.9
+  },
+  {
+   "pagina": 1,
+   "nome": "Flor Kalanchoe P11 Variadas",
+   "marcas": [],
+   "tamanho": "und",
+   "preco": 6.9
+  }
+ ]
+}
